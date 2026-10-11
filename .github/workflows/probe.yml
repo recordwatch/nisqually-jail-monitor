@@ -29,29 +29,32 @@ jobs:
             sleep 1
           }
           getent hosts nit-pscapp.nisqually-nsn.gov > dns.txt 2>&1 || echo "DNS lookup failed" > dns.txt
+          rows() { grep -c 'BookingNumber=' "$1.html"; }  # one View link per result row
           get query "$BASE/Home/BookingSearchQuery"
-          # In-custody list (the default Status). Page until a short page so
-          # we learn the page size and total count.
+          # Every in-custody page until an empty one, to get the true count.
           Q='LastName=%25&FirstName=&BookingFrom=&BookingTo=&ReleaseFrom=&ReleaseTo=&Status=IN+CUSTODY&ValidSearch=&sort=BookingDate&sortdir=DESC'
-          for p in 1 2 3 4 5 6 7 8; do
+          for p in 1 2 3 4 5 6 7 8 9; do
             get "custody$p" "$BASE/Home/BookingSearchResult?$Q&page=$p"
-            rows=$(grep -o '<tr>' "custody$p.html" | wc -l)
-            echo "custody$p rows(tr)=$rows" >> status.txt
-            [ "$rows" -lt 40 ] && break
+            n=$(rows "custody$p"); echo "custody$p rows=$n" >> status.txt
+            [ "$n" -eq 0 ] && break
           done
-          # Releases since yesterday, via the Status dropdown.
-          FROM=$(TZ=America/Los_Angeles date -d yesterday +%m/%d/%Y)
-          R="LastName=%25&FirstName=&BookingFrom=&BookingTo=&ReleaseFrom=$(printf %s "$FROM" | sed 's#/#%2F#g')&ReleaseTo=&Status=OUT+OF+CUSTODY&ValidSearch=&sort=BookingDate&sortdir=DESC"
-          get released1 "$BASE/Home/BookingSearchResult?$R&page=1"
-          # Detail pages: two in custody, one released (by booking number,
-          # the way the Kitsap scraper builds them).
-          b1=$(grep -oE '<td>[0-9]{6,}</td>' custody1.html | sed -n 2p | grep -oE '[0-9]+')
-          b2=$(grep -oE '<td>[0-9]{6,}</td>' custody1.html | sed -n 5p | grep -oE '[0-9]+')
-          b3=$(grep -oE '<td>[0-9]{6,}</td>' released1.html | sed -n 1p | grep -oE '[0-9]+')
-          echo "detail booking numbers: $b1 $b2 $b3" >> status.txt
-          [ -n "$b1" ] && get detail1 "$BASE/Home/BookingSearchDetail?BookingNumber=$b1"
-          [ -n "$b2" ] && get detail2 "$BASE/Home/BookingSearchDetail?BookingNumber=$b2"
-          [ -n "$b3" ] && get detail_released "$BASE/Home/BookingSearchDetail?BookingNumber=$b3"
+          # Release-search variants: which (if any) lists released people?
+          Y=$(TZ=America/Los_Angeles date -d yesterday +%m/%d/%Y | sed 's#/#%2F#g')
+          Y1=$(TZ=America/Los_Angeles date -d yesterday +%-m/%-d/%Y | sed 's#/#%2F#g')
+          YI=$(TZ=America/Los_Angeles date -d yesterday +%Y-%m-%d)
+          B='LastName=%25&FirstName=&ValidSearch=&sort=BookingDate&sortdir=DESC&page=1'
+          get rel_nodate   "$BASE/Home/BookingSearchResult?$B&BookingFrom=&BookingTo=&ReleaseFrom=&ReleaseTo=&Status=OUT+OF+CUSTODY"
+          get rel_mmdd     "$BASE/Home/BookingSearchResult?$B&BookingFrom=&BookingTo=&ReleaseFrom=$Y&ReleaseTo=&Status=OUT+OF+CUSTODY"
+          get rel_md       "$BASE/Home/BookingSearchResult?$B&BookingFrom=&BookingTo=&ReleaseFrom=$Y1&ReleaseTo=&Status=OUT+OF+CUSTODY"
+          get rel_iso      "$BASE/Home/BookingSearchResult?$B&BookingFrom=&BookingTo=&ReleaseFrom=$YI&ReleaseTo=&Status=OUT+OF+CUSTODY"
+          get all_recent   "$BASE/Home/BookingSearchResult?$B&BookingFrom=$Y&BookingTo=&ReleaseFrom=&ReleaseTo=&Status=ALL"
+          for f in rel_nodate rel_mmdd rel_md rel_iso all_recent; do echo "$f rows=$(rows $f)" >> status.txt; done
+          # Detail pages for booking numbers just below the newest ones; some
+          # of these people are likely released already.
+          for b in 26007140 26007141 26007142 26007143 26007144 26007145 26007146 26007147 26007148; do
+            get "detail_$b" "$BASE/Home/BookingSearchDetail?BookingNumber=$b"
+            grep -oE '(IN CUSTODY|RELEASED|OUT OF CUSTODY)[^<]{0,30}' "detail_$b.html" | head -1 | sed "s/^/detail_$b status: /" >> status.txt
+          done
           cat dns.txt status.txt error.txt; ls -la
 
       - name: Save results to the probe branch
