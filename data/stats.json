@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T13:27:16",
+  "generatedAt": "2026-10-11T13:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 377,
-    "bookingsObserved": 113,
+    "bookingsTracked": 378,
+    "bookingsObserved": 114,
     "releasesObserved": 106,
-    "inCustody": 271,
-    "uniquePeople": 375
+    "inCustody": 272,
+    "uniquePeople": 376
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 11,
+      "booked": 12,
       "released": 5
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 211,
-      "pct": 33
+      "pct": 32.9
     },
     {
       "name": "THEFT III",
@@ -174,7 +174,7 @@
     {
       "name": "DUI",
       "count": 24,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -234,12 +234,12 @@
     {
       "name": "MALICIOUS MISCHIEF",
       "count": 8,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 8,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 199,
-      "pct": 52.9,
+      "pct": 52.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 61,
-      "pct": 16.2,
+      "count": 62,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 36,
-      "pct": 9.6,
+      "pct": 9.5,
       "label": "LACEY PD"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 254,
-      "pct": 67.4
+      "count": 255,
+      "pct": 67.5
     },
     {
       "name": "Black",
@@ -428,7 +428,7 @@
     {
       "name": "Asian",
       "count": 10,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "I",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 301,
-      "pct": 79.8
+      "count": 302,
+      "pct": 79.9
     },
     {
       "name": "Female",
       "count": 76,
-      "pct": 20.2
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 96
+        "count": 97
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 220.6
   },
   "bond": {
-    "withBond": 98,
+    "withBond": 99,
     "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 398301
+    "totalBond": 399301
   },
   "chargesPerBooking": 1.7
 }
