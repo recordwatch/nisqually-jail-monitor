@@ -17,6 +17,9 @@ jobs:
     steps:
       - name: Download custody list, releases and detail pages
         run: |
+          # Probe, not a build: a search that finds nothing is information,
+          # not a reason to stop. Keep going and save whatever we got.
+          set +e
           mkdir -p out && cd out
           UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0'
           BASE='http://nit-pscapp.nisqually-nsn.gov:81'
@@ -52,6 +55,7 @@ jobs:
           cat dns.txt status.txt error.txt; ls -la
 
       - name: Save results to the probe branch
+        if: always()
         run: |
           cd out
           git init -q -b probe
