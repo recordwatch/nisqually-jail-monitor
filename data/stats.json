@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T12:27:15",
+  "generatedAt": "2026-10-11T12:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 376,
-    "bookingsObserved": 112,
+    "bookingsTracked": 377,
+    "bookingsObserved": 113,
     "releasesObserved": 106,
-    "inCustody": 270,
-    "uniquePeople": 374
+    "inCustody": 271,
+    "uniquePeople": 375
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 10,
+      "booked": 11,
       "released": 5
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 211,
-      "pct": 33.1
+      "pct": 33
     },
     {
       "name": "THEFT III",
@@ -213,8 +213,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 10,
-      "pct": 1.6
+      "count": 11,
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 199,
-      "pct": 53.1,
+      "pct": 52.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 61,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 35,
-      "pct": 9.3,
+      "count": 36,
+      "pct": 9.6,
       "label": "LACEY PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 210,
-      "pct": 38.3,
+      "pct": 38.1,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 168,
-      "pct": 30.6,
+      "pct": 30.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 160,
-      "pct": 29.1,
+      "count": 162,
+      "pct": 29.4,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 253,
-      "pct": 67.3
+      "count": 254,
+      "pct": 67.4
     },
     {
       "name": "Black",
       "count": 74,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 300,
+      "count": 301,
       "pct": 79.8
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 64
+        "count": 65
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 220.5
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 98,
     "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 397301
+    "totalBond": 399301
   },
   "chargesPerBooking": 1.7
 }
