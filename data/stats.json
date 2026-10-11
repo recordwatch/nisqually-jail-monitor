@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T03:47:13",
+  "generatedAt": "2026-10-11T04:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 369,
-    "bookingsObserved": 105,
+    "bookingsTracked": 370,
+    "bookingsObserved": 106,
     "releasesObserved": 101,
-    "inCustody": 268,
-    "uniquePeople": 367
+    "inCustody": 269,
+    "uniquePeople": 368
   },
   "bookingsByDay": [
     {
@@ -164,20 +164,20 @@
     {
       "name": "DOC VIOLATION",
       "count": 211,
-      "pct": 33.7
+      "pct": 33.5
     },
     {
       "name": "THEFT III",
       "count": 50,
-      "pct": 8
-    },
-    {
-      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 21,
-      "pct": 3.3
+      "pct": 7.9
     },
     {
       "name": "DUI",
+      "count": 24,
+      "pct": 3.8
+    },
+    {
+      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 21,
       "pct": 3.3
     },
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 199,
-      "pct": 54.1,
+      "pct": 53.9,
       "label": "WA DOC"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 10,
-      "pct": 2.7,
+      "count": 11,
+      "pct": 3,
       "label": "LAKEWOOD PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 210,
-      "pct": 38.9,
+      "pct": 38.7,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 164,
-      "pct": 30.4,
+      "count": 167,
+      "pct": 30.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 157,
-      "pct": 29.1,
+      "pct": 28.9,
       "label": "Misdemeanor"
     },
     {
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 249,
-      "pct": 67.5
+      "pct": 67.3
     },
     {
       "name": "Black",
@@ -422,8 +422,8 @@
     },
     {
       "name": "Unknown",
-      "count": 10,
-      "pct": 2.7
+      "count": 11,
+      "pct": 3
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 294,
+      "count": 295,
       "pct": 79.7
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 93
+        "count": 94
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 220.2
   },
   "bond": {
-    "withBond": 93,
+    "withBond": 94,
     "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 386801
+    "totalBond": 395801
   },
   "chargesPerBooking": 1.7
 }
