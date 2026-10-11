@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T02:27:16",
+  "generatedAt": "2026-10-11T02:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 367,
-    "bookingsObserved": 103,
+    "bookingsTracked": 368,
+    "bookingsObserved": 104,
     "releasesObserved": 101,
-    "inCustody": 266,
-    "uniquePeople": 365
+    "inCustody": 267,
+    "uniquePeople": 366
   },
   "bookingsByDay": [
     {
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 211,
-      "pct": 33.8
+      "pct": 33.7
     },
     {
       "name": "THEFT III",
@@ -193,8 +193,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 16,
-      "pct": 2.6
+      "count": 17,
+      "pct": 2.7
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 199,
-      "pct": 54.4,
+      "pct": 54.2,
       "label": "WA DOC"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 9,
-      "pct": 2.5,
+      "count": 10,
+      "pct": 2.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "GM",
-      "count": 162,
-      "pct": 30.1,
+      "count": 163,
+      "pct": 30.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 157,
-      "pct": 29.2,
+      "pct": 29.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 247,
-      "pct": 67.3
+      "count": 248,
+      "pct": 67.4
     },
     {
       "name": "Black",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 294,
-      "pct": 80.1
+      "pct": 79.9
     },
     {
       "name": "Female",
-      "count": 73,
-      "pct": 19.9
+      "count": 74,
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 24
+        "count": 25
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 92,
-    "noBond": 174,
+    "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 385801
