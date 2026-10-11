@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T09:47:17",
+  "generatedAt": "2026-10-11T10:07:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 376,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 211,
-      "pct": 33.3
+      "pct": 33.2
     },
     {
       "name": "THEFT III",
@@ -184,7 +184,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 20,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -204,12 +204,12 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 13,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "THEFT",
       "count": 13,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 199,
-      "pct": 53.4,
+      "pct": 53.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 61,
-      "pct": 16.4,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 34,
-      "pct": 9.1,
+      "count": 35,
+      "pct": 9.4,
       "label": "LACEY PD"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "TACOMA PD",
       "count": 17,
-      "pct": 4.6,
+      "pct": 4.5,
       "label": "TACOMA PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "F",
       "count": 210,
-      "pct": 38.5,
+      "pct": 38.4,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 168,
-      "pct": 30.8,
+      "pct": 30.7,
       "label": "Gross Misdemeanor"
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "FC",
-      "count": 4,
-      "pct": 0.7,
+      "count": 5,
+      "pct": 0.9,
       "label": "FC"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 220.4
   },
   "bond": {
-    "withBond": 96,
-    "noBond": 175,
+    "withBond": 97,
+    "noBond": 174,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 391301
+    "totalBond": 395301
   },
   "chargesPerBooking": 1.7
 }
