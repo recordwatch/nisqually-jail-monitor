@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:07:13",
+  "generatedAt": "2026-10-11T05:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 372,
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI",
-      "count": 25,
-      "pct": 4
+      "count": 23,
+      "pct": 3.6
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -363,14 +363,14 @@
     },
     {
       "name": "GM",
-      "count": 168,
-      "pct": 30.8,
+      "count": 167,
+      "pct": 30.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 157,
-      "pct": 28.8,
+      "count": 158,
+      "pct": 29,
       "label": "Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 176,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 396801
+    "totalBond": 390801
   },
   "chargesPerBooking": 1.7
 }
