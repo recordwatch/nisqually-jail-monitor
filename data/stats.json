@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T17:27:14",
+  "generatedAt": "2026-10-11T17:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 381,
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 51,
-      "pct": 7.9
+      "count": 52,
+      "pct": 8
     },
     {
       "name": "DUI",
@@ -219,12 +219,12 @@
     {
       "name": "RESISTING ARREST",
       "count": 10,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 10,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "HARASSMENT",
@@ -358,13 +358,13 @@
     {
       "name": "F",
       "count": 210,
-      "pct": 37.9,
+      "pct": 37.8,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 170,
-      "pct": 30.7,
+      "count": 171,
+      "pct": 30.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 401801
+    "totalBond": 402301
   },
   "chargesPerBooking": 1.7
 }
