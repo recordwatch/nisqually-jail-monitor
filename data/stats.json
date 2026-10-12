@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:27:14",
+  "generatedAt": "2026-10-12T15:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 394,
@@ -271,14 +271,14 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 65,
-      "pct": 16.6,
+      "count": 64,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 40,
-      "pct": 10.2,
+      "count": 41,
+      "pct": 10.5,
       "label": "LACEY PD"
     },
     {
@@ -513,15 +513,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9.6,
-    "currentLongestDaysHeld": 221.6
+    "currentMedianDaysHeld": 9.7,
+    "currentLongestDaysHeld": 221.7
   },
   "bond": {
-    "withBond": 98,
-    "noBond": 163,
-    "medianBond": 1750,
+    "withBond": 99,
+    "noBond": 162,
+    "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 393051
+    "totalBond": 395051
   },
   "chargesPerBooking": 1.7
 }
