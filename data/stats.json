@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T04:07:16",
+  "generatedAt": "2026-10-12T04:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 388,
-    "bookingsObserved": 124,
+    "bookingsTracked": 389,
+    "bookingsObserved": 125,
     "releasesObserved": 111,
-    "inCustody": 277,
-    "uniquePeople": 386
+    "inCustody": 278,
+    "uniquePeople": 387
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 4,
+      "booked": 6,
       "released": 1
     }
   ],
@@ -217,12 +217,12 @@
       "pct": 2
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 10,
-      "pct": 1.5
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "count": 11,
+      "pct": 1.7
     },
     {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "name": "RESISTING ARREST",
       "count": 10,
       "pct": 1.5
     },
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 199,
-      "pct": 51.6,
+      "pct": 51.4,
       "label": "WA DOC"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 15,
-      "pct": 3.9,
+      "count": 16,
+      "pct": 4.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 210,
-      "pct": 37.1,
+      "pct": 37,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 177,
-      "pct": 31.3,
+      "pct": 31.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 168,
-      "pct": 29.7,
+      "count": 169,
+      "pct": 29.8,
       "label": "Misdemeanor"
     },
     {
@@ -408,17 +408,17 @@
     {
       "name": "White",
       "count": 261,
-      "pct": 67.4
+      "pct": 67.3
     },
     {
       "name": "Black",
-      "count": 76,
-      "pct": 19.6
+      "count": 77,
+      "pct": 19.8
     },
     {
       "name": "N",
       "count": 25,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 308,
+      "count": 309,
       "pct": 79.6
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 100
+        "count": 101
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 101,
-    "noBond": 176,
+    "noBond": 177,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 406551
