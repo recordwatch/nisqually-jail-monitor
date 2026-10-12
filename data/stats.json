@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T10:27:16",
+  "generatedAt": "2026-10-12T10:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 390,
-    "bookingsObserved": 126,
-    "releasesObserved": 129,
-    "inCustody": 261,
+    "bookingsTracked": 391,
+    "bookingsObserved": 127,
+    "releasesObserved": 131,
+    "inCustody": 260,
     "uniquePeople": 388
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-12",
       "booked": 6,
-      "released": 19
+      "released": 21
     }
   ],
   "topCharges": [
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 262,
+      "count": 263,
       "pct": 67.4
     },
     {
       "name": "Black",
       "count": 77,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 310,
+      "count": 311,
       "pct": 79.7
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 28
+        "count": 29
       },
       {
         "label": "25–34",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 28,
-    "officialDate": 101,
-    "releaseListOnly": 101
+    "observed": 29,
+    "officialDate": 102,
+    "releaseListOnly": 102
   },
   "stay": {
-    "releasedCount": 28,
-    "medianDays": 14.2,
-    "meanDays": 14.4,
+    "releasedCount": 29,
+    "medianDays": 14,
+    "meanDays": 14.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 6
+        "count": 7
       },
       {
         "label": "1–4 weeks",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 221.4
   },
   "bond": {
-    "withBond": 99,
+    "withBond": 98,
     "noBond": 162,
-    "medianBond": 1500,
+    "medianBond": 1750,
     "maxBond": 50000,
-    "totalBond": 394551
+    "totalBond": 393551
   },
   "chargesPerBooking": 1.7
 }
