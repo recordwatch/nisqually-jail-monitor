@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:47:21",
+  "generatedAt": "2026-10-13T12:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 416,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 11,
+      "booked": 12,
       "released": 9
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 219,
-      "pct": 31.6
+      "pct": 31.5
     },
     {
       "name": "THEFT III",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 207,
-      "pct": 50.4,
+      "pct": 50.2,
       "label": "WA DOC"
     },
     {
@@ -282,16 +282,16 @@
       "label": "LACEY PD"
     },
     {
+      "name": "LAKEWOOD PD",
+      "count": 20,
+      "pct": 4.9,
+      "label": "LAKEWOOD PD"
+    },
+    {
       "name": "TACOMA PD",
       "count": 19,
       "pct": 4.6,
       "label": "TACOMA PD"
-    },
-    {
-      "name": "LAKEWOOD PD",
-      "count": 19,
-      "pct": 4.6,
-      "label": "LAKEWOOD PD"
     },
     {
       "name": "FEDERAL WAY",
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 218,
-      "pct": 36.5,
+      "pct": 36.4,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 194,
-      "pct": 32.4,
+      "count": 195,
+      "pct": 32.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 175,
-      "pct": 29.3,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -513,7 +513,7 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 10.5,
+    "currentMedianDaysHeld": 10,
     "currentLongestDaysHeld": 222.5
   },
   "bond": {
