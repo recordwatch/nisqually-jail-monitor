@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T13:27:15",
+  "generatedAt": "2026-10-13T13:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 423,
-    "bookingsObserved": 159,
-    "releasesObserved": 162,
-    "inCustody": 261,
-    "uniquePeople": 420
+    "bookingsTracked": 425,
+    "bookingsObserved": 161,
+    "releasesObserved": 163,
+    "inCustody": 262,
+    "uniquePeople": 421
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 19,
-      "released": 9
+      "booked": 20,
+      "released": 10
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 223,
-      "pct": 31.6
+      "pct": 31.4
     },
     {
       "name": "THEFT III",
       "count": 66,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -194,7 +194,7 @@
     {
       "name": "ASSAULT-4",
       "count": 18,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -219,12 +219,17 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 11,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "RESISTING ARREST",
       "count": 10,
       "pct": 1.4
+    },
+    {
+      "name": "ASSAULT 4",
+      "count": 9,
+      "pct": 1.3
     },
     {
       "name": "MALICIOUS MISCHIEF",
@@ -247,11 +252,6 @@
       "pct": 1
     },
     {
-      "name": "ASSAULT 4",
-      "count": 7,
-      "pct": 1
-    },
-    {
       "name": "SIMPLE ASSAULT",
       "count": 7,
       "pct": 1
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 211,
-      "pct": 50.2,
+      "pct": 50.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 68,
-      "pct": 16.2,
+      "count": 69,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 222,
-      "pct": 36.5,
+      "pct": 36.3,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 198,
-      "pct": 32.6,
+      "count": 200,
+      "pct": 32.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 177,
-      "pct": 29.1,
+      "count": 179,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 286,
-      "pct": 68.1
+      "count": 288,
+      "pct": 68.2
     },
     {
       "name": "Black",
       "count": 81,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "N",
@@ -423,7 +423,7 @@
     {
       "name": "Asian",
       "count": 12,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 339,
-      "pct": 80.3
+      "count": 340,
+      "pct": 80.2
     },
     {
       "name": "Female",
-      "count": 83,
-      "pct": 19.7
+      "count": 84,
+      "pct": 19.8
     }
   ],
   "ages": {
@@ -466,11 +466,11 @@
       },
       {
         "label": "35–44",
-        "count": 156
+        "count": 157
       },
       {
         "label": "45–54",
-        "count": 70
+        "count": 71
       },
       {
         "label": "55+",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 60,
+    "observed": 61,
     "officialDate": 102,
     "releaseListOnly": 102
   },
   "stay": {
-    "releasedCount": 59,
-    "medianDays": 3.9,
-    "meanDays": 10.4,
+    "releasedCount": 60,
+    "medianDays": 4.2,
+    "meanDays": 10.3,
     "buckets": [
       {
         "label": "< 1 day",
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 11
+        "count": 12
       },
       {
         "label": "1–4 weeks",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 222.6
   },
   "bond": {
-    "withBond": 101,
-    "noBond": 160,
+    "withBond": 100,
+    "noBond": 162,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 375751
+    "totalBond": 373251
   },
   "chargesPerBooking": 1.7
 }
