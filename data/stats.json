@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T10:27:16",
+  "generatedAt": "2026-10-13T10:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 411,
-    "bookingsObserved": 147,
+    "bookingsTracked": 413,
+    "bookingsObserved": 149,
     "releasesObserved": 161,
-    "inCustody": 250,
-    "uniquePeople": 408
+    "inCustody": 252,
+    "uniquePeople": 410
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 7,
+      "booked": 9,
       "released": 8
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 217,
-      "pct": 31.4
+      "count": 218,
+      "pct": 31.5
     },
     {
       "name": "THEFT III",
       "count": 64,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 205,
-      "pct": 50.2,
+      "count": 206,
+      "pct": 50.4,
       "label": "WA DOC"
     },
     {
@@ -284,19 +284,19 @@
     {
       "name": "TACOMA PD",
       "count": 19,
-      "pct": 4.7,
+      "pct": 4.6,
       "label": "TACOMA PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 19,
-      "pct": 4.7,
+      "pct": 4.6,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "FEDERAL WAY",
       "count": 19,
-      "pct": 4.7,
+      "pct": 4.6,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 216,
-      "pct": 36.3,
+      "count": 217,
+      "pct": 36.4,
       "label": "Felony"
     },
     {
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 278,
-      "pct": 68
+      "count": 280,
+      "pct": 68.1
     },
     {
       "name": "Black",
       "count": 78,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "N",
       "count": 26,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 328,
-      "pct": 80
+      "count": 329,
+      "pct": 79.9
     },
     {
       "name": "Female",
-      "count": 82,
-      "pct": 20
+      "count": 83,
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -458,11 +458,11 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 30
+        "count": 31
       },
       {
         "label": "25–34",
-        "count": 107
+        "count": 108
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 153,
+    "noBond": 155,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 372251
