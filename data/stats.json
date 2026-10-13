@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T20:07:16",
+  "generatedAt": "2026-10-12T20:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 398,
-    "bookingsObserved": 134,
+    "bookingsTracked": 399,
+    "bookingsObserved": 135,
     "releasesObserved": 136,
-    "inCustody": 262,
-    "uniquePeople": 395
+    "inCustody": 263,
+    "uniquePeople": 396
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 14,
+      "booked": 15,
       "released": 26
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 215,
-      "pct": 32.2
+      "pct": 32.1
     },
     {
       "name": "THEFT III",
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 18,
-      "pct": 2.7
+      "count": 19,
+      "pct": 2.8
     },
     {
       "name": "ASSAULT-4",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 203,
-      "pct": 51.5,
+      "pct": 51.3,
       "label": "WA DOC"
     },
     {
@@ -282,16 +282,16 @@
       "label": "LACEY PD"
     },
     {
-      "name": "FEDERAL WAY",
+      "name": "LAKEWOOD PD",
       "count": 18,
-      "pct": 4.6,
-      "label": "FEDERAL WAY"
+      "pct": 4.5,
+      "label": "LAKEWOOD PD"
     },
     {
-      "name": "LAKEWOOD PD",
-      "count": 17,
-      "pct": 4.3,
-      "label": "LAKEWOOD PD"
+      "name": "FEDERAL WAY",
+      "count": 18,
+      "pct": 4.5,
+      "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
@@ -324,6 +324,12 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
+      "name": "SQUAXIN ISLAND PD",
+      "count": 2,
+      "pct": 0.5,
+      "label": "SQUAXIN ISLAND PD"
+    },
+    {
       "name": "NISQUALLY PD",
       "count": 2,
       "pct": 0.5,
@@ -334,12 +340,6 @@
       "count": 2,
       "pct": 0.5,
       "label": "SWINOMISH"
-    },
-    {
-      "name": "SQUAXIN ISLAND PD",
-      "count": 1,
-      "pct": 0.3,
-      "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "OLYMPIA",
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 214,
-      "pct": 37.2,
+      "pct": 37.1,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 179,
-      "pct": 31.1,
+      "count": 180,
+      "pct": 31.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 172,
-      "pct": 29.9,
+      "pct": 29.8,
       "label": "Misdemeanor"
     },
     {
@@ -408,17 +408,17 @@
     {
       "name": "White",
       "count": 270,
-      "pct": 68
+      "pct": 67.8
     },
     {
       "name": "Black",
       "count": 77,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "N",
-      "count": 25,
-      "pct": 6.3
+      "count": 26,
+      "pct": 6.5
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 317,
-      "pct": 79.8
+      "count": 318,
+      "pct": 79.9
     },
     {
       "name": "Female",
       "count": 80,
-      "pct": 20.2
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 103
+        "count": 104
       },
       {
         "label": "35–44",
@@ -513,15 +513,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9.8,
-    "currentLongestDaysHeld": 221.8
+    "currentMedianDaysHeld": 9.9,
+    "currentLongestDaysHeld": 221.9
   },
   "bond": {
-    "withBond": 101,
+    "withBond": 102,
     "noBond": 161,
-    "medianBond": 2000,
+    "medianBond": 1750,
     "maxBond": 50000,
-    "totalBond": 408801
+    "totalBond": 409051
   },
   "chargesPerBooking": 1.7
 }
