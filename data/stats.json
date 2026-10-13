@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T13:07:16",
+  "generatedAt": "2026-10-13T13:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 421,
-    "bookingsObserved": 157,
+    "bookingsTracked": 423,
+    "bookingsObserved": 159,
     "releasesObserved": 162,
-    "inCustody": 259,
-    "uniquePeople": 418
+    "inCustody": 261,
+    "uniquePeople": 420
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 17,
+      "booked": 19,
       "released": 9
     }
   ],
@@ -164,22 +164,22 @@
     {
       "name": "DOC VIOLATION",
       "count": 223,
-      "pct": 31.8
+      "pct": 31.6
     },
     {
       "name": "THEFT III",
-      "count": 65,
-      "pct": 9.3
+      "count": 66,
+      "pct": 9.4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 25,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "DUI",
       "count": 25,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "ASSAULT IV -DV",
@@ -209,12 +209,12 @@
     {
       "name": "DWLS/DWLR III",
       "count": 13,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 13,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 211,
-      "pct": 50.5,
+      "pct": 50.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 67,
-      "pct": 16,
+      "count": 68,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 45,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "LACEY PD"
     },
     {
@@ -324,6 +324,12 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
+      "name": "THURSTON COUNTY SHERIFF",
+      "count": 2,
+      "pct": 0.5,
+      "label": "THURSTON COUNTY SHERIFF"
+    },
+    {
       "name": "SQUAXIN ISLAND PD",
       "count": 2,
       "pct": 0.5,
@@ -342,12 +348,6 @@
       "label": "SWINOMISH"
     },
     {
-      "name": "THURSTON COUNTY SHERIFF",
-      "count": 1,
-      "pct": 0.2,
-      "label": "THURSTON COUNTY SHERIFF"
-    },
-    {
       "name": "OLYMPIA",
       "count": 1,
       "pct": 0.2,
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 222,
-      "pct": 36.6,
+      "pct": 36.5,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 197,
-      "pct": 32.5,
+      "count": 198,
+      "pct": 32.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 176,
-      "pct": 29,
+      "count": 177,
+      "pct": 29.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 285,
-      "pct": 68
+      "count": 286,
+      "pct": 68.1
     },
     {
       "name": "Black",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 337,
-      "pct": 80.2
+      "count": 339,
+      "pct": 80.3
     },
     {
       "name": "Female",
       "count": 83,
-      "pct": 19.8
+      "pct": 19.7
     }
   ],
   "ages": {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 111
+        "count": 112
       },
       {
         "label": "35–44",
-        "count": 155
+        "count": 156
       },
       {
         "label": "45–54",
@@ -513,15 +513,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9.5,
-    "currentLongestDaysHeld": 222.5
+    "currentMedianDaysHeld": 9.6,
+    "currentLongestDaysHeld": 222.6
   },
   "bond": {
-    "withBond": 99,
+    "withBond": 101,
     "noBond": 160,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 373251
+    "totalBond": 375751
   },
   "chargesPerBooking": 1.7
 }
