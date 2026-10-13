@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T03:47:14",
+  "generatedAt": "2026-10-13T04:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 410,
     "bookingsObserved": 146,
-    "releasesObserved": 154,
-    "inCustody": 256,
+    "releasesObserved": 155,
+    "inCustody": 255,
     "uniquePeople": 407
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-13",
       "booked": 6,
-      "released": 1
+      "released": 2
     }
   ],
   "topCharges": [
@@ -479,7 +479,7 @@
     ]
   },
   "releaseSources": {
-    "observed": 52,
+    "observed": 53,
     "officialDate": 102,
     "releaseListOnly": 102
   },
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 98,
-    "noBond": 158,
+    "noBond": 157,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 386301
