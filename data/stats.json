@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:27:17",
+  "generatedAt": "2026-10-13T14:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 427,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 226,
-      "pct": 31.7
+      "count": 227,
+      "pct": 31.8
     },
     {
       "name": "THEFT III",
       "count": 66,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 214,
-      "pct": 50.5,
+      "count": 215,
+      "pct": 50.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 69,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 225,
-      "pct": 36.6,
+      "count": 226,
+      "pct": 36.7,
       "label": "Felony"
     },
     {
