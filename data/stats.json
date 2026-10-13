@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T10:47:17",
+  "generatedAt": "2026-10-13T11:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 413,
-    "bookingsObserved": 149,
-    "releasesObserved": 161,
+    "bookingsTracked": 414,
+    "bookingsObserved": 150,
+    "releasesObserved": 162,
     "inCustody": 252,
-    "uniquePeople": 410
+    "uniquePeople": 411
   },
   "bookingsByDay": [
     {
@@ -157,14 +157,14 @@
     {
       "date": "2026-10-13",
       "booked": 9,
-      "released": 8
+      "released": 9
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 218,
-      "pct": 31.5
+      "count": 219,
+      "pct": 31.6
     },
     {
       "name": "THEFT III",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 206,
-      "pct": 50.4,
+      "count": 207,
+      "pct": 50.5,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 67,
-      "pct": 16.4,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "F",
-      "count": 217,
-      "pct": 36.4,
+      "count": 218,
+      "pct": 36.5,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 193,
-      "pct": 32.4,
+      "pct": 32.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 175,
-      "pct": 29.4,
+      "pct": 29.3,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 280,
-      "pct": 68.1
+      "count": 281,
+      "pct": 68.2
     },
     {
       "name": "Black",
       "count": 78,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 329,
+      "count": 330,
       "pct": 79.9
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 151
+        "count": 152
       },
       {
         "label": "45–54",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 59,
+    "observed": 60,
     "officialDate": 102,
     "releaseListOnly": 102
   },
   "stay": {
-    "releasedCount": 58,
+    "releasedCount": 59,
     "medianDays": 3.9,
-    "meanDays": 10.3,
+    "meanDays": 10.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 24
+        "count": 25
       },
       {
         "label": "1–3 months",
@@ -513,8 +513,8 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 10.4,
-    "currentLongestDaysHeld": 222.4
+    "currentMedianDaysHeld": 10.5,
+    "currentLongestDaysHeld": 222.5
   },
   "bond": {
     "withBond": 97,
