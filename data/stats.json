@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T02:07:18",
+  "generatedAt": "2026-10-13T02:27:22",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 406,
-    "bookingsObserved": 142,
+    "bookingsTracked": 408,
+    "bookingsObserved": 144,
     "releasesObserved": 153,
-    "inCustody": 253,
-    "uniquePeople": 403
+    "inCustody": 255,
+    "uniquePeople": 405
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -164,17 +164,17 @@
     {
       "name": "DOC VIOLATION",
       "count": 217,
-      "pct": 31.8
+      "pct": 31.7
     },
     {
       "name": "THEFT III",
-      "count": 61,
-      "pct": 8.9
+      "count": 63,
+      "pct": 9.2
     },
     {
       "name": "DUI",
       "count": 25,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 205,
-      "pct": 50.7,
+      "pct": 50.6,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 42,
-      "pct": 10.4,
+      "count": 43,
+      "pct": 10.6,
       "label": "LACEY PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 216,
-      "pct": 36.7,
+      "pct": 36.5,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 189,
-      "pct": 32.1,
+      "count": 191,
+      "pct": 32.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 173,
-      "pct": 29.4,
+      "pct": 29.3,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 276,
-      "pct": 68.1
+      "pct": 67.8
     },
     {
       "name": "Black",
       "count": 78,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "N",
@@ -422,8 +422,8 @@
     },
     {
       "name": "Asian",
-      "count": 11,
-      "pct": 2.7
+      "count": 12,
+      "pct": 2.9
     },
     {
       "name": "Unknown",
@@ -432,8 +432,8 @@
     },
     {
       "name": "I",
-      "count": 2,
-      "pct": 0.5
+      "count": 3,
+      "pct": 0.7
     },
     {
       "name": "P",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 323,
-      "pct": 79.8
+      "count": 325,
+      "pct": 79.9
     },
     {
       "name": "Female",
       "count": 82,
-      "pct": 20.2
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 106
+        "count": 107
       },
       {
         "label": "35–44",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 67
+        "count": 68
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 222.1
   },
   "bond": {
-    "withBond": 95,
-    "noBond": 158,
+    "withBond": 96,
+    "noBond": 159,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 378301
+    "totalBond": 383301
   },
   "chargesPerBooking": 1.7
 }
