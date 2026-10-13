@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T18:06:44",
+  "generatedAt": "2026-10-12T18:27:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 395,
-    "bookingsObserved": 131,
+    "bookingsTracked": 396,
+    "bookingsObserved": 132,
     "releasesObserved": 134,
-    "inCustody": 261,
-    "uniquePeople": 392
+    "inCustody": 262,
+    "uniquePeople": 393
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 11,
+      "booked": 12,
       "released": 24
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 22,
-      "pct": 3.3
+      "count": 23,
+      "pct": 3.4
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 203,
-      "pct": 51.7,
+      "pct": 51.5,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 64,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 10,
-      "pct": 2.5,
+      "count": 11,
+      "pct": 2.8,
       "label": "TUMWATER PD"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 267,
+      "count": 268,
       "pct": 67.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 314,
+      "count": 315,
       "pct": 79.7
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 143
+        "count": 144
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 221.8
   },
   "bond": {
-    "withBond": 100,
+    "withBond": 101,
     "noBond": 161,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 407801
+    "totalBond": 408801
   },
   "chargesPerBooking": 1.7
 }
