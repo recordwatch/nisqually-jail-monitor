@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:27:18",
+  "generatedAt": "2026-10-13T01:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 406,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 217,
-      "pct": 31.9
+      "pct": 31.8
     },
     {
       "name": "THEFT III",
-      "count": 60,
-      "pct": 8.8
+      "count": 61,
+      "pct": 8.9
     },
     {
       "name": "DUI",
@@ -178,8 +178,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 23,
-      "pct": 3.4
+      "count": 24,
+      "pct": 3.5
     },
     {
       "name": "ASSAULT IV -DV",
@@ -197,14 +197,14 @@
       "pct": 2.6
     },
     {
-      "name": "THEFT",
-      "count": 14,
-      "pct": 2.1
+      "name": "CRIMINAL TRESPASS-2",
+      "count": 15,
+      "pct": 2.2
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
+      "name": "THEFT",
       "count": 14,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "DWLS/DWLR III",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 205,
-      "pct": 50.9,
+      "pct": 50.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 64,
-      "pct": 15.9,
+      "pct": 15.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -318,16 +318,16 @@
       "label": "DOC"
     },
     {
+      "name": "NISQUALLY PUBLIC SAFETY COMPLEX",
+      "count": 3,
+      "pct": 0.7,
+      "label": "NISQUALLY PUBLIC SAFETY COMPLEX"
+    },
+    {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
       "pct": 0.7,
       "label": "NEZ PERCE TRIBE"
-    },
-    {
-      "name": "NISQUALLY PUBLIC SAFETY COMPLEX",
-      "count": 2,
-      "pct": 0.5,
-      "label": "NISQUALLY PUBLIC SAFETY COMPLEX"
     },
     {
       "name": "SQUAXIN ISLAND PD",
@@ -358,25 +358,25 @@
     {
       "name": "F",
       "count": 216,
-      "pct": 36.8,
+      "pct": 36.7,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 188,
-      "pct": 32,
+      "count": 189,
+      "pct": 32.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 172,
-      "pct": 29.3,
+      "count": 173,
+      "pct": 29.4,
       "label": "Misdemeanor"
     },
     {
       "name": "FC",
       "count": 5,
-      "pct": 0.9,
+      "pct": 0.8,
       "label": "FC"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 222.1
   },
   "bond": {
-    "withBond": 94,
-    "noBond": 159,
+    "withBond": 95,
+    "noBond": 158,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 377551
+    "totalBond": 378301
   },
   "chargesPerBooking": 1.7
 }
