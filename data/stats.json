@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T11:07:15",
+  "generatedAt": "2026-10-13T11:27:22",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 414,
-    "bookingsObserved": 150,
+    "bookingsTracked": 415,
+    "bookingsObserved": 151,
     "releasesObserved": 162,
-    "inCustody": 252,
-    "uniquePeople": 411
+    "inCustody": 253,
+    "uniquePeople": 412
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 9,
+      "booked": 10,
       "released": 9
     }
   ],
@@ -199,7 +199,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 17,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "THEFT",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 207,
-      "pct": 50.5,
+      "pct": 50.4,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 43,
-      "pct": 10.5,
+      "count": 44,
+      "pct": 10.7,
       "label": "LACEY PD"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "GM",
-      "count": 193,
-      "pct": 32.3,
+      "count": 194,
+      "pct": 32.4,
       "label": "Gross Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 281,
-      "pct": 68.2
+      "pct": 68
     },
     {
       "name": "Black",
-      "count": 78,
-      "pct": 18.9
+      "count": 79,
+      "pct": 19.1
     },
     {
       "name": "N",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 330,
-      "pct": 79.9
+      "count": 331,
+      "pct": 80
     },
     {
       "name": "Female",
       "count": 83,
-      "pct": 20.1
+      "pct": 20
     }
   ],
   "ages": {
@@ -458,15 +458,15 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 31
+        "count": 30
       },
       {
         "label": "25–34",
-        "count": 108
+        "count": 109
       },
       {
         "label": "35–44",
-        "count": 152
+        "count": 153
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 155,
+    "noBond": 156,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 372251
