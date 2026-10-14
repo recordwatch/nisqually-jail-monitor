@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T03:26:35",
+  "generatedAt": "2026-10-14T03:47:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 454,
-    "bookingsObserved": 190,
+    "bookingsTracked": 455,
+    "bookingsObserved": 191,
     "releasesObserved": 183,
-    "inCustody": 271,
-    "uniquePeople": 447
+    "inCustody": 272,
+    "uniquePeople": 448
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -189,7 +189,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 24,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -200,6 +200,11 @@
       "name": "CRIMINAL TRESPASS-2",
       "count": 17,
       "pct": 2.2
+    },
+    {
+      "name": "DWLS/DWLR III",
+      "count": 14,
+      "pct": 1.8
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -213,11 +218,6 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 13,
-      "pct": 1.7
-    },
-    {
-      "name": "DWLS/DWLR III",
       "count": 13,
       "pct": 1.7
     },
@@ -249,12 +249,12 @@
     {
       "name": "MALICIOUS MISCHIEF - 3",
       "count": 8,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "DISORDERLY CONDUCT",
       "count": 8,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "SIMPLE ASSAULT",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 227,
-      "pct": 50.4,
+      "pct": 50.3,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 46,
-      "pct": 10.2,
+      "count": 47,
+      "pct": 10.4,
       "label": "LACEY PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 191,
-      "pct": 29.2,
+      "count": 192,
+      "pct": 29.4,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 307,
+      "count": 308,
       "pct": 68.4
     },
     {
@@ -444,17 +444,17 @@
   "sex": [
     {
       "name": "Male",
-      "count": 360,
-      "pct": 79.6
+      "count": 361,
+      "pct": 79.7
     },
     {
       "name": "Female",
       "count": 92,
-      "pct": 20.4
+      "pct": 20.3
     }
   ],
   "ages": {
-    "median": 38.5,
+    "median": 39,
     "groups": [
       {
         "label": "18–24",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 74
+        "count": 75
       },
       {
         "label": "55+",
@@ -513,15 +513,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9.1,
-    "currentLongestDaysHeld": 223.1
+    "currentMedianDaysHeld": 9.2,
+    "currentLongestDaysHeld": 223.2
   },
   "bond": {
-    "withBond": 96,
+    "withBond": 97,
     "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 377251
+    "totalBond": 378251
   },
   "chargesPerBooking": 1.7
 }
