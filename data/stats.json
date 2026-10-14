@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T00:47:16",
+  "generatedAt": "2026-10-14T01:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 451,
-    "bookingsObserved": 187,
+    "bookingsTracked": 452,
+    "bookingsObserved": 188,
     "releasesObserved": 183,
-    "inCustody": 268,
-    "uniquePeople": 444
+    "inCustody": 269,
+    "uniquePeople": 445
   },
   "bookingsByDay": [
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 227,
-      "pct": 50.8,
+      "pct": 50.7,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 45,
-      "pct": 10.1,
+      "count": 46,
+      "pct": 10.3,
       "label": "LACEY PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 238,
-      "pct": 36.7,
+      "pct": 36.6,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 210,
-      "pct": 32.4,
+      "count": 211,
+      "pct": 32.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 190,
-      "pct": 29.3,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 305,
-      "pct": 68.4
+      "count": 306,
+      "pct": 68.5
     },
     {
       "name": "Black",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 357,
-      "pct": 79.5
+      "count": 358,
+      "pct": 79.6
     },
     {
       "name": "Female",
       "count": 92,
-      "pct": 20.5
+      "pct": 20.4
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 167
+        "count": 168
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 223
   },
   "bond": {
-    "withBond": 95,
+    "withBond": 96,
     "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 375751
+    "totalBond": 377251
   },
   "chargesPerBooking": 1.7
 }
