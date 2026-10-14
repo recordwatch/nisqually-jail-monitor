@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:27:16",
+  "generatedAt": "2026-10-14T07:47:20",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 456,
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 227,
-      "pct": 50.3,
+      "pct": 50.2,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 47,
-      "pct": 10.4,
+      "count": 48,
+      "pct": 10.6,
       "label": "LACEY PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "F",
       "count": 238,
-      "pct": 36.2,
+      "pct": 36.1,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 216,
-      "pct": 32.8,
+      "count": 217,
+      "pct": 32.9,
       "label": "Gross Misdemeanor"
     },
     {
