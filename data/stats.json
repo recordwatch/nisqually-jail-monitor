@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T10:07:18",
+  "generatedAt": "2026-10-14T10:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 456,
-    "bookingsObserved": 192,
+    "bookingsTracked": 457,
+    "bookingsObserved": 193,
     "releasesObserved": 188,
-    "inCustody": 268,
-    "uniquePeople": 449
+    "inCustody": 269,
+    "uniquePeople": 450
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 7,
+      "booked": 8,
       "released": 5
     }
   ],
@@ -182,14 +182,14 @@
       "pct": 3.4
     },
     {
-      "name": "CRIMINAL TRESPASS",
+      "name": "ASSAULT IV -DV",
       "count": 25,
       "pct": 3.3
     },
     {
-      "name": "ASSAULT IV -DV",
-      "count": 24,
-      "pct": 3.1
+      "name": "CRIMINAL TRESPASS",
+      "count": 25,
+      "pct": 3.3
     },
     {
       "name": "ASSAULT-4",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 227,
-      "pct": 50.2,
+      "pct": 50.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 74,
-      "pct": 16.4,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "GM",
-      "count": 217,
-      "pct": 32.9,
+      "count": 218,
+      "pct": 33,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 193,
-      "pct": 29.3,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 308,
-      "pct": 68.3
+      "pct": 68.1
     },
     {
       "name": "Black",
-      "count": 85,
-      "pct": 18.8
+      "count": 86,
+      "pct": 19
     },
     {
       "name": "N",
@@ -445,16 +445,16 @@
     {
       "name": "Male",
       "count": 362,
-      "pct": 79.7
+      "pct": 79.6
     },
     {
       "name": "Female",
-      "count": 92,
-      "pct": 20.3
+      "count": 93,
+      "pct": 20.4
     }
   ],
   "ages": {
-    "median": 38.5,
+    "median": 38,
     "groups": [
       {
         "label": "18–24",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 167
+        "count": 168
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 171,
+    "noBond": 172,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 382251
