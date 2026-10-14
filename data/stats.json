@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T01:07:18",
+  "generatedAt": "2026-10-14T01:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 452,
-    "bookingsObserved": 188,
+    "bookingsTracked": 453,
+    "bookingsObserved": 189,
     "releasesObserved": 183,
-    "inCustody": 269,
-    "uniquePeople": 445
+    "inCustody": 270,
+    "uniquePeople": 446
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 1,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -164,20 +164,20 @@
     {
       "name": "DOC VIOLATION",
       "count": 240,
-      "pct": 31.7
+      "pct": 31.6
     },
     {
       "name": "THEFT III",
       "count": 68,
-      "pct": 9
-    },
-    {
-      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 26,
-      "pct": 3.4
+      "pct": 8.9
     },
     {
       "name": "DUI",
+      "count": 27,
+      "pct": 3.6
+    },
+    {
+      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 26,
       "pct": 3.4
     },
@@ -224,12 +224,17 @@
     {
       "name": "HARASSMENT",
       "count": 11,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "RESISTING ARREST",
       "count": 11,
-      "pct": 1.5
+      "pct": 1.4
+    },
+    {
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 9,
+      "pct": 1.2
     },
     {
       "name": "ASSAULT 4",
@@ -252,11 +257,6 @@
       "pct": 1.1
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
-      "count": 8,
-      "pct": 1.1
-    },
-    {
       "name": "SIMPLE ASSAULT",
       "count": 7,
       "pct": 0.9
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 227,
-      "pct": 50.7,
+      "pct": 50.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 72,
-      "pct": 16.1,
+      "count": 73,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 46,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "LACEY PD"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 11,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "TUMWATER PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 238,
-      "pct": 36.6,
+      "pct": 36.5,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 211,
+      "count": 212,
       "pct": 32.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 190,
-      "pct": 29.2,
+      "count": 191,
+      "pct": 29.3,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 306,
+      "count": 307,
       "pct": 68.5
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 358,
+      "count": 359,
       "pct": 79.6
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 123
+        "count": 124
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9,
-    "currentLongestDaysHeld": 223
+    "currentMedianDaysHeld": 9.1,
+    "currentLongestDaysHeld": 223.1
   },
   "bond": {
     "withBond": 96,
-    "noBond": 173,
+    "noBond": 174,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 377251
