@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T19:07:19",
+  "generatedAt": "2026-10-13T19:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 444,
-    "bookingsObserved": 180,
+    "bookingsTracked": 445,
+    "bookingsObserved": 181,
     "releasesObserved": 166,
-    "inCustody": 278,
-    "uniquePeople": 437
+    "inCustody": 279,
+    "uniquePeople": 438
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 35,
+      "booked": 37,
       "released": 13
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 238,
-      "pct": 32.4
+      "pct": 32.1
     },
     {
       "name": "THEFT III",
       "count": 66,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "DUI",
@@ -182,14 +182,14 @@
       "pct": 3.4
     },
     {
-      "name": "ASSAULT IV -DV",
-      "count": 22,
-      "pct": 3
+      "name": "CRIMINAL TRESPASS",
+      "count": 24,
+      "pct": 3.2
     },
     {
-      "name": "CRIMINAL TRESPASS",
-      "count": 22,
-      "pct": 3
+      "name": "ASSAULT IV -DV",
+      "count": 23,
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -227,6 +227,11 @@
       "pct": 1.5
     },
     {
+      "name": "HARASSMENT",
+      "count": 10,
+      "pct": 1.3
+    },
+    {
       "name": "ASSAULT 4",
       "count": 9,
       "pct": 1.2
@@ -237,9 +242,9 @@
       "pct": 1.2
     },
     {
-      "name": "HARASSMENT",
-      "count": 9,
-      "pct": 1.2
+      "name": "MALICIOUS MISCHIEF - 3",
+      "count": 8,
+      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -254,31 +259,26 @@
     {
       "name": "SIMPLE ASSAULT",
       "count": 7,
-      "pct": 1
-    },
-    {
-      "name": "MALICIOUS MISCHIEF - 3",
-      "count": 7,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
       "count": 226,
-      "pct": 51.5,
+      "pct": 51.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 69,
-      "pct": 15.7,
+      "count": 71,
+      "pct": 16.1,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 45,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "LACEY PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 236,
-      "pct": 37.3,
+      "pct": 37,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 203,
-      "pct": 32.1,
+      "count": 204,
+      "pct": 32,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 183,
-      "pct": 28.9,
+      "count": 186,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -408,17 +408,17 @@
     {
       "name": "White",
       "count": 301,
-      "pct": 68.4
+      "pct": 68.3
     },
     {
       "name": "Black",
       "count": 84,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "N",
-      "count": 27,
-      "pct": 6.1
+      "count": 28,
+      "pct": 6.3
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 352,
+      "count": 353,
       "pct": 79.5
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 165
+        "count": 166
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 222.8
   },
   "bond": {
-    "withBond": 102,
-    "noBond": 176,
+    "withBond": 104,
+    "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 379251
+    "totalBond": 396251
   },
   "chargesPerBooking": 1.7
 }
