@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T17:28:38",
+  "generatedAt": "2026-10-13T17:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 435,
-    "bookingsObserved": 171,
+    "bookingsTracked": 436,
+    "bookingsObserved": 172,
     "releasesObserved": 165,
-    "inCustody": 270,
-    "uniquePeople": 429
+    "inCustody": 271,
+    "uniquePeople": 430
   },
   "bookingsByDay": [
     {
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 231,
-      "pct": 31.9
+      "count": 232,
+      "pct": 32
     },
     {
       "name": "THEFT III",
@@ -179,7 +179,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 25,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "ASSAULT IV -DV",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 219,
-      "pct": 50.8,
+      "count": 220,
+      "pct": 50.9,
       "label": "WA DOC"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 11,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "TUMWATER PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 229,
-      "pct": 36.6,
+      "count": 230,
+      "pct": 36.7,
       "label": "Felony"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 296,
-      "pct": 68.5
+      "count": 297,
+      "pct": 68.6
     },
     {
       "name": "Black",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 347,
-      "pct": 80
+      "pct": 79.8
     },
     {
       "name": "Female",
-      "count": 87,
-      "pct": 20
+      "count": 88,
+      "pct": 20.2
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 160
+        "count": 161
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 101,
-    "noBond": 169,
+    "noBond": 170,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 378251
