@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T16:27:15",
+  "generatedAt": "2026-10-14T16:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 469,
-    "bookingsObserved": 205,
+    "bookingsTracked": 470,
+    "bookingsObserved": 206,
     "releasesObserved": 190,
-    "inCustody": 279,
+    "inCustody": 280,
     "uniquePeople": 461
   },
   "bookingsByDay": [
@@ -156,35 +156,35 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 20,
+      "booked": 21,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 251,
-      "pct": 32.1
+      "count": 252,
+      "pct": 32
     },
     {
       "name": "THEFT III",
       "count": 68,
-      "pct": 8.7
+      "pct": 8.6
+    },
+    {
+      "name": "ASSAULT IV -DV",
+      "count": 27,
+      "pct": 3.4
     },
     {
       "name": "DUI",
       "count": 27,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 26,
       "pct": 3.3
-    },
-    {
-      "name": "ASSAULT IV -DV",
-      "count": 25,
-      "pct": 3.2
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -193,8 +193,8 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 19,
-      "pct": 2.4
+      "count": 20,
+      "pct": 2.5
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -203,6 +203,11 @@
     },
     {
       "name": "DWLS/DWLR III",
+      "count": 14,
+      "pct": 1.8
+    },
+    {
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 14,
       "pct": 1.8
     },
@@ -217,11 +222,6 @@
       "pct": 1.8
     },
     {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 13,
-      "pct": 1.7
-    },
-    {
       "name": "HARASSMENT",
       "count": 11,
       "pct": 1.4
@@ -234,17 +234,17 @@
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 9,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ASSAULT 4",
       "count": 9,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "MALICIOUS MISCHIEF",
       "count": 9,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "MALICIOUS MISCHIEF - 3",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 238,
-      "pct": 51.2,
+      "count": 239,
+      "pct": 51.3,
       "label": "WA DOC"
     },
     {
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "F",
-      "count": 249,
-      "pct": 37.1,
+      "count": 250,
+      "pct": 36.9,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 219,
-      "pct": 32.6,
+      "count": 222,
+      "pct": 32.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 193,
+      "count": 194,
       "pct": 28.7,
       "label": "Misdemeanor"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 316,
-      "pct": 68.1
+      "count": 317,
+      "pct": 68.2
     },
     {
       "name": "Black",
       "count": 88,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "N",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 370,
-      "pct": 79.2
+      "count": 371,
+      "pct": 79.3
     },
     {
       "name": "Female",
       "count": 97,
-      "pct": 20.8
+      "pct": 20.7
     }
   ],
   "ages": {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 58
+        "count": 59
       }
     ]
   },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 223.7
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 98,
     "noBond": 182,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 380751
+    "totalBond": 404751
   },
   "chargesPerBooking": 1.7
 }
