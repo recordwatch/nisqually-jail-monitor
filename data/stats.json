@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T08:47:18",
+  "generatedAt": "2026-10-15T09:07:20",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 488,
-    "bookingsObserved": 224,
+    "bookingsTracked": 489,
+    "bookingsObserved": 225,
     "releasesObserved": 212,
-    "inCustody": 276,
-    "uniquePeople": 478
+    "inCustody": 277,
+    "uniquePeople": 479
   },
   "bookingsByDay": [
     {
@@ -204,7 +204,7 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "DWLS/DWLR III",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 242,
-      "pct": 50,
+      "pct": 49.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 79,
-      "pct": 16.3,
+      "count": 80,
+      "pct": 16.5,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 253,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 233,
-      "pct": 33.1,
+      "count": 235,
+      "pct": 33.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 207,
-      "pct": 29.4,
+      "pct": 29.3,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 327,
-      "pct": 67.7
+      "count": 328,
+      "pct": 67.8
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 379,
+      "count": 380,
       "pct": 78
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 134
+        "count": 135
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 224.4
   },
   "bond": {
-    "withBond": 95,
+    "withBond": 96,
     "noBond": 181,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 391251
+    "totalBond": 393251
   },
   "chargesPerBooking": 1.7
 }
