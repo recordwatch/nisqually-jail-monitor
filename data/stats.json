@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T13:07:18",
+  "generatedAt": "2026-10-15T13:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 497,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 258,
-      "pct": 31.2
+      "count": 260,
+      "pct": 31.4
     },
     {
       "name": "THEFT III",
       "count": 70,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "ASSAULT IV -DV",
@@ -229,7 +229,7 @@
     {
       "name": "HARASSMENT",
       "count": 12,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 245,
-      "pct": 49.9,
+      "count": 247,
+      "pct": 50.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 82,
-      "pct": 16.7,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 52,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "LACEY PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "F",
-      "count": 256,
-      "pct": 36,
+      "count": 258,
+      "pct": 36.2,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 237,
-      "pct": 33.3,
+      "pct": 33.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 207,
-      "pct": 29.1,
+      "pct": 29,
       "label": "Misdemeanor"
     },
     {
@@ -513,8 +513,8 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9.5,
-    "currentLongestDaysHeld": 224.5
+    "currentMedianDaysHeld": 9.6,
+    "currentLongestDaysHeld": 224.6
   },
   "bond": {
     "withBond": 99,
