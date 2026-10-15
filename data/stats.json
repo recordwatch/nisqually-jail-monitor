@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T13:47:24",
+  "generatedAt": "2026-10-15T14:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 497,
     "bookingsObserved": 233,
-    "releasesObserved": 214,
-    "inCustody": 283,
+    "releasesObserved": 217,
+    "inCustody": 280,
     "uniquePeople": 487
   },
   "bookingsByDay": [
@@ -157,19 +157,19 @@
     {
       "date": "2026-10-15",
       "booked": 13,
-      "released": 10
+      "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 260,
-      "pct": 31.4
+      "pct": 31.1
     },
     {
       "name": "THEFT III",
-      "count": 70,
-      "pct": 8.4
+      "count": 72,
+      "pct": 8.6
     },
     {
       "name": "ASSAULT IV -DV",
@@ -179,12 +179,12 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 28,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "DUI",
       "count": 28,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -193,23 +193,23 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 22,
-      "pct": 2.7
+      "count": 24,
+      "pct": 2.9
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 19,
-      "pct": 2.3
+      "count": 21,
+      "pct": 2.5
+    },
+    {
+      "name": "DWLS/DWLR III",
+      "count": 16,
+      "pct": 1.9
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
       "pct": 1.9
-    },
-    {
-      "name": "DWLS/DWLR III",
-      "count": 15,
-      "pct": 1.8
     },
     {
       "name": "RESISTING ARREST",
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 258,
-      "pct": 36.2,
+      "pct": 35.8,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 237,
-      "pct": 33.2,
+      "count": 241,
+      "pct": 33.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 207,
-      "pct": 29,
+      "count": 210,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 111,
+    "observed": 114,
     "officialDate": 103,
     "releaseListOnly": 103
   },
   "stay": {
-    "releasedCount": 110,
+    "releasedCount": 113,
     "medianDays": 3.9,
-    "meanDays": 9.6,
+    "meanDays": 9.7,
     "buckets": [
       {
         "label": "< 1 day",
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 48
+        "count": 51
       },
       {
         "label": "1–3 months",
@@ -518,10 +518,10 @@
   },
   "bond": {
     "withBond": 99,
-    "noBond": 184,
+    "noBond": 181,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 400251
+    "totalBond": 435251
   },
   "chargesPerBooking": 1.7
 }
