@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:59:34",
+  "generatedAt": "2026-10-15T16:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 506,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 267,
-      "pct": 31.7
+      "count": 268,
+      "pct": 31.8
     },
     {
       "name": "THEFT III",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 255,
-      "pct": 50.9,
+      "count": 256,
+      "pct": 51,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 82,
-      "pct": 16.4,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "F",
-      "count": 265,
+      "count": 266,
       "pct": 36.5,
       "label": "Felony"
     },
