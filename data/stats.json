@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T14:27:16",
+  "generatedAt": "2026-10-15T14:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 499,
-    "bookingsObserved": 235,
+    "bookingsTracked": 500,
+    "bookingsObserved": 236,
     "releasesObserved": 217,
-    "inCustody": 282,
-    "uniquePeople": 489
+    "inCustody": 283,
+    "uniquePeople": 490
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 14,
+      "booked": 16,
       "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 261,
-      "pct": 31.2
+      "count": 262,
+      "pct": 31.3
     },
     {
       "name": "THEFT III",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 248,
-      "pct": 50.2,
+      "count": 249,
+      "pct": 50.3,
       "label": "WA DOC"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "TACOMA PD",
       "count": 21,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "TACOMA PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 259,
-      "pct": 35.9,
+      "count": 260,
+      "pct": 36,
       "label": "Felony"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 335,
-      "pct": 67.8
+      "pct": 67.7
     },
     {
       "name": "Black",
-      "count": 95,
-      "pct": 19.2
+      "count": 96,
+      "pct": 19.4
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 388,
+      "count": 389,
       "pct": 78.1
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 81
+        "count": 82
       },
       {
         "label": "55+",
@@ -518,10 +518,10 @@
   },
   "bond": {
     "withBond": 99,
-    "noBond": 183,
+    "noBond": 184,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 435251
+    "totalBond": 433401
   },
   "chargesPerBooking": 1.7
 }
