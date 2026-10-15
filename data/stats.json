@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:07:21",
+  "generatedAt": "2026-10-14T17:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 471,
@@ -182,14 +182,14 @@
       "pct": 3.4
     },
     {
-      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
+      "name": "CRIMINAL TRESPASS",
       "count": 26,
       "pct": 3.3
     },
     {
-      "name": "CRIMINAL TRESPASS",
-      "count": 25,
-      "pct": 3.2
+      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
+      "count": 26,
+      "pct": 3.3
     },
     {
       "name": "ASSAULT-4",
@@ -199,7 +199,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 17,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "DWLS/DWLR III",
@@ -358,7 +358,7 @@
     {
       "name": "F",
       "count": 250,
-      "pct": 36.9,
+      "pct": 36.8,
       "label": "Felony"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 195,
-      "pct": 28.8,
+      "count": 196,
+      "pct": 28.9,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 223.7
   },
   "bond": {
-    "withBond": 96,
-    "noBond": 184,
+    "withBond": 95,
+    "noBond": 185,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 402751
+    "totalBond": 397751
   },
   "chargesPerBooking": 1.7
 }
