@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T11:47:15",
+  "generatedAt": "2026-10-15T12:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 493,
-    "bookingsObserved": 229,
+    "bookingsTracked": 494,
+    "bookingsObserved": 230,
     "releasesObserved": 212,
-    "inCustody": 281,
-    "uniquePeople": 483
+    "inCustody": 282,
+    "uniquePeople": 484
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 8,
+      "booked": 10,
       "released": 8
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 256,
-      "pct": 31
+      "count": 257,
+      "pct": 31.1
     },
     {
       "name": "THEFT III",
@@ -177,19 +177,19 @@
       "pct": 3.6
     },
     {
-      "name": "DUI",
+      "name": "CRIMINAL TRESPASS",
       "count": 28,
       "pct": 3.4
     },
     {
-      "name": "CRIMINAL TRESPASS",
+      "name": "DUI",
       "count": 28,
       "pct": 3.4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 26,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 243,
-      "pct": 49.7,
+      "count": 244,
+      "pct": 49.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 82,
-      "pct": 16.8,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 12,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "TUMWATER PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 254,
-      "pct": 35.8,
+      "count": 255,
+      "pct": 35.9,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 330,
-      "pct": 67.6
+      "count": 331,
+      "pct": 67.7
     },
     {
       "name": "Black",
       "count": 94,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 383,
+      "count": 384,
       "pct": 78
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 36
+        "count": 37
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 99,
-    "noBond": 182,
+    "noBond": 183,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 400251
