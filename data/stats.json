@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:27:20",
+  "generatedAt": "2026-10-14T23:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 483,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 33,
+      "booked": 34,
       "released": 21
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 254,
-      "pct": 31.6
+      "pct": 31.4
     },
     {
       "name": "THEFT III",
       "count": 69,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "ASSAULT IV -DV",
@@ -177,14 +177,14 @@
       "pct": 3.6
     },
     {
-      "name": "CRIMINAL TRESPASS",
-      "count": 27,
-      "pct": 3.4
+      "name": "DUI",
+      "count": 28,
+      "pct": 3.5
     },
     {
-      "name": "DUI",
+      "name": "CRIMINAL TRESPASS",
       "count": 27,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -207,6 +207,11 @@
       "pct": 1.9
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 14,
+      "pct": 1.7
+    },
+    {
       "name": "DWLS/DWLR III",
       "count": 14,
       "pct": 1.7
@@ -220,11 +225,6 @@
       "name": "THEFT",
       "count": 14,
       "pct": 1.7
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 13,
-      "pct": 1.6
     },
     {
       "name": "HARASSMENT",
@@ -257,7 +257,7 @@
       "pct": 1
     },
     {
-      "name": "OBSTRUCTING A PUBLIC SERVANT",
+      "name": "HIT AND RUN-ATTENDED-PROPERTY DMG",
       "count": 7,
       "pct": 0.9
     }
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 241,
-      "pct": 50.7,
+      "pct": 50.6,
       "label": "WA DOC"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 24,
-      "pct": 5.1,
+      "pct": 5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -318,6 +318,12 @@
       "label": "DOC"
     },
     {
+      "name": "SQUAXIN ISLAND PD",
+      "count": 3,
+      "pct": 0.6,
+      "label": "SQUAXIN ISLAND PD"
+    },
+    {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
       "pct": 0.6,
@@ -336,12 +342,6 @@
       "label": "SHELTON PD"
     },
     {
-      "name": "SQUAXIN ISLAND PD",
-      "count": 2,
-      "pct": 0.4,
-      "label": "SQUAXIN ISLAND PD"
-    },
-    {
       "name": "NISQUALLY PD",
       "count": 2,
       "pct": 0.4,
@@ -358,18 +358,18 @@
     {
       "name": "F",
       "count": 252,
-      "pct": 36.5,
+      "pct": 36.3,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 225,
-      "pct": 32.6,
+      "count": 228,
+      "pct": 32.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 202,
+      "count": 203,
       "pct": 29.3,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 224
   },
   "bond": {
-    "withBond": 92,
-    "noBond": 187,
+    "withBond": 93,
+    "noBond": 186,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 385251
+    "totalBond": 388351
   },
   "chargesPerBooking": 1.7
 }
