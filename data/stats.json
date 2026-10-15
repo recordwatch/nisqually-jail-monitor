@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T18:27:15",
+  "generatedAt": "2026-10-14T18:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 473,
-    "bookingsObserved": 209,
+    "bookingsTracked": 474,
+    "bookingsObserved": 210,
     "releasesObserved": 191,
-    "inCustody": 282,
-    "uniquePeople": 464
+    "inCustody": 283,
+    "uniquePeople": 465
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 24,
+      "booked": 25,
       "released": 8
     }
   ],
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 75,
-      "pct": 16,
+      "count": 76,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -336,12 +336,6 @@
       "label": "SHELTON PD"
     },
     {
-      "name": "THURSTON COUNTY SHERIFF",
-      "count": 2,
-      "pct": 0.4,
-      "label": "THURSTON COUNTY SHERIFF"
-    },
-    {
       "name": "SQUAXIN ISLAND PD",
       "count": 2,
       "pct": 0.4,
@@ -352,6 +346,12 @@
       "count": 2,
       "pct": 0.4,
       "label": "NISQUALLY PD"
+    },
+    {
+      "name": "SWINOMISH",
+      "count": 2,
+      "pct": 0.4,
+      "label": "SWINOMISH"
     }
   ],
   "levels": [
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 319,
+      "count": 320,
       "pct": 68.2
     },
     {
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 373,
-      "pct": 79.2
+      "pct": 79
     },
     {
       "name": "Female",
-      "count": 98,
-      "pct": 20.8
+      "count": 99,
+      "pct": 21
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 174
+        "count": 175
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 185,
+    "noBond": 186,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 399751
