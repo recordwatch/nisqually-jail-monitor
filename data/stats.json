@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T00:27:16",
+  "generatedAt": "2026-10-16T00:47:20",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 514,
-    "bookingsObserved": 250,
+    "bookingsTracked": 515,
+    "bookingsObserved": 251,
     "releasesObserved": 234,
-    "inCustody": 280,
-    "uniquePeople": 503
+    "inCustody": 281,
+    "uniquePeople": 504
   },
   "bookingsByDay": [
     {
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 270,
-      "pct": 31.6
+      "pct": 31.5
     },
     {
       "name": "THEFT III",
@@ -177,12 +177,12 @@
       "pct": 3.6
     },
     {
-      "name": "CRIMINAL TRESPASS",
-      "count": 28,
-      "pct": 3.3
+      "name": "DUI",
+      "count": 29,
+      "pct": 3.4
     },
     {
-      "name": "DUI",
+      "name": "CRIMINAL TRESPASS",
       "count": 28,
       "pct": 3.3
     },
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 259,
-      "pct": 50.8,
+      "pct": 50.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 83,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -348,10 +348,10 @@
       "label": "NISQUALLY PD"
     },
     {
-      "name": "SWINOMISH",
+      "name": "NISQUALLY PUBLIC SAFETY COMPLEX",
       "count": 2,
       "pct": 0.4,
-      "label": "SWINOMISH"
+      "label": "NISQUALLY PUBLIC SAFETY COMPLEX"
     }
   ],
   "levels": [
@@ -363,8 +363,8 @@
     },
     {
       "name": "GM",
-      "count": 246,
-      "pct": 33.3,
+      "count": 247,
+      "pct": 33.4,
       "label": "Gross Misdemeanor"
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 401,
-      "pct": 78.3
+      "count": 402,
+      "pct": 78.4
     },
     {
       "name": "Female",
       "count": 111,
-      "pct": 21.7
+      "pct": 21.6
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 185
+        "count": 186
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 225
   },
   "bond": {
-    "withBond": 92,
+    "withBond": 93,
     "noBond": 188,
-    "medianBond": 1750,
+    "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 432051
+    "totalBond": 432551
   },
   "chargesPerBooking": 1.7
 }
