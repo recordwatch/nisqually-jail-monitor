@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:07:18",
+  "generatedAt": "2026-10-16T12:27:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 523,
@@ -193,8 +193,8 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 25,
-      "pct": 2.9
+      "count": 24,
+      "pct": 2.8
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -213,8 +213,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 14,
-      "pct": 1.6
+      "count": 15,
+      "pct": 1.7
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -363,14 +363,14 @@
     },
     {
       "name": "GM",
-      "count": 252,
-      "pct": 33.6,
+      "count": 251,
+      "pct": 33.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 212,
-      "pct": 28.3,
+      "count": 213,
+      "pct": 28.4,
       "label": "Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 172,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 436551
+    "totalBond": 435051
   },
   "chargesPerBooking": 1.7
 }
