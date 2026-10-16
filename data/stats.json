@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:47:17",
+  "generatedAt": "2026-10-16T02:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 516,
@@ -237,6 +237,11 @@
       "pct": 1.2
     },
     {
+      "name": "SIMPLE ASSAULT-DV",
+      "count": 9,
+      "pct": 1.1
+    },
+    {
       "name": "ASSAULT 4",
       "count": 9,
       "pct": 1.1
@@ -245,11 +250,6 @@
       "name": "MALICIOUS MISCHIEF",
       "count": 9,
       "pct": 1.1
-    },
-    {
-      "name": "SIMPLE ASSAULT-DV",
-      "count": 8,
-      "pct": 0.9
     },
     {
       "name": "HIT AND RUN-ATTENDED-PROPERTY DMG",
@@ -289,8 +289,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 21,
-      "pct": 4.1,
+      "count": 22,
+      "pct": 4.3,
       "label": "TACOMA PD"
     },
     {
@@ -336,12 +336,6 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
-      "name": "NISQUALLY PUBLIC SAFETY COMPLEX",
-      "count": 2,
-      "pct": 0.4,
-      "label": "NISQUALLY PUBLIC SAFETY COMPLEX"
-    },
-    {
       "name": "PUYALLUP TRIBE PD",
       "count": 2,
       "pct": 0.4,
@@ -352,6 +346,12 @@
       "count": 2,
       "pct": 0.4,
       "label": "NISQUALLY PD"
+    },
+    {
+      "name": "SWINOMISH",
+      "count": 2,
+      "pct": 0.4,
+      "label": "SWINOMISH"
     }
   ],
   "levels": [
@@ -363,8 +363,8 @@
     },
     {
       "name": "GM",
-      "count": 247,
-      "pct": 33.4,
+      "count": 248,
+      "pct": 33.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -380,16 +380,16 @@
       "label": "FC"
     },
     {
-      "name": "FB",
-      "count": 3,
-      "pct": 0.4,
-      "label": "FB"
-    },
-    {
       "name": "FA",
       "count": 2,
       "pct": 0.3,
       "label": "FA"
+    },
+    {
+      "name": "FB",
+      "count": 2,
+      "pct": 0.3,
+      "label": "FB"
     },
     {
       "name": "AD",
@@ -521,7 +521,7 @@
     "noBond": 188,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 433551
+    "totalBond": 431051
   },
   "chargesPerBooking": 1.7
 }
