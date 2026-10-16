@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T10:47:17",
+  "generatedAt": "2026-10-16T11:07:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 522,
-    "bookingsObserved": 258,
+    "bookingsTracked": 523,
+    "bookingsObserved": 259,
     "releasesObserved": 252,
-    "inCustody": 270,
-    "uniquePeople": 511
+    "inCustody": 271,
+    "uniquePeople": 512
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 8,
+      "booked": 9,
       "released": 18
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 273,
-      "pct": 31.6
+      "count": 274,
+      "pct": 31.7
     },
     {
       "name": "THEFT III",
@@ -209,7 +209,7 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "RESISTING ARREST",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 261,
-      "pct": 50.4,
+      "count": 262,
+      "pct": 50.5,
       "label": "WA DOC"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 21,
-      "pct": 4.1,
+      "pct": 4,
       "label": "FEDERAL WAY"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "YELM PD",
       "count": 7,
-      "pct": 1.4,
+      "pct": 1.3,
       "label": "YELM PD"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "F",
-      "count": 271,
-      "pct": 36.2,
+      "count": 272,
+      "pct": 36.3,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 252,
-      "pct": 33.7,
+      "pct": 33.6,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 347,
-      "pct": 67.2
+      "count": 348,
+      "pct": 67.3
     },
     {
       "name": "Black",
       "count": 101,
-      "pct": 19.6
+      "pct": 19.5
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 407,
+      "count": 408,
       "pct": 78.3
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 148
+        "count": 149
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9.4,
-    "currentLongestDaysHeld": 225.4
+    "currentMedianDaysHeld": 9.5,
+    "currentLongestDaysHeld": 225.5
   },
   "bond": {
     "withBond": 98,
-    "noBond": 172,
+    "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 437551
