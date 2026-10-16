@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T01:07:17",
+  "generatedAt": "2026-10-16T01:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 515,
-    "bookingsObserved": 251,
+    "bookingsTracked": 516,
+    "bookingsObserved": 252,
     "releasesObserved": 234,
-    "inCustody": 281,
-    "uniquePeople": 504
+    "inCustody": 282,
+    "uniquePeople": 505
   },
   "bookingsByDay": [
     {
@@ -151,12 +151,12 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 29,
+      "booked": 30,
       "released": 30
     },
     {
       "date": "2026-10-16",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 259,
-      "pct": 50.7,
+      "pct": 50.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 83,
-      "pct": 16.2,
+      "count": 84,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
@@ -336,6 +336,12 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
+      "name": "NISQUALLY PUBLIC SAFETY COMPLEX",
+      "count": 2,
+      "pct": 0.4,
+      "label": "NISQUALLY PUBLIC SAFETY COMPLEX"
+    },
+    {
       "name": "PUYALLUP TRIBE PD",
       "count": 2,
       "pct": 0.4,
@@ -346,19 +352,13 @@
       "count": 2,
       "pct": 0.4,
       "label": "NISQUALLY PD"
-    },
-    {
-      "name": "NISQUALLY PUBLIC SAFETY COMPLEX",
-      "count": 2,
-      "pct": 0.4,
-      "label": "NISQUALLY PUBLIC SAFETY COMPLEX"
     }
   ],
   "levels": [
     {
       "name": "F",
       "count": 268,
-      "pct": 36.3,
+      "pct": 36.2,
       "label": "Felony"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 211,
+      "count": 212,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 343,
-      "pct": 67.4
+      "count": 344,
+      "pct": 67.5
     },
     {
       "name": "Black",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 402,
-      "pct": 78.4
+      "pct": 78.2
     },
     {
       "name": "Female",
-      "count": 111,
-      "pct": 21.6
+      "count": 112,
+      "pct": 21.8
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 186
+        "count": 187
       },
       {
         "label": "45–54",
@@ -513,15 +513,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9,
-    "currentLongestDaysHeld": 225
+    "currentMedianDaysHeld": 9.1,
+    "currentLongestDaysHeld": 225.1
   },
   "bond": {
-    "withBond": 93,
+    "withBond": 94,
     "noBond": 188,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 432551
+    "totalBond": 433551
   },
   "chargesPerBooking": 1.7
 }
