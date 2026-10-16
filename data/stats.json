@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T03:27:17",
+  "generatedAt": "2026-10-16T03:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 518,
-    "bookingsObserved": 254,
+    "bookingsTracked": 519,
+    "bookingsObserved": 255,
     "releasesObserved": 234,
-    "inCustody": 284,
-    "uniquePeople": 507
+    "inCustody": 285,
+    "uniquePeople": 508
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -172,14 +172,14 @@
       "pct": 8.5
     },
     {
-      "name": "ASSAULT IV -DV",
+      "name": "DUI",
       "count": 31,
       "pct": 3.6
     },
     {
-      "name": "DUI",
-      "count": 30,
-      "pct": 3.5
+      "name": "ASSAULT IV -DV",
+      "count": 31,
+      "pct": 3.6
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 259,
-      "pct": 50.4,
+      "pct": 50.3,
       "label": "WA DOC"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 20,
-      "pct": 3.9,
+      "count": 21,
+      "pct": 4.1,
       "label": "FEDERAL WAY"
     },
     {
@@ -364,13 +364,13 @@
     {
       "name": "GM",
       "count": 250,
-      "pct": 33.7,
+      "pct": 33.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 212,
-      "pct": 28.6,
+      "pct": 28.5,
       "label": "Misdemeanor"
     },
     {
@@ -392,23 +392,23 @@
       "label": "FB"
     },
     {
+      "name": "B",
+      "count": 1,
+      "pct": 0.1,
+      "label": "B"
+    },
+    {
       "name": "AD",
       "count": 1,
       "pct": 0.1,
       "label": "AD"
-    },
-    {
-      "name": "T",
-      "count": 1,
-      "pct": 0.1,
-      "label": "T"
     }
   ],
   "race": [
     {
       "name": "White",
       "count": 344,
-      "pct": 67.2
+      "pct": 67.1
     },
     {
       "name": "Black",
@@ -418,12 +418,12 @@
     {
       "name": "N",
       "count": 30,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "Unknown",
-      "count": 16,
-      "pct": 3.1
+      "count": 17,
+      "pct": 3.3
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 404,
+      "count": 405,
       "pct": 78.3
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 146
+        "count": 147
       },
       {
         "label": "35–44",
@@ -513,15 +513,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 9.1,
-    "currentLongestDaysHeld": 225.1
+    "currentMedianDaysHeld": 9.2,
+    "currentLongestDaysHeld": 225.2
   },
   "bond": {
-    "withBond": 96,
+    "withBond": 97,
     "noBond": 188,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 434551
+    "totalBond": 435551
   },
   "chargesPerBooking": 1.7
 }
