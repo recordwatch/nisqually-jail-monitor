@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T14:47:15",
+  "generatedAt": "2026-10-16T15:07:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 523,
-    "bookingsObserved": 259,
+    "bookingsTracked": 524,
+    "bookingsObserved": 260,
     "releasesObserved": 254,
-    "inCustody": 269,
-    "uniquePeople": 512
+    "inCustody": 270,
+    "uniquePeople": 513
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 9,
+      "booked": 10,
       "released": 20
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 274,
-      "pct": 31.7
+      "pct": 31.6
     },
     {
       "name": "THEFT III",
@@ -172,14 +172,14 @@
       "pct": 8.4
     },
     {
-      "name": "DUI",
+      "name": "ASSAULT IV -DV",
       "count": 32,
       "pct": 3.7
     },
     {
-      "name": "ASSAULT IV -DV",
-      "count": 31,
-      "pct": 3.6
+      "name": "DUI",
+      "count": 32,
+      "pct": 3.7
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 262,
-      "pct": 50.5,
+      "pct": 50.4,
       "label": "WA DOC"
     },
     {
@@ -288,16 +288,16 @@
       "label": "LAKEWOOD PD"
     },
     {
+      "name": "FEDERAL WAY",
+      "count": 22,
+      "pct": 4.2,
+      "label": "FEDERAL WAY"
+    },
+    {
       "name": "TACOMA PD",
       "count": 22,
       "pct": 4.2,
       "label": "TACOMA PD"
-    },
-    {
-      "name": "FEDERAL WAY",
-      "count": 21,
-      "pct": 4,
-      "label": "FEDERAL WAY"
     },
     {
       "name": "TUMWATER PD",
@@ -363,8 +363,8 @@
     },
     {
       "name": "GM",
-      "count": 251,
-      "pct": 33.5,
+      "count": 252,
+      "pct": 33.6,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 348,
-      "pct": 67.3
+      "count": 349,
+      "pct": 67.4
     },
     {
       "name": "Black",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 408,
-      "pct": 78.3
+      "count": 409,
+      "pct": 78.4
     },
     {
       "name": "Female",
       "count": 113,
-      "pct": 21.7
+      "pct": 21.6
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 84
+        "count": 85
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 172,
+    "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 435801
