@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T16:27:15",
+  "generatedAt": "2026-10-16T16:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 524,
-    "bookingsObserved": 260,
+    "bookingsTracked": 525,
+    "bookingsObserved": 261,
     "releasesObserved": 254,
-    "inCustody": 270,
-    "uniquePeople": 513
+    "inCustody": 271,
+    "uniquePeople": 514
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 10,
+      "booked": 11,
       "released": 20
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 28,
-      "pct": 3.2
+      "count": 29,
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 262,
-      "pct": 50.4,
+      "pct": 50.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 84,
-      "pct": 16.2,
+      "count": 85,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 349,
-      "pct": 67.4
+      "pct": 67.2
     },
     {
       "name": "Black",
-      "count": 101,
-      "pct": 19.5
+      "count": 102,
+      "pct": 19.7
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 409,
+      "count": 410,
       "pct": 78.4
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 85
+        "count": 86
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 225.7
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 98,
     "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 434801
+    "totalBond": 435301
   },
   "chargesPerBooking": 1.7
 }
