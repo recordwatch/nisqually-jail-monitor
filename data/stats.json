@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T10:07:17",
+  "generatedAt": "2026-10-16T10:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 521,
-    "bookingsObserved": 257,
+    "bookingsTracked": 522,
+    "bookingsObserved": 258,
     "releasesObserved": 251,
-    "inCustody": 270,
-    "uniquePeople": 510
+    "inCustody": 271,
+    "uniquePeople": 511
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 7,
+      "booked": 8,
       "released": 17
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 272,
-      "pct": 31.5
+      "count": 273,
+      "pct": 31.6
     },
     {
       "name": "THEFT III",
       "count": 73,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "DUI",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 260,
-      "pct": 50.3,
+      "count": 261,
+      "pct": 50.4,
       "label": "WA DOC"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "TACOMA PD",
       "count": 22,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "TACOMA PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 270,
-      "pct": 36.1,
+      "count": 271,
+      "pct": 36.2,
       "label": "Felony"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 212,
-      "pct": 28.4,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 346,
+      "count": 347,
       "pct": 67.2
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 406,
-      "pct": 78.2
+      "count": 407,
+      "pct": 78.3
     },
     {
       "name": "Female",
       "count": 113,
-      "pct": 21.8
+      "pct": 21.7
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 188
+        "count": 189
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 98,
-    "noBond": 172,
+    "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 437551
