@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T00:07:16",
+  "generatedAt": "2026-10-17T00:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 531,
-    "bookingsObserved": 267,
+    "bookingsTracked": 532,
+    "bookingsObserved": 268,
     "releasesObserved": 265,
-    "inCustody": 266,
-    "uniquePeople": 520
+    "inCustody": 267,
+    "uniquePeople": 521
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -172,14 +172,14 @@
       "pct": 8.7
     },
     {
-      "name": "ASSAULT IV -DV",
+      "name": "DUI",
       "count": 33,
       "pct": 3.8
     },
     {
-      "name": "DUI",
-      "count": 32,
-      "pct": 3.7
+      "name": "ASSAULT IV -DV",
+      "count": 33,
+      "pct": 3.8
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 263,
-      "pct": 50,
+      "pct": 49.9,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 31,
-      "pct": 5.9,
+      "count": 32,
+      "pct": 6.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "GM",
-      "count": 256,
+      "count": 257,
       "pct": 33.9,
       "label": "Gross Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 354,
-      "pct": 67.4
+      "count": 355,
+      "pct": 67.5
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 414,
+      "count": 415,
       "pct": 78.3
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 152
+        "count": 153
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 91,
-    "noBond": 175,
+    "noBond": 176,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 428401
