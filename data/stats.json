@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T17:07:15",
+  "generatedAt": "2026-10-16T17:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 525,
-    "bookingsObserved": 261,
+    "bookingsTracked": 526,
+    "bookingsObserved": 262,
     "releasesObserved": 255,
-    "inCustody": 270,
-    "uniquePeople": 514
+    "inCustody": 271,
+    "uniquePeople": 515
   },
   "bookingsByDay": [
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 32,
-      "pct": 3.7
+      "count": 33,
+      "pct": 3.8
     },
     {
       "name": "DUI",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 262,
-      "pct": 50.3,
+      "pct": 50.2,
       "label": "WA DOC"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "LACEY PD",
       "count": 55,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 30,
-      "pct": 5.8,
+      "pct": 5.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -312,16 +312,16 @@
       "label": "YELM PD"
     },
     {
+      "name": "SHELTON PD",
+      "count": 4,
+      "pct": 0.8,
+      "label": "SHELTON PD"
+    },
+    {
       "name": "DOC",
       "count": 4,
       "pct": 0.8,
       "label": "DOC"
-    },
-    {
-      "name": "SHELTON PD",
-      "count": 3,
-      "pct": 0.6,
-      "label": "SHELTON PD"
     },
     {
       "name": "SQUAXIN ISLAND PD",
@@ -358,13 +358,13 @@
     {
       "name": "F",
       "count": 272,
-      "pct": 36.3,
+      "pct": 36.2,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 252,
-      "pct": 33.6,
+      "count": 253,
+      "pct": 33.7,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 349,
-      "pct": 67.2
+      "count": 350,
+      "pct": 67.3
     },
     {
       "name": "Black",
       "count": 102,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 410,
+      "count": 411,
       "pct": 78.4
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 86
+        "count": 87
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 225.7
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 98,
     "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 434301
+    "totalBond": 434801
   },
   "chargesPerBooking": 1.7
 }
