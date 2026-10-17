@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:07:17",
+  "generatedAt": "2026-10-17T06:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 539,
@@ -363,14 +363,14 @@
     },
     {
       "name": "GM",
-      "count": 264,
-      "pct": 34.4,
+      "count": 265,
+      "pct": 34.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 218,
-      "pct": 28.4,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 176,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 437401
+    "totalBond": 439401
   },
   "chargesPerBooking": 1.6
 }
