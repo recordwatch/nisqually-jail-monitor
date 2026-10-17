@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:47:14",
+  "generatedAt": "2026-10-17T12:01:25",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 540,
@@ -237,6 +237,11 @@
       "pct": 1.2
     },
     {
+      "name": "MALICIOUS MISCHIEF - 3",
+      "count": 9,
+      "pct": 1
+    },
+    {
       "name": "SIMPLE ASSAULT-DV",
       "count": 9,
       "pct": 1
@@ -253,11 +258,6 @@
     },
     {
       "name": "HIT AND RUN-ATTENDED-PROPERTY DMG",
-      "count": 8,
-      "pct": 0.9
-    },
-    {
-      "name": "MALICIOUS MISCHIEF - 3",
       "count": 8,
       "pct": 0.9
     }
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 226.5
   },
   "bond": {
-    "withBond": 96,
-    "noBond": 172,
+    "withBond": 97,
+    "noBond": 171,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 430901
+    "totalBond": 431901
   },
   "chargesPerBooking": 1.6
 }
