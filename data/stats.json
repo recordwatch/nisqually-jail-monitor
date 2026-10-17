@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T02:27:16",
+  "generatedAt": "2026-10-17T02:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 534,
-    "bookingsObserved": 270,
+    "bookingsTracked": 535,
+    "bookingsObserved": 271,
     "releasesObserved": 265,
-    "inCustody": 269,
-    "uniquePeople": 523
+    "inCustody": 270,
+    "uniquePeople": 524
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI",
-      "count": 35,
-      "pct": 4
+      "count": 36,
+      "pct": 4.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 263,
-      "pct": 49.6,
+      "pct": 49.5,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 56,
-      "pct": 10.6,
+      "count": 57,
+      "pct": 10.7,
       "label": "LACEY PD"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "TACOMA PD",
       "count": 22,
-      "pct": 4.2,
+      "pct": 4.1,
       "label": "TACOMA PD"
     },
     {
       "name": "TUMWATER PD",
       "count": 13,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "TUMWATER PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 273,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 259,
-      "pct": 34,
+      "count": 260,
+      "pct": 34.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 216,
-      "pct": 28.4,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 356,
-      "pct": 67.4
+      "count": 357,
+      "pct": 67.5
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 417,
+      "count": 418,
       "pct": 78.4
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 88
+        "count": 89
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 226.1
   },
   "bond": {
-    "withBond": 94,
+    "withBond": 95,
     "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 432401
+    "totalBond": 433401
   },
   "chargesPerBooking": 1.6
 }
