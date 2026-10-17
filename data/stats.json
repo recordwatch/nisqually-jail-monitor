@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T20:47:15",
+  "generatedAt": "2026-10-16T21:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 528,
     "bookingsObserved": 264,
-    "releasesObserved": 264,
-    "inCustody": 264,
+    "releasesObserved": 265,
+    "inCustody": 263,
     "uniquePeople": 517
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-16",
       "booked": 14,
-      "released": 30
+      "released": 31
     }
   ],
   "topCharges": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 73,
-      "pct": 8.4
+      "count": 75,
+      "pct": 8.6
     },
     {
       "name": "ASSAULT IV -DV",
@@ -234,7 +234,7 @@
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 10,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 263,
-      "pct": 50.3,
+      "pct": 50.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 85,
-      "pct": 16.3,
+      "count": 86,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 273,
-      "pct": 36.3,
+      "pct": 36.2,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 253,
-      "pct": 33.6,
+      "count": 255,
+      "pct": 33.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 213,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -479,18 +479,18 @@
     ]
   },
   "releaseSources": {
-    "observed": 160,
+    "observed": 161,
     "officialDate": 104,
     "releaseListOnly": 103
   },
   "stay": {
-    "releasedCount": 160,
+    "releasedCount": 161,
     "medianDays": 3.7,
-    "meanDays": 8.7,
+    "meanDays": 8.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 34
+        "count": 35
       },
       {
         "label": "1–3 days",
@@ -518,10 +518,10 @@
   },
   "bond": {
     "withBond": 90,
-    "noBond": 174,
+    "noBond": 173,
     "medianBond": 1750,
     "maxBond": 50000,
-    "totalBond": 424301
+    "totalBond": 427401
   },
   "chargesPerBooking": 1.6
 }
