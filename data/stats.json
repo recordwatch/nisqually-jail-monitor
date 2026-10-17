@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:47:15",
+  "generatedAt": "2026-10-17T01:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 532,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 275,
-      "pct": 31.5
+      "pct": 31.4
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI",
-      "count": 33,
-      "pct": 3.8
+      "count": 34,
+      "pct": 3.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 26,
-      "pct": 3
+      "count": 27,
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 263,
-      "pct": 49.9,
+      "pct": 49.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 86,
-      "pct": 16.3,
+      "count": 87,
+      "pct": 16.5,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 273,
-      "pct": 36.1,
+      "pct": 36,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 257,
-      "pct": 33.9,
+      "count": 258,
+      "pct": 34,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 214,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 226
   },
   "bond": {
-    "withBond": 91,
-    "noBond": 176,
+    "withBond": 92,
+    "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 428401
+    "totalBond": 429901
   },
   "chargesPerBooking": 1.6
 }
