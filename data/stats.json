@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T08:27:15",
+  "generatedAt": "2026-10-18T08:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 550,
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI",
-      "count": 38,
-      "pct": 4.2
+      "count": 39,
+      "pct": 4.3
     },
     {
       "name": "ASSAULT IV -DV",
@@ -194,7 +194,7 @@
     {
       "name": "ASSAULT-4",
       "count": 24,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -363,8 +363,8 @@
     },
     {
       "name": "GM",
-      "count": 272,
-      "pct": 34.7,
+      "count": 273,
+      "pct": 34.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 169,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 430401
+    "totalBond": 431401
   },
   "chargesPerBooking": 1.6
 }
