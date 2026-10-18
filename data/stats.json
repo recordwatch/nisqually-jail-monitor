@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T09:07:17",
+  "generatedAt": "2026-10-18T09:21:05",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 550,
     "bookingsObserved": 286,
     "releasesObserved": 283,
     "inCustody": 267,
-    "uniquePeople": 538
+    "uniquePeople": 539
   },
   "bookingsByDay": [
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 194
+        "count": 195
       },
       {
         "label": "45–54",
