@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T05:27:16",
+  "generatedAt": "2026-10-18T05:42:59",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 549,
-    "bookingsObserved": 285,
+    "bookingsTracked": 550,
+    "bookingsObserved": 286,
     "releasesObserved": 278,
-    "inCustody": 271,
+    "inCustody": 272,
     "uniquePeople": 538
   },
   "bookingsByDay": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 36,
-      "pct": 4
+      "count": 37,
+      "pct": 4.1
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 92,
-      "pct": 16.9,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 27,
-      "pct": 5,
+      "pct": 4.9,
       "label": "FEDERAL WAY"
     },
     {
@@ -326,13 +326,13 @@
     {
       "name": "SQUAXIN ISLAND PD",
       "count": 3,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "NEZ PERCE TRIBE"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "F",
       "count": 274,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 271,
-      "pct": 34.6,
+      "count": 272,
+      "pct": 34.7,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 368,
+      "count": 369,
       "pct": 67.8
     },
     {
       "name": "Black",
       "count": 103,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "N",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 429,
-      "pct": 78.4
+      "pct": 78.3
     },
     {
       "name": "Female",
-      "count": 118,
-      "pct": 21.6
+      "count": 119,
+      "pct": 21.7
     }
   ],
   "ages": {
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 98,
-    "noBond": 173,
+    "noBond": 174,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 430401
