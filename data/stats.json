@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T22:27:14",
+  "generatedAt": "2026-10-18T22:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 558,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 9,
+      "booked": 11,
       "released": 7
     }
   ],
@@ -312,16 +312,16 @@
       "label": "YELM PD"
     },
     {
-      "name": "SHELTON PD",
-      "count": 4,
-      "pct": 0.7,
-      "label": "SHELTON PD"
-    },
-    {
       "name": "SQUAXIN ISLAND PD",
       "count": 4,
       "pct": 0.7,
       "label": "SQUAXIN ISLAND PD"
+    },
+    {
+      "name": "SHELTON PD",
+      "count": 4,
+      "pct": 0.7,
+      "label": "SHELTON PD"
     },
     {
       "name": "DOC",
