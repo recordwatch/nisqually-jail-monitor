@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T21:07:16",
+  "generatedAt": "2026-10-18T21:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 555,
-    "bookingsObserved": 291,
+    "bookingsTracked": 556,
+    "bookingsObserved": 292,
     "releasesObserved": 284,
-    "inCustody": 271,
-    "uniquePeople": 544
+    "inCustody": 272,
+    "uniquePeople": 545
   },
   "bookingsByDay": [
     {
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 276,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
@@ -192,14 +192,14 @@
       "pct": 3
     },
     {
-      "name": "ASSAULT-4",
+      "name": "CRIMINAL TRESPASS-2",
       "count": 24,
       "pct": 2.6
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
-      "count": 23,
-      "pct": 2.5
+      "name": "ASSAULT-4",
+      "count": 24,
+      "pct": 2.6
     },
     {
       "name": "DWLS/DWLR III",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 264,
-      "pct": 47.9,
+      "pct": 47.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 93,
-      "pct": 16.9,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -318,16 +318,16 @@
       "label": "SHELTON PD"
     },
     {
+      "name": "SQUAXIN ISLAND PD",
+      "count": 4,
+      "pct": 0.7,
+      "label": "SQUAXIN ISLAND PD"
+    },
+    {
       "name": "DOC",
       "count": 4,
       "pct": 0.7,
       "label": "DOC"
-    },
-    {
-      "name": "SQUAXIN ISLAND PD",
-      "count": 3,
-      "pct": 0.5,
-      "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "NEZ PERCE TRIBE",
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 277,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 274,
-      "pct": 34.7,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 226,
-      "pct": 28.6,
+      "count": 227,
+      "pct": 28.7,
       "label": "Misdemeanor"
     },
     {
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 372,
-      "pct": 68
+      "pct": 67.9
     },
     {
       "name": "Black",
@@ -417,8 +417,8 @@
     },
     {
       "name": "N",
-      "count": 30,
-      "pct": 5.5
+      "count": 31,
+      "pct": 5.7
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 431,
-      "pct": 78.1
+      "pct": 77.9
     },
     {
       "name": "Female",
-      "count": 121,
-      "pct": 21.9
+      "count": 122,
+      "pct": 22.1
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 197
+        "count": 198
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 99,
-    "noBond": 172,
+    "noBond": 173,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 430901
