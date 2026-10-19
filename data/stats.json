@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:27:16",
+  "generatedAt": "2026-10-19T13:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 567,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 282,
-      "pct": 30.5
+      "count": 283,
+      "pct": 30.6
     },
     {
       "name": "THEFT III",
@@ -184,7 +184,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 31,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 270,
-      "pct": 48,
+      "count": 271,
+      "pct": 48.1,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 65,
-      "pct": 11.6,
+      "pct": 11.5,
       "label": "LACEY PD"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 280,
-      "pct": 34.9,
+      "count": 281,
+      "pct": 35,
       "label": "Felony"
     },
     {
