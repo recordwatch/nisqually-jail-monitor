@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:47:14",
+  "generatedAt": "2026-10-19T16:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 567,
@@ -184,7 +184,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 31,
-      "pct": 3.3
+      "pct": 3.4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -207,14 +207,14 @@
       "pct": 2.2
     },
     {
-      "name": "CRIMINAL TRESPASS-1",
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
       "pct": 1.7
     },
     {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 16,
-      "pct": 1.7
+      "name": "CRIMINAL TRESPASS-1",
+      "count": 15,
+      "pct": 1.6
     },
     {
       "name": "RESISTING ARREST",
@@ -356,16 +356,16 @@
   ],
   "levels": [
     {
-      "name": "GM",
-      "count": 282,
-      "pct": 35.1,
-      "label": "Gross Misdemeanor"
-    },
-    {
       "name": "F",
       "count": 281,
       "pct": 35,
       "label": "Felony"
+    },
+    {
+      "name": "GM",
+      "count": 281,
+      "pct": 35,
+      "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
@@ -521,7 +521,7 @@
     "noBond": 170,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 431401
+    "totalBond": 454401
   },
   "chargesPerBooking": 1.6
 }
