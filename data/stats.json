@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:47:14",
+  "generatedAt": "2026-10-19T11:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 561,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 278,
+      "count": 279,
       "pct": 30.3
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 266,
-      "pct": 47.8,
+      "count": 267,
+      "pct": 47.9,
       "label": "WA DOC"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "FEDERAL WAY",
       "count": 27,
-      "pct": 4.9,
+      "pct": 4.8,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 22,
-      "pct": 4,
+      "pct": 3.9,
       "label": "TACOMA PD"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 276,
-      "pct": 34.6,
+      "count": 277,
+      "pct": 34.7,
       "label": "Felony"
     },
     {
@@ -466,11 +466,11 @@
       },
       {
         "label": "35–44",
-        "count": 199
+        "count": 198
       },
       {
         "label": "45–54",
-        "count": 90
+        "count": 91
       },
       {
         "label": "55+",
@@ -513,8 +513,8 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 11.4,
-    "currentLongestDaysHeld": 228.4
+    "currentMedianDaysHeld": 11.5,
+    "currentLongestDaysHeld": 228.5
   },
   "bond": {
     "withBond": 99,
