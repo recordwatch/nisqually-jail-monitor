@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T19:07:14",
+  "generatedAt": "2026-10-18T19:27:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 553,
-    "bookingsObserved": 289,
+    "bookingsTracked": 554,
+    "bookingsObserved": 290,
     "releasesObserved": 284,
-    "inCustody": 269,
-    "uniquePeople": 542
+    "inCustody": 270,
+    "uniquePeople": 543
   },
   "bookingsByDay": [
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 264,
-      "pct": 48.2,
+      "pct": 48.1,
       "label": "WA DOC"
     },
     {
@@ -336,6 +336,12 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
+      "name": "STEILACOOM PD",
+      "count": 2,
+      "pct": 0.4,
+      "label": "STEILACOOM PD"
+    },
+    {
       "name": "PUYALLUP TRIBE PD",
       "count": 2,
       "pct": 0.4,
@@ -346,31 +352,25 @@
       "count": 2,
       "pct": 0.4,
       "label": "NISQUALLY PD"
-    },
-    {
-      "name": "SWINOMISH",
-      "count": 2,
-      "pct": 0.4,
-      "label": "SWINOMISH"
     }
   ],
   "levels": [
     {
       "name": "F",
       "count": 274,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 274,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 225,
-      "pct": 28.6,
+      "count": 226,
+      "pct": 28.7,
       "label": "Misdemeanor"
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 161
+        "count": 162
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 98,
-    "noBond": 171,
+    "noBond": 172,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 429901
