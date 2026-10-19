@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T22:07:14",
+  "generatedAt": "2026-10-18T22:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 556,
-    "bookingsObserved": 292,
+    "bookingsTracked": 558,
+    "bookingsObserved": 294,
     "releasesObserved": 284,
-    "inCustody": 272,
-    "uniquePeople": 545
+    "inCustody": 274,
+    "uniquePeople": 547
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 8,
+      "booked": 9,
       "released": 7
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 80,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "DUI",
@@ -192,12 +192,12 @@
       "pct": 3
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
-      "count": 24,
-      "pct": 2.6
+      "name": "ASSAULT-4",
+      "count": 25,
+      "pct": 2.7
     },
     {
-      "name": "ASSAULT-4",
+      "name": "CRIMINAL TRESPASS-2",
       "count": 24,
       "pct": 2.6
     },
@@ -209,7 +209,7 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 264,
-      "pct": 47.8,
+      "pct": 47.7,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 32,
-      "pct": 5.8,
+      "count": 33,
+      "pct": 6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 278,
-      "pct": 35.1,
+      "count": 279,
+      "pct": 35.2,
       "label": "Gross Misdemeanor"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 227,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 372,
-      "pct": 67.9
+      "count": 373,
+      "pct": 67.8
     },
     {
       "name": "Black",
-      "count": 103,
-      "pct": 18.8
+      "count": 104,
+      "pct": 18.9
     },
     {
       "name": "N",
       "count": 31,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 431,
-      "pct": 77.9
+      "pct": 77.7
     },
     {
       "name": "Female",
-      "count": 122,
-      "pct": 22.1
+      "count": 124,
+      "pct": 22.3
     }
   ],
   "ages": {
@@ -458,11 +458,11 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 40
+        "count": 41
       },
       {
         "label": "25–34",
-        "count": 162
+        "count": 163
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 227.9
   },
   "bond": {
-    "withBond": 99,
-    "noBond": 173,
+    "withBond": 100,
+    "noBond": 174,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 430901
+    "totalBond": 431901
   },
   "chargesPerBooking": 1.6
 }
