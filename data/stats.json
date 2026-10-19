@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T18:47:16",
+  "generatedAt": "2026-10-18T19:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 552,
-    "bookingsObserved": 288,
+    "bookingsTracked": 553,
+    "bookingsObserved": 289,
     "releasesObserved": 284,
-    "inCustody": 268,
-    "uniquePeople": 541
+    "inCustody": 269,
+    "uniquePeople": 542
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 5,
+      "booked": 6,
       "released": 7
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 264,
-      "pct": 48.3,
+      "pct": 48.2,
       "label": "WA DOC"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "LACEY PD",
-      "count": 63,
-      "pct": 11.5,
+      "count": 64,
+      "pct": 11.7,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 32,
-      "pct": 5.9,
+      "pct": 5.8,
       "label": "LAKEWOOD PD"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 371,
-      "pct": 67.9
+      "count": 372,
+      "pct": 68
     },
     {
       "name": "Black",
       "count": 103,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "name": "N",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 430,
-      "pct": 78.2
+      "pct": 78
     },
     {
       "name": "Female",
-      "count": 120,
-      "pct": 21.8
+      "count": 121,
+      "pct": 22
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 195
+        "count": 196
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 227.8
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 98,
     "noBond": 171,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 429401
+    "totalBond": 429901
   },
   "chargesPerBooking": 1.6
 }
