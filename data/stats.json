@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T21:27:14",
+  "generatedAt": "2026-10-18T21:47:22",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 556,
@@ -179,7 +179,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 37,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 277,
-      "pct": 35,
+      "count": 278,
+      "pct": 35.1,
       "label": "Gross Misdemeanor"
     },
     {
