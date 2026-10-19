@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T08:27:29",
+  "generatedAt": "2026-10-19T08:47:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 558,
-    "bookingsObserved": 294,
+    "bookingsTracked": 559,
+    "bookingsObserved": 295,
     "releasesObserved": 296,
-    "inCustody": 262,
-    "uniquePeople": 547
+    "inCustody": 263,
+    "uniquePeople": 548
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 0,
+      "booked": 1,
       "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 276,
-      "pct": 30.1
+      "count": 277,
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
@@ -174,7 +174,7 @@
     {
       "name": "DUI",
       "count": 39,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 264,
+      "count": 265,
       "pct": 47.7,
       "label": "WA DOC"
     },
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 33,
-      "pct": 6,
+      "pct": 5.9,
       "label": "LAKEWOOD PD"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 274,
+      "count": 275,
       "pct": 34.5,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 228,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 373,
-      "pct": 67.8
+      "pct": 67.7
     },
     {
       "name": "Black",
-      "count": 104,
-      "pct": 18.9
+      "count": 105,
+      "pct": 19.1
     },
     {
       "name": "N",
@@ -423,7 +423,7 @@
     {
       "name": "Unknown",
       "count": 19,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 431,
+      "count": 432,
       "pct": 77.7
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 163
+        "count": 164
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 99,
-    "noBond": 163,
+    "noBond": 164,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 430651
