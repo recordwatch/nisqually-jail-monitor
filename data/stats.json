@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:07:15",
+  "generatedAt": "2026-10-20T11:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 586,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 288,
-      "pct": 30.3
+      "count": 289,
+      "pct": 30.4
     },
     {
       "name": "THEFT III",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 276,
+      "count": 277,
       "pct": 47.8,
       "label": "WA DOC"
     },
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 289,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 286,
-      "pct": 34.7,
+      "count": 287,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
