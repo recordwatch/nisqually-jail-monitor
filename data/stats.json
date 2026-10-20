@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T12:07:14",
+  "generatedAt": "2026-10-20T12:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 591,
-    "bookingsObserved": 327,
+    "bookingsTracked": 593,
+    "bookingsObserved": 329,
     "releasesObserved": 326,
-    "inCustody": 265,
-    "uniquePeople": 575
+    "inCustody": 267,
+    "uniquePeople": 577
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 14,
+      "booked": 16,
       "released": 7
     }
   ],
@@ -239,7 +239,7 @@
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 11,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 281,
-      "pct": 48.2,
+      "pct": 48.1,
       "label": "WA DOC"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 236,
-      "pct": 28.5,
+      "count": 237,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 391,
-      "pct": 67.4
+      "count": 393,
+      "pct": 67.5
     },
     {
       "name": "Black",
       "count": 113,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 460,
+      "count": 462,
       "pct": 78.4
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 173
+        "count": 175
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229.5
   },
   "bond": {
-    "withBond": 92,
-    "noBond": 173,
+    "withBond": 93,
+    "noBond": 174,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 403301
+    "totalBond": 413301
   },
   "chargesPerBooking": 1.6
 }
