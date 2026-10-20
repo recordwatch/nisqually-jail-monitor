@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T01:49:10",
+  "generatedAt": "2026-10-20T02:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 577,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 285,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 234,
-      "pct": 28.6,
+      "count": 235,
+      "pct": 28.7,
       "label": "Misdemeanor"
     },
     {
