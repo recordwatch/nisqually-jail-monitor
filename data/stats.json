@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T10:07:17",
+  "generatedAt": "2026-10-20T10:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 583,
-    "bookingsObserved": 319,
+    "bookingsTracked": 586,
+    "bookingsObserved": 322,
     "releasesObserved": 326,
-    "inCustody": 257,
-    "uniquePeople": 569
+    "inCustody": 260,
+    "uniquePeople": 572
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 7,
+      "booked": 8,
       "released": 7
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 287,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
@@ -178,8 +178,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 37,
-      "pct": 3.9
+      "count": 38,
+      "pct": 4
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -254,31 +254,31 @@
     {
       "name": "MALICIOUS MISCHIEF - 3",
       "count": 9,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "MALICIOUS MISCHIEF",
       "count": 9,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
       "count": 275,
-      "pct": 47.8,
+      "pct": 47.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 96,
-      "pct": 16.7,
+      "count": 97,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 67,
-      "pct": 11.7,
+      "pct": 11.6,
       "label": "LACEY PD"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 13,
-      "pct": 2.3,
+      "count": 14,
+      "pct": 2.4,
       "label": "TUMWATER PD"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 287,
-      "pct": 35,
+      "count": 289,
+      "pct": 35.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 285,
-      "pct": 34.7,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 386,
+      "count": 388,
       "pct": 67.5
     },
     {
       "name": "Black",
       "count": 111,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "N",
@@ -422,8 +422,8 @@
     },
     {
       "name": "Asian",
-      "count": 19,
-      "pct": 3.3
+      "count": 20,
+      "pct": 3.5
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 452,
-      "pct": 78.1
+      "count": 455,
+      "pct": 78.2
     },
     {
       "name": "Female",
       "count": 127,
-      "pct": 21.9
+      "pct": 21.8
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 206
+        "count": 208
       },
       {
         "label": "45–54",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 70
+        "count": 71
       }
     ]
   },
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 92,
-    "noBond": 165,
+    "noBond": 168,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 403801
