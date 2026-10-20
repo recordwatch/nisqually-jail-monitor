@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:07:14",
+  "generatedAt": "2026-10-19T22:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 573,
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 272,
-      "pct": 48,
+      "count": 273,
+      "pct": 48.1,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 65,
-      "pct": 11.5,
+      "pct": 11.4,
       "label": "LACEY PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 285,
-      "pct": 35.2,
+      "pct": 35.1,
       "label": "Gross Misdemeanor"
     },
     {
@@ -380,6 +380,12 @@
       "label": "FC"
     },
     {
+      "name": "AD",
+      "count": 2,
+      "pct": 0.2,
+      "label": "AD"
+    },
+    {
       "name": "FA",
       "count": 2,
       "pct": 0.2,
@@ -396,12 +402,6 @@
       "count": 1,
       "pct": 0.1,
       "label": "B"
-    },
-    {
-      "name": "AD",
-      "count": 1,
-      "pct": 0.1,
-      "label": "AD"
     }
   ],
   "race": [
