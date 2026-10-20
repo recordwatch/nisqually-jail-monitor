@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:07:19",
+  "generatedAt": "2026-10-20T04:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 579,
@@ -194,7 +194,7 @@
     {
       "name": "ASSAULT-4",
       "count": 25,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 274,
-      "pct": 47.9,
+      "pct": 47.8,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 36,
-      "pct": 6.3,
+      "count": 37,
+      "pct": 6.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 286,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 235,
-      "pct": 28.7,
+      "count": 236,
+      "pct": 28.8,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229.2
   },
   "bond": {
-    "withBond": 92,
-    "noBond": 168,
+    "withBond": 93,
+    "noBond": 167,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 448801
+    "totalBond": 456301
   },
   "chargesPerBooking": 1.6
 }
