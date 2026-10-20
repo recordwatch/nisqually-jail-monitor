@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T15:06:36",
+  "generatedAt": "2026-10-20T15:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 597,
-    "bookingsObserved": 333,
+    "bookingsTracked": 598,
+    "bookingsObserved": 334,
     "releasesObserved": 330,
-    "inCustody": 267,
+    "inCustody": 268,
     "uniquePeople": 580
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 18,
+      "booked": 19,
       "released": 11
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 296,
-      "pct": 30.8
+      "pct": 30.7
     },
     {
       "name": "THEFT III",
@@ -174,12 +174,12 @@
     {
       "name": "DUI",
       "count": 39,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "ASSAULT IV -DV",
       "count": 38,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -207,6 +207,11 @@
       "pct": 2.1
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 16,
+      "pct": 1.7
+    },
+    {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
       "pct": 1.7
@@ -222,14 +227,9 @@
       "pct": 1.6
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 15,
-      "pct": 1.6
-    },
-    {
       "name": "HARASSMENT",
       "count": 13,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 284,
-      "pct": 48.4,
+      "pct": 48.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 97,
-      "pct": 16.5,
+      "count": 98,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 237,
+      "count": 238,
       "pct": 28.5,
       "label": "Misdemeanor"
     },
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 394,
-      "pct": 67.2
+      "pct": 67.1
     },
     {
       "name": "Black",
-      "count": 114,
-      "pct": 19.5
+      "count": 115,
+      "pct": 19.6
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 466,
+      "count": 467,
       "pct": 78.6
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 211
+        "count": 212
       },
       {
         "label": "45–54",
@@ -518,10 +518,10 @@
   },
   "bond": {
     "withBond": 89,
-    "noBond": 178,
+    "noBond": 179,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 382301
+    "totalBond": 380801
   },
   "chargesPerBooking": 1.6
 }
