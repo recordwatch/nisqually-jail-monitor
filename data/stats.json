@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T00:47:15",
+  "generatedAt": "2026-10-20T01:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 576,
-    "bookingsObserved": 312,
+    "bookingsTracked": 577,
+    "bookingsObserved": 313,
     "releasesObserved": 319,
-    "inCustody": 257,
-    "uniquePeople": 563
+    "inCustody": 258,
+    "uniquePeople": 564
   },
   "bookingsByDay": [
     {
@@ -199,7 +199,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 24,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DWLS/DWLR III",
@@ -242,14 +242,14 @@
       "pct": 1.2
     },
     {
-      "name": "ASSAULT 4",
+      "name": "DISORDERLY CONDUCT",
       "count": 10,
       "pct": 1.1
     },
     {
-      "name": "DISORDERLY CONDUCT",
-      "count": 9,
-      "pct": 1
+      "name": "ASSAULT 4",
+      "count": 10,
+      "pct": 1.1
     },
     {
       "name": "MALICIOUS MISCHIEF - 3",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 274,
-      "pct": 48,
+      "pct": 47.9,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 66,
-      "pct": 11.6,
+      "pct": 11.5,
       "label": "LACEY PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 22,
-      "pct": 3.9,
+      "pct": 3.8,
       "label": "TACOMA PD"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "YELM PD",
-      "count": 8,
-      "pct": 1.4,
+      "count": 9,
+      "pct": 1.6,
       "label": "YELM PD"
     },
     {
@@ -338,19 +338,19 @@
     {
       "name": "STEILACOOM PD",
       "count": 2,
-      "pct": 0.4,
+      "pct": 0.3,
       "label": "STEILACOOM PD"
     },
     {
       "name": "PUYALLUP TRIBE PD",
       "count": 2,
-      "pct": 0.4,
+      "pct": 0.3,
       "label": "PUYALLUP TRIBE PD"
     },
     {
       "name": "NISQUALLY PD",
       "count": 2,
-      "pct": 0.4,
+      "pct": 0.3,
       "label": "NISQUALLY PD"
     }
   ],
@@ -364,12 +364,12 @@
     {
       "name": "F",
       "count": 283,
-      "pct": 34.7,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 233,
+      "count": 234,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 381,
-      "pct": 67.3
+      "count": 382,
+      "pct": 67.4
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 445,
+      "count": 446,
       "pct": 77.8
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 205
+        "count": 206
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229
   },
   "bond": {
-    "withBond": 91,
+    "withBond": 92,
     "noBond": 166,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 446801
+    "totalBond": 448801
   },
   "chargesPerBooking": 1.6
 }
