@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:47:17",
+  "generatedAt": "2026-10-20T11:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 586,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 287,
-      "pct": 30.2
+      "count": 288,
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
       "count": 85,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "DUI",
@@ -189,7 +189,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 28,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "ASSAULT-4",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 275,
-      "pct": 47.7,
+      "count": 276,
+      "pct": 47.8,
       "label": "WA DOC"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 285,
-      "pct": 34.6,
+      "count": 286,
+      "pct": 34.7,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 236,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -513,15 +513,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 12.4,
-    "currentLongestDaysHeld": 229.4
+    "currentMedianDaysHeld": 12.5,
+    "currentLongestDaysHeld": 229.5
   },
   "bond": {
     "withBond": 92,
     "noBond": 168,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 402301
+    "totalBond": 403301
   },
   "chargesPerBooking": 1.6
 }
