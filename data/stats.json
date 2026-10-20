@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T21:07:17",
+  "generatedAt": "2026-10-19T21:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 572,
     "bookingsObserved": 308,
     "releasesObserved": 318,
     "inCustody": 254,
-    "uniquePeople": 558
+    "uniquePeople": 559
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 12,
+      "booked": 13,
       "released": 34
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 82,
-      "pct": 8.8
+      "count": 84,
+      "pct": 9
     },
     {
       "name": "DUI",
@@ -204,7 +204,7 @@
     {
       "name": "DWLS/DWLR III",
       "count": 20,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 33,
-      "pct": 5.8,
+      "count": 34,
+      "pct": 6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -356,21 +356,21 @@
   ],
   "levels": [
     {
+      "name": "GM",
+      "count": 284,
+      "pct": 35.1,
+      "label": "Gross Misdemeanor"
+    },
+    {
       "name": "F",
       "count": 282,
       "pct": 34.9,
       "label": "Felony"
     },
     {
-      "name": "GM",
-      "count": 282,
-      "pct": 34.9,
-      "label": "Gross Misdemeanor"
-    },
-    {
       "name": "M",
       "count": 230,
-      "pct": 28.5,
+      "pct": 28.4,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 228.9
   },
   "bond": {
-    "withBond": 87,
-    "noBond": 167,
+    "withBond": 88,
+    "noBond": 166,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 435801
+    "totalBond": 439301
   },
   "chargesPerBooking": 1.6
 }
