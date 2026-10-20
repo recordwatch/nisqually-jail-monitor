@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T00:07:17",
+  "generatedAt": "2026-10-20T00:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 575,
-    "bookingsObserved": 311,
+    "bookingsTracked": 576,
+    "bookingsObserved": 312,
     "releasesObserved": 319,
-    "inCustody": 256,
-    "uniquePeople": 562
+    "inCustody": 257,
+    "uniquePeople": 563
   },
   "bookingsByDay": [
     {
@@ -164,17 +164,17 @@
     {
       "name": "DOC VIOLATION",
       "count": 285,
-      "pct": 30.4
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
       "count": 85,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "DUI",
       "count": 39,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 274,
-      "pct": 48.1,
+      "pct": 48,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 35,
-      "pct": 6.1,
+      "count": 36,
+      "pct": 6.3,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 285,
-      "pct": 35.1,
+      "count": 286,
+      "pct": 35,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 283,
-      "pct": 34.8,
+      "pct": 34.7,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 231,
-      "pct": 28.4,
+      "count": 233,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 41
+        "count": 42
       },
       {
         "label": "25–34",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229
   },
   "bond": {
-    "withBond": 90,
+    "withBond": 91,
     "noBond": 166,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 443801
+    "totalBond": 446801
   },
   "chargesPerBooking": 1.6
 }
