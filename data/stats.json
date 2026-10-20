@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T11:36:26",
+  "generatedAt": "2026-10-20T11:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 589,
-    "bookingsObserved": 325,
+    "bookingsTracked": 590,
+    "bookingsObserved": 326,
     "releasesObserved": 326,
-    "inCustody": 263,
+    "inCustody": 264,
     "uniquePeople": 574
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 13,
+      "booked": 14,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 291,
+      "count": 292,
       "pct": 30.5
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 280,
-      "pct": 48.1,
+      "count": 281,
+      "pct": 48.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 97,
-      "pct": 16.7,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 37,
-      "pct": 6.4,
+      "pct": 6.3,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 289,
-      "pct": 34.9,
+      "count": 290,
+      "pct": 35,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 390,
+      "count": 391,
       "pct": 67.5
     },
     {
       "name": "Black",
       "count": 112,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 458,
+      "count": 459,
       "pct": 78.3
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 172
+        "count": 173
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 92,
-    "noBond": 171,
+    "noBond": 172,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 403301
