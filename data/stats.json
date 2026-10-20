@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T23:27:16",
+  "generatedAt": "2026-10-19T23:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 574,
-    "bookingsObserved": 310,
+    "bookingsTracked": 575,
+    "bookingsObserved": 311,
     "releasesObserved": 319,
-    "inCustody": 255,
-    "uniquePeople": 561
+    "inCustody": 256,
+    "uniquePeople": 562
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 14,
+      "booked": 16,
       "released": 35
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 284,
-      "pct": 30.3
+      "count": 285,
+      "pct": 30.4
     },
     {
       "name": "THEFT III",
@@ -179,7 +179,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 37,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -212,17 +212,17 @@
       "pct": 1.7
     },
     {
+      "name": "THEFT",
+      "count": 15,
+      "pct": 1.6
+    },
+    {
       "name": "CRIMINAL TRESPASS-1",
       "count": 15,
       "pct": 1.6
     },
     {
       "name": "RESISTING ARREST",
-      "count": 15,
-      "pct": 1.6
-    },
-    {
-      "name": "THEFT",
       "count": 15,
       "pct": 1.6
     },
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 273,
-      "pct": 48,
+      "count": 274,
+      "pct": 48.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 96,
-      "pct": 16.9,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 35,
-      "pct": 6.2,
+      "pct": 6.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 282,
-      "pct": 34.7,
+      "count": 283,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 381,
-      "pct": 67.4
+      "pct": 67.3
     },
     {
       "name": "Black",
@@ -431,20 +431,20 @@
       "pct": 3.2
     },
     {
-      "name": "I",
+      "name": "P",
       "count": 3,
       "pct": 0.5
     },
     {
-      "name": "P",
-      "count": 2,
-      "pct": 0.4
+      "name": "I",
+      "count": 3,
+      "pct": 0.5
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 444,
+      "count": 445,
       "pct": 77.8
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 204
+        "count": 205
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 90,
-    "noBond": 165,
+    "noBond": 166,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 443801
