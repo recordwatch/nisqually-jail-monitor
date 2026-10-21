@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T16:47:16",
+  "generatedAt": "2026-10-20T17:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 599,
-    "bookingsObserved": 335,
+    "bookingsTracked": 601,
+    "bookingsObserved": 337,
     "releasesObserved": 331,
-    "inCustody": 268,
-    "uniquePeople": 581
+    "inCustody": 270,
+    "uniquePeople": 583
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 21,
+      "booked": 23,
       "released": 12
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 298,
-      "pct": 30.9
+      "pct": 30.8
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI",
-      "count": 39,
-      "pct": 4
+      "count": 40,
+      "pct": 4.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -219,12 +219,12 @@
     {
       "name": "THEFT",
       "count": 15,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 15,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "HARASSMENT",
@@ -237,14 +237,14 @@
       "pct": 1.2
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "DISORDERLY CONDUCT",
       "count": 11,
       "pct": 1.1
     },
     {
-      "name": "DISORDERLY CONDUCT",
-      "count": 10,
-      "pct": 1
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 11,
+      "pct": 1.1
     },
     {
       "name": "ASSAULT 4",
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 286,
-      "pct": 48.5,
+      "pct": 48.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 98,
-      "pct": 16.6,
+      "count": 99,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 67,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "LACEY PD"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 27,
-      "pct": 4.6,
+      "count": 28,
+      "pct": 4.7,
       "label": "FEDERAL WAY"
     },
     {
@@ -358,18 +358,18 @@
     {
       "name": "F",
       "count": 296,
-      "pct": 35.4,
+      "pct": 35.3,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 289,
+      "count": 290,
       "pct": 34.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 238,
+      "count": 239,
       "pct": 28.5,
       "label": "Misdemeanor"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 395,
-      "pct": 67.2
+      "count": 396,
+      "pct": 67.1
     },
     {
       "name": "Black",
-      "count": 115,
-      "pct": 19.6
+      "count": 116,
+      "pct": 19.7
     },
     {
       "name": "N",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 467,
-      "pct": 78.5
+      "count": 469,
+      "pct": 78.6
     },
     {
       "name": "Female",
       "count": 128,
-      "pct": 21.5
+      "pct": 21.4
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 176
+        "count": 177
       },
       {
         "label": "35–44",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 95
+        "count": 96
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229.7
   },
   "bond": {
-    "withBond": 88,
-    "noBond": 180,
+    "withBond": 89,
+    "noBond": 181,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 379301
+    "totalBond": 380601
   },
   "chargesPerBooking": 1.6
 }
