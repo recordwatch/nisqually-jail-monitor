@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T14:47:16",
+  "generatedAt": "2026-10-21T15:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 622,
-    "bookingsObserved": 358,
+    "bookingsTracked": 625,
+    "bookingsObserved": 361,
     "releasesObserved": 353,
-    "inCustody": 269,
-    "uniquePeople": 604
+    "inCustody": 272,
+    "uniquePeople": 607
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 10,
+      "booked": 12,
       "released": 14
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 308,
-      "pct": 30.9
+      "count": 309,
+      "pct": 30.8
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 40,
-      "pct": 4
+      "count": 41,
+      "pct": 4.1
     },
     {
       "name": "DUI",
@@ -183,8 +183,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 31,
-      "pct": 3.1
+      "count": 32,
+      "pct": 3.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -192,12 +192,12 @@
       "pct": 3
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
-      "count": 25,
-      "pct": 2.5
+      "name": "ASSAULT-4",
+      "count": 27,
+      "pct": 2.7
     },
     {
-      "name": "ASSAULT-4",
+      "name": "CRIMINAL TRESPASS-2",
       "count": 25,
       "pct": 2.5
     },
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 295,
-      "pct": 48,
+      "count": 296,
+      "pct": 47.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 103,
-      "pct": 16.7,
+      "count": 105,
+      "pct": 17,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 68,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 38,
-      "pct": 6.2,
+      "pct": 6.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -314,19 +314,19 @@
     {
       "name": "SQUAXIN ISLAND PD",
       "count": 4,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "SHELTON PD",
       "count": 4,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "SHELTON PD"
     },
     {
       "name": "DOC",
       "count": 4,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "DOC"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "F",
-      "count": 306,
+      "count": 307,
       "pct": 35.4,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 300,
-      "pct": 34.7,
+      "count": 303,
+      "pct": 34.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 245,
-      "pct": 28.4,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 407,
+      "count": 409,
       "pct": 66.6
     },
     {
       "name": "Black",
-      "count": 117,
-      "pct": 19.1
+      "count": 118,
+      "pct": 19.2
     },
     {
       "name": "N",
       "count": 34,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "Unknown",
@@ -444,17 +444,17 @@
   "sex": [
     {
       "name": "Male",
-      "count": 485,
-      "pct": 78.5
+      "count": 488,
+      "pct": 78.6
     },
     {
       "name": "Female",
       "count": 133,
-      "pct": 21.5
+      "pct": 21.4
     }
   ],
   "ages": {
-    "median": 37.5,
+    "median": 38,
     "groups": [
       {
         "label": "18–24",
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 184
+        "count": 185
       },
       {
         "label": "35–44",
-        "count": 220
+        "count": 221
       },
       {
         "label": "45–54",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 73
+        "count": 74
       }
     ]
   },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 230.6
   },
   "bond": {
-    "withBond": 87,
-    "noBond": 182,
+    "withBond": 88,
+    "noBond": 184,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 390351
+    "totalBond": 393351
   },
   "chargesPerBooking": 1.6
 }
