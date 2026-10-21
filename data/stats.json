@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T21:07:17",
+  "generatedAt": "2026-10-20T21:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 607,
-    "bookingsObserved": 343,
+    "bookingsTracked": 610,
+    "bookingsObserved": 346,
     "releasesObserved": 338,
-    "inCustody": 269,
-    "uniquePeople": 589
+    "inCustody": 272,
+    "uniquePeople": 592
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 29,
+      "booked": 32,
       "released": 19
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 301,
-      "pct": 30.8
+      "pct": 30.7
     },
     {
       "name": "THEFT III",
-      "count": 86,
-      "pct": 8.8
+      "count": 87,
+      "pct": 8.9
     },
     {
       "name": "DUI",
@@ -194,12 +194,12 @@
     {
       "name": "ASSAULT-4",
       "count": 25,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 24,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DWLS/DWLR III",
@@ -207,17 +207,17 @@
       "pct": 2
     },
     {
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "count": 18,
+      "pct": 1.8
+    },
+    {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 16,
-      "pct": 1.6
+      "count": 17,
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
-      "count": 16,
-      "pct": 1.6
-    },
-    {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
       "pct": 1.6
     },
@@ -266,25 +266,25 @@
     {
       "name": "WA DOC",
       "count": 290,
-      "pct": 48.4,
+      "pct": 48.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 100,
-      "pct": 16.7,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 67,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 37,
-      "pct": 6.2,
+      "pct": 6.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 24,
-      "pct": 4,
+      "count": 27,
+      "pct": 4.5,
       "label": "TACOMA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 299,
-      "pct": 35.4,
+      "pct": 35.3,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 292,
-      "pct": 34.6,
+      "count": 294,
+      "pct": 34.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 240,
-      "pct": 28.4,
+      "count": 242,
+      "pct": 28.5,
       "label": "Misdemeanor"
     },
     {
@@ -408,11 +408,11 @@
     {
       "name": "White",
       "count": 399,
-      "pct": 66.9
+      "pct": 66.6
     },
     {
       "name": "Black",
-      "count": 116,
+      "count": 117,
       "pct": 19.5
     },
     {
@@ -423,7 +423,7 @@
     {
       "name": "Asian",
       "count": 20,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "Unknown",
@@ -432,8 +432,8 @@
     },
     {
       "name": "I",
-      "count": 5,
-      "pct": 0.8
+      "count": 7,
+      "pct": 1.2
     },
     {
       "name": "P",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 474,
-      "pct": 78.6
+      "count": 476,
+      "pct": 78.5
     },
     {
       "name": "Female",
-      "count": 129,
-      "pct": 21.4
+      "count": 130,
+      "pct": 21.5
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 216
+        "count": 219
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229.9
   },
   "bond": {
-    "withBond": 85,
-    "noBond": 184,
-    "medianBond": 2000,
+    "withBond": 87,
+    "noBond": 185,
+    "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 372351
+    "totalBond": 372851
   },
   "chargesPerBooking": 1.6
 }
