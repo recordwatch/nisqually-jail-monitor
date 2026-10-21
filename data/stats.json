@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:07:15",
+  "generatedAt": "2026-10-21T16:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 628,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 15,
+      "booked": 16,
       "released": 15
     }
   ],
@@ -252,12 +252,12 @@
       "pct": 1
     },
     {
-      "name": "OBSTRUCTING A PUBLIC SERVANT",
+      "name": "VIOLATION NO CONTACT ORDER",
       "count": 9,
       "pct": 0.9
     },
     {
-      "name": "MALICIOUS MISCHIEF - 3",
+      "name": "OBSTRUCTING A PUBLIC SERVANT",
       "count": 9,
       "pct": 0.9
     }
@@ -513,7 +513,7 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 12.7,
+    "currentMedianDaysHeld": 12.2,
     "currentLongestDaysHeld": 230.7
   },
   "bond": {
