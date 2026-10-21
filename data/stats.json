@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T17:07:14",
+  "generatedAt": "2026-10-20T17:27:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 601,
-    "bookingsObserved": 337,
+    "bookingsTracked": 602,
+    "bookingsObserved": 338,
     "releasesObserved": 331,
-    "inCustody": 270,
-    "uniquePeople": 583
+    "inCustody": 271,
+    "uniquePeople": 584
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 23,
+      "booked": 24,
       "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 298,
-      "pct": 30.8
+      "count": 299,
+      "pct": 30.9
     },
     {
       "name": "THEFT III",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 286,
-      "pct": 48.3,
+      "count": 287,
+      "pct": 48.4,
       "label": "WA DOC"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 37,
-      "pct": 6.3,
+      "pct": 6.2,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "F",
-      "count": 296,
-      "pct": 35.3,
+      "count": 297,
+      "pct": 35.4,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 396,
-      "pct": 67.1
+      "count": 397,
+      "pct": 67.2
     },
     {
       "name": "Black",
       "count": 116,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 469,
+      "count": 470,
       "pct": 78.6
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 177
+        "count": 178
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 89,
-    "noBond": 181,
+    "noBond": 182,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 380601
