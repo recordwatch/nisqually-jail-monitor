@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:27:17",
+  "generatedAt": "2026-10-20T17:45:23",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 602,
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 24,
+      "booked": 26,
       "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 299,
+      "count": 300,
       "pct": 30.9
     },
     {
@@ -209,12 +209,12 @@
     {
       "name": "RESISTING ARREST",
       "count": 16,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 16,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "THEFT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 287,
-      "pct": 48.4,
+      "count": 288,
+      "pct": 48.5,
       "label": "WA DOC"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "F",
-      "count": 297,
-      "pct": 35.4,
+      "count": 298,
+      "pct": 35.5,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 290,
-      "pct": 34.6,
+      "pct": 34.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 178
+        "count": 177
       },
       {
         "label": "35–44",
-        "count": 213
+        "count": 214
       },
       {
         "label": "45–54",
