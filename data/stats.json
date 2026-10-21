@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:47:14",
+  "generatedAt": "2026-10-21T05:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 615,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 301,
-      "pct": 30.4
+      "count": 302,
+      "pct": 30.5
     },
     {
       "name": "THEFT III",
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "F",
-      "count": 299,
+      "count": 300,
       "pct": 35,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 299,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Gross Misdemeanor"
     },
     {
