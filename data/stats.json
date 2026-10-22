@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T11:42:22",
+  "generatedAt": "2026-10-22T11:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 656,
-    "bookingsObserved": 392,
+    "bookingsTracked": 657,
+    "bookingsObserved": 393,
     "releasesObserved": 383,
-    "inCustody": 273,
-    "uniquePeople": 634
+    "inCustody": 274,
+    "uniquePeople": 635
   },
   "bookingsByDay": [
     {
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 318,
-      "pct": 29.5
+      "pct": 29.6
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 44,
-      "pct": 4.1
+      "count": 45,
+      "pct": 4.2
     },
     {
       "name": "DUI",
@@ -212,12 +212,12 @@
       "pct": 1.9
     },
     {
-      "name": "RESISTING ARREST",
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 19,
       "pct": 1.8
     },
     {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "name": "RESISTING ARREST",
       "count": 18,
       "pct": 1.7
     },
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 326,
-      "pct": 35.1,
+      "count": 323,
+      "pct": 34.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 273,
-      "pct": 29.4,
+      "count": 274,
+      "pct": 29.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 423,
+      "count": 424,
       "pct": 66.1
     },
     {
       "name": "Black",
       "count": 124,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 513,
+      "count": 514,
       "pct": 78.7
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 234
+        "count": 235
       },
       {
         "label": "45–54",
@@ -513,15 +513,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 9.8,
+    "currentMedianDaysHeld": 9.6,
     "currentLongestDaysHeld": 231.5
   },
   "bond": {
-    "withBond": 89,
+    "withBond": 90,
     "noBond": 184,
-    "medianBond": 1500,
+    "medianBond": 1675,
     "maxBond": 50000,
-    "totalBond": 382451
+    "totalBond": 390451
   },
   "chargesPerBooking": 1.6
 }
