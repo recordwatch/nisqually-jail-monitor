@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T12:47:15",
+  "generatedAt": "2026-10-22T13:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 658,
-    "bookingsObserved": 394,
+    "bookingsTracked": 660,
+    "bookingsObserved": 396,
     "releasesObserved": 384,
-    "inCustody": 274,
-    "uniquePeople": 636
+    "inCustody": 276,
+    "uniquePeople": 638
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 14,
+      "booked": 16,
       "released": 16
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 320,
-      "pct": 29.7
+      "count": 322,
+      "pct": 29.8
     },
     {
       "name": "THEFT III",
@@ -189,7 +189,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 34,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -242,14 +242,14 @@
       "pct": 1.2
     },
     {
-      "name": "DISORDERLY CONDUCT",
+      "name": "ASSAULT 4",
       "count": 11,
       "pct": 1
     },
     {
-      "name": "ASSAULT 4",
-      "count": 10,
-      "pct": 0.9
+      "name": "DISORDERLY CONDUCT",
+      "count": 11,
+      "pct": 1
     },
     {
       "name": "OBSTRUCTING A PUBLIC SERVANT",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 307,
-      "pct": 47.2,
+      "count": 309,
+      "pct": 47.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 112,
-      "pct": 17.2,
+      "count": 113,
+      "pct": 17.3,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 70,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "LACEY PD"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.8,
+      "pct": 4.7,
       "label": "TACOMA PD"
     },
     {
       "name": "TUMWATER PD",
       "count": 14,
-      "pct": 2.2,
+      "pct": 2.1,
       "label": "TUMWATER PD"
     },
     {
@@ -358,18 +358,18 @@
     {
       "name": "GM",
       "count": 323,
-      "pct": 34.8,
+      "pct": 34.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 318,
-      "pct": 34.3,
+      "count": 320,
+      "pct": 34.4,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 274,
+      "count": 275,
       "pct": 29.5,
       "label": "Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 425,
-      "pct": 66.2
+      "count": 427,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -418,7 +418,7 @@
     {
       "name": "N",
       "count": 35,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 515,
-      "pct": 78.7
+      "count": 517,
+      "pct": 78.8
     },
     {
       "name": "Female",
       "count": 139,
-      "pct": 21.3
+      "pct": 21.2
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 46
+        "count": 47
       },
       {
         "label": "25–34",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 235
+        "count": 236
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 231.5
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 184,
-    "medianBond": 1675,
+    "withBond": 91,
+    "noBond": 185,
+    "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 390451
+    "totalBond": 391451
   },
   "chargesPerBooking": 1.6
 }
