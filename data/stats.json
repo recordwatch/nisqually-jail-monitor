@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T16:47:15",
+  "generatedAt": "2026-10-21T17:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 628,
-    "bookingsObserved": 364,
+    "bookingsTracked": 629,
+    "bookingsObserved": 365,
     "releasesObserved": 354,
-    "inCustody": 274,
-    "uniquePeople": 609
+    "inCustody": 275,
+    "uniquePeople": 610
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 16,
+      "booked": 17,
       "released": 15
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 310,
+      "count": 311,
       "pct": 30.7
     },
     {
@@ -174,12 +174,12 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 41,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "DUI",
       "count": 40,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -217,12 +217,12 @@
       "pct": 1.8
     },
     {
-      "name": "THEFT",
-      "count": 16,
-      "pct": 1.6
+      "name": "RESISTING ARREST",
+      "count": 17,
+      "pct": 1.7
     },
     {
-      "name": "RESISTING ARREST",
+      "name": "THEFT",
       "count": 16,
       "pct": 1.6
     },
@@ -252,12 +252,12 @@
       "pct": 1
     },
     {
-      "name": "VIOLATION NO CONTACT ORDER",
+      "name": "OBSTRUCTING A PUBLIC SERVANT",
       "count": 9,
       "pct": 0.9
     },
     {
-      "name": "OBSTRUCTING A PUBLIC SERVANT",
+      "name": "MALICIOUS MISCHIEF - 3",
       "count": 9,
       "pct": 0.9
     }
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 297,
-      "pct": 47.8,
+      "count": 298,
+      "pct": 47.9,
       "label": "WA DOC"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "F",
-      "count": 308,
-      "pct": 35.2,
+      "count": 309,
+      "pct": 35.3,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 308,
-      "pct": 35.2,
+      "count": 307,
+      "pct": 35,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 246,
-      "pct": 28.1,
+      "count": 247,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 411,
-      "pct": 66.6
+      "pct": 66.5
     },
     {
       "name": "Black",
-      "count": 118,
-      "pct": 19.1
+      "count": 119,
+      "pct": 19.3
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 491,
+      "count": 492,
       "pct": 78.7
     },
     {
@@ -454,7 +454,7 @@
     }
   ],
   "ages": {
-    "median": 37.5,
+    "median": 38,
     "groups": [
       {
         "label": "18–24",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 222
+        "count": 223
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 88,
-    "noBond": 186,
+    "noBond": 187,
     "medianBond": 1750,
     "maxBond": 50000,
     "totalBond": 392351
