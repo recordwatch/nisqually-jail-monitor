@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T10:27:15",
+  "generatedAt": "2026-10-22T10:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 651,
-    "bookingsObserved": 387,
-    "releasesObserved": 379,
-    "inCustody": 272,
-    "uniquePeople": 631
+    "bookingsTracked": 653,
+    "bookingsObserved": 389,
+    "releasesObserved": 380,
+    "inCustody": 273,
+    "uniquePeople": 632
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 7,
-      "released": 11
+      "booked": 9,
+      "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 316,
+      "count": 317,
       "pct": 29.5
     },
     {
       "name": "THEFT III",
-      "count": 97,
-      "pct": 9
+      "count": 98,
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -184,7 +184,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 36,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 303,
-      "pct": 47,
+      "count": 304,
+      "pct": 47.1,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 69,
-      "pct": 10.7,
+      "count": 70,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "YELM PD",
       "count": 10,
-      "pct": 1.6,
+      "pct": 1.5,
       "label": "YELM PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 325,
-      "pct": 35.1,
+      "count": 326,
+      "pct": 35.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 314,
-      "pct": 33.9,
+      "count": 315,
+      "pct": 34,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 273,
-      "pct": 29.5,
+      "pct": 29.4,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 419,
-      "pct": 66
+      "count": 421,
+      "pct": 66.1
     },
     {
       "name": "Black",
       "count": 123,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 509,
+      "count": 511,
       "pct": 78.7
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 192
+        "count": 193
       },
       {
         "label": "35–44",
-        "count": 231
+        "count": 232
       },
       {
         "label": "45–54",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 275,
+    "observed": 276,
     "officialDate": 104,
     "releaseListOnly": 103
   },
   "stay": {
-    "releasedCount": 275,
-    "medianDays": 3.3,
-    "meanDays": 9.5,
+    "releasedCount": 276,
+    "medianDays": 3.4,
+    "meanDays": 9.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -506,7 +506,7 @@
       },
       {
         "label": "1–3 months",
-        "count": 12
+        "count": 13
       },
       {
         "label": "3+ months",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 231.4
   },
   "bond": {
-    "withBond": 87,
+    "withBond": 88,
     "noBond": 185,
-    "medianBond": 1850,
+    "medianBond": 1675,
     "maxBond": 50000,
-    "totalBond": 380951
+    "totalBond": 381951
   },
   "chargesPerBooking": 1.6
 }
