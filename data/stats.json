@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:07:18",
+  "generatedAt": "2026-10-22T03:27:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 646,
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 43,
-      "pct": 4.1
+      "count": 44,
+      "pct": 4.2
     },
     {
       "name": "DUI",
@@ -193,7 +193,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 29,
+      "count": 28,
       "pct": 2.7
     },
     {
