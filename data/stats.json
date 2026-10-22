@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T07:27:17",
+  "generatedAt": "2026-10-22T07:47:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 650,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 316,
-      "pct": 29.6
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
       "count": 97,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 303,
-      "pct": 47.2,
+      "pct": 47.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 109,
-      "pct": 17,
+      "count": 110,
+      "pct": 17.1,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 324,
+      "count": 325,
       "pct": 35.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 314,
-      "pct": 34.1,
+      "pct": 33.9,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 271,
-      "pct": 29.4,
+      "count": 273,
+      "pct": 29.5,
       "label": "Misdemeanor"
     },
     {
