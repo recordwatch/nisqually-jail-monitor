@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T04:27:20",
+  "generatedAt": "2026-10-22T04:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 646,
-    "bookingsObserved": 382,
+    "bookingsTracked": 647,
+    "bookingsObserved": 383,
     "releasesObserved": 370,
-    "inCustody": 276,
-    "uniquePeople": 626
+    "inCustody": 277,
+    "uniquePeople": 627
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 2,
+      "booked": 3,
       "released": 2
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 316,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "THEFT III",
-      "count": 96,
-      "pct": 9.1
+      "count": 97,
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 303,
-      "pct": 47.4,
+      "pct": 47.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 107,
-      "pct": 16.7,
+      "count": 108,
+      "pct": 16.9,
       "label": "OLYMPIA PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.9,
+      "pct": 4.8,
       "label": "TACOMA PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 322,
-      "pct": 35.4,
+      "count": 323,
+      "pct": 35.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -376,7 +376,7 @@
     {
       "name": "FC",
       "count": 5,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "FC"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 417,
+      "count": 418,
       "pct": 66
     },
     {
       "name": "Black",
       "count": 123,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "N",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 506,
-      "pct": 78.8
+      "pct": 78.7
     },
     {
       "name": "Female",
-      "count": 136,
-      "pct": 21.2
+      "count": 137,
+      "pct": 21.3
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 228
+        "count": 229
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 231.2
   },
   "bond": {
-    "withBond": 84,
+    "withBond": 85,
     "noBond": 192,
-    "medianBond": 1925,
+    "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 365951
+    "totalBond": 370951
   },
   "chargesPerBooking": 1.6
 }
