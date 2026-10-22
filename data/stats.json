@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T17:47:17",
+  "generatedAt": "2026-10-21T18:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 636,
-    "bookingsObserved": 372,
+    "bookingsTracked": 638,
+    "bookingsObserved": 374,
     "releasesObserved": 356,
-    "inCustody": 280,
-    "uniquePeople": 617
+    "inCustody": 282,
+    "uniquePeople": 619
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 22,
+      "booked": 25,
       "released": 17
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 314,
-      "pct": 30.8
+      "pct": 30.6
     },
     {
       "name": "THEFT III",
@@ -183,8 +183,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 32,
-      "pct": 3.1
+      "count": 34,
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -199,17 +199,17 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 25,
-      "pct": 2.5
+      "pct": 2.4
+    },
+    {
+      "name": "CRIMINAL TRESPASS-1",
+      "count": 20,
+      "pct": 1.9
     },
     {
       "name": "DWLS/DWLR III",
       "count": 20,
-      "pct": 2
-    },
-    {
-      "name": "CRIMINAL TRESPASS-1",
-      "count": 18,
-      "pct": 1.8
+      "pct": 1.9
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 301,
-      "pct": 48,
+      "pct": 47.9,
       "label": "WA DOC"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 28,
-      "pct": 4.5,
+      "count": 30,
+      "pct": 4.8,
       "label": "TACOMA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 312,
-      "pct": 35.4,
+      "pct": 35.2,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 309,
+      "count": 311,
       "pct": 35.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 247,
-      "pct": 28,
+      "count": 250,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 412,
-      "pct": 66.1
+      "pct": 66
     },
     {
       "name": "Black",
-      "count": 120,
-      "pct": 19.3
+      "count": 121,
+      "pct": 19.4
     },
     {
       "name": "N",
@@ -444,17 +444,17 @@
   "sex": [
     {
       "name": "Male",
-      "count": 498,
-      "pct": 78.8
+      "count": 500,
+      "pct": 78.9
     },
     {
       "name": "Female",
       "count": 134,
-      "pct": 21.2
+      "pct": 21.1
     }
   ],
   "ages": {
-    "median": 37.5,
+    "median": 38,
     "groups": [
       {
         "label": "18–24",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 225
+        "count": 226
       },
       {
         "label": "45–54",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 75
+        "count": 76
       }
     ]
   },
@@ -513,15 +513,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 11.7,
-    "currentLongestDaysHeld": 230.7
+    "currentMedianDaysHeld": 11.8,
+    "currentLongestDaysHeld": 230.8
   },
   "bond": {
-    "withBond": 86,
+    "withBond": 88,
     "noBond": 194,
-    "medianBond": 1750,
+    "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 381351
+    "totalBond": 382701
   },
   "chargesPerBooking": 1.6
 }
