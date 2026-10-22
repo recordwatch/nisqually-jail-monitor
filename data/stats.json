@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-21T23:47:18",
+  "generatedAt": "2026-10-22T00:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 644,
-    "bookingsObserved": 380,
-    "releasesObserved": 368,
+    "bookingsTracked": 645,
+    "bookingsObserved": 381,
+    "releasesObserved": 369,
     "inCustody": 276,
     "uniquePeople": 625
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-22",
-      "booked": 13,
-      "released": 0
-    },
     {
       "date": "2026-09-23",
       "booked": 12,
@@ -158,18 +153,23 @@
       "date": "2026-10-21",
       "booked": 33,
       "released": 29
+    },
+    {
+      "date": "2026-10-22",
+      "booked": 1,
+      "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 316,
-      "pct": 30.1
+      "pct": 30
     },
     {
       "name": "THEFT III",
       "count": 94,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -202,12 +202,12 @@
       "pct": 2.7
     },
     {
-      "name": "CRIMINAL TRESPASS-1",
-      "count": 20,
-      "pct": 1.9
+      "name": "DWLS/DWLR III",
+      "count": 22,
+      "pct": 2.1
     },
     {
-      "name": "DWLS/DWLR III",
+      "name": "CRIMINAL TRESPASS-1",
       "count": 20,
       "pct": 1.9
     },
@@ -237,12 +237,12 @@
       "pct": 1.2
     },
     {
-      "name": "DISORDERLY CONDUCT",
-      "count": 11,
-      "pct": 1
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 12,
+      "pct": 1.1
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "DISORDERLY CONDUCT",
       "count": 11,
       "pct": 1
     },
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 303,
-      "pct": 47.6,
+      "pct": 47.5,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 106,
-      "pct": 16.6,
+      "count": 107,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 319,
-      "pct": 35.3,
+      "pct": 35.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 314,
-      "pct": 34.8,
+      "pct": 34.7,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 257,
-      "pct": 28.5,
+      "count": 260,
+      "pct": 28.7,
       "label": "Misdemeanor"
     },
     {
@@ -408,22 +408,22 @@
     {
       "name": "White",
       "count": 417,
-      "pct": 66.2
+      "pct": 66.1
     },
     {
       "name": "Black",
-      "count": 121,
-      "pct": 19.2
+      "count": 122,
+      "pct": 19.3
     },
     {
       "name": "N",
       "count": 35,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "Asian",
       "count": 23,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 505,
-      "pct": 78.9
+      "pct": 78.8
     },
     {
       "name": "Female",
-      "count": 135,
-      "pct": 21.1
+      "count": 136,
+      "pct": 21.2
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 227
+        "count": 228
       },
       {
         "label": "45–54",
@@ -479,18 +479,18 @@
     ]
   },
   "releaseSources": {
-    "observed": 264,
+    "observed": 265,
     "officialDate": 104,
     "releaseListOnly": 103
   },
   "stay": {
-    "releasedCount": 264,
+    "releasedCount": 265,
     "medianDays": 3.3,
     "meanDays": 9.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 63
+        "count": 64
       },
       {
         "label": "1–3 days",
@@ -519,9 +519,9 @@
   "bond": {
     "withBond": 84,
     "noBond": 192,
-    "medianBond": 1500,
+    "medianBond": 1675,
     "maxBond": 50000,
-    "totalBond": 360251
+    "totalBond": 362251
   },
   "chargesPerBooking": 1.6
 }
