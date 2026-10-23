@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T11:47:17",
+  "generatedAt": "2026-10-23T12:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 686,
     "bookingsObserved": 422,
-    "releasesObserved": 418,
-    "inCustody": 268,
+    "releasesObserved": 423,
+    "inCustody": 263,
     "uniquePeople": 661
   },
   "bookingsByDay": [
@@ -157,14 +157,14 @@
     {
       "date": "2026-10-23",
       "booked": 9,
-      "released": 17
+      "released": 22
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 337,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 43,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -222,14 +222,14 @@
       "pct": 1.6
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "HARASSMENT",
       "count": 17,
       "pct": 1.5
     },
     {
-      "name": "HARASSMENT",
-      "count": 16,
-      "pct": 1.4
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 17,
+      "pct": 1.5
     },
     {
       "name": "THEFT",
@@ -252,12 +252,12 @@
       "pct": 1
     },
     {
-      "name": "MALICIOUS MISCHIEF 3",
-      "count": 9,
-      "pct": 0.8
+      "name": "MALICIOUS MISCHIEF",
+      "count": 10,
+      "pct": 0.9
     },
     {
-      "name": "OBSTRUCTING A PUBLIC SERVANT",
+      "name": "MALICIOUS MISCHIEF 3",
       "count": 9,
       "pct": 0.8
     }
@@ -272,13 +272,13 @@
     {
       "name": "OLYMPIA PD",
       "count": 117,
-      "pct": 17.3,
+      "pct": 17.2,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 72,
-      "pct": 10.6,
+      "count": 73,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
@@ -356,20 +356,20 @@
   ],
   "levels": [
     {
-      "name": "F",
-      "count": 335,
-      "pct": 34.8,
-      "label": "Felony"
-    },
-    {
       "name": "GM",
-      "count": 334,
-      "pct": 34.7,
+      "count": 336,
+      "pct": 34.8,
       "label": "Gross Misdemeanor"
     },
     {
+      "name": "F",
+      "count": 335,
+      "pct": 34.7,
+      "label": "Felony"
+    },
+    {
       "name": "M",
-      "count": 280,
+      "count": 281,
       "pct": 29.1,
       "label": "Misdemeanor"
     },
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 314,
+    "observed": 319,
     "officialDate": 104,
     "releaseListOnly": 103
   },
   "stay": {
-    "releasedCount": 314,
-    "medianDays": 3.3,
-    "meanDays": 9.4,
+    "releasedCount": 319,
+    "medianDays": 3.7,
+    "meanDays": 9.5,
     "buckets": [
       {
         "label": "< 1 day",
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 116
+        "count": 121
       },
       {
         "label": "1–3 months",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 232.5
   },
   "bond": {
-    "withBond": 82,
-    "noBond": 186,
-    "medianBond": 1300,
+    "withBond": 83,
+    "noBond": 180,
+    "medianBond": 1100,
     "maxBond": 2000750,
-    "totalBond": 2361351
+    "totalBond": 2362351
   },
   "chargesPerBooking": 1.6
 }
