@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:27:14",
+  "generatedAt": "2026-10-22T21:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 674,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 332,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
-      "count": 100,
-      "pct": 9.1
+      "count": 101,
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -183,8 +183,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 36,
-      "pct": 3.3
+      "count": 37,
+      "pct": 3.4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -204,7 +204,7 @@
     {
       "name": "DWLS/DWLR III",
       "count": 27,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -271,32 +271,32 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 114,
-      "pct": 17.1,
+      "count": 115,
+      "pct": 17.2,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 71,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 45,
-      "pct": 6.8,
+      "pct": 6.7,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "FEDERAL WAY",
       "count": 33,
-      "pct": 5,
+      "pct": 4.9,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.7,
+      "pct": 4.6,
       "label": "TACOMA PD"
     },
     {
@@ -332,7 +332,7 @@
     {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "NEZ PERCE TRIBE"
     },
     {
@@ -363,13 +363,13 @@
     },
     {
       "name": "GM",
-      "count": 329,
-      "pct": 34.6,
+      "count": 330,
+      "pct": 34.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 278,
+      "count": 279,
       "pct": 29.3,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 231.9
   },
   "bond": {
-    "withBond": 80,
-    "noBond": 194,
-    "medianBond": 1300,
-    "maxBond": 50000,
-    "totalBond": 361451
+    "withBond": 81,
+    "noBond": 193,
+    "medianBond": 1500,
+    "maxBond": 2000750,
+    "totalBond": 2362201
   },
   "chargesPerBooking": 1.6
 }
