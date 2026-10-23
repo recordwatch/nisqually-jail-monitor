@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T06:47:16",
+  "generatedAt": "2026-10-23T07:07:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 680,
     "bookingsObserved": 416,
-    "releasesObserved": 404,
-    "inCustody": 276,
+    "releasesObserved": 405,
+    "inCustody": 275,
     "uniquePeople": 656
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-23",
       "booked": 3,
-      "released": 3
+      "released": 4
     }
   ],
   "topCharges": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 41,
-      "pct": 3.7
+      "count": 42,
+      "pct": 3.8
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 319,
-      "pct": 47.5,
+      "pct": 47.4,
       "label": "WA DOC"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "LACEY PD",
       "count": 71,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 45,
-      "pct": 6.7,
+      "count": 46,
+      "pct": 6.8,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 332,
-      "pct": 34.7,
+      "count": 333,
+      "pct": 34.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 300,
+    "observed": 301,
     "officialDate": 104,
     "releaseListOnly": 103
   },
   "stay": {
-    "releasedCount": 300,
-    "medianDays": 3.4,
-    "meanDays": 9.5,
+    "releasedCount": 301,
+    "medianDays": 3.3,
+    "meanDays": 9.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 73
+        "count": 74
       },
       {
         "label": "3–7 days",
@@ -513,12 +513,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 9.7,
+    "currentMedianDaysHeld": 9.8,
     "currentLongestDaysHeld": 232.3
   },
   "bond": {
     "withBond": 82,
-    "noBond": 194,
+    "noBond": 193,
     "medianBond": 1300,
     "maxBond": 2000750,
     "totalBond": 2361351
