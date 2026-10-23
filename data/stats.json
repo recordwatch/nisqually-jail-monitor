@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:27:16",
+  "generatedAt": "2026-10-23T15:47:22",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 692,
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 327,
-      "pct": 47.8,
+      "pct": 47.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 117,
-      "pct": 17.1,
+      "count": 118,
+      "pct": 17.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "F",
       "count": 340,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 337,
-      "pct": 34.6,
+      "pct": 34.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 285,
-      "pct": 29.2,
+      "count": 286,
+      "pct": 29.3,
       "label": "Misdemeanor"
     },
     {
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 10.1,
-    "currentLongestDaysHeld": 232.6
+    "currentLongestDaysHeld": 232.7
   },
   "bond": {
     "withBond": 80,
