@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T10:47:15",
+  "generatedAt": "2026-10-23T11:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 684,
-    "bookingsObserved": 420,
+    "bookingsTracked": 686,
+    "bookingsObserved": 422,
     "releasesObserved": 418,
-    "inCustody": 266,
-    "uniquePeople": 659
+    "inCustody": 268,
+    "uniquePeople": 661
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 6,
+      "booked": 9,
       "released": 17
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 335,
-      "pct": 30.1
+      "count": 337,
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
       "count": 102,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -189,7 +189,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 34,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "ASSAULT-4",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 321,
-      "pct": 47.5,
+      "count": 323,
+      "pct": 47.6,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 72,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "LACEY PD"
     },
     {
@@ -356,21 +356,21 @@
   ],
   "levels": [
     {
-      "name": "GM",
-      "count": 334,
+      "name": "F",
+      "count": 335,
       "pct": 34.8,
-      "label": "Gross Misdemeanor"
+      "label": "Felony"
     },
     {
-      "name": "F",
-      "count": 333,
+      "name": "GM",
+      "count": 334,
       "pct": 34.7,
-      "label": "Felony"
+      "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 280,
-      "pct": 29.2,
+      "pct": 29.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 447,
+      "count": 448,
       "pct": 67
     },
     {
       "name": "Black",
       "count": 126,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "name": "N",
@@ -421,14 +421,14 @@
       "pct": 5.2
     },
     {
-      "name": "Asian",
+      "name": "Unknown",
       "count": 23,
       "pct": 3.4
     },
     {
-      "name": "Unknown",
-      "count": 22,
-      "pct": 3.3
+      "name": "Asian",
+      "count": 23,
+      "pct": 3.4
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 537,
+      "count": 539,
       "pct": 79
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 197
+        "count": 198
       },
       {
         "label": "35–44",
-        "count": 245
+        "count": 246
       },
       {
         "label": "45–54",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 9.9,
-    "currentLongestDaysHeld": 232.4
+    "currentLongestDaysHeld": 232.5
   },
   "bond": {
     "withBond": 82,
-    "noBond": 184,
+    "noBond": 186,
     "medianBond": 1300,
     "maxBond": 2000750,
     "totalBond": 2361351
