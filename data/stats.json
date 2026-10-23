@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T12:27:16",
+  "generatedAt": "2026-10-23T12:46:44",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 687,
-    "bookingsObserved": 423,
+    "bookingsTracked": 688,
+    "bookingsObserved": 424,
     "releasesObserved": 423,
-    "inCustody": 264,
-    "uniquePeople": 661
+    "inCustody": 265,
+    "uniquePeople": 662
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 10,
+      "booked": 11,
       "released": 22
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 338,
-      "pct": 30.2
+      "count": 339,
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 324,
-      "pct": 47.6,
+      "count": 325,
+      "pct": 47.7,
       "label": "WA DOC"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "F",
-      "count": 336,
-      "pct": 34.8,
+      "count": 337,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 336,
-      "pct": 34.8,
+      "pct": 34.7,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 448,
+      "count": 449,
       "pct": 66.9
     },
     {
       "name": "Black",
       "count": 127,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 540,
+      "count": 541,
       "pct": 79.1
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 246
+        "count": 247
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 83,
-    "noBond": 181,
+    "noBond": 182,
     "medianBond": 1100,
     "maxBond": 2000750,
     "totalBond": 2362351
