@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T15:27:15",
+  "generatedAt": "2026-10-24T15:38:03",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 707,
-    "bookingsObserved": 443,
+    "bookingsTracked": 708,
+    "bookingsObserved": 444,
     "releasesObserved": 442,
-    "inCustody": 265,
-    "uniquePeople": 678
+    "inCustody": 266,
+    "uniquePeople": 679
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 8,
+      "booked": 9,
       "released": 6
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 348,
-      "pct": 30.4
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 47.5,
+      "pct": 47.4,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 74,
-      "pct": 10.6,
+      "count": 75,
+      "pct": 10.7,
       "label": "LACEY PD"
     },
     {
@@ -358,12 +358,12 @@
     {
       "name": "F",
       "count": 346,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 341,
+      "count": 342,
       "pct": 34.4,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 462,
+      "count": 463,
       "pct": 67.1
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 555,
-      "pct": 78.9
+      "count": 556,
+      "pct": 79
     },
     {
       "name": "Female",
       "count": 148,
-      "pct": 21.1
+      "pct": 21
     }
   ],
   "ages": {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 83
+        "count": 84
       }
     ]
   },
@@ -513,12 +513,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 10.9,
-    "currentLongestDaysHeld": 233.6
+    "currentMedianDaysHeld": 11,
+    "currentLongestDaysHeld": 233.7
   },
   "bond": {
     "withBond": 74,
-    "noBond": 191,
+    "noBond": 192,
     "medianBond": 2000,
     "maxBond": 2003250,
     "totalBond": 2357601
