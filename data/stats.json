@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:27:17",
+  "generatedAt": "2026-10-24T08:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 705,
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 43,
+      "count": 44,
       "pct": 3.8
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 47.7,
+      "pct": 47.6,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 47,
-      "pct": 6.8,
+      "count": 48,
+      "pct": 6.9,
       "label": "LAKEWOOD PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.5,
+      "pct": 4.4,
       "label": "TACOMA PD"
     },
     {
@@ -358,12 +358,12 @@
     {
       "name": "F",
       "count": 346,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 339,
+      "count": 340,
       "pct": 34.3,
       "label": "Gross Misdemeanor"
     },
