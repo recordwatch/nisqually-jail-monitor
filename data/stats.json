@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T01:27:16",
+  "generatedAt": "2026-10-24T01:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 703,
-    "bookingsObserved": 439,
-    "releasesObserved": 436,
+    "bookingsTracked": 704,
+    "bookingsObserved": 440,
+    "releasesObserved": 437,
     "inCustody": 267,
-    "uniquePeople": 674
+    "uniquePeople": 675
   },
   "bookingsByDay": [
     {
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-24",
       "booked": 4,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 460,
+      "count": 461,
       "pct": 67.1
     },
     {
       "name": "Black",
       "count": 130,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "N",
@@ -423,12 +423,12 @@
     {
       "name": "Unknown",
       "count": 23,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "Asian",
       "count": 23,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "I",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 551,
-      "pct": 78.8
+      "count": 552,
+      "pct": 78.9
     },
     {
       "name": "Female",
       "count": 148,
-      "pct": 21.2
+      "pct": 21.1
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 113
+        "count": 114
       },
       {
         "label": "55+",
@@ -480,8 +480,8 @@
   },
   "releaseSources": {
     "observed": 332,
-    "officialDate": 104,
-    "releaseListOnly": 103
+    "officialDate": 105,
+    "releaseListOnly": 104
   },
   "stay": {
     "releasedCount": 332,
