@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T15:38:03",
+  "generatedAt": "2026-10-24T15:47:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 708,
-    "bookingsObserved": 444,
+    "bookingsTracked": 709,
+    "bookingsObserved": 445,
     "releasesObserved": 442,
-    "inCustody": 266,
+    "inCustody": 267,
     "uniquePeople": 679
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 9,
+      "booked": 10,
       "released": 6
     }
   ],
@@ -207,17 +207,17 @@
       "pct": 2.5
     },
     {
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "count": 20,
+      "pct": 1.7
+    },
+    {
       "name": "CRIMINAL TRESPASS-1",
       "count": 20,
       "pct": 1.7
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
-      "count": 19,
-      "pct": 1.7
-    },
-    {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 19,
       "pct": 1.7
     },
@@ -272,19 +272,19 @@
     {
       "name": "OLYMPIA PD",
       "count": 123,
-      "pct": 17.6,
+      "pct": 17.5,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 75,
-      "pct": 10.7,
+      "count": 76,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 48,
-      "pct": 6.9,
+      "pct": 6.8,
       "label": "LAKEWOOD PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 292,
-      "pct": 29.4,
+      "count": 293,
+      "pct": 29.5,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 463,
+      "count": 464,
       "pct": 67.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 556,
+      "count": 557,
       "pct": 79
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 252
+        "count": 253
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 74,
-    "noBond": 192,
+    "noBond": 193,
     "medianBond": 2000,
     "maxBond": 2003250,
     "totalBond": 2357601
