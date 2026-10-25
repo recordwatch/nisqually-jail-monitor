@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:07:16",
+  "generatedAt": "2026-10-24T23:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 714,
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 47.1,
+      "pct": 47,
       "label": "WA DOC"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "LAKEWOOD PD",
       "count": 49,
-      "pct": 7,
+      "pct": 6.9,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "FEDERAL WAY",
-      "count": 34,
-      "pct": 4.8,
+      "count": 35,
+      "pct": 5,
       "label": "FEDERAL WAY"
     },
     {
@@ -356,21 +356,21 @@
   ],
   "levels": [
     {
-      "name": "F",
-      "count": 346,
-      "pct": 34.7,
-      "label": "Felony"
-    },
-    {
       "name": "GM",
-      "count": 345,
+      "count": 346,
       "pct": 34.6,
       "label": "Gross Misdemeanor"
     },
     {
+      "name": "F",
+      "count": 346,
+      "pct": 34.6,
+      "label": "Felony"
+    },
+    {
       "name": "M",
       "count": 294,
-      "pct": 29.5,
+      "pct": 29.4,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 234
   },
   "bond": {
-    "withBond": 77,
-    "noBond": 193,
+    "withBond": 78,
+    "noBond": 192,
     "medianBond": 2000,
     "maxBond": 2003250,
-    "totalBond": 2361601
+    "totalBond": 2362601
   },
   "chargesPerBooking": 1.6
 }
