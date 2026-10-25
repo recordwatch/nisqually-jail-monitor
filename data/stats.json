@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T15:07:15",
+  "generatedAt": "2026-10-25T15:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 721,
-    "bookingsObserved": 457,
+    "bookingsTracked": 722,
+    "bookingsObserved": 458,
     "releasesObserved": 450,
-    "inCustody": 271,
-    "uniquePeople": 691
+    "inCustody": 272,
+    "uniquePeople": 692
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 7,
+      "booked": 8,
       "released": 6
     }
   ],
@@ -227,14 +227,14 @@
       "pct": 1.5
     },
     {
-      "name": "HARASSMENT",
+      "name": "THEFT",
       "count": 17,
       "pct": 1.5
     },
     {
-      "name": "THEFT",
-      "count": 16,
-      "pct": 1.4
+      "name": "HARASSMENT",
+      "count": 17,
+      "pct": 1.5
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 46.6,
+      "pct": 46.5,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 79,
-      "pct": 11.1,
+      "count": 80,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 296,
-      "pct": 29.4,
+      "count": 297,
+      "pct": 29.5,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 470,
+      "count": 471,
       "pct": 67
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 568,
+      "count": 569,
       "pct": 79.2
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 86
+        "count": 87
       }
     ]
   },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 234.6
   },
   "bond": {
-    "withBond": 79,
+    "withBond": 80,
     "noBond": 192,
     "medianBond": 2000,
     "maxBond": 2003250,
-    "totalBond": 2368601
+    "totalBond": 2370601
   },
   "chargesPerBooking": 1.6
 }
