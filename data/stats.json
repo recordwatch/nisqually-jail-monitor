@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:44:51",
+  "generatedAt": "2026-10-25T03:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 718,
@@ -169,12 +169,12 @@
     {
       "name": "THEFT III",
       "count": 105,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
       "count": 47,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "DUI",
@@ -192,17 +192,17 @@
       "pct": 3.1
     },
     {
+      "name": "ASSAULT-4",
+      "count": 30,
+      "pct": 2.6
+    },
+    {
       "name": "DWLS/DWLR III",
       "count": 30,
       "pct": 2.6
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 29,
-      "pct": 2.5
-    },
-    {
-      "name": "ASSAULT-4",
       "count": 29,
       "pct": 2.5
     },
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 37,
-      "pct": 5.2,
+      "count": 38,
+      "pct": 5.4,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 348,
-      "pct": 34.7,
+      "count": 349,
+      "pct": 34.8,
       "label": "Gross Misdemeanor"
     },
     {
