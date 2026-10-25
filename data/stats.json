@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T01:47:15",
+  "generatedAt": "2026-10-25T02:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 715,
-    "bookingsObserved": 451,
+    "bookingsTracked": 716,
+    "bookingsObserved": 452,
     "releasesObserved": 444,
-    "inCustody": 271,
-    "uniquePeople": 685
+    "inCustody": 272,
+    "uniquePeople": 686
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 348,
-      "pct": 30.1
+      "pct": 30
     },
     {
       "name": "THEFT III",
@@ -238,8 +238,8 @@
     },
     {
       "name": "SIMPLE ASSAULT-DV",
-      "count": 14,
-      "pct": 1.2
+      "count": 15,
+      "pct": 1.3
     },
     {
       "name": "ASSAULT 4",
@@ -249,7 +249,7 @@
     {
       "name": "DISORDERLY CONDUCT",
       "count": 11,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 47,
+      "pct": 46.9,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 36,
-      "pct": 5.1,
+      "count": 37,
+      "pct": 5.2,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 346,
-      "pct": 34.6,
+      "count": 347,
+      "pct": 34.7,
       "label": "Gross Misdemeanor"
     },
     {
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 467,
-      "pct": 67.1
+      "pct": 67
     },
     {
       "name": "Black",
@@ -437,14 +437,14 @@
     },
     {
       "name": "P",
-      "count": 6,
-      "pct": 0.9
+      "count": 7,
+      "pct": 1
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 563,
+      "count": 564,
       "pct": 79.2
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 206
+        "count": 207
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 79,
-    "noBond": 192,
+    "noBond": 193,
     "medianBond": 2000,
     "maxBond": 2003250,
     "totalBond": 2372601
