@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T01:27:16",
+  "generatedAt": "2026-10-25T01:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 714,
-    "bookingsObserved": 450,
+    "bookingsTracked": 715,
+    "bookingsObserved": 451,
     "releasesObserved": 444,
-    "inCustody": 270,
-    "uniquePeople": 684
+    "inCustody": 271,
+    "uniquePeople": 685
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 348,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 34,
-      "pct": 2.9
+      "count": 36,
+      "pct": 3.1
     },
     {
       "name": "DWLS/DWLR III",
@@ -207,14 +207,14 @@
       "pct": 2.5
     },
     {
-      "name": "CRIMINAL TRESPASS-1",
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 21,
       "pct": 1.8
     },
     {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 20,
-      "pct": 1.7
+      "name": "CRIMINAL TRESPASS-1",
+      "count": 21,
+      "pct": 1.8
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 35,
-      "pct": 5,
+      "count": 36,
+      "pct": 5.1,
       "label": "FEDERAL WAY"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 294,
-      "pct": 29.4,
+      "count": 295,
+      "pct": 29.5,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 467,
-      "pct": 67.2
+      "pct": 67.1
     },
     {
       "name": "Black",
-      "count": 132,
-      "pct": 19
+      "count": 133,
+      "pct": 19.1
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 562,
+      "count": 563,
       "pct": 79.2
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 115
+        "count": 116
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 234.1
   },
   "bond": {
-    "withBond": 78,
+    "withBond": 79,
     "noBond": 192,
     "medianBond": 2000,
     "maxBond": 2003250,
-    "totalBond": 2362601
+    "totalBond": 2372601
   },
   "chargesPerBooking": 1.6
 }
