@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T15:47:16",
+  "generatedAt": "2026-10-25T16:07:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 722,
-    "bookingsObserved": 458,
+    "bookingsTracked": 723,
+    "bookingsObserved": 459,
     "releasesObserved": 450,
-    "inCustody": 272,
+    "inCustody": 273,
     "uniquePeople": 692
   },
   "bookingsByDay": [
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 46.5,
+      "pct": 46.4,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 122,
-      "pct": 17.1,
+      "count": 123,
+      "pct": 17.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 351,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 346,
-      "pct": 34.4,
+      "pct": 34.3,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 297,
-      "pct": 29.5,
+      "count": 298,
+      "pct": 29.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 471,
+      "count": 472,
       "pct": 67
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 569,
-      "pct": 79.2
+      "count": 570,
+      "pct": 79.3
     },
     {
       "name": "Female",
       "count": 149,
-      "pct": 20.8
+      "pct": 20.7
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 257
+        "count": 258
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 234.7
   },
   "bond": {
-    "withBond": 80,
+    "withBond": 81,
     "noBond": 192,
     "medianBond": 2000,
     "maxBond": 2003250,
-    "totalBond": 2370601
+    "totalBond": 2371601
   },
   "chargesPerBooking": 1.6
 }
