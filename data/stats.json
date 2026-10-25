@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:47:15",
+  "generatedAt": "2026-10-25T07:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 721,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 348,
-      "pct": 29.9
+      "pct": 29.8
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 48,
-      "pct": 4.1
+      "count": 49,
+      "pct": 4.2
     },
     {
       "name": "DUI",
@@ -296,13 +296,13 @@
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.4,
+      "pct": 4.3,
       "label": "TACOMA PD"
     },
     {
       "name": "TUMWATER PD",
-      "count": 15,
-      "pct": 2.1,
+      "count": 16,
+      "pct": 2.2,
       "label": "TUMWATER PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 351,
-      "pct": 34.9,
+      "count": 352,
+      "pct": 35,
       "label": "Gross Misdemeanor"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 295,
-      "pct": 29.4,
+      "pct": 29.3,
       "label": "Misdemeanor"
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 209
+        "count": 208
       },
       {
         "label": "35–44",
-        "count": 256
+        "count": 257
       },
       {
         "label": "45–54",
