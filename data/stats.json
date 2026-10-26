@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T11:27:17",
+  "generatedAt": "2026-10-26T11:47:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 731,
-    "bookingsObserved": 467,
+    "bookingsTracked": 732,
+    "bookingsObserved": 468,
     "releasesObserved": 471,
-    "inCustody": 260,
-    "uniquePeople": 700
+    "inCustody": 261,
+    "uniquePeople": 701
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 6,
+      "booked": 7,
       "released": 20
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 46,
+      "pct": 45.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 123,
-      "pct": 17,
+      "count": 124,
+      "pct": 17.2,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 82,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "LACEY PD"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 472,
-      "pct": 66.4
+      "pct": 66.3
     },
     {
       "name": "Black",
-      "count": 137,
-      "pct": 19.3
+      "count": 138,
+      "pct": 19.4
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 577,
+      "count": 578,
       "pct": 79.4
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 210
+        "count": 211
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 235.5
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 84,
     "noBond": 177,
-    "medianBond": 1850,
+    "medianBond": 1800,
     "maxBond": 2003250,
-    "totalBond": 2384851
+    "totalBond": 2385351
   },
   "chargesPerBooking": 1.6
 }
