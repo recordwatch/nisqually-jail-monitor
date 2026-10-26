@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T15:27:16",
+  "generatedAt": "2026-10-26T15:47:22",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 740,
-    "bookingsObserved": 476,
+    "bookingsTracked": 741,
+    "bookingsObserved": 477,
     "releasesObserved": 474,
-    "inCustody": 266,
-    "uniquePeople": 709
+    "inCustody": 267,
+    "uniquePeople": 710
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 15,
+      "booked": 16,
       "released": 23
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 354,
-      "pct": 29.5
+      "pct": 29.4
     },
     {
       "name": "THEFT III",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 337,
-      "pct": 46.2,
+      "pct": 46.1,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 55,
-      "pct": 7.5,
+      "count": 56,
+      "pct": 7.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 585,
+      "count": 586,
       "pct": 79.5
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 213
+        "count": 214
       },
       {
         "label": "35–44",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 12.1,
-    "currentLongestDaysHeld": 235.6
+    "currentLongestDaysHeld": 235.7
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 84,
     "noBond": 183,
-    "medianBond": 1750,
+    "medianBond": 1625,
     "maxBond": 2003250,
-    "totalBond": 2383601
+    "totalBond": 2384601
   },
   "chargesPerBooking": 1.6
 }
