@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T18:07:13",
+  "generatedAt": "2026-10-25T18:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 723,
-    "bookingsObserved": 459,
+    "bookingsTracked": 724,
+    "bookingsObserved": 460,
     "releasesObserved": 451,
-    "inCustody": 272,
-    "uniquePeople": 692
+    "inCustody": 273,
+    "uniquePeople": 693
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 9,
+      "booked": 10,
       "released": 7
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 107,
-      "pct": 9.1
+      "count": 108,
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -257,7 +257,7 @@
       "pct": 0.9
     },
     {
-      "name": "EXPOSING A MINOR TO DV",
+      "name": "OBSTRUCTING A PUBLIC SERVANT",
       "count": 10,
       "pct": 0.9
     }
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 50,
-      "pct": 7,
+      "count": 51,
+      "pct": 7.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 353,
+      "count": 354,
       "pct": 35,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 346,
-      "pct": 34.3,
+      "pct": 34.2,
       "label": "Felony"
     },
     {
@@ -421,14 +421,14 @@
       "pct": 5
     },
     {
-      "name": "Unknown",
+      "name": "Asian",
       "count": 24,
       "pct": 3.4
     },
     {
-      "name": "Asian",
-      "count": 23,
-      "pct": 3.3
+      "name": "Unknown",
+      "count": 24,
+      "pct": 3.4
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 570,
+      "count": 571,
       "pct": 79.3
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 208
+        "count": 209
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 234.8
   },
   "bond": {
-    "withBond": 80,
+    "withBond": 81,
     "noBond": 192,
     "medianBond": 2000,
     "maxBond": 2003250,
-    "totalBond": 2371351
+    "totalBond": 2373351
   },
   "chargesPerBooking": 1.6
 }
