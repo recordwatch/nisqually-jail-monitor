@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:07:16",
+  "generatedAt": "2026-10-26T09:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 730,
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 364,
-      "pct": 35.4,
+      "count": 365,
+      "pct": 35.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 346,
-      "pct": 33.7,
+      "pct": 33.6,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 305,
-      "pct": 29.7,
+      "pct": 29.6,
       "label": "Misdemeanor"
     },
     {
