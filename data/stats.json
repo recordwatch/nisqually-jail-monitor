@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T15:07:16",
+  "generatedAt": "2026-10-26T15:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 738,
-    "bookingsObserved": 474,
+    "bookingsTracked": 740,
+    "bookingsObserved": 476,
     "releasesObserved": 474,
-    "inCustody": 264,
-    "uniquePeople": 707
+    "inCustody": 266,
+    "uniquePeople": 709
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 13,
+      "booked": 15,
       "released": 23
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 351,
-      "pct": 29.3
+      "count": 354,
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
@@ -184,7 +184,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 39,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -209,12 +209,12 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 21,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 21,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
@@ -239,7 +239,7 @@
     {
       "name": "SIMPLE ASSAULT-DV",
       "count": 15,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 334,
-      "pct": 45.9,
+      "count": 337,
+      "pct": 46.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 124,
-      "pct": 17.1,
+      "pct": 17,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,19 +284,19 @@
     {
       "name": "LAKEWOOD PD",
       "count": 55,
-      "pct": 7.6,
+      "pct": 7.5,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "FEDERAL WAY",
       "count": 39,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "TACOMA PD"
     },
     {
@@ -320,13 +320,13 @@
     {
       "name": "SQUAXIN ISLAND PD",
       "count": 4,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "SHELTON PD",
       "count": 4,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "SHELTON PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 367,
-      "pct": 35.5,
+      "pct": 35.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 349,
-      "pct": 33.7,
+      "count": 352,
+      "pct": 33.9,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 306,
-      "pct": 29.6,
+      "pct": 29.5,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 475,
-      "pct": 66.2
+      "count": 477,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 583,
-      "pct": 79.4
+      "count": 585,
+      "pct": 79.5
     },
     {
       "name": "Female",
       "count": 151,
-      "pct": 20.6
+      "pct": 20.5
     }
   ],
   "ages": {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 88
+        "count": 90
       }
     ]
   },
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 83,
-    "noBond": 181,
+    "noBond": 183,
     "medianBond": 1750,
     "maxBond": 2003250,
     "totalBond": 2383601
