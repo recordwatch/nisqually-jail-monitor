@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T15:47:22",
+  "generatedAt": "2026-10-26T16:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 741,
-    "bookingsObserved": 477,
+    "bookingsTracked": 742,
+    "bookingsObserved": 478,
     "releasesObserved": 474,
-    "inCustody": 267,
+    "inCustody": 268,
     "uniquePeople": 710
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 16,
+      "booked": 17,
       "released": 23
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 354,
-      "pct": 29.4
+      "count": 357,
+      "pct": 29.6
     },
     {
       "name": "THEFT III",
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 337,
-      "pct": 46.1,
+      "count": 340,
+      "pct": 46.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 124,
-      "pct": 17,
+      "pct": 16.9,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 83,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 56,
-      "pct": 7.7,
+      "pct": 7.6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 367,
-      "pct": 35.4,
+      "pct": 35.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 352,
-      "pct": 33.9,
+      "count": 355,
+      "pct": 34.1,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 306,
-      "pct": 29.5,
+      "pct": 29.4,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 477,
+      "count": 478,
       "pct": 66.3
     },
     {
@@ -433,7 +433,7 @@
     {
       "name": "I",
       "count": 9,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "P",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 586,
-      "pct": 79.5
+      "pct": 79.4
     },
     {
       "name": "Female",
-      "count": 151,
-      "pct": 20.5
+      "count": 152,
+      "pct": 20.6
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 118
+        "count": 119
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 84,
-    "noBond": 183,
+    "noBond": 184,
     "medianBond": 1625,
     "maxBond": 2003250,
     "totalBond": 2384601
