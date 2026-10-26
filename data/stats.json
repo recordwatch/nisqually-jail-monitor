@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:27:16",
+  "generatedAt": "2026-10-26T04:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 729,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 348,
-      "pct": 29.4
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 46,
-      "pct": 3.9
+      "count": 47,
+      "pct": 4
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -218,8 +218,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 19,
-      "pct": 1.6
+      "count": 20,
+      "pct": 1.7
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 332,
-      "pct": 46.1,
+      "pct": 46,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 38,
-      "pct": 5.3,
+      "count": 39,
+      "pct": 5.4,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 363,
+      "count": 364,
       "pct": 35.5,
       "label": "Gross Misdemeanor"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 301,
-      "pct": 29.4,
+      "count": 302,
+      "pct": 29.5,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 235.2
   },
   "bond": {
-    "withBond": 84,
-    "noBond": 194,
+    "withBond": 85,
+    "noBond": 193,
     "medianBond": 2000,
     "maxBond": 2003250,
-    "totalBond": 2390351
+    "totalBond": 2392351
   },
   "chargesPerBooking": 1.6
 }
