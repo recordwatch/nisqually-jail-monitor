@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:07:16",
+  "generatedAt": "2026-10-25T19:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 724,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 348,
-      "pct": 29.7
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
-      "count": 108,
-      "pct": 9.2
+      "count": 111,
+      "pct": 9.4
     },
     {
       "name": "ASSAULT IV -DV",
@@ -188,13 +188,13 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 37,
+      "count": 38,
       "pct": 3.2
     },
     {
       "name": "DWLS/DWLR III",
       "count": 30,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -217,24 +217,24 @@
       "pct": 1.8
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 19,
+      "pct": 1.6
+    },
+    {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 19,
       "pct": 1.6
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 18,
-      "pct": 1.5
-    },
-    {
       "name": "THEFT",
       "count": 17,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "HARASSMENT",
       "count": 17,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -259,7 +259,7 @@
     {
       "name": "OBSTRUCTING A PUBLIC SERVANT",
       "count": 10,
-      "pct": 0.9
+      "pct": 0.8
     }
   ],
   "topAgencies": [
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 354,
-      "pct": 35,
+      "count": 358,
+      "pct": 35.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 346,
-      "pct": 34.2,
+      "pct": 34.1,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 298,
-      "pct": 29.5,
+      "count": 299,
+      "pct": 29.4,
       "label": "Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 192,
     "medianBond": 2000,
     "maxBond": 2003250,
-    "totalBond": 2373351
+    "totalBond": 2383351
   },
   "chargesPerBooking": 1.6
 }
