@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T12:07:16",
+  "generatedAt": "2026-10-27T12:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 759,
-    "bookingsObserved": 495,
+    "bookingsTracked": 761,
+    "bookingsObserved": 497,
     "releasesObserved": 511,
-    "inCustody": 248,
-    "uniquePeople": 726
+    "inCustody": 250,
+    "uniquePeople": 728
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 12,
+      "booked": 13,
       "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 363,
-      "pct": 29.3
+      "count": 366,
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 346,
-      "pct": 46.1,
+      "count": 348,
+      "pct": 46.3,
       "label": "WA DOC"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 381,
-      "pct": 35.7,
+      "pct": 35.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 361,
-      "pct": 33.9,
+      "count": 364,
+      "pct": 34.1,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 311,
-      "pct": 29.2,
+      "pct": 29.1,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 488,
-      "pct": 66.4
+      "pct": 66.2
     },
     {
       "name": "Black",
-      "count": 144,
-      "pct": 19.6
+      "count": 145,
+      "pct": 19.7
     },
     {
       "name": "N",
@@ -421,14 +421,14 @@
       "pct": 4.9
     },
     {
-      "name": "Unknown",
+      "name": "Asian",
       "count": 25,
       "pct": 3.4
     },
     {
-      "name": "Asian",
-      "count": 24,
-      "pct": 3.3
+      "name": "Unknown",
+      "count": 25,
+      "pct": 3.4
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 600,
+      "count": 602,
       "pct": 79.5
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 57
+        "count": 58
       },
       {
         "label": "25–34",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 268
+        "count": 269
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 79,
-    "noBond": 169,
+    "noBond": 171,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 397601
