@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T11:27:17",
+  "generatedAt": "2026-10-27T11:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 757,
-    "bookingsObserved": 493,
+    "bookingsTracked": 758,
+    "bookingsObserved": 494,
     "releasesObserved": 508,
-    "inCustody": 249,
-    "uniquePeople": 724
+    "inCustody": 250,
+    "uniquePeople": 725
   },
   "bookingsByDay": [
     {
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 362,
-      "pct": 29.4
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
@@ -183,8 +183,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 40,
-      "pct": 3.2
+      "count": 41,
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -243,7 +243,7 @@
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 13,
+      "count": 14,
       "pct": 1.1
     },
     {
@@ -266,25 +266,25 @@
     {
       "name": "WA DOC",
       "count": 345,
-      "pct": 46.2,
+      "pct": 46.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 125,
+      "count": 126,
       "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 84,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 59,
-      "pct": 7.9,
+      "count": 60,
+      "pct": 8,
       "label": "LAKEWOOD PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.2,
+      "pct": 4.1,
       "label": "TACOMA PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 310,
-      "pct": 29.1,
+      "count": 311,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 598,
+      "count": 599,
       "pct": 79.4
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 266
+        "count": 267
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 236.5
   },
   "bond": {
-    "withBond": 77,
+    "withBond": 78,
     "noBond": 172,
-    "medianBond": 1850,
+    "medianBond": 1925,
     "maxBond": 50000,
-    "totalBond": 389601
+    "totalBond": 394601
   },
   "chargesPerBooking": 1.6
 }
