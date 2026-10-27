@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T02:47:16",
+  "generatedAt": "2026-10-27T03:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 751,
-    "bookingsObserved": 487,
+    "bookingsTracked": 752,
+    "bookingsObserved": 488,
     "releasesObserved": 498,
-    "inCustody": 253,
-    "uniquePeople": 718
+    "inCustody": 254,
+    "uniquePeople": 719
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 344,
-      "pct": 46.3,
+      "pct": 46.2,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 39,
-      "pct": 5.2,
+      "count": 40,
+      "pct": 5.4,
       "label": "FEDERAL WAY"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 308,
-      "pct": 29,
+      "count": 309,
+      "pct": 29.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 485,
-      "pct": 66.5
+      "count": 486,
+      "pct": 66.6
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 594,
+      "count": 595,
       "pct": 79.5
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 121
+        "count": 122
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 236.1
   },
   "bond": {
-    "withBond": 76,
+    "withBond": 77,
     "noBond": 177,
-    "medianBond": 1925,
+    "medianBond": 1850,
     "maxBond": 50000,
-    "totalBond": 388101
+    "totalBond": 389101
   },
   "chargesPerBooking": 1.6
 }
