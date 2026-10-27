@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T12:27:15",
+  "generatedAt": "2026-10-27T12:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 761,
-    "bookingsObserved": 497,
-    "releasesObserved": 511,
+    "bookingsTracked": 762,
+    "bookingsObserved": 498,
+    "releasesObserved": 512,
     "inCustody": 250,
-    "uniquePeople": 728
+    "uniquePeople": 729
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 13,
-      "released": 13
+      "booked": 14,
+      "released": 14
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 366,
-      "pct": 29.5
+      "count": 367,
+      "pct": 29.6
     },
     {
       "name": "THEFT III",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 348,
+      "count": 349,
       "pct": 46.3,
       "label": "WA DOC"
     },
@@ -290,7 +290,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 41,
-      "pct": 5.5,
+      "pct": 5.4,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 381,
-      "pct": 35.6,
+      "count": 382,
+      "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 364,
+      "count": 365,
       "pct": 34.1,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 311,
-      "pct": 29.1,
+      "count": 310,
+      "pct": 29,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 488,
-      "pct": 66.2
+      "count": 489,
+      "pct": 66.3
     },
     {
       "name": "Black",
       "count": 145,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "N",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 602,
-      "pct": 79.5
+      "count": 603,
+      "pct": 79.6
     },
     {
       "name": "Female",
       "count": 155,
-      "pct": 20.5
+      "pct": 20.4
     }
   ],
   "ages": {
@@ -474,18 +474,18 @@
       },
       {
         "label": "55+",
-        "count": 90
+        "count": 91
       }
     ]
   },
   "releaseSources": {
-    "observed": 406,
+    "observed": 407,
     "officialDate": 105,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 406,
-    "medianDays": 3.7,
+    "releasedCount": 407,
+    "medianDays": 3.8,
     "meanDays": 10.4,
     "buckets": [
       {
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 43
+        "count": 44
       },
       {
         "label": "1–4 weeks",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 236.5
   },
   "bond": {
-    "withBond": 79,
-    "noBond": 171,
+    "withBond": 80,
+    "noBond": 170,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 397601
+    "totalBond": 400101
   },
   "chargesPerBooking": 1.6
 }
