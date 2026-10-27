@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T13:47:17",
+  "generatedAt": "2026-10-27T14:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 770,
-    "bookingsObserved": 506,
+    "bookingsTracked": 771,
+    "bookingsObserved": 507,
     "releasesObserved": 512,
-    "inCustody": 258,
-    "uniquePeople": 736
+    "inCustody": 259,
+    "uniquePeople": 737
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 21,
+      "booked": 22,
       "released": 14
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 372,
+      "count": 373,
       "pct": 29.9
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 48,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -247,14 +247,14 @@
       "pct": 1.1
     },
     {
-      "name": "ASSAULT 4",
-      "count": 12,
+      "name": "VIOLATION NO CONTACT ORDER",
+      "count": 13,
       "pct": 1
     },
     {
-      "name": "VIOLATION NO CONTACT ORDER",
-      "count": 11,
-      "pct": 0.9
+      "name": "ASSAULT 4",
+      "count": 12,
+      "pct": 1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 352,
+      "count": 353,
       "pct": 46.6,
       "label": "WA DOC"
     },
@@ -308,7 +308,7 @@
     {
       "name": "YELM PD",
       "count": 14,
-      "pct": 1.9,
+      "pct": 1.8,
       "label": "YELM PD"
     },
     {
@@ -357,13 +357,13 @@
   "levels": [
     {
       "name": "GM",
-      "count": 382,
-      "pct": 35.5,
+      "count": 384,
+      "pct": 35.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 370,
+      "count": 371,
       "pct": 34.4,
       "label": "Felony"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 494,
-      "pct": 66.2
+      "count": 495,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -428,7 +428,7 @@
     {
       "name": "Asian",
       "count": 25,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 609,
+      "count": 610,
       "pct": 79.5
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 223
+        "count": 224
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 236.6
   },
   "bond": {
-    "withBond": 80,
+    "withBond": 81,
     "noBond": 178,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 400101
+    "totalBond": 405101
   },
   "chargesPerBooking": 1.6
 }
