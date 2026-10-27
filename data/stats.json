@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T21:45:59",
+  "generatedAt": "2026-10-26T21:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 746,
@@ -266,25 +266,25 @@
     {
       "name": "WA DOC",
       "count": 342,
-      "pct": 46.4,
+      "pct": 46.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 125,
-      "pct": 17,
+      "pct": 16.9,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 83,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 56,
-      "pct": 7.6,
+      "count": 57,
+      "pct": 7.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 377,
+      "count": 378,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 357,
-      "pct": 33.9,
+      "pct": 33.8,
       "label": "Felony"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 235.9
   },
   "bond": {
-    "withBond": 74,
-    "noBond": 174,
-    "medianBond": 1925,
+    "withBond": 75,
+    "noBond": 173,
+    "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 382101
+    "totalBond": 387101
   },
   "chargesPerBooking": 1.6
 }
