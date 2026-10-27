@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T03:12:29",
+  "generatedAt": "2026-10-27T03:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 752,
-    "bookingsObserved": 488,
+    "bookingsTracked": 753,
+    "bookingsObserved": 489,
     "releasesObserved": 498,
-    "inCustody": 254,
-    "uniquePeople": 719
+    "inCustody": 255,
+    "uniquePeople": 720
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 5,
+      "booked": 6,
       "released": 0
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 361,
-      "pct": 29.4
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
       "count": 115,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "ASSAULT IV -DV",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 40,
-      "pct": 5.4,
+      "count": 41,
+      "pct": 5.5,
       "label": "FEDERAL WAY"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 16,
-      "pct": 2.2,
+      "pct": 2.1,
       "label": "TUMWATER PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 381,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 309,
-      "pct": 29.1,
+      "count": 310,
+      "pct": 29.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 486,
+      "count": 487,
       "pct": 66.6
     },
     {
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 595,
-      "pct": 79.5
+      "pct": 79.4
     },
     {
       "name": "Female",
-      "count": 153,
-      "pct": 20.5
+      "count": 154,
+      "pct": 20.6
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 220
+        "count": 221
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 236.1
   },
   "bond": {
-    "withBond": 77,
+    "withBond": 78,
     "noBond": 177,
-    "medianBond": 1850,
+    "medianBond": 1675,
     "maxBond": 50000,
-    "totalBond": 389101
+    "totalBond": 390101
   },
   "chargesPerBooking": 1.6
 }
