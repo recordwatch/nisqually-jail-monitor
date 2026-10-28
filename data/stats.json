@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T23:47:14",
+  "generatedAt": "2026-10-28T00:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 786,
@@ -9,11 +9,6 @@
     "uniquePeople": 751
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-28",
-      "booked": 12,
-      "released": 0
-    },
     {
       "date": "2026-09-29",
       "booked": 13,
@@ -158,6 +153,11 @@
       "date": "2026-10-27",
       "booked": 37,
       "released": 28
+    },
+    {
+      "date": "2026-10-28",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -513,7 +513,7 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 12.3,
+    "currentMedianDaysHeld": 12.4,
     "currentLongestDaysHeld": 237
   },
   "bond": {
