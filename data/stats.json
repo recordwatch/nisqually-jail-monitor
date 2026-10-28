@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T08:47:16",
+  "generatedAt": "2026-10-28T09:07:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 787,
-    "bookingsObserved": 523,
+    "bookingsTracked": 788,
+    "bookingsObserved": 524,
     "releasesObserved": 534,
-    "inCustody": 253,
-    "uniquePeople": 752
+    "inCustody": 254,
+    "uniquePeople": 753
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 1,
+      "booked": 2,
       "released": 8
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 118,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 364,
-      "pct": 46.8,
+      "pct": 46.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 128,
-      "pct": 16.5,
+      "count": 129,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 507,
-      "pct": 66.4
+      "count": 508,
+      "pct": 66.5
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 623,
+      "count": 624,
       "pct": 79.6
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 228
+        "count": 229
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.4
   },
   "bond": {
-    "withBond": 77,
+    "withBond": 78,
     "noBond": 176,
-    "medianBond": 2500,
+    "medianBond": 2250,
     "maxBond": 50000,
-    "totalBond": 395101
+    "totalBond": 395601
   },
   "chargesPerBooking": 1.6
 }
