@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T14:49:47",
+  "generatedAt": "2026-10-28T15:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 810,
-    "bookingsObserved": 546,
+    "bookingsTracked": 812,
+    "bookingsObserved": 548,
     "releasesObserved": 540,
-    "inCustody": 270,
-    "uniquePeople": 774
+    "inCustody": 272,
+    "uniquePeople": 776
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 24,
+      "booked": 25,
       "released": 14
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 394,
-      "pct": 30.2
+      "pct": 30
     },
     {
       "name": "THEFT III",
-      "count": 118,
-      "pct": 9
+      "count": 120,
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -182,14 +182,14 @@
       "pct": 3.9
     },
     {
-      "name": "CRIMINAL TRESPASS",
+      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 43,
       "pct": 3.3
     },
     {
-      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 39,
-      "pct": 3
+      "name": "CRIMINAL TRESPASS",
+      "count": 43,
+      "pct": 3.3
     },
     {
       "name": "ASSAULT-4",
@@ -224,12 +224,12 @@
     {
       "name": "THEFT",
       "count": 19,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 19,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 375,
-      "pct": 46.9,
+      "pct": 46.8,
       "label": "WA DOC"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 34,
-      "pct": 4.3,
+      "count": 36,
+      "pct": 4.5,
       "label": "TACOMA PD"
     },
     {
@@ -338,39 +338,39 @@
     {
       "name": "STEILACOOM PD",
       "count": 2,
-      "pct": 0.3,
+      "pct": 0.2,
       "label": "STEILACOOM PD"
     },
     {
       "name": "PUYALLUP TRIBE PD",
       "count": 2,
-      "pct": 0.3,
+      "pct": 0.2,
       "label": "PUYALLUP TRIBE PD"
     },
     {
       "name": "NISQUALLY PD",
       "count": 2,
-      "pct": 0.3,
+      "pct": 0.2,
       "label": "NISQUALLY PD"
     }
   ],
   "levels": [
     {
       "name": "GM",
-      "count": 400,
-      "pct": 35.6,
+      "count": 403,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 392,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 318,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 521,
-      "pct": 66.3
+      "count": 522,
+      "pct": 66.2
     },
     {
       "name": "Black",
@@ -427,8 +427,8 @@
     },
     {
       "name": "Asian",
-      "count": 26,
-      "pct": 3.3
+      "count": 27,
+      "pct": 3.4
     },
     {
       "name": "I",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 645,
-      "pct": 80
+      "count": 647,
+      "pct": 80.1
     },
     {
       "name": "Female",
       "count": 161,
-      "pct": 20
+      "pct": 19.9
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 237
+        "count": 239
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.6
   },
   "bond": {
-    "withBond": 84,
-    "noBond": 186,
+    "withBond": 85,
+    "noBond": 187,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 417101
+    "totalBond": 423101
   },
   "chargesPerBooking": 1.6
 }
