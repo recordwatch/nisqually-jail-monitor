@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T13:47:18",
+  "generatedAt": "2026-10-28T14:07:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 805,
-    "bookingsObserved": 541,
+    "bookingsTracked": 806,
+    "bookingsObserved": 542,
     "releasesObserved": 540,
-    "inCustody": 265,
-    "uniquePeople": 769
+    "inCustody": 266,
+    "uniquePeople": 770
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 18,
+      "booked": 20,
       "released": 14
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 394,
-      "pct": 30.4
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 53,
-      "pct": 4.1
+      "count": 54,
+      "pct": 4.2
     },
     {
       "name": "DUI",
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 87,
-      "pct": 11,
+      "count": 88,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 397,
-      "pct": 35.4,
+      "count": 398,
+      "pct": 35.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 519,
-      "pct": 66.5
+      "pct": 66.4
     },
     {
       "name": "Black",
-      "count": 152,
-      "pct": 19.5
+      "count": 153,
+      "pct": 19.6
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 641,
+      "count": 642,
       "pct": 80
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 60
+        "count": 61
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 80,
-    "noBond": 185,
+    "noBond": 186,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 408601
