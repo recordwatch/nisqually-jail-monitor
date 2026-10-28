@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:27:17",
+  "generatedAt": "2026-10-27T22:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 783,
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 50,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -194,7 +194,7 @@
     {
       "name": "ASSAULT-4",
       "count": 31,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DWLS/DWLR III",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 236.9
   },
   "bond": {
-    "withBond": 75,
-    "noBond": 182,
-    "medianBond": 2500,
+    "withBond": 76,
+    "noBond": 181,
+    "medianBond": 2250,
     "maxBond": 50000,
-    "totalBond": 390601
+    "totalBond": 391601
   },
   "chargesPerBooking": 1.6
 }
