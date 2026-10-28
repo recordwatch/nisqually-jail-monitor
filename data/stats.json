@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T15:07:16",
+  "generatedAt": "2026-10-28T15:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 812,
-    "bookingsObserved": 548,
-    "releasesObserved": 540,
+    "bookingsTracked": 813,
+    "bookingsObserved": 549,
+    "releasesObserved": 541,
     "inCustody": 272,
-    "uniquePeople": 776
+    "uniquePeople": 777
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 25,
-      "released": 14
+      "booked": 26,
+      "released": 15
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 394,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 55,
-      "pct": 4.2
+      "count": 57,
+      "pct": 4.3
     },
     {
       "name": "DUI",
@@ -209,7 +209,7 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 23,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 375,
-      "pct": 46.8,
+      "pct": 46.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 132,
-      "pct": 16.5,
+      "count": 133,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 36,
-      "pct": 4.5,
+      "count": 37,
+      "pct": 4.6,
       "label": "TACOMA PD"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 403,
-      "pct": 35.8,
+      "count": 405,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 392,
-      "pct": 34.8,
+      "pct": 34.7,
       "label": "Felony"
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 647,
+      "count": 648,
       "pct": 80.1
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 61
+        "count": 62
       },
       {
         "label": "25–34",
@@ -479,18 +479,18 @@
     ]
   },
   "releaseSources": {
-    "observed": 435,
+    "observed": 436,
     "officialDate": 105,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 435,
+    "releasedCount": 436,
     "medianDays": 3.9,
     "meanDays": 10.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 86
+        "count": 87
       },
       {
         "label": "1–3 days",
@@ -521,7 +521,7 @@
     "noBond": 187,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 423101
+    "totalBond": 418351
   },
   "chargesPerBooking": 1.6
 }
