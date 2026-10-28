@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T12:27:15",
+  "generatedAt": "2026-10-28T12:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 797,
-    "bookingsObserved": 533,
+    "bookingsTracked": 800,
+    "bookingsObserved": 536,
     "releasesObserved": 539,
-    "inCustody": 258,
-    "uniquePeople": 761
+    "inCustody": 261,
+    "uniquePeople": 764
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 10,
+      "booked": 13,
       "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 388,
-      "pct": 30
+      "count": 390,
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 369,
-      "pct": 46.8,
+      "count": 371,
+      "pct": 47,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 132,
-      "pct": 16.8,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 386,
-      "pct": 34.6,
+      "count": 388,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 317,
-      "pct": 28.5,
+      "pct": 28.4,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 514,
+      "count": 516,
       "pct": 66.5
     },
     {
@@ -418,12 +418,12 @@
     {
       "name": "N",
       "count": 36,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "Unknown",
-      "count": 28,
-      "pct": 3.6
+      "count": 29,
+      "pct": 3.7
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 633,
-      "pct": 79.8
+      "count": 636,
+      "pct": 79.9
     },
     {
       "name": "Female",
       "count": 160,
-      "pct": 20.2
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 232
+        "count": 233
       },
       {
         "label": "35–44",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 125
+        "count": 127
       },
       {
         "label": "55+",
@@ -513,12 +513,12 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 9.7,
+    "currentMedianDaysHeld": 9.4,
     "currentLongestDaysHeld": 237.5
   },
   "bond": {
     "withBond": 81,
-    "noBond": 177,
+    "noBond": 180,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 418101
