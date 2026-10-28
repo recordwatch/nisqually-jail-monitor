@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T14:47:17",
+  "generatedAt": "2026-10-28T14:49:47",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 809,
-    "bookingsObserved": 545,
+    "bookingsTracked": 810,
+    "bookingsObserved": 546,
     "releasesObserved": 540,
-    "inCustody": 269,
-    "uniquePeople": 773
+    "inCustody": 270,
+    "uniquePeople": 774
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 23,
+      "booked": 24,
       "released": 14
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 394,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
       "count": 118,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -207,12 +207,12 @@
       "pct": 2.2
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 22,
-      "pct": 1.7
+      "name": "CRIMINAL TRESPASS-1",
+      "count": 23,
+      "pct": 1.8
     },
     {
-      "name": "CRIMINAL TRESPASS-1",
+      "name": "RESISTING ARREST",
       "count": 22,
       "pct": 1.7
     },
@@ -222,14 +222,14 @@
       "pct": 1.6
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "THEFT",
       "count": 19,
       "pct": 1.5
     },
     {
-      "name": "THEFT",
-      "count": 18,
-      "pct": 1.4
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 19,
+      "pct": 1.5
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -257,7 +257,7 @@
       "pct": 0.9
     },
     {
-      "name": "DISORDERLY CONDUCT",
+      "name": "OBSTRUCTING A PUBLIC SERVANT",
       "count": 11,
       "pct": 0.8
     }
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 375,
-      "pct": 47.1,
+      "pct": 46.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 132,
-      "pct": 16.6,
+      "pct": 16.5,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 88,
-      "pct": 11,
+      "count": 89,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 33,
-      "pct": 4.1,
+      "count": 34,
+      "pct": 4.3,
       "label": "TACOMA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 399,
+      "count": 400,
       "pct": 35.6,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 317,
+      "count": 318,
       "pct": 28.3,
       "label": "Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 520,
-      "pct": 66.2
+      "count": 521,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 644,
+      "count": 645,
       "pct": 80
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 128
+        "count": 129
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.6
   },
   "bond": {
-    "withBond": 82,
-    "noBond": 187,
+    "withBond": 84,
+    "noBond": 186,
     "medianBond": 2000,
     "maxBond": 50000,
-    "totalBond": 414101
+    "totalBond": 417101
   },
   "chargesPerBooking": 1.6
 }
