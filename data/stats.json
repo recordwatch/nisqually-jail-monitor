@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T11:07:16",
+  "generatedAt": "2026-10-28T11:27:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 793,
-    "bookingsObserved": 529,
+    "bookingsTracked": 795,
+    "bookingsObserved": 531,
     "releasesObserved": 536,
-    "inCustody": 257,
-    "uniquePeople": 757
+    "inCustody": 259,
+    "uniquePeople": 759
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 7,
+      "booked": 9,
       "released": 10
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 384,
-      "pct": 29.8
+      "count": 386,
+      "pct": 29.9
     },
     {
       "name": "THEFT III",
@@ -189,7 +189,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 38,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "ASSAULT-4",
@@ -204,7 +204,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 29,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "RESISTING ARREST",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 365,
-      "pct": 46.6,
+      "count": 367,
+      "pct": 46.7,
       "label": "WA DOC"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 64,
-      "pct": 8.2,
+      "pct": 8.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4,
+      "pct": 3.9,
       "label": "TACOMA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 397,
-      "pct": 35.8,
+      "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 382,
-      "pct": 34.4,
+      "count": 384,
+      "pct": 34.5,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 317,
-      "pct": 28.6,
+      "pct": 28.5,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 510,
-      "pct": 66.3
+      "count": 512,
+      "pct": 66.4
     },
     {
       "name": "Black",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 629,
-      "pct": 79.7
+      "count": 631,
+      "pct": 79.8
     },
     {
       "name": "Female",
       "count": 160,
-      "pct": 20.3
+      "pct": 20.2
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 59
+        "count": 60
       },
       {
         "label": "25–34",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 124
+        "count": 125
       },
       {
         "label": "55+",
@@ -513,12 +513,12 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 11,
+    "currentMedianDaysHeld": 10.8,
     "currentLongestDaysHeld": 237.5
   },
   "bond": {
     "withBond": 81,
-    "noBond": 176,
+    "noBond": 178,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 418101
