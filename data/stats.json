@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T17:07:17",
+  "generatedAt": "2026-10-27T17:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 776,
-    "bookingsObserved": 512,
+    "bookingsTracked": 778,
+    "bookingsObserved": 514,
     "releasesObserved": 518,
-    "inCustody": 258,
-    "uniquePeople": 742
+    "inCustody": 260,
+    "uniquePeople": 744
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 29,
+      "booked": 31,
       "released": 20
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 380,
+      "count": 381,
       "pct": 30.3
     },
     {
       "name": "THEFT III",
       "count": 115,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 360,
+      "count": 361,
       "pct": 47.1,
       "label": "WA DOC"
     },
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 84,
-      "pct": 11,
+      "count": 85,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "FEDERAL WAY",
       "count": 41,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 31,
-      "pct": 4.1,
+      "pct": 4,
       "label": "TACOMA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 384,
+      "count": 385,
       "pct": 35.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 378,
-      "pct": 34.8,
+      "count": 379,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 310,
-      "pct": 28.6,
+      "pct": 28.5,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 499,
-      "pct": 66.4
+      "pct": 66.2
     },
     {
       "name": "Black",
       "count": 148,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "N",
@@ -422,13 +422,13 @@
     },
     {
       "name": "Unknown",
-      "count": 26,
-      "pct": 3.5
+      "count": 27,
+      "pct": 3.6
     },
     {
       "name": "Asian",
-      "count": 25,
-      "pct": 3.3
+      "count": 26,
+      "pct": 3.4
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 615,
+      "count": 617,
       "pct": 79.7
     },
     {
@@ -466,11 +466,11 @@
       },
       {
         "label": "35–44",
-        "count": 276
+        "count": 277
       },
       {
         "label": "45–54",
-        "count": 123
+        "count": 124
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 78,
-    "noBond": 180,
+    "noBond": 182,
     "medianBond": 2250,
     "maxBond": 50000,
     "totalBond": 395601
