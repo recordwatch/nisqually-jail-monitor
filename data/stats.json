@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:47:17",
+  "generatedAt": "2026-10-28T03:58:10",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 786,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 382,
-      "pct": 30
+      "count": 383,
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
@@ -207,19 +207,19 @@
       "pct": 2.3
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 22,
+      "pct": 1.7
+    },
+    {
       "name": "CRIMINAL TRESPASS-1",
       "count": 22,
       "pct": 1.7
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 21,
-      "pct": 1.7
-    },
-    {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 21,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 392,
-      "pct": 35.7,
+      "pct": 35.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 380,
+      "count": 381,
       "pct": 34.6,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 312,
-      "pct": 28.4,
+      "count": 313,
+      "pct": 28.5,
       "label": "Misdemeanor"
     },
     {
@@ -378,12 +378,6 @@
       "count": 6,
       "pct": 0.5,
       "label": "FC"
-    },
-    {
-      "name": "AD",
-      "count": 2,
-      "pct": 0.2,
-      "label": "AD"
     },
     {
       "name": "FA",
@@ -402,6 +396,12 @@
       "count": 1,
       "pct": 0.1,
       "label": "B"
+    },
+    {
+      "name": "AD",
+      "count": 1,
+      "pct": 0.1,
+      "label": "AD"
     }
   ],
   "race": [
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.2
   },
   "bond": {
-    "withBond": 77,
-    "noBond": 182,
-    "medianBond": 2500,
+    "withBond": 78,
+    "noBond": 181,
+    "medianBond": 2250,
     "maxBond": 50000,
-    "totalBond": 394601
+    "totalBond": 395601
   },
   "chargesPerBooking": 1.6
 }
