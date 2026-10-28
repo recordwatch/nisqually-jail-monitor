@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T10:27:19",
+  "generatedAt": "2026-10-28T10:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 791,
-    "bookingsObserved": 527,
+    "bookingsTracked": 792,
+    "bookingsObserved": 528,
     "releasesObserved": 536,
-    "inCustody": 255,
-    "uniquePeople": 755
+    "inCustody": 256,
+    "uniquePeople": 756
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 5,
+      "booked": 6,
       "released": 10
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 384,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "THEFT III",
@@ -184,7 +184,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 43,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 365,
-      "pct": 46.7,
+      "pct": 46.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 131,
-      "pct": 16.8,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
@@ -300,16 +300,16 @@
       "label": "TACOMA PD"
     },
     {
+      "name": "TUMWATER PD",
+      "count": 17,
+      "pct": 2.2,
+      "label": "TUMWATER PD"
+    },
+    {
       "name": "YELM PD",
       "count": 16,
       "pct": 2,
       "label": "YELM PD"
-    },
-    {
-      "name": "TUMWATER PD",
-      "count": 16,
-      "pct": 2,
-      "label": "TUMWATER PD"
     },
     {
       "name": "DOC",
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 395,
+      "count": 396,
       "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 382,
-      "pct": 34.6,
+      "pct": 34.4,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 314,
-      "pct": 28.4,
+      "count": 317,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 509,
+      "count": 510,
       "pct": 66.4
     },
     {
       "name": "Black",
       "count": 150,
-      "pct": 19.6
+      "pct": 19.5
     },
     {
       "name": "N",
@@ -423,7 +423,7 @@
     {
       "name": "Unknown",
       "count": 28,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 627,
+      "count": 628,
       "pct": 79.7
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 230
+        "count": 231
       },
       {
         "label": "35–44",
@@ -513,15 +513,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 11.8,
+    "currentMedianDaysHeld": 11.3,
     "currentLongestDaysHeld": 237.4
   },
   "bond": {
-    "withBond": 79,
+    "withBond": 80,
     "noBond": 176,
-    "medianBond": 2000,
+    "medianBond": 2250,
     "maxBond": 50000,
-    "totalBond": 397101
+    "totalBond": 417101
   },
   "chargesPerBooking": 1.6
 }
