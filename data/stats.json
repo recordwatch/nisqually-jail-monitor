@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T12:07:16",
+  "generatedAt": "2026-10-28T12:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 795,
-    "bookingsObserved": 531,
-    "releasesObserved": 538,
-    "inCustody": 257,
-    "uniquePeople": 759
+    "bookingsTracked": 797,
+    "bookingsObserved": 533,
+    "releasesObserved": 539,
+    "inCustody": 258,
+    "uniquePeople": 761
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 9,
-      "released": 12
+      "booked": 10,
+      "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 386,
-      "pct": 29.9
+      "count": 388,
+      "pct": 30
     },
     {
       "name": "THEFT III",
       "count": 118,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 51,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 367,
-      "pct": 46.7,
+      "count": 369,
+      "pct": 46.8,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 87,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 397,
-      "pct": 35.7,
+      "pct": 35.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 384,
-      "pct": 34.5,
+      "count": 386,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 512,
-      "pct": 66.4
+      "count": 514,
+      "pct": 66.5
     },
     {
       "name": "Black",
       "count": 151,
-      "pct": 19.6
+      "pct": 19.5
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 631,
+      "count": 633,
       "pct": 79.8
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 231
+        "count": 232
       },
       {
         "label": "35–44",
-        "count": 282
+        "count": 283
       },
       {
         "label": "45–54",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 433,
+    "observed": 434,
     "officialDate": 105,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 433,
+    "releasedCount": 434,
     "medianDays": 3.9,
-    "meanDays": 10.4,
+    "meanDays": 10.5,
     "buckets": [
       {
         "label": "< 1 day",
@@ -506,7 +506,7 @@
       },
       {
         "label": "1–3 months",
-        "count": 23
+        "count": 24
       },
       {
         "label": "3+ months",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 81,
-    "noBond": 176,
+    "noBond": 177,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 418101
