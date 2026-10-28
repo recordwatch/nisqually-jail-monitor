@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T21:27:16",
+  "generatedAt": "2026-10-27T21:39:59",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 783,
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 117,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 363,
-      "pct": 47,
+      "pct": 46.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 128,
-      "pct": 16.6,
+      "pct": 16.5,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 62,
-      "pct": 8,
+      "count": 63,
+      "pct": 8.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "name": "FC",
-      "count": 5,
+      "count": 6,
       "pct": 0.5,
       "label": "FC"
     },
