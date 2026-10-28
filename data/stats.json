@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T12:47:16",
+  "generatedAt": "2026-10-28T13:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 800,
-    "bookingsObserved": 536,
+    "bookingsTracked": 802,
+    "bookingsObserved": 538,
     "releasesObserved": 539,
-    "inCustody": 261,
-    "uniquePeople": 764
+    "inCustody": 263,
+    "uniquePeople": 766
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 13,
+      "booked": 15,
       "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 390,
-      "pct": 30.1
+      "count": 392,
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
@@ -259,14 +259,14 @@
     {
       "name": "DISORDERLY CONDUCT",
       "count": 11,
-      "pct": 0.9
+      "pct": 0.8
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 371,
-      "pct": 47,
+      "count": 373,
+      "pct": 47.1,
       "label": "WA DOC"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 17,
-      "pct": 2.2,
+      "pct": 2.1,
       "label": "TUMWATER PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 397,
-      "pct": 35.6,
+      "pct": 35.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 388,
-      "pct": 34.8,
+      "count": 390,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 516,
+      "count": 517,
       "pct": 66.5
     },
     {
       "name": "Black",
       "count": 151,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "N",
@@ -422,13 +422,13 @@
     },
     {
       "name": "Unknown",
-      "count": 29,
-      "pct": 3.7
+      "count": 30,
+      "pct": 3.9
     },
     {
       "name": "Asian",
       "count": 26,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 636,
+      "count": 638,
       "pct": 79.9
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 233
+        "count": 234
       },
       {
         "label": "35–44",
-        "count": 283
+        "count": 284
       },
       {
         "label": "45–54",
@@ -513,12 +513,12 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 9.4,
+    "currentMedianDaysHeld": 9,
     "currentLongestDaysHeld": 237.5
   },
   "bond": {
     "withBond": 81,
-    "noBond": 180,
+    "noBond": 182,
     "medianBond": 2000,
     "maxBond": 50000,
     "totalBond": 418101
