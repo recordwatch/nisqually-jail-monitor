@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T16:27:16",
+  "generatedAt": "2026-10-28T16:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 815,
-    "bookingsObserved": 551,
+    "bookingsTracked": 817,
+    "bookingsObserved": 553,
     "releasesObserved": 542,
-    "inCustody": 273,
-    "uniquePeople": 778
+    "inCustody": 275,
+    "uniquePeople": 780
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 28,
+      "booked": 29,
       "released": 16
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 120,
-      "pct": 9.1
+      "count": 121,
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -271,20 +271,20 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 133,
-      "pct": 16.5,
+      "count": 134,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 89,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 64,
-      "pct": 8,
+      "pct": 7.9,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 405,
-      "pct": 35.8,
+      "count": 406,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 523,
-      "pct": 66.2
+      "count": 525,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -418,7 +418,7 @@
     {
       "name": "N",
       "count": 36,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 650,
-      "pct": 80.1
+      "count": 652,
+      "pct": 80.2
     },
     {
       "name": "Female",
       "count": 161,
-      "pct": 19.9
+      "pct": 19.8
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 286
+        "count": 288
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.7
   },
   "bond": {
-    "withBond": 86,
-    "noBond": 187,
-    "medianBond": 1925,
+    "withBond": 87,
+    "noBond": 188,
+    "medianBond": 1850,
     "maxBond": 50000,
-    "totalBond": 418851
+    "totalBond": 419851
   },
   "chargesPerBooking": 1.6
 }
