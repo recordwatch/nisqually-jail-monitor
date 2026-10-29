@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T12:07:15",
+  "generatedAt": "2026-10-29T12:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 848,
     "bookingsObserved": 584,
-    "releasesObserved": 570,
-    "inCustody": 278,
+    "releasesObserved": 571,
+    "inCustody": 277,
     "uniquePeople": 806
   },
   "bookingsByDay": [
@@ -157,13 +157,13 @@
     {
       "date": "2026-10-29",
       "booked": 15,
-      "released": 14
+      "released": 15
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 405,
+      "count": 406,
       "pct": 29.8
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 32,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "DWLS/DWLR III",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 386,
-      "pct": 46.1,
+      "count": 387,
+      "pct": 46.2,
       "label": "WA DOC"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 419,
-      "pct": 36.1,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 403,
+      "count": 404,
       "pct": 34.7,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 326,
-      "pct": 28.1,
+      "pct": 28,
       "label": "Misdemeanor"
     },
     {
@@ -466,11 +466,11 @@
       },
       {
         "label": "35–44",
-        "count": 298
+        "count": 297
       },
       {
         "label": "45–54",
-        "count": 134
+        "count": 135
       },
       {
         "label": "55+",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 465,
+    "observed": 466,
     "officialDate": 105,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 465,
+    "releasedCount": 466,
     "medianDays": 3.9,
-    "meanDays": 10.7,
+    "meanDays": 10.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 176
+        "count": 177
       },
       {
         "label": "1–3 months",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 87,
-    "noBond": 191,
+    "noBond": 190,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 350051
