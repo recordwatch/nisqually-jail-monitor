@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T17:47:15",
+  "generatedAt": "2026-10-28T18:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 818,
-    "bookingsObserved": 554,
+    "bookingsTracked": 820,
+    "bookingsObserved": 556,
     "releasesObserved": 542,
-    "inCustody": 276,
-    "uniquePeople": 780
+    "inCustody": 278,
+    "uniquePeople": 781
   },
   "bookingsByDay": [
     {
@@ -156,40 +156,40 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 31,
+      "booked": 33,
       "released": 16
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 396,
+      "count": 398,
       "pct": 30
     },
     {
       "name": "THEFT III",
       "count": 121,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 57,
-      "pct": 4.3
+      "count": 58,
+      "pct": 4.4
     },
     {
       "name": "DUI",
       "count": 51,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 43,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "CRIMINAL TRESPASS",
       "count": 43,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "ASSAULT-4",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 377,
-      "pct": 46.7,
+      "count": 379,
+      "pct": 46.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 134,
-      "pct": 16.6,
+      "count": 135,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 406,
+      "count": 407,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 394,
-      "pct": 34.8,
+      "count": 396,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 319,
-      "pct": 28.2,
+      "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,12 +407,12 @@
   "race": [
     {
       "name": "White",
-      "count": 525,
+      "count": 526,
       "pct": 66.2
     },
     {
       "name": "Black",
-      "count": 156,
+      "count": 157,
       "pct": 19.7
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 652,
-      "pct": 80.1
+      "count": 653,
+      "pct": 80
     },
     {
       "name": "Female",
-      "count": 162,
-      "pct": 19.9
+      "count": 163,
+      "pct": 20
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 240
+        "count": 241
       },
       {
         "label": "35–44",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 129
+        "count": 130
       },
       {
         "label": "55+",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 8.5,
-    "currentLongestDaysHeld": 237.7
+    "currentLongestDaysHeld": 237.8
   },
   "bond": {
     "withBond": 87,
-    "noBond": 189,
+    "noBond": 191,
     "medianBond": 1850,
     "maxBond": 50000,
     "totalBond": 419851
