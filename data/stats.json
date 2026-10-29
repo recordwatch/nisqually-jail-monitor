@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:47:13",
+  "generatedAt": "2026-10-29T16:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 856,
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 124,
-      "pct": 9
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -252,12 +252,12 @@
       "pct": 0.9
     },
     {
-      "name": "MALICIOUS MISCHIEF",
+      "name": "ASSAULT 4",
       "count": 12,
       "pct": 0.9
     },
     {
-      "name": "ASSAULT 4",
+      "name": "DISORDERLY CONDUCT",
       "count": 12,
       "pct": 0.9
     }
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 419,
-      "pct": 35.7,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 327,
-      "pct": 27.9,
+      "count": 326,
+      "pct": 27.8,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 238.7
   },
   "bond": {
-    "withBond": 84,
-    "noBond": 196,
+    "withBond": 83,
+    "noBond": 197,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 351051
+    "totalBond": 350051
   },
   "chargesPerBooking": 1.6
 }
