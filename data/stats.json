@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T17:07:16",
+  "generatedAt": "2026-10-28T17:27:20",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 817,
-    "bookingsObserved": 553,
+    "bookingsTracked": 818,
+    "bookingsObserved": 554,
     "releasesObserved": 542,
-    "inCustody": 275,
+    "inCustody": 276,
     "uniquePeople": 780
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 29,
+      "booked": 31,
       "released": 16
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 395,
-      "pct": 29.9
+      "count": 396,
+      "pct": 30
     },
     {
       "name": "THEFT III",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 376,
+      "count": 377,
       "pct": 46.7,
       "label": "WA DOC"
     },
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 406,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 393,
-      "pct": 34.7,
+      "count": 394,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 525,
-      "pct": 66.3
+      "pct": 66.2
     },
     {
       "name": "Black",
-      "count": 155,
-      "pct": 19.6
+      "count": 156,
+      "pct": 19.7
     },
     {
       "name": "N",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 652,
-      "pct": 80.2
+      "pct": 80.1
     },
     {
       "name": "Female",
-      "count": 161,
-      "pct": 19.8
+      "count": 162,
+      "pct": 19.9
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 239
+        "count": 240
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 87,
-    "noBond": 188,
+    "noBond": 189,
     "medianBond": 1850,
     "maxBond": 50000,
     "totalBond": 419851
