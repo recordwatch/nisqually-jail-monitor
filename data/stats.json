@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T08:47:26",
+  "generatedAt": "2026-10-29T09:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 840,
-    "bookingsObserved": 576,
+    "bookingsTracked": 841,
+    "bookingsObserved": 577,
     "releasesObserved": 569,
-    "inCustody": 271,
+    "inCustody": 272,
     "uniquePeople": 800
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 7,
+      "booked": 8,
       "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 399,
+      "count": 400,
       "pct": 29.5
     },
     {
@@ -219,7 +219,7 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 21,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "THEFT",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 380,
+      "count": 381,
       "pct": 45.8,
       "label": "WA DOC"
     },
@@ -358,12 +358,12 @@
     {
       "name": "GM",
       "count": 419,
-      "pct": 36.3,
+      "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 397,
+      "count": 398,
       "pct": 34.4,
       "label": "Felony"
     },
@@ -413,7 +413,7 @@
     {
       "name": "Black",
       "count": 161,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "N",
@@ -427,8 +427,8 @@
     },
     {
       "name": "Asian",
-      "count": 27,
-      "pct": 3.3
+      "count": 28,
+      "pct": 3.4
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 668,
+      "count": 669,
       "pct": 79.9
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 100
+        "count": 101
       }
     ]
   },
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 88,
-    "noBond": 183,
+    "noBond": 184,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 400051
