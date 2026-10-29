@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T11:07:18",
+  "generatedAt": "2026-10-29T11:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 846,
-    "bookingsObserved": 582,
+    "bookingsTracked": 847,
+    "bookingsObserved": 583,
     "releasesObserved": 570,
-    "inCustody": 276,
-    "uniquePeople": 805
+    "inCustody": 277,
+    "uniquePeople": 806
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 11,
+      "booked": 14,
       "released": 14
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 402,
-      "pct": 29.6
+      "count": 403,
+      "pct": 29.7
     },
     {
       "name": "THEFT III",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 55,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -194,7 +194,7 @@
     {
       "name": "ASSAULT-4",
       "count": 36,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -212,12 +212,12 @@
       "pct": 1.7
     },
     {
-      "name": "RESISTING ARREST",
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 22,
       "pct": 1.6
     },
     {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "name": "RESISTING ARREST",
       "count": 22,
       "pct": 1.6
     },
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 383,
-      "pct": 45.9,
+      "count": 384,
+      "pct": 46,
       "label": "WA DOC"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "LACEY PD",
       "count": 93,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 68,
-      "pct": 8.2,
+      "pct": 8.1,
       "label": "LAKEWOOD PD"
     },
     {
@@ -296,20 +296,20 @@
     {
       "name": "FEDERAL WAY",
       "count": 43,
-      "pct": 5.2,
+      "pct": 5.1,
       "label": "FEDERAL WAY"
-    },
-    {
-      "name": "TUMWATER PD",
-      "count": 17,
-      "pct": 2,
-      "label": "TUMWATER PD"
     },
     {
       "name": "YELM PD",
       "count": 17,
       "pct": 2,
       "label": "YELM PD"
+    },
+    {
+      "name": "TUMWATER PD",
+      "count": 17,
+      "pct": 2,
+      "label": "TUMWATER PD"
     },
     {
       "name": "DOC",
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 419,
-      "pct": 36.2,
+      "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 400,
-      "pct": 34.5,
+      "count": 401,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 541,
-      "pct": 65.9
+      "pct": 65.8
     },
     {
       "name": "Black",
-      "count": 162,
-      "pct": 19.7
+      "count": 163,
+      "pct": 19.8
     },
     {
       "name": "N",
@@ -428,7 +428,7 @@
     {
       "name": "Asian",
       "count": 30,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "I",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 673,
-      "pct": 79.9
+      "count": 674,
+      "pct": 80
     },
     {
       "name": "Female",
       "count": 169,
-      "pct": 20.1
+      "pct": 20
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 248
+        "count": 249
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 7.9,
+    "currentMedianDaysHeld": 7.8,
     "currentLongestDaysHeld": 238.5
   },
   "bond": {
     "withBond": 87,
-    "noBond": 189,
+    "noBond": 190,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 350051
