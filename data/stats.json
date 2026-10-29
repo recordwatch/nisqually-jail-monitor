@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T03:27:14",
+  "generatedAt": "2026-10-29T03:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 838,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 59,
+      "count": 60,
       "pct": 4.4
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 37,
+      "count": 36,
       "pct": 2.7
     },
     {
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 8.5,
-    "currentLongestDaysHeld": 238.1
+    "currentLongestDaysHeld": 238.2
   },
   "bond": {
     "withBond": 88,
