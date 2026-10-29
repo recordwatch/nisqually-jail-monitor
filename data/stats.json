@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:07:16",
+  "generatedAt": "2026-10-29T06:27:21",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 840,
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 54,
-      "pct": 4
+      "count": 55,
+      "pct": 4.1
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 137,
-      "pct": 16.5,
+      "count": 138,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 17,
-      "pct": 2.1,
+      "pct": 2,
       "label": "TUMWATER PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 418,
-      "pct": 36.2,
+      "count": 419,
+      "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 325,
-      "pct": 28.2,
+      "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 238.3
   },
   "bond": {
-    "withBond": 88,
-    "noBond": 193,
+    "withBond": 89,
+    "noBond": 192,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 414051
+    "totalBond": 415051
   },
   "chargesPerBooking": 1.6
 }
