@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:02:13",
+  "generatedAt": "2026-10-29T01:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 838,
@@ -193,7 +193,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 36,
+      "count": 37,
       "pct": 2.7
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 137,
-      "pct": 16.6,
+      "pct": 16.5,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 67,
-      "pct": 8.1,
+      "count": 68,
+      "pct": 8.2,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 416,
-      "pct": 36.1,
+      "count": 417,
+      "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 397,
-      "pct": 34.5,
+      "pct": 34.4,
       "label": "Felony"
     },
     {
