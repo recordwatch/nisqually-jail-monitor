@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:07:15",
+  "generatedAt": "2026-10-29T16:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 856,
@@ -364,12 +364,12 @@
     {
       "name": "F",
       "count": 413,
-      "pct": 35.2,
+      "pct": 35.3,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 326,
+      "count": 325,
       "pct": 27.8,
       "label": "Misdemeanor"
     },
