@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T14:07:15",
+  "generatedAt": "2026-10-29T14:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 853,
-    "bookingsObserved": 589,
+    "bookingsTracked": 854,
+    "bookingsObserved": 590,
     "releasesObserved": 572,
-    "inCustody": 281,
-    "uniquePeople": 809
+    "inCustody": 282,
+    "uniquePeople": 810
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 19,
+      "booked": 21,
       "released": 16
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 409,
+      "count": 410,
       "pct": 30
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 43,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 390,
+      "count": 391,
       "pct": 46.4,
       "label": "WA DOC"
     },
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 93,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 407,
+      "count": 408,
       "pct": 34.9,
       "label": "Felony"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 545,
-      "pct": 65.8
+      "count": 546,
+      "pct": 65.9
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 679,
+      "count": 680,
       "pct": 80
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 298
+        "count": 299
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 87,
-    "noBond": 194,
+    "noBond": 195,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 349551
