@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T03:47:14",
+  "generatedAt": "2026-10-30T04:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 868,
-    "bookingsObserved": 604,
+    "bookingsTracked": 869,
+    "bookingsObserved": 605,
     "releasesObserved": 594,
-    "inCustody": 274,
-    "uniquePeople": 822
+    "inCustody": 275,
+    "uniquePeople": 823
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 127,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 55,
+      "count": 56,
       "pct": 4
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 402,
-      "pct": 46.9,
+      "pct": 46.8,
       "label": "WA DOC"
     },
     {
@@ -284,20 +284,20 @@
     {
       "name": "LAKEWOOD PD",
       "count": 70,
-      "pct": 8.2,
+      "pct": 8.1,
       "label": "LAKEWOOD PD"
+    },
+    {
+      "name": "FEDERAL WAY",
+      "count": 44,
+      "pct": 5.1,
+      "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 44,
       "pct": 5.1,
       "label": "TACOMA PD"
-    },
-    {
-      "name": "FEDERAL WAY",
-      "count": 43,
-      "pct": 5,
-      "label": "FEDERAL WAY"
     },
     {
       "name": "YELM PD",
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 428,
-      "pct": 36,
+      "count": 429,
+      "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 417,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Felony"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 553,
-      "pct": 65.7
+      "pct": 65.6
     },
     {
       "name": "Black",
-      "count": 167,
-      "pct": 19.8
+      "count": 168,
+      "pct": 19.9
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 690,
+      "count": 691,
       "pct": 79.9
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 138
+        "count": 139
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 75,
-    "noBond": 199,
+    "noBond": 200,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 313151
