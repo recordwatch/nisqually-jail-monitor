@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:07:15",
+  "generatedAt": "2026-10-30T13:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 878,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 427,
-      "pct": 30.5
+      "pct": 30.4
     },
     {
       "name": "THEFT III",
       "count": 127,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -257,7 +257,7 @@
       "pct": 0.9
     },
     {
-      "name": "ASSAULT 4",
+      "name": "EXPOSING A MINOR TO DV",
       "count": 12,
       "pct": 0.9
     }
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 431,
+      "count": 432,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 8.8,
-    "currentLongestDaysHeld": 239.5
+    "currentLongestDaysHeld": 239.6
   },
   "bond": {
     "withBond": 75,
