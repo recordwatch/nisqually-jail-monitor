@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T15:27:14",
+  "generatedAt": "2026-10-30T15:47:01",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 880,
-    "bookingsObserved": 616,
+    "bookingsTracked": 881,
+    "bookingsObserved": 617,
     "releasesObserved": 625,
-    "inCustody": 255,
+    "inCustody": 256,
     "uniquePeople": 831
   },
   "bookingsByDay": [
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 427,
-      "pct": 30.3
+      "count": 428,
+      "pct": 30.4
     },
     {
       "name": "THEFT III",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 57,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -229,12 +229,12 @@
     {
       "name": "SIMPLE ASSAULT-DV",
       "count": 19,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 19,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "HARASSMENT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 408,
-      "pct": 46.9,
+      "count": 409,
+      "pct": 47,
       "label": "WA DOC"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 425,
+      "count": 426,
       "pct": 35.3,
       "label": "Felony"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 561,
+      "count": 562,
       "pct": 65.7
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 699,
+      "count": 700,
       "pct": 79.8
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 311
+        "count": 312
       },
       {
         "label": "45–54",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 8.9,
-    "currentLongestDaysHeld": 239.6
+    "currentLongestDaysHeld": 239.7
   },
   "bond": {
     "withBond": 74,
-    "noBond": 181,
+    "noBond": 182,
     "medianBond": 1925,
     "maxBond": 50000,
     "totalBond": 316151
