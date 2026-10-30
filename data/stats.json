@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:27:15",
+  "generatedAt": "2026-10-30T00:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 866,
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 60,
+      "count": 61,
       "pct": 4.4
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 401,
-      "pct": 46.9,
+      "pct": 46.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 139,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 69,
-      "pct": 8.1,
+      "count": 70,
+      "pct": 8.2,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 422,
-      "pct": 35.7,
+      "count": 423,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
