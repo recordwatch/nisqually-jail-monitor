@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T23:27:13",
+  "generatedAt": "2026-10-29T23:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 865,
-    "bookingsObserved": 601,
+    "bookingsTracked": 866,
+    "bookingsObserved": 602,
     "releasesObserved": 594,
-    "inCustody": 271,
-    "uniquePeople": 820
+    "inCustody": 272,
+    "uniquePeople": 821
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 31,
+      "booked": 33,
       "released": 38
     }
   ],
@@ -222,6 +222,11 @@
       "pct": 1.6
     },
     {
+      "name": "SIMPLE ASSAULT-DV",
+      "count": 19,
+      "pct": 1.4
+    },
+    {
       "name": "THEFT",
       "count": 19,
       "pct": 1.4
@@ -230,11 +235,6 @@
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 19,
       "pct": 1.4
-    },
-    {
-      "name": "SIMPLE ASSAULT-DV",
-      "count": 18,
-      "pct": 1.3
     },
     {
       "name": "HARASSMENT",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 401,
-      "pct": 47,
+      "pct": 46.9,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 93,
-      "pct": 10.9,
+      "count": 94,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "TACOMA PD",
       "count": 44,
-      "pct": 5.2,
+      "pct": 5.1,
       "label": "TACOMA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 421,
+      "count": 422,
       "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 551,
+      "count": 552,
       "pct": 65.7
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 688,
+      "count": 689,
       "pct": 79.9
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 306
+        "count": 307
       },
       {
         "label": "45–54",
@@ -513,12 +513,12 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 8.2,
+    "currentMedianDaysHeld": 8.3,
     "currentLongestDaysHeld": 239
   },
   "bond": {
     "withBond": 74,
-    "noBond": 197,
+    "noBond": 198,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 309551
