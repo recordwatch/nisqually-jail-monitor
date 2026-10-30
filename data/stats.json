@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T22:27:13",
+  "generatedAt": "2026-10-29T22:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 863,
-    "bookingsObserved": 599,
+    "bookingsTracked": 864,
+    "bookingsObserved": 600,
     "releasesObserved": 594,
-    "inCustody": 269,
-    "uniquePeople": 818
+    "inCustody": 270,
+    "uniquePeople": 819
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 30,
+      "booked": 31,
       "released": 38
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 418,
+      "count": 419,
       "pct": 30.4
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 400,
-      "pct": 46.9,
+      "count": 401,
+      "pct": 47,
       "label": "WA DOC"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 416,
+      "count": 417,
       "pct": 35.3,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 326,
-      "pct": 27.7,
+      "pct": 27.6,
       "label": "Misdemeanor"
     },
     {
@@ -413,7 +413,7 @@
     {
       "name": "Black",
       "count": 167,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "N",
@@ -422,8 +422,8 @@
     },
     {
       "name": "Unknown",
-      "count": 34,
-      "pct": 4.1
+      "count": 35,
+      "pct": 4.2
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 687,
+      "count": 688,
       "pct": 80
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 304
+        "count": 305
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 74,
-    "noBond": 195,
+    "noBond": 196,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 309551
