@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:27:13",
+  "generatedAt": "2026-10-29T20:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 862,
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 399,
-      "pct": 46.9,
+      "count": 400,
+      "pct": 47,
       "label": "WA DOC"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 419,
-      "pct": 35.7,
+      "pct": 35.6,
       "label": "Gross Misdemeanor"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 325,
-      "pct": 27.7,
+      "pct": 27.6,
       "label": "Misdemeanor"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "AD",
-      "count": 2,
-      "pct": 0.2,
+      "count": 3,
+      "pct": 0.3,
       "label": "AD"
     },
     {
