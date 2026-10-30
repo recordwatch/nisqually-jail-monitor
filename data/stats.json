@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T02:07:13",
+  "generatedAt": "2026-10-30T02:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 867,
-    "bookingsObserved": 603,
+    "bookingsTracked": 868,
+    "bookingsObserved": 604,
     "releasesObserved": 594,
-    "inCustody": 273,
-    "uniquePeople": 821
+    "inCustody": 274,
+    "uniquePeople": 822
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 124,
+      "count": 125,
       "pct": 9
     },
     {
@@ -222,12 +222,12 @@
       "pct": 1.6
     },
     {
-      "name": "SIMPLE ASSAULT-DV",
-      "count": 19,
+      "name": "THEFT",
+      "count": 20,
       "pct": 1.4
     },
     {
-      "name": "THEFT",
+      "name": "SIMPLE ASSAULT-DV",
       "count": 19,
       "pct": 1.4
     },
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 94,
-      "pct": 11,
+      "count": 95,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -332,7 +332,7 @@
     {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
-      "pct": 0.4,
+      "pct": 0.3,
       "label": "NEZ PERCE TRIBE"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 423,
+      "count": 424,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 326,
+      "count": 327,
       "pct": 27.6,
       "label": "Misdemeanor"
     },
@@ -408,17 +408,17 @@
     {
       "name": "White",
       "count": 553,
-      "pct": 65.8
+      "pct": 65.7
     },
     {
       "name": "Black",
       "count": 167,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "Unknown",
-      "count": 36,
-      "pct": 4.3
+      "count": 37,
+      "pct": 4.4
     },
     {
       "name": "N",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 690,
-      "pct": 80
+      "pct": 79.9
     },
     {
       "name": "Female",
-      "count": 173,
-      "pct": 20
+      "count": 174,
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 137
+        "count": 138
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 74,
-    "noBond": 199,
+    "noBond": 200,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 309551
