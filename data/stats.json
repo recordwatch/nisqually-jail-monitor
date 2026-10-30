@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:27:14",
+  "generatedAt": "2026-10-30T05:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 869,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 420,
+      "count": 421,
       "pct": 30.3
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 418,
-      "pct": 35.1,
+      "count": 419,
+      "pct": 35.2,
       "label": "Felony"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "AD",
-      "count": 3,
-      "pct": 0.3,
+      "count": 2,
+      "pct": 0.2,
       "label": "AD"
     },
     {
