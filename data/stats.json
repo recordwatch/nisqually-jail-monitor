@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T11:47:14",
+  "generatedAt": "2026-10-30T12:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 876,
-    "bookingsObserved": 612,
+    "bookingsTracked": 877,
+    "bookingsObserved": 613,
     "releasesObserved": 619,
-    "inCustody": 257,
-    "uniquePeople": 827
+    "inCustody": 258,
+    "uniquePeople": 828
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 10,
+      "booked": 11,
       "released": 25
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 425,
-      "pct": 30.4
+      "count": 427,
+      "pct": 30.5
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 62,
-      "pct": 4.4
+      "count": 63,
+      "pct": 4.5
     },
     {
       "name": "DUI",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 406,
-      "pct": 46.9,
+      "count": 408,
+      "pct": 47.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 139,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 430,
+      "count": 431,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 423,
-      "pct": 35.3,
+      "count": 425,
+      "pct": 35.4,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 329,
-      "pct": 27.5,
+      "pct": 27.4,
       "label": "Misdemeanor"
     },
     {
@@ -408,17 +408,17 @@
     {
       "name": "White",
       "count": 559,
-      "pct": 65.8
+      "pct": 65.7
     },
     {
       "name": "Black",
-      "count": 168,
-      "pct": 19.8
+      "count": 169,
+      "pct": 19.9
     },
     {
       "name": "Unknown",
       "count": 37,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 695,
+      "count": 696,
       "pct": 79.7
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 309
+        "count": 310
       },
       {
         "label": "45–54",
@@ -513,12 +513,12 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 8.7,
+    "currentMedianDaysHeld": 8.8,
     "currentLongestDaysHeld": 239.5
   },
   "bond": {
     "withBond": 75,
-    "noBond": 182,
+    "noBond": 183,
     "medianBond": 1850,
     "maxBond": 50000,
     "totalBond": 316901
