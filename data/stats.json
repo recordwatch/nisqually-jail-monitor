@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T17:47:12",
+  "generatedAt": "2026-10-30T18:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 884,
-    "bookingsObserved": 620,
+    "bookingsTracked": 886,
+    "bookingsObserved": 622,
     "releasesObserved": 628,
-    "inCustody": 256,
-    "uniquePeople": 834
+    "inCustody": 258,
+    "uniquePeople": 836
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 17,
+      "booked": 19,
       "released": 34
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 63,
-      "pct": 4.5
+      "count": 65,
+      "pct": 4.6
     },
     {
       "name": "DUI",
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 43,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "ASSAULT-4",
@@ -259,20 +259,20 @@
     {
       "name": "EXPOSING A MINOR TO DV",
       "count": 12,
-      "pct": 0.9
+      "pct": 0.8
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
       "count": 410,
-      "pct": 47,
+      "pct": 46.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 140,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -300,16 +300,16 @@
       "label": "TACOMA PD"
     },
     {
+      "name": "YELM PD",
+      "count": 19,
+      "pct": 2.2,
+      "label": "YELM PD"
+    },
+    {
       "name": "TUMWATER PD",
       "count": 18,
       "pct": 2.1,
       "label": "TUMWATER PD"
-    },
-    {
-      "name": "YELM PD",
-      "count": 17,
-      "pct": 1.9,
-      "label": "YELM PD"
     },
     {
       "name": "DOC",
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 434,
-      "pct": 36,
+      "count": 438,
+      "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 427,
-      "pct": 35.4,
+      "pct": 35.3,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 331,
-      "pct": 27.4,
+      "pct": 27.3,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 564,
-      "pct": 65.7
+      "count": 566,
+      "pct": 65.8
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 702,
+      "count": 704,
       "pct": 79.8
     },
     {
@@ -458,11 +458,11 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 67
+        "count": 68
       },
       {
         "label": "25–34",
-        "count": 257
+        "count": 258
       },
       {
         "label": "35–44",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 9,
-    "currentLongestDaysHeld": 239.7
+    "currentLongestDaysHeld": 239.8
   },
   "bond": {
     "withBond": 73,
-    "noBond": 183,
+    "noBond": 185,
     "medianBond": 1850,
     "maxBond": 50000,
     "totalBond": 310651
