@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T20:27:14",
+  "generatedAt": "2026-10-30T20:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 888,
-    "bookingsObserved": 624,
+    "bookingsTracked": 889,
+    "bookingsObserved": 625,
     "releasesObserved": 632,
-    "inCustody": 256,
-    "uniquePeople": 838
+    "inCustody": 257,
+    "uniquePeople": 839
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 21,
+      "booked": 22,
       "released": 38
     }
   ],
@@ -243,8 +243,8 @@
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 14,
-      "pct": 1
+      "count": 15,
+      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -308,7 +308,7 @@
     {
       "name": "TUMWATER PD",
       "count": 18,
-      "pct": 2.1,
+      "pct": 2,
       "label": "TUMWATER PD"
     },
     {
@@ -336,6 +336,12 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
+      "name": "DUPONT PD",
+      "count": 2,
+      "pct": 0.2,
+      "label": "DUPONT PD"
+    },
+    {
       "name": "STEILACOOM PD",
       "count": 2,
       "pct": 0.2,
@@ -346,19 +352,13 @@
       "count": 2,
       "pct": 0.2,
       "label": "PUYALLUP TRIBE PD"
-    },
-    {
-      "name": "NISQUALLY PD",
-      "count": 2,
-      "pct": 0.2,
-      "label": "NISQUALLY PD"
     }
   ],
   "levels": [
     {
       "name": "GM",
       "count": 444,
-      "pct": 36.4,
+      "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 333,
+      "count": 334,
       "pct": 27.3,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 568,
+      "count": 569,
       "pct": 65.9
     },
     {
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 706,
-      "pct": 79.9
+      "pct": 79.8
     },
     {
       "name": "Female",
-      "count": 178,
-      "pct": 20.1
+      "count": 179,
+      "pct": 20.2
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 312
+        "count": 313
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 72,
-    "noBond": 184,
+    "noBond": 185,
     "medianBond": 1675,
     "maxBond": 50000,
     "totalBond": 312551
