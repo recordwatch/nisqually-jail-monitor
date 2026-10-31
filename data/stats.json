@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:27:22",
+  "generatedAt": "2026-10-31T01:39:54",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 901,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 433,
-      "pct": 30.1
+      "pct": 29.9
     },
     {
       "name": "THEFT III",
@@ -179,12 +179,12 @@
     {
       "name": "DUI",
       "count": 57,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 52,
-      "pct": 3.6
+      "count": 53,
+      "pct": 3.7
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -198,7 +198,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 34,
+      "count": 35,
       "pct": 2.4
     },
     {
@@ -239,11 +239,16 @@
     {
       "name": "HARASSMENT",
       "count": 18,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "ASSAULT 4TH DV",
       "count": 15,
+      "pct": 1
+    },
+    {
+      "name": "MALICIOUS MISCHIEF",
+      "count": 14,
       "pct": 1
     },
     {
@@ -255,18 +260,13 @@
       "name": "VIOLATION NO CONTACT ORDER",
       "count": 13,
       "pct": 0.9
-    },
-    {
-      "name": "MALICIOUS MISCHIEF",
-      "count": 12,
-      "pct": 0.8
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
       "count": 412,
-      "pct": 46.4,
+      "pct": 46.3,
       "label": "WA DOC"
     },
     {
@@ -284,19 +284,19 @@
     {
       "name": "LAKEWOOD PD",
       "count": 76,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "TACOMA PD",
-      "count": 48,
-      "pct": 5.4,
+      "count": 49,
+      "pct": 5.5,
       "label": "TACOMA PD"
     },
     {
       "name": "FEDERAL WAY",
       "count": 44,
-      "pct": 5,
+      "pct": 4.9,
       "label": "FEDERAL WAY"
     },
     {
@@ -320,13 +320,13 @@
     {
       "name": "SQUAXIN ISLAND PD",
       "count": 4,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "SHELTON PD",
       "count": 4,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "SHELTON PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 449,
-      "pct": 36.5,
+      "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 431,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 336,
-      "pct": 27.3,
+      "count": 339,
+      "pct": 27.5,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.1
   },
   "bond": {
-    "withBond": 77,
-    "noBond": 192,
+    "withBond": 78,
+    "noBond": 191,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 322801
+    "totalBond": 323851
   },
   "chargesPerBooking": 1.6
 }
