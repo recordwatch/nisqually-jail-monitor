@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T00:47:14",
+  "generatedAt": "2026-10-31T01:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 900,
-    "bookingsObserved": 636,
+    "bookingsTracked": 901,
+    "bookingsObserved": 637,
     "releasesObserved": 632,
-    "inCustody": 268,
-    "uniquePeople": 850
+    "inCustody": 269,
+    "uniquePeople": 851
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 577,
-      "pct": 66
+      "count": 578,
+      "pct": 66.1
     },
     {
       "name": "Black",
       "count": 171,
-      "pct": 19.6
+      "pct": 19.5
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 714,
+      "count": 715,
       "pct": 79.7
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 317
+        "count": 318
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 77,
-    "noBond": 191,
+    "noBond": 192,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 322801
