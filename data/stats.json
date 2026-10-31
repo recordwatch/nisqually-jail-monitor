@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T04:27:15",
+  "generatedAt": "2026-10-31T04:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 905,
-    "bookingsObserved": 641,
+    "bookingsTracked": 906,
+    "bookingsObserved": 642,
     "releasesObserved": 633,
-    "inCustody": 272,
-    "uniquePeople": 855
+    "inCustody": 273,
+    "uniquePeople": 856
   },
   "bookingsByDay": [
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 53,
+      "count": 54,
       "pct": 3.7
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 97,
-      "pct": 10.8,
+      "count": 98,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 49,
-      "pct": 5.5,
+      "count": 50,
+      "pct": 5.6,
       "label": "TACOMA PD"
     },
     {
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 579,
+      "count": 580,
       "pct": 65.9
     },
     {
       "name": "Black",
       "count": 171,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "Unknown",
       "count": 40,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 719,
+      "count": 720,
       "pct": 79.8
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 263
+        "count": 264
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.2
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 84,
     "noBond": 189,
-    "medianBond": 1500,
+    "medianBond": 1375,
     "maxBond": 50000,
-    "totalBond": 330951
+    "totalBond": 331951
   },
   "chargesPerBooking": 1.6
 }
