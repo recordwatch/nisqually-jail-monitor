@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:39:54",
+  "generatedAt": "2026-10-31T01:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 901,
@@ -208,8 +208,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 25,
-      "pct": 1.7
+      "count": 26,
+      "pct": 1.8
     },
     {
       "name": "THEFT",
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 141,
-      "pct": 15.9,
+      "count": 142,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 449,
+      "count": 450,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 339,
-      "pct": 27.5,
+      "pct": 27.4,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.1
   },
   "bond": {
-    "withBond": 78,
-    "noBond": 191,
+    "withBond": 79,
+    "noBond": 190,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 323851
+    "totalBond": 325851
   },
   "chargesPerBooking": 1.6
 }
