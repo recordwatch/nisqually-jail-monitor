@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:27:12",
+  "generatedAt": "2026-10-31T14:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 911,
@@ -193,8 +193,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 37,
-      "pct": 2.5
+      "count": 38,
+      "pct": 2.6
     },
     {
       "name": "ASSAULT-4",
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 345,
+      "count": 346,
       "pct": 27.6,
       "label": "Misdemeanor"
     },
@@ -513,7 +513,7 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 8.9,
+    "currentMedianDaysHeld": 9,
     "currentLongestDaysHeld": 240.6
   },
   "bond": {
@@ -521,7 +521,7 @@
     "noBond": 187,
     "medianBond": 1175,
     "maxBond": 50000,
-    "totalBond": 300701
+    "totalBond": 301201
   },
   "chargesPerBooking": 1.6
 }
