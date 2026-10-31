@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:07:14",
+  "generatedAt": "2026-10-30T18:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 886,
@@ -163,12 +163,12 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 429,
+      "count": 430,
       "pct": 30.4
     },
     {
       "name": "THEFT III",
-      "count": 128,
+      "count": 129,
       "pct": 9.1
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 71,
-      "pct": 8.1,
+      "count": 72,
+      "pct": 8.2,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,13 +357,13 @@
   "levels": [
     {
       "name": "GM",
-      "count": 438,
+      "count": 439,
       "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 427,
+      "count": 428,
       "pct": 35.3,
       "label": "Felony"
     },
@@ -458,11 +458,11 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 68
+        "count": 67
       },
       {
         "label": "25–34",
-        "count": 258
+        "count": 259
       },
       {
         "label": "35–44",
@@ -513,7 +513,7 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 9,
+    "currentMedianDaysHeld": 8.9,
     "currentLongestDaysHeld": 239.8
   },
   "bond": {
