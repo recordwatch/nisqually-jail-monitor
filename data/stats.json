@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:47:14",
+  "generatedAt": "2026-10-31T02:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 901,
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 57,
-      "pct": 3.9
+      "count": 58,
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 412,
-      "pct": 46.3,
+      "pct": 46.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 142,
-      "pct": 16,
+      "pct": 15.9,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 76,
-      "pct": 8.5,
+      "count": 77,
+      "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 450,
-      "pct": 36.4,
+      "count": 451,
+      "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.1
   },
   "bond": {
-    "withBond": 79,
-    "noBond": 190,
+    "withBond": 80,
+    "noBond": 189,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 325851
+    "totalBond": 326851
   },
   "chargesPerBooking": 1.6
 }
