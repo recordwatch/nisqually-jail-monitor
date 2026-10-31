@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T19:47:18",
+  "generatedAt": "2026-10-30T20:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 887,
-    "bookingsObserved": 623,
+    "bookingsTracked": 888,
+    "bookingsObserved": 624,
     "releasesObserved": 632,
-    "inCustody": 255,
-    "uniquePeople": 837
+    "inCustody": 256,
+    "uniquePeople": 838
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 20,
+      "booked": 21,
       "released": 38
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 430,
-      "pct": 30.2
+      "count": 431,
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 410,
+      "count": 411,
       "pct": 46.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 140,
-      "pct": 16,
+      "pct": 15.9,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 97,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 428,
+      "count": 429,
       "pct": 35.1,
       "label": "Felony"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 567,
+      "count": 568,
       "pct": 65.9
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 705,
-      "pct": 79.8
+      "count": 706,
+      "pct": 79.9
     },
     {
       "name": "Female",
       "count": 178,
-      "pct": 20.2
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 259
+        "count": 260
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 72,
-    "noBond": 183,
+    "noBond": 184,
     "medianBond": 1675,
     "maxBond": 50000,
     "totalBond": 312551
