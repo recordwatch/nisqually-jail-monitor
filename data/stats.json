@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T00:07:15",
+  "generatedAt": "2026-10-31T00:27:21",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 898,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 432,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
@@ -183,8 +183,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 49,
-      "pct": 3.4
+      "count": 51,
+      "pct": 3.6
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -198,8 +198,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 33,
-      "pct": 2.3
+      "count": 34,
+      "pct": 2.4
     },
     {
       "name": "DWLS/DWLR III",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 412,
-      "pct": 46.6,
+      "pct": 46.5,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 97,
-      "pct": 11,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 46,
-      "pct": 5.2,
+      "count": 47,
+      "pct": 5.3,
       "label": "TACOMA PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 449,
-      "pct": 36.6,
+      "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 334,
-      "pct": 27.2,
+      "count": 336,
+      "pct": 27.3,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240
   },
   "bond": {
-    "withBond": 75,
-    "noBond": 191,
+    "withBond": 76,
+    "noBond": 190,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 320551
+    "totalBond": 321801
   },
   "chargesPerBooking": 1.6
 }
