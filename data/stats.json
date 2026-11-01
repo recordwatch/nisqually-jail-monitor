@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T19:27:14",
+  "generatedAt": "2026-10-31T19:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 913,
-    "bookingsObserved": 649,
+    "bookingsTracked": 914,
+    "bookingsObserved": 650,
     "releasesObserved": 644,
-    "inCustody": 269,
-    "uniquePeople": 861
+    "inCustody": 270,
+    "uniquePeople": 862
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 16,
+      "booked": 17,
       "released": 12
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 62,
-      "pct": 4.2
+      "count": 63,
+      "pct": 4.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 80,
-      "pct": 8.9,
+      "pct": 8.8,
       "label": "LAKEWOOD PD"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "YELM PD",
-      "count": 19,
-      "pct": 2.1,
+      "count": 20,
+      "pct": 2.2,
       "label": "YELM PD"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 459,
-      "pct": 36.6,
+      "count": 460,
+      "pct": 36.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 433,
-      "pct": 34.6,
+      "pct": 34.5,
       "label": "Felony"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 583,
+      "count": 584,
       "pct": 65.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 726,
+      "count": 727,
       "pct": 80
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 147
+        "count": 148
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.8
   },
   "bond": {
-    "withBond": 80,
+    "withBond": 81,
     "noBond": 189,
-    "medianBond": 1175,
+    "medianBond": 1100,
     "maxBond": 50000,
-    "totalBond": 301201
+    "totalBond": 302201
   },
   "chargesPerBooking": 1.6
 }
