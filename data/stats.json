@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T07:27:13",
+  "generatedAt": "2026-11-01T07:45:25",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 925,
-    "bookingsObserved": 661,
+    "bookingsTracked": 926,
+    "bookingsObserved": 662,
     "releasesObserved": 651,
-    "inCustody": 274,
-    "uniquePeople": 872
+    "inCustody": 275,
+    "uniquePeople": 873
   },
   "bookingsByDay": [
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 148,
+      "count": 149,
       "pct": 16.2,
       "label": "OLYMPIA PD"
     },
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 82,
-      "pct": 9,
+      "pct": 8.9,
       "label": "LAKEWOOD PD"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 594,
-      "pct": 66.1
+      "count": 595,
+      "pct": 66.2
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 737,
+      "count": 738,
       "pct": 80.1
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 267
+        "count": 268
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 241.3
   },
   "bond": {
-    "withBond": 87,
+    "withBond": 88,
     "noBond": 187,
-    "medianBond": 1050,
+    "medianBond": 1025,
     "maxBond": 50000,
-    "totalBond": 307801
+    "totalBond": 308801
   },
   "chargesPerBooking": 1.6
 }
