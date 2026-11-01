@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T06:47:13",
+  "generatedAt": "2026-11-01T07:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 925,
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 416,
-      "pct": 45.4,
+      "count": 417,
+      "pct": 45.5,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 149,
-      "pct": 16.3,
+      "count": 148,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
