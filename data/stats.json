@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T18:07:12",
+  "generatedAt": "2026-10-31T18:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 911,
-    "bookingsObserved": 647,
+    "bookingsTracked": 913,
+    "bookingsObserved": 649,
     "releasesObserved": 644,
-    "inCustody": 267,
-    "uniquePeople": 860
+    "inCustody": 269,
+    "uniquePeople": 861
   },
   "bookingsByDay": [
     {
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 414,
-      "pct": 45.9,
+      "pct": 45.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 144,
-      "pct": 16,
+      "pct": 15.9,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 79,
-      "pct": 8.8,
+      "count": 80,
+      "pct": 8.9,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 458,
+      "count": 459,
       "pct": 36.6,
       "label": "Gross Misdemeanor"
     },
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 583,
-      "pct": 66
+      "pct": 65.8
     },
     {
       "name": "Black",
-      "count": 172,
-      "pct": 19.5
+      "count": 174,
+      "pct": 19.6
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 724,
-      "pct": 79.9
+      "count": 726,
+      "pct": 80
     },
     {
       "name": "Female",
       "count": 182,
-      "pct": 20.1
+      "pct": 20
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 69
+        "count": 70
       },
       {
         "label": "25–34",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 319
+        "count": 320
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 80,
-    "noBond": 187,
+    "noBond": 189,
     "medianBond": 1175,
     "maxBond": 50000,
     "totalBond": 301201
