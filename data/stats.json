@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T22:27:14",
+  "generatedAt": "2026-10-31T22:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 919,
-    "bookingsObserved": 655,
+    "bookingsTracked": 921,
+    "bookingsObserved": 657,
     "releasesObserved": 644,
-    "inCustody": 275,
-    "uniquePeople": 867
+    "inCustody": 277,
+    "uniquePeople": 869
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 22,
+      "booked": 24,
       "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 435,
+      "count": 437,
       "pct": 29.6
     },
     {
@@ -242,19 +242,19 @@
       "pct": 1.2
     },
     {
+      "name": "VIOLATION NO CONTACT ORDER",
+      "count": 15,
+      "pct": 1
+    },
+    {
       "name": "ASSAULT 4TH DV",
       "count": 15,
       "pct": 1
     },
     {
-      "name": "VIOLATION NO CONTACT ORDER",
-      "count": 14,
-      "pct": 1
-    },
-    {
       "name": "MALICIOUS MISCHIEF",
       "count": 14,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "ASSAULT 4",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 414,
+      "count": 415,
       "pct": 45.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 147,
-      "pct": 16.2,
+      "pct": 16.1,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 100,
-      "pct": 11,
+      "count": 101,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -296,8 +296,14 @@
     {
       "name": "FEDERAL WAY",
       "count": 46,
-      "pct": 5.1,
+      "pct": 5,
       "label": "FEDERAL WAY"
+    },
+    {
+      "name": "TUMWATER PD",
+      "count": 20,
+      "pct": 2.2,
+      "label": "TUMWATER PD"
     },
     {
       "name": "YELM PD",
@@ -306,15 +312,9 @@
       "label": "YELM PD"
     },
     {
-      "name": "TUMWATER PD",
-      "count": 19,
-      "pct": 2.1,
-      "label": "TUMWATER PD"
-    },
-    {
       "name": "DOC",
       "count": 5,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "DOC"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 462,
-      "pct": 36.8,
+      "count": 463,
+      "pct": 36.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 433,
-      "pct": 34.4,
+      "count": 435,
+      "pct": 34.5,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 347,
-      "pct": 27.6,
+      "pct": 27.5,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 589,
+      "count": 590,
       "pct": 66
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 40,
-      "pct": 4.5
+      "count": 41,
+      "pct": 4.6
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 732,
+      "count": 734,
       "pct": 80.1
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 322
+        "count": 324
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.9
   },
   "bond": {
-    "withBond": 85,
-    "noBond": 190,
-    "medianBond": 1050,
+    "withBond": 86,
+    "noBond": 191,
+    "medianBond": 1075,
     "maxBond": 50000,
-    "totalBond": 309701
+    "totalBond": 311301
   },
   "chargesPerBooking": 1.6
 }
