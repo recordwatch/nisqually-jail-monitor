@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T13:47:14",
+  "generatedAt": "2026-11-02T14:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 954,
-    "bookingsObserved": 690,
-    "releasesObserved": 678,
-    "inCustody": 276,
-    "uniquePeople": 898
+    "bookingsTracked": 956,
+    "bookingsObserved": 692,
+    "releasesObserved": 679,
+    "inCustody": 277,
+    "uniquePeople": 899
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 17,
-      "released": 24
+      "booked": 19,
+      "released": 25
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 451,
+      "count": 452,
       "pct": 29.6
     },
     {
       "name": "THEFT III",
       "count": 141,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -244,7 +244,12 @@
     {
       "name": "VIOLATION NO CONTACT ORDER",
       "count": 16,
-      "pct": 1.1
+      "pct": 1
+    },
+    {
+      "name": "ASSAULT 4",
+      "count": 15,
+      "pct": 1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -255,17 +260,12 @@
       "name": "ASSAULT 4TH DV",
       "count": 15,
       "pct": 1
-    },
-    {
-      "name": "EXPOSING A MINOR TO DV",
-      "count": 14,
-      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 431,
+      "count": 432,
       "pct": 45.6,
       "label": "WA DOC"
     },
@@ -330,6 +330,12 @@
       "label": "SQUAXIN ISLAND PD"
     },
     {
+      "name": "PUYALLUP TRIBE PD",
+      "count": 3,
+      "pct": 0.3,
+      "label": "PUYALLUP TRIBE PD"
+    },
+    {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
       "pct": 0.3,
@@ -346,31 +352,25 @@
       "count": 2,
       "pct": 0.2,
       "label": "STEILACOOM PD"
-    },
-    {
-      "name": "PUYALLUP TRIBE PD",
-      "count": 2,
-      "pct": 0.2,
-      "label": "PUYALLUP TRIBE PD"
     }
   ],
   "levels": [
     {
       "name": "GM",
       "count": 479,
-      "pct": 36.9,
+      "pct": 36.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 449,
+      "count": 450,
       "pct": 34.6,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 355,
-      "pct": 27.3,
+      "count": 356,
+      "pct": 27.4,
       "label": "Misdemeanor"
     },
     {
@@ -421,12 +421,12 @@
       "pct": 4.5
     },
     {
-      "name": "Asian",
-      "count": 36,
-      "pct": 3.9
+      "name": "N",
+      "count": 37,
+      "pct": 4
     },
     {
-      "name": "N",
+      "name": "Asian",
       "count": 36,
       "pct": 3.9
     },
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 760,
-      "pct": 80.1
+      "pct": 79.9
     },
     {
       "name": "Female",
-      "count": 189,
-      "pct": 19.9
+      "count": 191,
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 275
+        "count": 276
       },
       {
         "label": "35–44",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 153
+        "count": 154
       },
       {
         "label": "55+",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 573,
+    "observed": 574,
     "officialDate": 105,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 573,
+    "releasedCount": 574,
     "medianDays": 3.7,
     "meanDays": 10.8,
     "buckets": [
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 213
+        "count": 214
       },
       {
         "label": "1–3 months",
@@ -518,10 +518,10 @@
   },
   "bond": {
     "withBond": 96,
-    "noBond": 180,
-    "medianBond": 1000,
+    "noBond": 181,
+    "medianBond": 1025,
     "maxBond": 50000,
-    "totalBond": 328801
+    "totalBond": 332801
   },
   "chargesPerBooking": 1.6
 }
