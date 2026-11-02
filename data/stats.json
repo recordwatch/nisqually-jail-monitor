@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T09:27:16",
+  "generatedAt": "2026-11-02T09:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 940,
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 21,
-      "pct": 2.3,
+      "count": 20,
+      "pct": 2.1,
       "label": "TUMWATER PD"
     },
     {
@@ -310,6 +310,12 @@
       "count": 20,
       "pct": 2.1,
       "label": "YELM PD"
+    },
+    {
+      "name": "SHELTON PD",
+      "count": 5,
+      "pct": 0.5,
+      "label": "SHELTON PD"
     },
     {
       "name": "DOC",
@@ -322,12 +328,6 @@
       "count": 4,
       "pct": 0.4,
       "label": "SQUAXIN ISLAND PD"
-    },
-    {
-      "name": "SHELTON PD",
-      "count": 4,
-      "pct": 0.4,
-      "label": "SHELTON PD"
     },
     {
       "name": "NEZ PERCE TRIBE",
@@ -513,7 +513,7 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 9.3,
+    "currentMedianDaysHeld": 9.4,
     "currentLongestDaysHeld": 242.4
   },
   "bond": {
