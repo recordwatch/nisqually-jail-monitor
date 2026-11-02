@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T22:47:23",
+  "generatedAt": "2026-11-01T23:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 935,
-    "bookingsObserved": 671,
+    "bookingsTracked": 936,
+    "bookingsObserved": 672,
     "releasesObserved": 654,
-    "inCustody": 281,
-    "uniquePeople": 881
+    "inCustody": 282,
+    "uniquePeople": 882
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 15,
+      "booked": 16,
       "released": 10
     }
   ],
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 55,
+      "count": 56,
       "pct": 3.7
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "LACEY PD",
-      "count": 104,
-      "pct": 11.2,
+      "count": 105,
+      "pct": 11.3,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 82,
-      "pct": 8.9,
+      "pct": 8.8,
       "label": "LAKEWOOD PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 352,
-      "pct": 27.5,
+      "count": 353,
+      "pct": 27.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 600,
+      "count": 601,
       "pct": 66.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 745,
+      "count": 746,
       "pct": 80.1
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 150
+        "count": 151
       },
       {
         "label": "55+",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 9.4,
-    "currentLongestDaysHeld": 241.9
+    "currentLongestDaysHeld": 242
   },
   "bond": {
-    "withBond": 92,
+    "withBond": 93,
     "noBond": 189,
-    "medianBond": 1075,
+    "medianBond": 1050,
     "maxBond": 50000,
-    "totalBond": 325801
+    "totalBond": 326801
   },
   "chargesPerBooking": 1.6
 }
