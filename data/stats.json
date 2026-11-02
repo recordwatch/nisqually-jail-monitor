@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:47:15",
+  "generatedAt": "2026-11-02T01:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 938,
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 32,
-      "pct": 2.1
+      "count": 33,
+      "pct": 2.2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 476,
-      "pct": 37.2,
+      "pct": 37.1,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 353,
+      "count": 354,
       "pct": 27.6,
       "label": "Misdemeanor"
     },
@@ -513,7 +513,7 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 9.4,
+    "currentMedianDaysHeld": 9.2,
     "currentLongestDaysHeld": 242
   },
   "bond": {
