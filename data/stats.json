@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T17:07:13",
+  "generatedAt": "2026-11-01T17:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 929,
-    "bookingsObserved": 665,
+    "bookingsTracked": 930,
+    "bookingsObserved": 666,
     "releasesObserved": 653,
-    "inCustody": 276,
-    "uniquePeople": 876
+    "inCustody": 277,
+    "uniquePeople": 877
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 9,
+      "booked": 10,
       "released": 9
     }
   ],
@@ -252,12 +252,12 @@
       "pct": 1
     },
     {
-      "name": "EXPOSING A MINOR TO DV",
+      "name": "DISORDERLY CONDUCT",
       "count": 14,
       "pct": 0.9
     },
     {
-      "name": "MALICIOUS MISCHIEF",
+      "name": "EXPOSING A MINOR TO DV",
       "count": 14,
       "pct": 0.9
     }
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 149,
-      "pct": 16.2,
+      "count": 150,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 470,
-      "pct": 37,
+      "pct": 36.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 350,
-      "pct": 27.5,
+      "count": 351,
+      "pct": 27.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 595,
+      "count": 596,
       "pct": 66
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 741,
+      "count": 742,
       "pct": 80.2
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 329
+        "count": 330
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 241.7
   },
   "bond": {
-    "withBond": 88,
+    "withBond": 89,
     "noBond": 188,
-    "medianBond": 1075,
+    "medianBond": 1050,
     "maxBond": 50000,
-    "totalBond": 320801
+    "totalBond": 321301
   },
   "chargesPerBooking": 1.6
 }
