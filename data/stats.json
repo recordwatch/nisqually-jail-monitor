@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:27:26",
+  "generatedAt": "2026-11-02T02:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 940,
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 65,
-      "pct": 4.3
+      "count": 66,
+      "pct": 4.4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 153,
-      "pct": 16.5,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 48,
-      "pct": 5.2,
+      "count": 49,
+      "pct": 5.3,
       "label": "FEDERAL WAY"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "YELM PD",
       "count": 20,
-      "pct": 2.2,
+      "pct": 2.1,
       "label": "YELM PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 477,
+      "count": 478,
       "pct": 37.2,
       "label": "Gross Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 242.1
   },
   "bond": {
-    "withBond": 95,
-    "noBond": 191,
+    "withBond": 96,
+    "noBond": 190,
     "medianBond": 1000,
     "maxBond": 50000,
-    "totalBond": 328801
+    "totalBond": 329801
   },
   "chargesPerBooking": 1.6
 }
