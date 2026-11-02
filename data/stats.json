@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T18:47:15",
+  "generatedAt": "2026-11-01T19:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 931,
-    "bookingsObserved": 667,
+    "bookingsTracked": 932,
+    "bookingsObserved": 668,
     "releasesObserved": 654,
-    "inCustody": 277,
-    "uniquePeople": 878
+    "inCustody": 278,
+    "uniquePeople": 879
   },
   "bookingsByDay": [
     {
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 437,
+      "count": 438,
       "pct": 29.3
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 68,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "DUI",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 417,
-      "pct": 45.2,
+      "count": 418,
+      "pct": 45.3,
       "label": "WA DOC"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 435,
+      "count": 436,
       "pct": 34.2,
       "label": "Felony"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 596,
-      "pct": 65.9
+      "count": 597,
+      "pct": 66
     },
     {
       "name": "Black",
       "count": 176,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 742,
-      "pct": 80.1
+      "count": 743,
+      "pct": 80.2
     },
     {
       "name": "Female",
       "count": 184,
-      "pct": 19.9
+      "pct": 19.8
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 148
+        "count": 149
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 89,
-    "noBond": 188,
+    "noBond": 189,
     "medianBond": 1050,
     "maxBond": 50000,
     "totalBond": 321301
