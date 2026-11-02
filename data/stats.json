@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T12:07:14",
+  "generatedAt": "2026-11-02T12:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 948,
-    "bookingsObserved": 684,
+    "bookingsTracked": 949,
+    "bookingsObserved": 685,
     "releasesObserved": 671,
-    "inCustody": 277,
+    "inCustody": 278,
     "uniquePeople": 893
   },
   "bookingsByDay": [
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 10,
+      "booked": 11,
       "released": 17
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 442,
-      "pct": 29.2
+      "count": 444,
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
       "count": 140,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -209,7 +209,7 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 28,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "THEFT",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 422,
-      "pct": 45.1,
+      "count": 424,
+      "pct": 45.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 154,
-      "pct": 16.5,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 82,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 478,
-      "pct": 37.1,
+      "pct": 37,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 440,
-      "pct": 34.1,
+      "count": 442,
+      "pct": 34.2,
       "label": "Felony"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 610,
-      "pct": 66.2
+      "count": 611,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 756,
+      "count": 757,
       "pct": 80.2
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 274
+        "count": 275
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 8.7,
+    "currentMedianDaysHeld": 8.4,
     "currentLongestDaysHeld": 242.5
   },
   "bond": {
     "withBond": 95,
-    "noBond": 182,
+    "noBond": 183,
     "medianBond": 1000,
     "maxBond": 50000,
     "totalBond": 327801
