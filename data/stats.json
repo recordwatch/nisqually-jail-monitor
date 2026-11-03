@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T10:27:27",
+  "generatedAt": "2026-11-03T10:47:22",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 967,
-    "bookingsObserved": 703,
+    "bookingsTracked": 969,
+    "bookingsObserved": 705,
     "releasesObserved": 721,
-    "inCustody": 246,
-    "uniquePeople": 908
+    "inCustody": 248,
+    "uniquePeople": 909
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 5,
+      "booked": 7,
       "released": 11
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 455,
-      "pct": 29.2
+      "count": 457,
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
       "count": 144,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 435,
+      "count": 436,
       "pct": 45.5,
       "label": "WA DOC"
     },
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 491,
-      "pct": 37.1,
+      "pct": 37,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 453,
-      "pct": 34.2,
+      "count": 455,
+      "pct": 34.3,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 618,
+      "count": 619,
       "pct": 65.8
     },
     {
       "name": "Black",
       "count": 180,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "Unknown",
@@ -421,14 +421,14 @@
       "pct": 5
     },
     {
-      "name": "N",
+      "name": "Asian",
       "count": 37,
       "pct": 3.9
     },
     {
-      "name": "Asian",
-      "count": 36,
-      "pct": 3.8
+      "name": "N",
+      "count": 37,
+      "pct": 3.9
     },
     {
       "name": "I",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 770,
-      "pct": 80
+      "count": 772,
+      "pct": 80.1
     },
     {
       "name": "Female",
       "count": 192,
-      "pct": 20
+      "pct": 19.9
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 159
+        "count": 161
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 80,
-    "noBond": 166,
+    "noBond": 168,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 331001
