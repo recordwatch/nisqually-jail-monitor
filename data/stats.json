@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T02:27:14",
+  "generatedAt": "2026-11-03T02:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 965,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 107,
-      "pct": 11.2,
+      "count": 108,
+      "pct": 11.3,
       "label": "LACEY PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 362,
+      "count": 363,
       "pct": 27.5,
       "label": "Misdemeanor"
     },
@@ -513,15 +513,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 9.9,
+    "currentMedianDaysHeld": 9.7,
     "currentLongestDaysHeld": 243.1
   },
   "bond": {
-    "withBond": 78,
-    "noBond": 177,
+    "withBond": 79,
+    "noBond": 176,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 324601
+    "totalBond": 325601
   },
   "chargesPerBooking": 1.6
 }
