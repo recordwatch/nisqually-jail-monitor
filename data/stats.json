@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:27:14",
+  "generatedAt": "2026-11-03T00:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 962,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 454,
+      "count": 455,
       "pct": 29.4
     },
     {
@@ -183,8 +183,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 59,
-      "pct": 3.8
+      "count": 60,
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 434,
+      "count": 435,
       "pct": 45.6,
       "label": "WA DOC"
     },
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 107,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
@@ -289,14 +289,14 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 50,
-      "pct": 5.3,
+      "count": 51,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
       "name": "FEDERAL WAY",
       "count": 49,
-      "pct": 5.2,
+      "pct": 5.1,
       "label": "FEDERAL WAY"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 452,
+      "count": 453,
       "pct": 34.4,
       "label": "Felony"
     },
@@ -513,7 +513,7 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 10,
+    "currentMedianDaysHeld": 10.1,
     "currentLongestDaysHeld": 243
   },
   "bond": {
