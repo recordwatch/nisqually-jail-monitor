@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T04:47:14",
+  "generatedAt": "2026-11-03T05:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 965,
@@ -192,13 +192,13 @@
       "pct": 2.8
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
-      "count": 39,
-      "pct": 2.5
+      "name": "ASSAULT-4",
+      "count": 40,
+      "pct": 2.6
     },
     {
-      "name": "ASSAULT-4",
-      "count": 38,
+      "name": "CRIMINAL TRESPASS-2",
+      "count": 39,
       "pct": 2.5
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 488,
-      "pct": 37,
+      "count": 490,
+      "pct": 37.1,
       "label": "Gross Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 330601
+    "totalBond": 333101
   },
   "chargesPerBooking": 1.6
 }
