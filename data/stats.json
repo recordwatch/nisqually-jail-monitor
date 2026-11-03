@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T02:07:13",
+  "generatedAt": "2026-11-03T02:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 964,
-    "bookingsObserved": 700,
+    "bookingsTracked": 965,
+    "bookingsObserved": 701,
     "releasesObserved": 710,
-    "inCustody": 254,
-    "uniquePeople": 905
+    "inCustody": 255,
+    "uniquePeople": 906
   },
   "bookingsByDay": [
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 435,
-      "pct": 45.6,
+      "pct": 45.5,
       "label": "WA DOC"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 49,
-      "pct": 5.1,
+      "count": 50,
+      "pct": 5.2,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 485,
+      "count": 486,
       "pct": 36.9,
       "label": "Gross Misdemeanor"
     },
@@ -417,13 +417,13 @@
     },
     {
       "name": "Unknown",
-      "count": 45,
-      "pct": 4.8
+      "count": 46,
+      "pct": 4.9
     },
     {
       "name": "N",
       "count": 37,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 768,
+      "count": 769,
       "pct": 80.1
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 277
+        "count": 278
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 10,
+    "currentMedianDaysHeld": 9.9,
     "currentLongestDaysHeld": 243.1
   },
   "bond": {
     "withBond": 78,
-    "noBond": 176,
+    "noBond": 177,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 324601
