@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T16:27:14",
+  "generatedAt": "2026-11-02T16:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 958,
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 141,
-      "pct": 9.2
+      "count": 142,
+      "pct": 9.3
     },
     {
       "name": "ASSAULT IV -DV",
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 33,
-      "pct": 2.2
+      "count": 32,
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 479,
+      "count": 480,
       "pct": 36.8,
       "label": "Gross Misdemeanor"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 357,
-      "pct": 27.4,
+      "count": 356,
+      "pct": 27.3,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 242.7
   },
   "bond": {
-    "withBond": 96,
-    "noBond": 182,
-    "medianBond": 1025,
+    "withBond": 97,
+    "noBond": 181,
+    "medianBond": 1100,
     "maxBond": 50000,
-    "totalBond": 335451
+    "totalBond": 349451
   },
   "chargesPerBooking": 1.6
 }
