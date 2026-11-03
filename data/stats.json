@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T15:07:16",
+  "generatedAt": "2026-11-03T15:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 983,
-    "bookingsObserved": 719,
+    "bookingsTracked": 984,
+    "bookingsObserved": 720,
     "releasesObserved": 729,
-    "inCustody": 254,
-    "uniquePeople": 922
+    "inCustody": 255,
+    "uniquePeople": 923
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 21,
+      "booked": 22,
       "released": 19
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 471,
-      "pct": 29.8
+      "pct": 29.7
     },
     {
       "name": "THEFT III",
       "count": 145,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -217,6 +217,11 @@
       "pct": 1.5
     },
     {
+      "name": "VIOLATION NO CONTACT ORDER",
+      "count": 22,
+      "pct": 1.4
+    },
+    {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 22,
       "pct": 1.4
@@ -240,11 +245,6 @@
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 19,
       "pct": 1.2
-    },
-    {
-      "name": "VIOLATION NO CONTACT ORDER",
-      "count": 16,
-      "pct": 1
     },
     {
       "name": "ASSAULT 4",
@@ -283,14 +283,14 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 83,
-      "pct": 8.5,
+      "count": 84,
+      "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "TACOMA PD",
       "count": 51,
-      "pct": 5.3,
+      "pct": 5.2,
       "label": "TACOMA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 492,
-      "pct": 36.6,
+      "count": 498,
+      "pct": 36.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 468,
-      "pct": 34.8,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 368,
-      "pct": 27.3,
+      "pct": 27.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 627,
-      "pct": 65.7
+      "count": 628,
+      "pct": 65.8
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 782,
+      "count": 783,
       "pct": 80
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 161
+        "count": 162
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 243.6
   },
   "bond": {
-    "withBond": 76,
+    "withBond": 77,
     "noBond": 178,
-    "medianBond": 1750,
-    "maxBond": 50000,
-    "totalBond": 319501
+    "medianBond": 2000,
+    "maxBond": 60000,
+    "totalBond": 379501
   },
   "chargesPerBooking": 1.6
 }
