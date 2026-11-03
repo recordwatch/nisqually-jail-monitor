@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T01:47:16",
+  "generatedAt": "2026-11-03T02:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 963,
-    "bookingsObserved": 699,
+    "bookingsTracked": 964,
+    "bookingsObserved": 700,
     "releasesObserved": 710,
-    "inCustody": 253,
-    "uniquePeople": 904
+    "inCustody": 254,
+    "uniquePeople": 905
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 0,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 143,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 66,
+      "count": 67,
       "pct": 4.3
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 155,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,14 +283,14 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 82,
-      "pct": 8.6,
+      "count": 83,
+      "pct": 8.7,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "TACOMA PD",
       "count": 51,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "TACOMA PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 484,
-      "pct": 36.8,
+      "count": 485,
+      "pct": 36.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 618,
-      "pct": 66.1
+      "pct": 66
     },
     {
       "name": "Black",
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 44,
-      "pct": 4.7
+      "count": 45,
+      "pct": 4.8
     },
     {
       "name": "N",
@@ -428,7 +428,7 @@
     {
       "name": "Asian",
       "count": 36,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 767,
+      "count": 768,
       "pct": 80.1
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 156
+        "count": 157
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 78,
-    "noBond": 175,
+    "noBond": 176,
     "medianBond": 1500,
     "maxBond": 50000,
     "totalBond": 324601
