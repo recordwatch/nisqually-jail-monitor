@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:37:37",
+  "generatedAt": "2026-11-03T03:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 965,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 455,
-      "pct": 29.4
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 487,
-      "pct": 36.9,
+      "count": 488,
+      "pct": 37,
       "label": "Gross Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 243.2
   },
   "bond": {
-    "withBond": 79,
-    "noBond": 176,
+    "withBond": 80,
+    "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 325601
+    "totalBond": 330601
   },
   "chargesPerBooking": 1.6
 }
