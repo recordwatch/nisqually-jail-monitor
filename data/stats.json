@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:27:30",
+  "generatedAt": "2026-11-03T11:47:25",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 970,
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 145,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "ASSAULT IV -DV",
@@ -375,26 +375,26 @@
     },
     {
       "name": "FC",
-      "count": 7,
-      "pct": 0.5,
+      "count": 8,
+      "pct": 0.6,
       "label": "FC"
     },
     {
       "name": "AD",
       "count": 2,
-      "pct": 0.2,
+      "pct": 0.1,
       "label": "AD"
     },
     {
       "name": "FA",
       "count": 2,
-      "pct": 0.2,
+      "pct": 0.1,
       "label": "FA"
     },
     {
       "name": "FB",
       "count": 2,
-      "pct": 0.2,
+      "pct": 0.1,
       "label": "FB"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 168,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 338001
+    "totalBond": 338501
   },
   "chargesPerBooking": 1.6
 }
