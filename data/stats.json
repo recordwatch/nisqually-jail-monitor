@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T17:27:16",
+  "generatedAt": "2026-11-02T17:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 959,
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 142,
+      "count": 143,
       "pct": 9.3
     },
     {
@@ -183,8 +183,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 57,
-      "pct": 3.7
+      "count": 58,
+      "pct": 3.8
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -257,7 +257,7 @@
       "pct": 1
     },
     {
-      "name": "ASSAULT 4TH DV",
+      "name": "MALICIOUS MISCHIEF",
       "count": 15,
       "pct": 1
     }
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 482,
+      "count": 483,
       "pct": 36.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 452,
-      "pct": 34.6,
+      "pct": 34.5,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 357,
+      "count": 358,
       "pct": 27.3,
       "label": "Misdemeanor"
     },
@@ -519,9 +519,9 @@
   "bond": {
     "withBond": 98,
     "noBond": 181,
-    "medianBond": 1175,
+    "medianBond": 1075,
     "maxBond": 50000,
-    "totalBond": 355951
+    "totalBond": 355451
   },
   "chargesPerBooking": 1.6
 }
