@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:07:14",
+  "generatedAt": "2026-11-03T05:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 965,
@@ -213,8 +213,8 @@
     },
     {
       "name": "THEFT",
-      "count": 22,
-      "pct": 1.4
+      "count": 24,
+      "pct": 1.5
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 490,
-      "pct": 37.1,
+      "pct": 37,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 453,
-      "pct": 34.3,
+      "pct": 34.2,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 363,
-      "pct": 27.5,
+      "count": 365,
+      "pct": 27.6,
       "label": "Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 175,
     "medianBond": 1500,
     "maxBond": 50000,
-    "totalBond": 333101
+    "totalBond": 335101
   },
   "chargesPerBooking": 1.6
 }
