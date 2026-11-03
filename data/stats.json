@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:27:14",
+  "generatedAt": "2026-11-03T03:37:37",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 965,
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 70,
-      "pct": 4.5
+      "count": 71,
+      "pct": 4.6
     },
     {
       "name": "DUI",
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 486,
+      "count": 487,
       "pct": 36.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 453,
-      "pct": 34.4,
+      "pct": 34.3,
       "label": "Felony"
     },
     {
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 9.7,
-    "currentLongestDaysHeld": 243.1
+    "currentLongestDaysHeld": 243.2
   },
   "bond": {
     "withBond": 79,
