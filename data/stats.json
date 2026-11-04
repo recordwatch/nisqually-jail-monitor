@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T12:07:15",
+  "generatedAt": "2026-11-04T12:27:20",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1014,
-    "bookingsObserved": 750,
+    "bookingsTracked": 1015,
+    "bookingsObserved": 751,
     "releasesObserved": 744,
-    "inCustody": 270,
+    "inCustody": 271,
     "uniquePeople": 948
   },
   "bookingsByDay": [
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 490,
+      "count": 491,
       "pct": 30.2
     },
     {
@@ -257,7 +257,7 @@
       "pct": 1
     },
     {
-      "name": "ASSAULT 4",
+      "name": "DISORDERLY CONDUCT",
       "count": 15,
       "pct": 0.9
     }
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 467,
-      "pct": 46.6,
+      "count": 468,
+      "pct": 46.7,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 86,
-      "pct": 8.6,
+      "count": 87,
+      "pct": 8.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -330,12 +330,6 @@
       "label": "SQUAXIN ISLAND PD"
     },
     {
-      "name": "PUYALLUP TRIBE PD",
-      "count": 3,
-      "pct": 0.3,
-      "label": "PUYALLUP TRIBE PD"
-    },
-    {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
       "pct": 0.3,
@@ -352,6 +346,12 @@
       "count": 2,
       "pct": 0.2,
       "label": "STEILACOOM PD"
+    },
+    {
+      "name": "PUYALLUP TRIBE PD",
+      "count": 2,
+      "pct": 0.2,
+      "label": "PUYALLUP TRIBE PD"
     }
   ],
   "levels": [
@@ -363,13 +363,13 @@
     },
     {
       "name": "F",
-      "count": 487,
-      "pct": 35.1,
+      "count": 488,
+      "pct": 35.2,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 375,
+      "count": 374,
       "pct": 27,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 649,
+      "count": 650,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 805,
+      "count": 806,
       "pct": 79.8
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 172
+        "count": 173
       },
       {
         "label": "55+",
@@ -513,15 +513,15 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 7.7,
+    "currentMedianDaysHeld": 7.6,
     "currentLongestDaysHeld": 244.5
   },
   "bond": {
     "withBond": 76,
-    "noBond": 194,
+    "noBond": 195,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 403701
+    "totalBond": 398701
   },
   "chargesPerBooking": 1.6
 }
