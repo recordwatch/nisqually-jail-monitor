@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:47:13",
+  "generatedAt": "2026-11-04T01:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1000,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 486,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
-      "count": 145,
-      "pct": 9
+      "count": 146,
+      "pct": 9.1
     },
     {
       "name": "ASSAULT IV -DV",
@@ -193,8 +193,8 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 40,
-      "pct": 2.5
+      "count": 42,
+      "pct": 2.6
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 499,
-      "pct": 36.4,
+      "count": 502,
+      "pct": 36.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 483,
-      "pct": 35.3,
+      "pct": 35.2,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 369,
-      "pct": 27,
+      "count": 370,
+      "pct": 26.9,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 244
   },
   "bond": {
-    "withBond": 70,
-    "noBond": 189,
-    "medianBond": 2250,
+    "withBond": 72,
+    "noBond": 187,
+    "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 413951
+    "totalBond": 418951
   },
   "chargesPerBooking": 1.6
 }
