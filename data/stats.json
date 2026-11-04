@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T06:47:15",
+  "generatedAt": "2026-11-04T07:05:53",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1004,
-    "bookingsObserved": 740,
+    "bookingsTracked": 1005,
+    "bookingsObserved": 741,
     "releasesObserved": 741,
-    "inCustody": 263,
-    "uniquePeople": 941
+    "inCustody": 264,
+    "uniquePeople": 942
   },
   "bookingsByDay": [
     {
@@ -169,12 +169,12 @@
     {
       "name": "THEFT III",
       "count": 146,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 73,
-      "pct": 4.5
+      "count": 74,
+      "pct": 4.6
     },
     {
       "name": "DUI",
@@ -300,16 +300,16 @@
       "label": "TACOMA PD"
     },
     {
+      "name": "YELM PD",
+      "count": 21,
+      "pct": 2.1,
+      "label": "YELM PD"
+    },
+    {
       "name": "TUMWATER PD",
       "count": 20,
       "pct": 2,
       "label": "TUMWATER PD"
-    },
-    {
-      "name": "YELM PD",
-      "count": 20,
-      "pct": 2,
-      "label": "YELM PD"
     },
     {
       "name": "SHELTON PD",
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 505,
-      "pct": 36.6,
+      "count": 506,
+      "pct": 36.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 483,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Felony"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 644,
-      "pct": 66.1
+      "pct": 66
     },
     {
       "name": "Black",
-      "count": 186,
-      "pct": 19.1
+      "count": 187,
+      "pct": 19.2
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 799,
+      "count": 800,
       "pct": 80
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 75
+        "count": 76
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 75,
-    "noBond": 188,
+    "noBond": 189,
     "medianBond": 2500,
     "maxBond": 60000,
     "totalBond": 427451
