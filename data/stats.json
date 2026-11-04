@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T14:27:13",
+  "generatedAt": "2026-11-04T14:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1022,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 496,
-      "pct": 30.4
+      "count": 497,
+      "pct": 30.5
     },
     {
       "name": "THEFT III",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 473,
+      "count": 474,
       "pct": 46.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 163,
-      "pct": 16.2,
+      "pct": 16.1,
       "label": "OLYMPIA PD"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "FEDERAL WAY",
       "count": 51,
-      "pct": 5.1,
+      "pct": 5,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 51,
-      "pct": 5.1,
+      "pct": 5,
       "label": "TACOMA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 506,
-      "pct": 36.4,
+      "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 493,
-      "pct": 35.4,
+      "count": 494,
+      "pct": 35.5,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 374,
-      "pct": 26.9,
+      "pct": 26.8,
       "label": "Misdemeanor"
     },
     {
