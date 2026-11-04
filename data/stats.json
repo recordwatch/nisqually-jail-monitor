@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T01:27:13",
+  "generatedAt": "2026-11-04T02:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1000,
-    "bookingsObserved": 736,
+    "bookingsTracked": 1001,
+    "bookingsObserved": 737,
     "releasesObserved": 741,
-    "inCustody": 259,
-    "uniquePeople": 937
+    "inCustody": 260,
+    "uniquePeople": 938
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 108,
-      "pct": 10.9,
+      "count": 109,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 184,
-      "pct": 18.9
+      "count": 185,
+      "pct": 19
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 797,
-      "pct": 80.1
+      "pct": 80
     },
     {
       "name": "Female",
-      "count": 198,
-      "pct": 19.9
+      "count": 199,
+      "pct": 20
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 167
+        "count": 168
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 244.1
   },
   "bond": {
-    "withBond": 72,
+    "withBond": 73,
     "noBond": 187,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 418951
+    "totalBond": 419451
   },
   "chargesPerBooking": 1.6
 }
