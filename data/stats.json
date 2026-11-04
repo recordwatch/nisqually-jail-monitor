@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T08:07:13",
+  "generatedAt": "2026-11-04T08:27:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1005,
-    "bookingsObserved": 741,
+    "bookingsTracked": 1006,
+    "bookingsObserved": 742,
     "releasesObserved": 744,
-    "inCustody": 261,
-    "uniquePeople": 942
+    "inCustody": 262,
+    "uniquePeople": 943
   },
   "bookingsByDay": [
     {
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 67,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -247,6 +247,11 @@
       "pct": 1.2
     },
     {
+      "name": "ASSAULT 4TH DV",
+      "count": 16,
+      "pct": 1
+    },
+    {
       "name": "ASSAULT 4",
       "count": 15,
       "pct": 0.9
@@ -255,18 +260,13 @@
       "name": "DISORDERLY CONDUCT",
       "count": 15,
       "pct": 0.9
-    },
-    {
-      "name": "MALICIOUS MISCHIEF",
-      "count": 15,
-      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
       "count": 463,
-      "pct": 46.6,
+      "pct": 46.5,
       "label": "WA DOC"
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 85,
+      "count": 86,
       "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 371,
-      "pct": 26.9,
+      "count": 372,
+      "pct": 27,
       "label": "Misdemeanor"
     },
     {
@@ -408,11 +408,11 @@
     {
       "name": "White",
       "count": 644,
-      "pct": 66
+      "pct": 65.9
     },
     {
       "name": "Black",
-      "count": 187,
+      "count": 188,
       "pct": 19.2
     },
     {
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 800,
-      "pct": 80
+      "pct": 79.9
     },
     {
       "name": "Female",
-      "count": 200,
-      "pct": 20
+      "count": 201,
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 76
+        "count": 77
       },
       {
         "label": "25–34",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 7.7,
-    "currentLongestDaysHeld": 244.3
+    "currentLongestDaysHeld": 244.4
   },
   "bond": {
     "withBond": 73,
-    "noBond": 188,
+    "noBond": 189,
     "medianBond": 2500,
     "maxBond": 60000,
     "totalBond": 401201
