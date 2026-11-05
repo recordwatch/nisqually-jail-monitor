@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T22:47:16",
+  "generatedAt": "2026-11-04T23:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1044,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 36,
+      "booked": 38,
       "released": 17
     }
   ],
@@ -336,16 +336,16 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
-      "name": "DUPONT PD",
-      "count": 2,
-      "pct": 0.2,
-      "label": "DUPONT PD"
-    },
-    {
       "name": "THURSTON COUNTY SHERIFF",
       "count": 2,
       "pct": 0.2,
       "label": "THURSTON COUNTY SHERIFF"
+    },
+    {
+      "name": "DUPONT PD",
+      "count": 2,
+      "pct": 0.2,
+      "label": "DUPONT PD"
     },
     {
       "name": "STEILACOOM PD",
@@ -513,15 +513,15 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 7.3,
-    "currentLongestDaysHeld": 244.9
+    "currentMedianDaysHeld": 7.4,
+    "currentLongestDaysHeld": 245
   },
   "bond": {
     "withBond": 74,
     "noBond": 212,
     "medianBond": 2250,
     "maxBond": 60000,
-    "totalBond": 391851
+    "totalBond": 391351
   },
   "chargesPerBooking": 1.6
 }
