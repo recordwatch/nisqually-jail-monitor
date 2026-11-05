@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:47:13",
+  "generatedAt": "2026-11-05T14:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1056,
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 370
+        "count": 369
       },
       {
         "label": "45–54",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 121
+        "count": 122
       }
     ]
   },
