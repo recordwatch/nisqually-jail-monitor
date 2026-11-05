@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T22:07:13",
+  "generatedAt": "2026-11-04T22:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1043,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 33,
+      "booked": 34,
       "released": 17
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 506,
-      "pct": 30.7
+      "pct": 30.6
     },
     {
       "name": "THEFT III",
       "count": 146,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -188,7 +188,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 46,
+      "count": 47,
       "pct": 2.8
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 483,
-      "pct": 47.2,
+      "pct": 47.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 165,
-      "pct": 16.1,
+      "count": 166,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 110,
-      "pct": 10.7,
+      "count": 111,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "TUMWATER PD",
       "count": 21,
-      "pct": 2.1,
+      "pct": 2,
       "label": "TUMWATER PD"
     },
     {
       "name": "YELM PD",
       "count": 21,
-      "pct": 2.1,
+      "pct": 2,
       "label": "YELM PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 509,
-      "pct": 36.1,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 503,
-      "pct": 35.7,
+      "pct": 35.6,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 379,
-      "pct": 26.9,
+      "count": 381,
+      "pct": 27,
       "label": "Misdemeanor"
     },
     {
@@ -421,12 +421,12 @@
       "pct": 4.9
     },
     {
-      "name": "N",
+      "name": "Asian",
       "count": 38,
       "pct": 3.8
     },
     {
-      "name": "Asian",
+      "name": "N",
       "count": 38,
       "pct": 3.8
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 244.9
   },
   "bond": {
-    "withBond": 71,
-    "noBond": 214,
+    "withBond": 73,
+    "noBond": 212,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 387351
+    "totalBond": 389851
   },
   "chargesPerBooking": 1.6
 }
