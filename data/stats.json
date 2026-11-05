@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T17:47:14",
+  "generatedAt": "2026-11-04T18:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1036,
-    "bookingsObserved": 772,
+    "bookingsTracked": 1037,
+    "bookingsObserved": 773,
     "releasesObserved": 749,
-    "inCustody": 287,
-    "uniquePeople": 966
+    "inCustody": 288,
+    "uniquePeople": 967
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 26,
+      "booked": 27,
       "released": 8
     }
   ],
@@ -208,8 +208,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 28,
-      "pct": 1.7
+      "count": 29,
+      "pct": 1.8
     },
     {
       "name": "THEFT",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 479,
-      "pct": 47.1,
+      "pct": 47,
       "label": "WA DOC"
     },
     {
@@ -300,16 +300,16 @@
       "label": "TACOMA PD"
     },
     {
+      "name": "TUMWATER PD",
+      "count": 21,
+      "pct": 2.1,
+      "label": "TUMWATER PD"
+    },
+    {
       "name": "YELM PD",
       "count": 21,
       "pct": 2.1,
       "label": "YELM PD"
-    },
-    {
-      "name": "TUMWATER PD",
-      "count": 20,
-      "pct": 2,
-      "label": "TUMWATER PD"
     },
     {
       "name": "SHELTON PD",
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 507,
-      "pct": 36.1,
+      "count": 508,
+      "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 663,
+      "count": 664,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 821,
+      "count": 822,
       "pct": 79.8
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 119
+        "count": 120
       }
     ]
   },
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 7.2,
-    "currentLongestDaysHeld": 244.7
+    "currentLongestDaysHeld": 244.8
   },
   "bond": {
-    "withBond": 77,
+    "withBond": 78,
     "noBond": 210,
-    "medianBond": 2500,
+    "medianBond": 2250,
     "maxBond": 60000,
-    "totalBond": 396701
+    "totalBond": 397701
   },
   "chargesPerBooking": 1.6
 }
