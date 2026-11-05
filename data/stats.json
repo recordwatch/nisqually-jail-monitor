@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:47:15",
+  "generatedAt": "2026-11-05T00:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1044,
@@ -9,11 +9,6 @@
     "uniquePeople": 974
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-06",
-      "booked": 24,
-      "released": 0
-    },
     {
       "date": "2026-10-07",
       "booked": 35,
@@ -156,15 +151,20 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 40,
+      "booked": 42,
       "released": 17
+    },
+    {
+      "date": "2026-11-05",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 508,
-      "pct": 30.6
+      "count": 510,
+      "pct": 30.7
     },
     {
       "name": "THEFT III",
@@ -199,7 +199,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 39,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "DWLS/DWLR III",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 485,
-      "pct": 47.1,
+      "count": 487,
+      "pct": 47.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 167,
-      "pct": 16.2,
+      "count": 168,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "FEDERAL WAY",
       "count": 51,
-      "pct": 5,
+      "pct": 4.9,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 51,
-      "pct": 5,
+      "pct": 4.9,
       "label": "TACOMA PD"
     },
     {
@@ -336,12 +336,6 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
-      "name": "THURSTON COUNTY SHERIFF",
-      "count": 2,
-      "pct": 0.2,
-      "label": "THURSTON COUNTY SHERIFF"
-    },
-    {
       "name": "DUPONT PD",
       "count": 2,
       "pct": 0.2,
@@ -352,19 +346,25 @@
       "count": 2,
       "pct": 0.2,
       "label": "STEILACOOM PD"
+    },
+    {
+      "name": "PUYALLUP TRIBE PD",
+      "count": 2,
+      "pct": 0.2,
+      "label": "PUYALLUP TRIBE PD"
     }
   ],
   "levels": [
     {
       "name": "GM",
       "count": 512,
-      "pct": 36.1,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 505,
-      "pct": 35.6,
+      "count": 507,
+      "pct": 35.7,
       "label": "Felony"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 212,
     "medianBond": 2250,
     "maxBond": 60000,
-    "totalBond": 391351
+    "totalBond": 390351
   },
   "chargesPerBooking": 1.6
 }
