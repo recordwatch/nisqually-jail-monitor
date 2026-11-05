@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:47:19",
+  "generatedAt": "2026-11-05T08:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1047,
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 150,
-      "pct": 9
+      "count": 149,
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -208,8 +208,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 29,
-      "pct": 1.7
+      "count": 30,
+      "pct": 1.8
     },
     {
       "name": "THEFT",
