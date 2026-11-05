@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:57:45",
+  "generatedAt": "2026-11-05T01:07:24",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1044,
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 42,
+      "booked": 43,
       "released": 17
     },
     {
