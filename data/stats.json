@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T17:38:25",
+  "generatedAt": "2026-11-04T17:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1035,
-    "bookingsObserved": 771,
+    "bookingsTracked": 1036,
+    "bookingsObserved": 772,
     "releasesObserved": 749,
-    "inCustody": 286,
-    "uniquePeople": 965
+    "inCustody": 287,
+    "uniquePeople": 966
   },
   "bookingsByDay": [
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "LACEY PD",
-      "count": 109,
-      "pct": 10.7,
+      "count": 110,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 87,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -364,13 +364,13 @@
     {
       "name": "F",
       "count": 499,
-      "pct": 35.6,
+      "pct": 35.5,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 378,
-      "pct": 26.9,
+      "count": 379,
+      "pct": 27,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 662,
+      "count": 663,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 820,
+      "count": 821,
       "pct": 79.8
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 178
+        "count": 179
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 244.7
   },
   "bond": {
-    "withBond": 76,
+    "withBond": 77,
     "noBond": 210,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 395701
+    "totalBond": 396701
   },
   "chargesPerBooking": 1.6
 }
