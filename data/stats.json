@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T14:27:14",
+  "generatedAt": "2026-11-05T14:45:32",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1058,
-    "bookingsObserved": 794,
-    "releasesObserved": 779,
-    "inCustody": 279,
-    "uniquePeople": 983
+    "bookingsTracked": 1060,
+    "bookingsObserved": 796,
+    "releasesObserved": 780,
+    "inCustody": 280,
+    "uniquePeople": 985
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 14,
-      "released": 21
+      "booked": 15,
+      "released": 22
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 518,
+      "count": 520,
       "pct": 30.9
     },
     {
@@ -234,7 +234,7 @@
     {
       "name": "HARASSMENT",
       "count": 21,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 495,
-      "pct": 47.3,
+      "count": 497,
+      "pct": 47.4,
       "label": "WA DOC"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 515,
-      "pct": 35.8,
+      "count": 517,
+      "pct": 35.9,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 385,
-      "pct": 26.8,
+      "pct": 26.7,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 679,
-      "pct": 66.1
+      "count": 680,
+      "pct": 66
     },
     {
       "name": "Black",
       "count": 197,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "Unknown",
@@ -421,12 +421,12 @@
       "pct": 5
     },
     {
-      "name": "Asian",
-      "count": 38,
-      "pct": 3.7
+      "name": "N",
+      "count": 39,
+      "pct": 3.8
     },
     {
-      "name": "N",
+      "name": "Asian",
       "count": 38,
       "pct": 3.7
     },
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 840,
-      "pct": 79.9
+      "count": 842,
+      "pct": 80
     },
     {
       "name": "Female",
       "count": 211,
-      "pct": 20.1
+      "pct": 20
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 305
+        "count": 306
       },
       {
         "label": "35–44",
@@ -474,18 +474,18 @@
       },
       {
         "label": "55+",
-        "count": 122
+        "count": 123
       }
     ]
   },
   "releaseSources": {
-    "observed": 672,
+    "observed": 673,
     "officialDate": 107,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 674,
-    "medianDays": 3.7,
+    "releasedCount": 675,
+    "medianDays": 3.8,
     "meanDays": 11.1,
     "buckets": [
       {
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 250
+        "count": 251
       },
       {
         "label": "1–3 months",
@@ -513,12 +513,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 7.6,
+    "currentMedianDaysHeld": 7.2,
     "currentLongestDaysHeld": 245.6
   },
   "bond": {
     "withBond": 75,
-    "noBond": 204,
+    "noBond": 205,
     "medianBond": 2500,
     "maxBond": 60000,
     "totalBond": 348851
