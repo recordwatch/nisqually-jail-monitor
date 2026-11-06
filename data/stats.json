@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T00:07:13",
+  "generatedAt": "2026-11-06T00:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1078,
-    "bookingsObserved": 814,
+    "bookingsTracked": 1080,
+    "bookingsObserved": 816,
     "releasesObserved": 794,
-    "inCustody": 284,
-    "uniquePeople": 1002
+    "inCustody": 286,
+    "uniquePeople": 1004
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 34,
+      "booked": 36,
       "released": 36
     },
     {
@@ -164,17 +164,17 @@
     {
       "name": "DOC VIOLATION",
       "count": 530,
-      "pct": 31.1
+      "pct": 31
     },
     {
       "name": "THEFT III",
-      "count": 152,
+      "count": 153,
       "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
       "count": 76,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DUI",
@@ -198,13 +198,13 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 39,
+      "count": 40,
       "pct": 2.3
     },
     {
       "name": "DWLS/DWLR III",
       "count": 35,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 507,
-      "pct": 47.6,
+      "pct": 47.4,
       "label": "WA DOC"
     },
     {
@@ -289,14 +289,14 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 52,
-      "pct": 4.9,
+      "count": 54,
+      "pct": 5.1,
       "label": "TACOMA PD"
     },
     {
       "name": "FEDERAL WAY",
-      "count": 51,
-      "pct": 4.8,
+      "count": 52,
+      "pct": 4.9,
       "label": "FEDERAL WAY"
     },
     {
@@ -358,18 +358,18 @@
     {
       "name": "F",
       "count": 527,
-      "pct": 36,
+      "pct": 35.9,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 524,
-      "pct": 35.8,
+      "count": 526,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 393,
+      "count": 395,
       "pct": 26.9,
       "label": "Misdemeanor"
     },
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 693,
+      "count": 694,
       "pct": 66.1
     },
     {
       "name": "Black",
       "count": 200,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "Unknown",
-      "count": 51,
-      "pct": 4.9
+      "count": 52,
+      "pct": 5
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 855,
+      "count": 857,
       "pct": 79.9
     },
     {
@@ -466,11 +466,11 @@
       },
       {
         "label": "35–44",
-        "count": 375
+        "count": 376
       },
       {
         "label": "45–54",
-        "count": 187
+        "count": 188
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 246
   },
   "bond": {
-    "withBond": 70,
-    "noBond": 214,
+    "withBond": 73,
+    "noBond": 213,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 341351
+    "totalBond": 348351
   },
   "chargesPerBooking": 1.6
 }
