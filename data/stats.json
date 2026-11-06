@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T11:27:15",
+  "generatedAt": "2026-11-06T11:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1086,
-    "bookingsObserved": 822,
-    "releasesObserved": 823,
-    "inCustody": 263,
-    "uniquePeople": 1010
+    "bookingsTracked": 1088,
+    "bookingsObserved": 824,
+    "releasesObserved": 824,
+    "inCustody": 264,
+    "uniquePeople": 1012
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 2,
-      "released": 29
+      "booked": 4,
+      "released": 30
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 530,
+      "count": 532,
       "pct": 30.8
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 507,
-      "pct": 47.1,
+      "count": 509,
+      "pct": 47.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 173,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 92,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "YELM PD",
       "count": 21,
-      "pct": 2,
+      "pct": 1.9,
       "label": "YELM PD"
     },
     {
@@ -356,21 +356,21 @@
   ],
   "levels": [
     {
+      "name": "F",
+      "count": 529,
+      "pct": 35.8,
+      "label": "Felony"
+    },
+    {
       "name": "GM",
       "count": 529,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
-      "name": "F",
-      "count": 527,
-      "pct": 35.7,
-      "label": "Felony"
-    },
-    {
       "name": "M",
       "count": 401,
-      "pct": 27.2,
+      "pct": 27.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 697,
-      "pct": 66
+      "count": 699,
+      "pct": 66.1
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 862,
+      "count": 864,
       "pct": 80
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 377
+        "count": 379
       },
       {
         "label": "45–54",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 715,
+    "observed": 716,
     "officialDate": 108,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 718,
+    "releasedCount": 719,
     "medianDays": 3.6,
     "meanDays": 11,
     "buckets": [
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 216
+        "count": 217
       },
       {
         "label": "3–7 days",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 246.5
   },
   "bond": {
-    "withBond": 77,
-    "noBond": 186,
+    "withBond": 76,
+    "noBond": 188,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 356751
+    "totalBond": 356251
   },
   "chargesPerBooking": 1.6
 }
