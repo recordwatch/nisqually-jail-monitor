@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T00:47:12",
+  "generatedAt": "2026-11-06T01:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1081,
-    "bookingsObserved": 817,
+    "bookingsTracked": 1082,
+    "bookingsObserved": 818,
     "releasesObserved": 794,
-    "inCustody": 287,
-    "uniquePeople": 1005
+    "inCustody": 288,
+    "uniquePeople": 1006
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 37,
+      "booked": 38,
       "released": 36
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 530,
-      "pct": 31
+      "pct": 30.9
     },
     {
       "name": "THEFT III",
@@ -188,7 +188,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 49,
+      "count": 50,
       "pct": 2.9
     },
     {
@@ -212,17 +212,17 @@
       "pct": 1.8
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 24,
+      "pct": 1.4
+    },
+    {
       "name": "THEFT",
       "count": 24,
       "pct": 1.4
     },
     {
       "name": "VIOLATION NO CONTACT ORDER",
-      "count": 23,
-      "pct": 1.3
-    },
-    {
-      "name": "RESISTING ARREST",
       "count": 23,
       "pct": 1.3
     },
@@ -252,21 +252,21 @@
       "pct": 1.1
     },
     {
-      "name": "MALICIOUS MISCHIEF",
+      "name": "ASSAULT 4TH DV",
       "count": 17,
       "pct": 1
     },
     {
-      "name": "ASSAULT 4TH DV",
-      "count": 16,
-      "pct": 0.9
+      "name": "MALICIOUS MISCHIEF",
+      "count": 17,
+      "pct": 1
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
       "count": 507,
-      "pct": 47.4,
+      "pct": 47.3,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 55,
-      "pct": 5.1,
+      "count": 56,
+      "pct": 5.2,
       "label": "TACOMA PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 396,
-      "pct": 27,
+      "count": 398,
+      "pct": 27.1,
       "label": "Misdemeanor"
     },
     {
@@ -421,14 +421,14 @@
       "pct": 4.9
     },
     {
-      "name": "N",
+      "name": "Asian",
       "count": 40,
       "pct": 3.8
     },
     {
-      "name": "Asian",
-      "count": 39,
-      "pct": 3.7
+      "name": "N",
+      "count": 40,
+      "pct": 3.8
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 858,
+      "count": 859,
       "pct": 80
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 311
+        "count": 312
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 246
   },
   "bond": {
-    "withBond": 74,
+    "withBond": 75,
     "noBond": 213,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 348601
+    "totalBond": 350351
   },
   "chargesPerBooking": 1.6
 }
