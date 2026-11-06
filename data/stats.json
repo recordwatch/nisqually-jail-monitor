@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:27:15",
+  "generatedAt": "2026-11-06T04:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1085,
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 154,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 65,
+      "count": 66,
       "pct": 3.8
     },
     {
@@ -198,8 +198,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 41,
-      "pct": 2.4
+      "count": 43,
+      "pct": 2.5
     },
     {
       "name": "DWLS/DWLR III",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 507,
-      "pct": 47.3,
+      "pct": 47.2,
       "label": "WA DOC"
     },
     {
@@ -295,14 +295,14 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 52,
-      "pct": 4.8,
+      "count": 53,
+      "pct": 4.9,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TUMWATER PD",
       "count": 22,
-      "pct": 2.1,
+      "pct": 2,
       "label": "TUMWATER PD"
     },
     {
@@ -364,13 +364,13 @@
     {
       "name": "F",
       "count": 527,
-      "pct": 35.8,
+      "pct": 35.7,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 399,
-      "pct": 27.1,
+      "count": 401,
+      "pct": 27.2,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 246.2
   },
   "bond": {
-    "withBond": 76,
-    "noBond": 214,
+    "withBond": 77,
+    "noBond": 213,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 352751
+    "totalBond": 359751
   },
   "chargesPerBooking": 1.6
 }
