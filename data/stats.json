@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T14:27:13",
+  "generatedAt": "2026-11-06T14:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1094,
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 514,
+      "count": 515,
       "pct": 47.5,
       "label": "WA DOC"
     },
