@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:07:14",
+  "generatedAt": "2026-11-05T18:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1072,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 26,
+      "booked": 27,
       "released": 22
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 151,
+      "count": 152,
       "pct": 8.9
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "name": "LACEY PD",
-      "count": 114,
+      "count": 115,
       "pct": 10.8,
       "label": "LACEY PD"
     },
@@ -358,13 +358,13 @@
     {
       "name": "F",
       "count": 524,
-      "pct": 36,
+      "pct": 35.9,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 522,
-      "pct": 35.8,
+      "count": 523,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 245.8
   },
   "bond": {
-    "withBond": 78,
-    "noBond": 214,
+    "withBond": 79,
+    "noBond": 213,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 353851
+    "totalBond": 354851
   },
   "chargesPerBooking": 1.6
 }
