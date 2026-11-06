@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T17:07:15",
+  "generatedAt": "2026-11-05T17:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1071,
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 24,
+      "booked": 25,
       "released": 22
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 526,
-      "pct": 31
+      "count": 527,
+      "pct": 31.1
     },
     {
       "name": "THEFT III",
-      "count": 150,
-      "pct": 8.8
+      "count": 151,
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 67,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 503,
-      "pct": 47.6,
+      "pct": 47.5,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 113,
-      "pct": 10.7,
+      "count": 114,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
@@ -357,26 +357,26 @@
   "levels": [
     {
       "name": "F",
-      "count": 523,
+      "count": 524,
       "pct": 36,
       "label": "Felony"
     },
     {
       "name": "GM",
-      "count": 520,
+      "count": 521,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
       "count": 392,
-      "pct": 27,
+      "pct": 26.9,
       "label": "Misdemeanor"
     },
     {
       "name": "FC",
       "count": 8,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "FC"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 245.7
   },
   "bond": {
-    "withBond": 76,
-    "noBond": 215,
+    "withBond": 77,
+    "noBond": 214,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 347851
+    "totalBond": 348851
   },
   "chargesPerBooking": 1.6
 }
