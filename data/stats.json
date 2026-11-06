@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T09:47:13",
+  "generatedAt": "2026-11-06T10:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1086,
@@ -188,8 +188,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 50,
-      "pct": 2.9
+      "count": 51,
+      "pct": 3
     },
     {
       "name": "ASSAULT-4",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 507,
-      "pct": 47.2,
+      "pct": 47.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 172,
-      "pct": 16,
+      "count": 173,
+      "pct": 16.1,
       "label": "OLYMPIA PD"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 246.4
   },
   "bond": {
-    "withBond": 76,
-    "noBond": 194,
+    "withBond": 77,
+    "noBond": 193,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 356251
+    "totalBond": 356751
   },
   "chargesPerBooking": 1.6
 }
