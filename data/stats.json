@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T01:27:17",
+  "generatedAt": "2026-11-06T01:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1083,
-    "bookingsObserved": 819,
+    "bookingsTracked": 1084,
+    "bookingsObserved": 820,
     "releasesObserved": 794,
-    "inCustody": 289,
-    "uniquePeople": 1007
+    "inCustody": 290,
+    "uniquePeople": 1008
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 39,
+      "booked": 40,
       "released": 36
     },
     {
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 530,
-      "pct": 30.9
+      "pct": 30.8
     },
     {
       "name": "THEFT III",
-      "count": 153,
-      "pct": 8.9
+      "count": 154,
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -208,8 +208,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 31,
-      "pct": 1.8
+      "count": 32,
+      "pct": 1.9
     },
     {
       "name": "RESISTING ARREST",
@@ -289,14 +289,14 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 57,
-      "pct": 5.3,
+      "count": 58,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
       "name": "FEDERAL WAY",
       "count": 52,
-      "pct": 4.9,
+      "pct": 4.8,
       "label": "FEDERAL WAY"
     },
     {
@@ -356,16 +356,16 @@
   ],
   "levels": [
     {
+      "name": "GM",
+      "count": 528,
+      "pct": 35.8,
+      "label": "Gross Misdemeanor"
+    },
+    {
       "name": "F",
       "count": 527,
       "pct": 35.8,
       "label": "Felony"
-    },
-    {
-      "name": "GM",
-      "count": 526,
-      "pct": 35.8,
-      "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 695,
-      "pct": 66
+      "pct": 65.9
     },
     {
       "name": "Black",
-      "count": 201,
-      "pct": 19.1
+      "count": 202,
+      "pct": 19.2
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 860,
-      "pct": 80
+      "pct": 79.9
     },
     {
       "name": "Female",
-      "count": 215,
-      "pct": 20
+      "count": 216,
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 188
+        "count": 189
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 246.1
   },
   "bond": {
-    "withBond": 76,
+    "withBond": 77,
     "noBond": 213,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 353351
+    "totalBond": 353751
   },
   "chargesPerBooking": 1.6
 }
