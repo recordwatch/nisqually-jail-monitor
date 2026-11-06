@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T07:27:13",
+  "generatedAt": "2026-11-06T07:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1085,
-    "bookingsObserved": 821,
+    "bookingsTracked": 1086,
+    "bookingsObserved": 822,
     "releasesObserved": 804,
-    "inCustody": 281,
-    "uniquePeople": 1009
+    "inCustody": 282,
+    "uniquePeople": 1010
   },
   "bookingsByDay": [
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 76,
-      "pct": 4.4
+      "count": 77,
+      "pct": 4.5
     },
     {
       "name": "DUI",
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 91,
-      "pct": 8.5,
+      "count": 92,
+      "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 528,
+      "count": 529,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 696,
+      "count": 697,
       "pct": 66
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 861,
-      "pct": 79.9
+      "count": 862,
+      "pct": 80
     },
     {
       "name": "Female",
       "count": 216,
-      "pct": 20.1
+      "pct": 20
     }
   ],
   "ages": {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 127
+        "count": 128
       }
     ]
   },
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 7.5,
+    "currentMedianDaysHeld": 7.6,
     "currentLongestDaysHeld": 246.3
   },
   "bond": {
-    "withBond": 76,
+    "withBond": 77,
     "noBond": 205,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 357251
+    "totalBond": 361251
   },
   "chargesPerBooking": 1.6
 }
