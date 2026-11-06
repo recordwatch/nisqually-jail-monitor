@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T16:47:13",
+  "generatedAt": "2026-11-05T17:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1069,
-    "bookingsObserved": 805,
+    "bookingsTracked": 1071,
+    "bookingsObserved": 807,
     "releasesObserved": 780,
-    "inCustody": 289,
-    "uniquePeople": 993
+    "inCustody": 291,
+    "uniquePeople": 995
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 23,
+      "booked": 24,
       "released": 22
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 525,
-      "pct": 31.1
+      "count": 526,
+      "pct": 31
     },
     {
       "name": "THEFT III",
       "count": 150,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 33,
-      "pct": 2
+      "count": 35,
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -232,6 +232,11 @@
       "pct": 1.3
     },
     {
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 21,
+      "pct": 1.2
+    },
+    {
       "name": "HARASSMENT",
       "count": 21,
       "pct": 1.2
@@ -240,11 +245,6 @@
       "name": "SIMPLE ASSAULT-DV",
       "count": 20,
       "pct": 1.2
-    },
-    {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
-      "count": 19,
-      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 502,
+      "count": 503,
       "pct": 47.6,
       "label": "WA DOC"
     },
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 21,
-      "pct": 2,
+      "count": 22,
+      "pct": 2.1,
       "label": "TUMWATER PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "F",
-      "count": 522,
+      "count": 523,
       "pct": 36,
       "label": "Felony"
     },
     {
       "name": "GM",
       "count": 520,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 387,
-      "pct": 26.7,
+      "count": 392,
+      "pct": 27,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 686,
+      "count": 687,
       "pct": 66
     },
     {
       "name": "Black",
       "count": 199,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "Unknown",
@@ -427,7 +427,7 @@
     },
     {
       "name": "Asian",
-      "count": 38,
+      "count": 39,
       "pct": 3.7
     },
     {
@@ -444,12 +444,12 @@
   "sex": [
     {
       "name": "Male",
-      "count": 847,
+      "count": 848,
       "pct": 79.8
     },
     {
       "name": "Female",
-      "count": 214,
+      "count": 215,
       "pct": 20.2
     }
   ],
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 79
+        "count": 80
       },
       {
         "label": "25–34",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 123
+        "count": 124
       }
     ]
   },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 245.7
   },
   "bond": {
-    "withBond": 75,
-    "noBond": 214,
+    "withBond": 76,
+    "noBond": 215,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 345851
+    "totalBond": 347851
   },
   "chargesPerBooking": 1.6
 }
