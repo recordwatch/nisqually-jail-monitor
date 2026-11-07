@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:27:13",
+  "generatedAt": "2026-11-07T13:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1116,
@@ -212,12 +212,12 @@
       "pct": 1.8
     },
     {
-      "name": "VIOLATION NO CONTACT ORDER",
-      "count": 24,
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "count": 25,
       "pct": 1.4
     },
     {
-      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "name": "VIOLATION NO CONTACT ORDER",
       "count": 24,
       "pct": 1.4
     },
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 517,
-      "pct": 46.8,
+      "pct": 46.7,
       "label": "WA DOC"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "LACEY PD",
       "count": 120,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 93,
-      "pct": 8.4,
+      "count": 94,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 542,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 412,
+      "count": 413,
       "pct": 27.3,
       "label": "Misdemeanor"
     },
