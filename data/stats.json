@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T14:07:14",
+  "generatedAt": "2026-11-07T14:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1116,
-    "bookingsObserved": 852,
+    "bookingsTracked": 1117,
+    "bookingsObserved": 853,
     "releasesObserved": 839,
-    "inCustody": 277,
-    "uniquePeople": 1035
+    "inCustody": 278,
+    "uniquePeople": 1036
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 9,
+      "booked": 10,
       "released": 2
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 80,
-      "pct": 4.5
+      "count": 81,
+      "pct": 4.6
     },
     {
       "name": "DUI",
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 52,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -295,14 +295,14 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 57,
+      "count": 58,
       "pct": 5.2,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TUMWATER PD",
       "count": 26,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "TUMWATER PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 542,
-      "pct": 35.8,
+      "count": 543,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 55,
-      "pct": 5.1
+      "count": 56,
+      "pct": 5.2
     },
     {
       "name": "Asian",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 883,
-      "pct": 79.7
+      "pct": 79.6
     },
     {
       "name": "Female",
-      "count": 225,
-      "pct": 20.3
+      "count": 226,
+      "pct": 20.4
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 84
+        "count": 85
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 77,
-    "noBond": 200,
+    "noBond": 201,
     "medianBond": 1750,
     "maxBond": 60000,
     "totalBond": 339001
