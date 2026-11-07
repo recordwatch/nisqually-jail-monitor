@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T22:27:14",
+  "generatedAt": "2026-11-06T22:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1102,
-    "bookingsObserved": 838,
+    "bookingsTracked": 1104,
+    "bookingsObserved": 840,
     "releasesObserved": 834,
-    "inCustody": 268,
-    "uniquePeople": 1023
+    "inCustody": 270,
+    "uniquePeople": 1024
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 18,
+      "booked": 19,
       "released": 40
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 540,
-      "pct": 31.1
+      "pct": 31
     },
     {
       "name": "THEFT III",
@@ -193,8 +193,8 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 44,
-      "pct": 2.5
+      "count": 45,
+      "pct": 2.6
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -244,7 +244,7 @@
     {
       "name": "SIMPLE ASSAULT-DV",
       "count": 20,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -296,13 +296,13 @@
     {
       "name": "FEDERAL WAY",
       "count": 53,
-      "pct": 4.9,
+      "pct": 4.8,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TUMWATER PD",
-      "count": 24,
-      "pct": 2.2,
+      "count": 25,
+      "pct": 2.3,
       "label": "TUMWATER PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "GM",
-      "count": 532,
+      "count": 533,
       "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 707,
+      "count": 709,
       "pct": 66
     },
     {
@@ -418,7 +418,7 @@
     {
       "name": "Unknown",
       "count": 52,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 875,
-      "pct": 80
+      "count": 876,
+      "pct": 79.9
     },
     {
       "name": "Female",
-      "count": 219,
-      "pct": 20
+      "count": 220,
+      "pct": 20.1
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 384
+        "count": 386
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 71,
-    "noBond": 197,
+    "noBond": 199,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 331751
