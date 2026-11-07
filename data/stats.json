@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-07T14:47:12",
+  "generatedAt": "2026-11-07T15:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1118,
-    "bookingsObserved": 854,
+    "bookingsTracked": 1119,
+    "bookingsObserved": 855,
     "releasesObserved": 839,
-    "inCustody": 279,
+    "inCustody": 280,
     "uniquePeople": 1036
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 11,
+      "booked": 12,
       "released": 2
     }
   ],
@@ -194,12 +194,12 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 45,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "ASSAULT-4",
       "count": 45,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DWLS/DWLR III",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 517,
-      "pct": 46.7,
+      "pct": 46.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 176,
-      "pct": 15.9,
+      "count": 177,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 413,
+      "count": 414,
       "pct": 27.3,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 715,
+      "count": 716,
       "pct": 65.7
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 226,
+      "count": 227,
       "pct": 20.4
     }
   ],
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 191
+        "count": 192
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 247.6
   },
   "bond": {
-    "withBond": 78,
+    "withBond": 79,
     "noBond": 201,
-    "medianBond": 1625,
+    "medianBond": 1750,
     "maxBond": 60000,
-    "totalBond": 340001
+    "totalBond": 342001
   },
   "chargesPerBooking": 1.6
 }
