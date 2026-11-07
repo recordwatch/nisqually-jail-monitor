@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:07:13",
+  "generatedAt": "2026-11-07T00:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1108,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -233,7 +233,7 @@
     },
     {
       "name": "HARASSMENT",
-      "count": 22,
+      "count": 23,
       "pct": 1.3
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 517,
-      "pct": 47.2,
+      "pct": 47.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 174,
-      "pct": 15.9,
+      "count": 175,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "F",
       "count": 538,
-      "pct": 36,
+      "pct": 35.9,
       "label": "Felony"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 406,
-      "pct": 27.1,
+      "count": 409,
+      "pct": 27.3,
       "label": "Misdemeanor"
     },
     {
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 7.9,
+    "currentMedianDaysHeld": 7.6,
     "currentLongestDaysHeld": 247
   },
   "bond": {
-    "withBond": 71,
-    "noBond": 200,
+    "withBond": 72,
+    "noBond": 199,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 331251
+    "totalBond": 333251
   },
   "chargesPerBooking": 1.6
 }
