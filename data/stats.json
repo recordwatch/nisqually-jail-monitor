@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T00:47:17",
+  "generatedAt": "2026-11-07T01:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1108,
-    "bookingsObserved": 844,
+    "bookingsTracked": 1109,
+    "bookingsObserved": 845,
     "releasesObserved": 837,
-    "inCustody": 271,
-    "uniquePeople": 1028
+    "inCustody": 272,
+    "uniquePeople": 1029
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 541,
-      "pct": 31
+      "pct": 30.9
     },
     {
       "name": "THEFT III",
@@ -247,17 +247,17 @@
       "pct": 1.1
     },
     {
+      "name": "MALICIOUS MISCHIEF",
+      "count": 18,
+      "pct": 1
+    },
+    {
       "name": "DISORDERLY CONDUCT",
       "count": 18,
       "pct": 1
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 17,
-      "pct": 1
-    },
-    {
-      "name": "MALICIOUS MISCHIEF",
       "count": 17,
       "pct": 1
     }
@@ -272,12 +272,12 @@
     {
       "name": "OLYMPIA PD",
       "count": 175,
-      "pct": 16,
+      "pct": 15.9,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 118,
+      "count": 119,
       "pct": 10.8,
       "label": "LACEY PD"
     },
@@ -364,12 +364,12 @@
     {
       "name": "GM",
       "count": 533,
-      "pct": 35.6,
+      "pct": 35.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "M",
-      "count": 409,
+      "count": 410,
       "pct": 27.3,
       "label": "Misdemeanor"
     },
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 711,
-      "pct": 66
+      "pct": 65.9
     },
     {
       "name": "Black",
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 53,
-      "pct": 4.9
+      "count": 54,
+      "pct": 5
     },
     {
       "name": "Asian",
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 223,
+      "count": 224,
       "pct": 20.3
     }
   ],
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 318
+        "count": 319
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 247
   },
   "bond": {
-    "withBond": 72,
+    "withBond": 73,
     "noBond": 199,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 333251
+    "totalBond": 334251
   },
   "chargesPerBooking": 1.6
 }
