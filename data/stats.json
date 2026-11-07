@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T01:27:17",
+  "generatedAt": "2026-11-07T01:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1110,
-    "bookingsObserved": 846,
+    "bookingsTracked": 1111,
+    "bookingsObserved": 847,
     "releasesObserved": 837,
-    "inCustody": 273,
-    "uniquePeople": 1030
+    "inCustody": 274,
+    "uniquePeople": 1031
   },
   "bookingsByDay": [
     {
@@ -284,13 +284,13 @@
     {
       "name": "LAKEWOOD PD",
       "count": 93,
-      "pct": 8.5,
+      "pct": 8.4,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "TACOMA PD",
-      "count": 58,
-      "pct": 5.3,
+      "count": 59,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 711,
-      "pct": 65.8
+      "count": 712,
+      "pct": 65.9
     },
     {
       "name": "Black",
       "count": 208,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 878,
+      "count": 879,
       "pct": 79.7
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 388
+        "count": 389
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 247.1
   },
   "bond": {
-    "withBond": 74,
+    "withBond": 75,
     "noBond": 199,
-    "medianBond": 1875,
+    "medianBond": 1750,
     "maxBond": 60000,
-    "totalBond": 335251
+    "totalBond": 335501
   },
   "chargesPerBooking": 1.6
 }
