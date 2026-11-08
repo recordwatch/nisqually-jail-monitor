@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T11:47:15",
+  "generatedAt": "2026-11-08T12:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1131,
-    "bookingsObserved": 867,
+    "bookingsTracked": 1132,
+    "bookingsObserved": 868,
     "releasesObserved": 850,
-    "inCustody": 281,
-    "uniquePeople": 1047
+    "inCustody": 282,
+    "uniquePeople": 1048
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 5,
+      "booked": 6,
       "released": 8
     }
   ],
@@ -209,7 +209,7 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 33,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -217,17 +217,17 @@
       "pct": 1.6
     },
     {
-      "name": "VIOLATION NO CONTACT ORDER",
-      "count": 24,
-      "pct": 1.3
+      "name": "THEFT",
+      "count": 25,
+      "pct": 1.4
     },
     {
       "name": "RESISTING ARREST",
-      "count": 24,
-      "pct": 1.3
+      "count": 25,
+      "pct": 1.4
     },
     {
-      "name": "THEFT",
+      "name": "VIOLATION NO CONTACT ORDER",
       "count": 24,
       "pct": 1.3
     },
@@ -272,12 +272,12 @@
     {
       "name": "OLYMPIA PD",
       "count": 180,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 124,
+      "count": 125,
       "pct": 11.1,
       "label": "LACEY PD"
     },
@@ -290,7 +290,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 60,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "FEDERAL WAY"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 421,
-      "pct": 27.5,
+      "count": 423,
+      "pct": 27.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 724,
+      "count": 725,
       "pct": 65.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 892,
+      "count": 893,
       "pct": 79.4
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 398
+        "count": 399
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 248.5
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 84,
     "noBond": 198,
-    "medianBond": 1500,
+    "medianBond": 1625,
     "maxBond": 60000,
-    "totalBond": 351501
+    "totalBond": 354501
   },
   "chargesPerBooking": 1.6
 }
