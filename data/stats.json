@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T01:27:26",
+  "generatedAt": "2026-11-08T01:48:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1128,
-    "bookingsObserved": 864,
+    "bookingsTracked": 1129,
+    "bookingsObserved": 865,
     "releasesObserved": 844,
-    "inCustody": 284,
-    "uniquePeople": 1044
+    "inCustody": 285,
+    "uniquePeople": 1045
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 2,
+      "booked": 3,
       "released": 2
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 81,
+      "count": 82,
       "pct": 4.6
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 59,
-      "pct": 5.3,
+      "count": 60,
+      "pct": 5.4,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 548,
-      "pct": 35.9,
+      "count": 549,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 722,
-      "pct": 65.8
+      "pct": 65.7
     },
     {
       "name": "Black",
-      "count": 212,
-      "pct": 19.3
+      "count": 213,
+      "pct": 19.4
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 890,
-      "pct": 79.5
+      "pct": 79.4
     },
     {
       "name": "Female",
-      "count": 230,
-      "pct": 20.5
+      "count": 231,
+      "pct": 20.6
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 396
+        "count": 397
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 82,
-    "noBond": 202,
+    "noBond": 203,
     "medianBond": 1500,
     "maxBond": 60000,
     "totalBond": 348501
