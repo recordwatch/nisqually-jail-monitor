@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T19:27:12",
+  "generatedAt": "2026-11-07T19:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1122,
-    "bookingsObserved": 858,
+    "bookingsTracked": 1123,
+    "bookingsObserved": 859,
     "releasesObserved": 840,
-    "inCustody": 282,
-    "uniquePeople": 1039
+    "inCustody": 283,
+    "uniquePeople": 1040
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 15,
+      "booked": 16,
       "released": 3
     }
   ],
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 36,
-      "pct": 2
+      "count": 37,
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -307,8 +307,8 @@
     },
     {
       "name": "YELM PD",
-      "count": 23,
-      "pct": 2.1,
+      "count": 24,
+      "pct": 2.2,
       "label": "YELM PD"
     },
     {
@@ -320,7 +320,7 @@
     {
       "name": "DOC",
       "count": 5,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "DOC"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 414,
+      "count": 415,
       "pct": 27.3,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 718,
+      "count": 719,
       "pct": 65.8
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 886,
-      "pct": 79.5
+      "count": 887,
+      "pct": 79.6
     },
     {
       "name": "Female",
       "count": 228,
-      "pct": 20.5
+      "pct": 20.4
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 393
+        "count": 394
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 247.8
   },
   "bond": {
-    "withBond": 79,
+    "withBond": 80,
     "noBond": 203,
-    "medianBond": 2000,
+    "medianBond": 1875,
     "maxBond": 60000,
-    "totalBond": 346501
+    "totalBond": 348001
   },
   "chargesPerBooking": 1.6
 }
