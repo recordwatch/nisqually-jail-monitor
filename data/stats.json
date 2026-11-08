@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:27:13",
+  "generatedAt": "2026-11-08T04:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1130,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 544,
-      "pct": 30.6
+      "pct": 30.5
     },
     {
       "name": "THEFT III",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 72,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -213,23 +213,23 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 25,
-      "pct": 1.4
+      "count": 28,
+      "pct": 1.6
     },
     {
       "name": "VIOLATION NO CONTACT ORDER",
       "count": 24,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "RESISTING ARREST",
       "count": 24,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "THEFT",
       "count": 24,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "HARASSMENT",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 519,
-      "pct": 46.4,
+      "pct": 46.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 179,
-      "pct": 16,
+      "count": 180,
+      "pct": 16.1,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 549,
-      "pct": 36,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 541,
-      "pct": 35.5,
+      "pct": 35.4,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 417,
-      "pct": 27.3,
+      "count": 421,
+      "pct": 27.5,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 248.2
   },
   "bond": {
-    "withBond": 82,
-    "noBond": 204,
+    "withBond": 84,
+    "noBond": 202,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 348501
+    "totalBond": 353501
   },
   "chargesPerBooking": 1.6
 }
