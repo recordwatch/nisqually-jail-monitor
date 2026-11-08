@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T17:27:14",
+  "generatedAt": "2026-11-07T17:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1120,
-    "bookingsObserved": 856,
+    "bookingsTracked": 1121,
+    "bookingsObserved": 857,
     "releasesObserved": 840,
-    "inCustody": 280,
-    "uniquePeople": 1037
+    "inCustody": 281,
+    "uniquePeople": 1038
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 13,
+      "booked": 14,
       "released": 3
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 543,
-      "pct": 30.7
+      "count": 544,
+      "pct": 30.8
     },
     {
       "name": "THEFT III",
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 518,
-      "pct": 46.7,
+      "pct": 46.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 177,
-      "pct": 15.9,
+      "count": 178,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,12 +358,12 @@
     {
       "name": "GM",
       "count": 544,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 540,
+      "count": 541,
       "pct": 35.6,
       "label": "Felony"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 716,
+      "count": 717,
       "pct": 65.7
     },
     {
       "name": "Black",
       "count": 211,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 885,
-      "pct": 79.6
+      "pct": 79.5
     },
     {
       "name": "Female",
-      "count": 227,
-      "pct": 20.4
+      "count": 228,
+      "pct": 20.5
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 392
+        "count": 393
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 79,
-    "noBond": 201,
+    "noBond": 202,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 346501
