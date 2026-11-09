@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:47:25",
+  "generatedAt": "2026-11-09T00:07:58",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1146,
@@ -9,11 +9,6 @@
     "uniquePeople": 1060
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-10",
-      "booked": 15,
-      "released": 8
-    },
     {
       "date": "2026-10-11",
       "booked": 18,
@@ -158,6 +153,11 @@
       "date": "2026-11-08",
       "booked": 20,
       "released": 11
+    },
+    {
+      "date": "2026-11-09",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 520,
-      "pct": 45.9,
+      "pct": 45.8,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 62,
-      "pct": 5.5,
+      "count": 63,
+      "pct": 5.6,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 558,
-      "pct": 36,
+      "count": 559,
+      "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 329
+        "count": 328
       },
       {
         "label": "35–44",
-        "count": 405
+        "count": 406
       },
       {
         "label": "45–54",
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 8.4,
+    "currentMedianDaysHeld": 8.1,
     "currentLongestDaysHeld": 249
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 203,
-    "medianBond": 1625,
+    "withBond": 91,
+    "noBond": 202,
+    "medianBond": 1750,
     "maxBond": 60000,
-    "totalBond": 368001
+    "totalBond": 393001
   },
   "chargesPerBooking": 1.6
 }
