@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T08:47:17",
+  "generatedAt": "2026-11-09T09:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1149,
-    "bookingsObserved": 885,
-    "releasesObserved": 864,
+    "bookingsTracked": 1150,
+    "bookingsObserved": 886,
+    "releasesObserved": 865,
     "inCustody": 285,
-    "uniquePeople": 1063
+    "uniquePeople": 1064
   },
   "bookingsByDay": [
     {
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-09",
       "booked": 3,
-      "released": 11
+      "released": 12
     }
   ],
   "topCharges": [
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 65,
-      "pct": 5.7,
+      "count": 64,
+      "pct": 5.6,
       "label": "FEDERAL WAY"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 27,
-      "pct": 2.4,
+      "count": 28,
+      "pct": 2.5,
       "label": "TUMWATER PD"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 734,
+      "count": 735,
       "pct": 65.7
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 905,
+      "count": 906,
       "pct": 79.4
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 328
+        "count": 329
       },
       {
         "label": "35–44",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 754,
+    "observed": 755,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 758,
+    "releasedCount": 759,
     "medianDays": 3.3,
-    "meanDays": 10.8,
+    "meanDays": 10.9,
     "buckets": [
       {
         "label": "< 1 day",
@@ -506,22 +506,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 45
+        "count": 46
       },
       {
         "label": "3+ months",
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 8.4,
+    "currentMedianDaysHeld": 8,
     "currentLongestDaysHeld": 249.4
   },
   "bond": {
-    "withBond": 93,
-    "noBond": 192,
-    "medianBond": 1750,
+    "withBond": 92,
+    "noBond": 193,
+    "medianBond": 1625,
     "maxBond": 60000,
-    "totalBond": 398001
+    "totalBond": 394001
   },
   "chargesPerBooking": 1.6
 }
