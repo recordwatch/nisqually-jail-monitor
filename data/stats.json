@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:47:14",
+  "generatedAt": "2026-11-09T02:04:11",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1147,
@@ -164,17 +164,17 @@
     {
       "name": "DOC VIOLATION",
       "count": 545,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
-      "count": 161,
+      "count": 162,
       "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
       "count": 84,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "DUI",
@@ -212,14 +212,14 @@
       "pct": 1.9
     },
     {
+      "name": "THEFT",
+      "count": 30,
+      "pct": 1.7
+    },
+    {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 27,
       "pct": 1.5
-    },
-    {
-      "name": "THEFT",
-      "count": 26,
-      "pct": 1.4
     },
     {
       "name": "RESISTING ARREST",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 520,
-      "pct": 45.8,
+      "pct": 45.7,
       "label": "WA DOC"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "LACEY PD",
-      "count": 128,
+      "count": 129,
       "pct": 11.3,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 96,
-      "pct": 8.5,
+      "pct": 8.4,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 559,
-      "pct": 36.1,
+      "count": 560,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 542,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 430,
-      "pct": 27.7,
+      "count": 434,
+      "pct": 27.9,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 249.1
   },
   "bond": {
-    "withBond": 91,
-    "noBond": 203,
+    "withBond": 93,
+    "noBond": 201,
     "medianBond": 1750,
     "maxBond": 60000,
-    "totalBond": 393001
+    "totalBond": 398001
   },
   "chargesPerBooking": 1.6
 }
