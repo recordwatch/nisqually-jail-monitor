@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T19:27:15",
+  "generatedAt": "2026-11-08T19:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1136,
-    "bookingsObserved": 872,
+    "bookingsTracked": 1137,
+    "bookingsObserved": 873,
     "releasesObserved": 852,
-    "inCustody": 284,
-    "uniquePeople": 1052
+    "inCustody": 285,
+    "uniquePeople": 1053
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 10,
+      "booked": 11,
       "released": 10
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 544,
-      "pct": 30.4
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 66,
+      "count": 67,
       "pct": 3.7
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 181,
+      "count": 182,
       "pct": 16.1,
       "label": "OLYMPIA PD"
     },
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 728,
-      "pct": 65.8
+      "count": 729,
+      "pct": 65.9
     },
     {
       "name": "Black",
       "count": 213,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "Unknown",
       "count": 57,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 896,
-      "pct": 79.4
+      "count": 897,
+      "pct": 79.5
     },
     {
       "name": "Female",
       "count": 232,
-      "pct": 20.6
+      "pct": 20.5
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 401
+        "count": 402
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 248.8
   },
   "bond": {
-    "withBond": 86,
+    "withBond": 87,
     "noBond": 198,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 364501
+    "totalBond": 365501
   },
   "chargesPerBooking": 1.6
 }
