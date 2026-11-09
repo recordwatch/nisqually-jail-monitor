@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T15:07:13",
+  "generatedAt": "2026-11-09T15:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1163,
     "bookingsObserved": 899,
-    "releasesObserved": 877,
-    "inCustody": 286,
+    "releasesObserved": 879,
+    "inCustody": 284,
     "uniquePeople": 1076
   },
   "bookingsByDay": [
@@ -157,13 +157,13 @@
     {
       "date": "2026-11-09",
       "booked": 17,
-      "released": 24
+      "released": 26
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 553,
+      "count": 554,
       "pct": 30.2
     },
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 85,
-      "pct": 4.6
+      "count": 86,
+      "pct": 4.7
     },
     {
       "name": "DUI",
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 54,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -213,8 +213,8 @@
     },
     {
       "name": "THEFT",
-      "count": 30,
-      "pct": 1.6
+      "count": 31,
+      "pct": 1.7
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 527,
+      "count": 528,
       "pct": 45.9,
       "label": "WA DOC"
     },
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 96,
-      "pct": 8.4,
+      "pct": 8.3,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 564,
+      "count": 565,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 550,
+      "count": 551,
       "pct": 35,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 437,
+      "count": 438,
       "pct": 27.8,
       "label": "Misdemeanor"
     },
@@ -479,13 +479,13 @@
     ]
   },
   "releaseSources": {
-    "observed": 767,
+    "observed": 769,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 771,
-    "medianDays": 3.5,
+    "releasedCount": 773,
+    "medianDays": 3.4,
     "meanDays": 10.9,
     "buckets": [
       {
@@ -494,11 +494,11 @@
       },
       {
         "label": "1–3 days",
-        "count": 234
+        "count": 235
       },
       {
         "label": "3–7 days",
-        "count": 69
+        "count": 70
       },
       {
         "label": "1–4 weeks",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 249.6
   },
   "bond": {
-    "withBond": 93,
-    "noBond": 193,
+    "withBond": 92,
+    "noBond": 192,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 397251
+    "totalBond": 405751
   },
   "chargesPerBooking": 1.6
 }
