@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T08:07:16",
+  "generatedAt": "2026-11-09T08:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1149,
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 162,
+      "count": 161,
       "pct": 8.9
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 53,
-      "pct": 2.9
+      "count": 54,
+      "pct": 3
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 562,
+      "count": 561,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 8.4,
-    "currentLongestDaysHeld": 249.3
+    "currentLongestDaysHeld": 249.4
   },
   "bond": {
     "withBond": 93,
