@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T23:27:26",
+  "generatedAt": "2026-11-08T23:47:25",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1145,
-    "bookingsObserved": 881,
+    "bookingsTracked": 1146,
+    "bookingsObserved": 882,
     "releasesObserved": 853,
-    "inCustody": 292,
-    "uniquePeople": 1059
+    "inCustody": 293,
+    "uniquePeople": 1060
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 19,
+      "booked": 20,
       "released": 11
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 73,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 38,
-      "pct": 2.1
+      "count": 39,
+      "pct": 2.2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 95,
-      "pct": 8.4,
+      "count": 96,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 557,
+      "count": 558,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 542,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 428,
+      "count": 429,
       "pct": 27.7,
       "label": "Misdemeanor"
     },
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 734,
-      "pct": 65.9
+      "pct": 65.8
     },
     {
       "name": "Black",
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 57,
-      "pct": 5.1
+      "count": 58,
+      "pct": 5.2
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 902,
+      "count": 903,
       "pct": 79.3
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 85
+        "count": 86
       },
       {
         "label": "25–34",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 249
   },
   "bond": {
-    "withBond": 89,
+    "withBond": 90,
     "noBond": 203,
-    "medianBond": 1750,
+    "medianBond": 1625,
     "maxBond": 60000,
-    "totalBond": 366501
+    "totalBond": 368001
   },
   "chargesPerBooking": 1.6
 }
