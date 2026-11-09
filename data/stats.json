@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:27:15",
+  "generatedAt": "2026-11-09T13:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1161,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 14,
+      "booked": 15,
       "released": 23
     }
   ],
@@ -228,7 +228,7 @@
     },
     {
       "name": "HARASSMENT",
-      "count": 23,
+      "count": 24,
       "pct": 1.3
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 563,
+      "count": 564,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 549,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Felony"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 192,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 394501
+    "totalBond": 396501
   },
   "chargesPerBooking": 1.6
 }
