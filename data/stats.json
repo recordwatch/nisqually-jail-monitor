@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T21:07:15",
+  "generatedAt": "2026-11-08T21:27:26",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1140,
-    "bookingsObserved": 876,
+    "bookingsTracked": 1141,
+    "bookingsObserved": 877,
     "releasesObserved": 852,
-    "inCustody": 288,
+    "inCustody": 289,
     "uniquePeople": 1056
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 14,
+      "booked": 15,
       "released": 10
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 83,
-      "pct": 4.6
+      "count": 84,
+      "pct": 4.7
     },
     {
       "name": "DUI",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 60,
-      "pct": 5.3,
+      "count": 61,
+      "pct": 5.4,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 556,
-      "pct": 36,
+      "count": 557,
+      "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 541,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Felony"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 731,
+      "count": 732,
       "pct": 65.9
     },
     {
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 900,
-      "pct": 79.5
+      "pct": 79.4
     },
     {
       "name": "Female",
-      "count": 232,
-      "pct": 20.5
+      "count": 233,
+      "pct": 20.6
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 403
+        "count": 404
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 90,
-    "noBond": 198,
+    "noBond": 199,
     "medianBond": 1625,
     "maxBond": 60000,
     "totalBond": 368501
