@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T15:47:14",
+  "generatedAt": "2026-11-08T16:07:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1135,
-    "bookingsObserved": 871,
+    "bookingsTracked": 1136,
+    "bookingsObserved": 872,
     "releasesObserved": 850,
-    "inCustody": 285,
-    "uniquePeople": 1051
+    "inCustody": 286,
+    "uniquePeople": 1052
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 9,
+      "booked": 10,
       "released": 8
     }
   ],
@@ -208,8 +208,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 33,
-      "pct": 1.8
+      "count": 34,
+      "pct": 1.9
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -259,7 +259,7 @@
     {
       "name": "ASSAULT 4TH DV",
       "count": 17,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
@@ -307,8 +307,8 @@
     },
     {
       "name": "YELM PD",
-      "count": 24,
-      "pct": 2.1,
+      "count": 25,
+      "pct": 2.2,
       "label": "YELM PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 551,
-      "pct": 35.8,
+      "count": 552,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 426,
+      "count": 427,
       "pct": 27.7,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 727,
+      "count": 728,
       "pct": 65.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 895,
+      "count": 896,
       "pct": 79.4
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 400
+        "count": 401
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 248.7
   },
   "bond": {
-    "withBond": 86,
+    "withBond": 87,
     "noBond": 199,
-    "medianBond": 1875,
+    "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 362501
+    "totalBond": 365501
   },
   "chargesPerBooking": 1.6
 }
