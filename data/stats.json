@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T03:07:13",
+  "generatedAt": "2026-11-09T03:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1149,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 545,
-      "pct": 30.1
+      "pct": 30
     },
     {
       "name": "THEFT III",
@@ -204,7 +204,7 @@
     {
       "name": "DWLS/DWLR III",
       "count": 39,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 64,
-      "pct": 5.6,
+      "count": 65,
+      "pct": 5.7,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 561,
+      "count": 562,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
