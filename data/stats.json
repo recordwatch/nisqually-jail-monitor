@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T22:27:22",
+  "generatedAt": "2026-11-08T22:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1141,
-    "bookingsObserved": 877,
+    "bookingsTracked": 1144,
+    "bookingsObserved": 880,
     "releasesObserved": 852,
-    "inCustody": 289,
-    "uniquePeople": 1056
+    "inCustody": 292,
+    "uniquePeople": 1058
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 15,
+      "booked": 17,
       "released": 10
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 544,
+      "count": 545,
       "pct": 30.2
     },
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 72,
-      "pct": 4
+      "count": 73,
+      "pct": 4.1
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 519,
+      "count": 520,
       "pct": 45.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 184,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 61,
-      "pct": 5.4,
+      "count": 62,
+      "pct": 5.5,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 556,
+      "count": 557,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 541,
-      "pct": 35,
+      "count": 542,
+      "pct": 35.1,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 732,
+      "count": 733,
       "pct": 65.9
     },
     {
       "name": "Black",
-      "count": 213,
-      "pct": 19.2
+      "count": 215,
+      "pct": 19.3
     },
     {
       "name": "Unknown",
@@ -433,7 +433,7 @@
     {
       "name": "I",
       "count": 15,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "P",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 900,
-      "pct": 79.4
+      "count": 901,
+      "pct": 79.3
     },
     {
       "name": "Female",
-      "count": 233,
-      "pct": 20.6
+      "count": 235,
+      "pct": 20.7
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 327
+        "count": 329
       },
       {
         "label": "35–44",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 131
+        "count": 132
       }
     ]
   },
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 90,
-    "noBond": 199,
+    "noBond": 202,
     "medianBond": 1875,
     "maxBond": 60000,
     "totalBond": 368501
