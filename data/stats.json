@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:27:15",
+  "generatedAt": "2026-11-10T02:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1180,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 531,
-      "pct": 45.7,
+      "pct": 45.6,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 189,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 96,
-      "pct": 8.3,
+      "pct": 8.2,
       "label": "LAKEWOOD PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 63,
-      "pct": 5.4,
+      "count": 64,
+      "pct": 5.5,
       "label": "TACOMA PD"
     },
     {
