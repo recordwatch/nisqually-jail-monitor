@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T10:47:15",
+  "generatedAt": "2026-11-10T11:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1185,
-    "bookingsObserved": 921,
+    "bookingsTracked": 1187,
+    "bookingsObserved": 923,
     "releasesObserved": 920,
-    "inCustody": 265,
-    "uniquePeople": 1096
+    "inCustody": 267,
+    "uniquePeople": 1097
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 10,
+      "booked": 13,
       "released": 8
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 562,
+      "count": 563,
       "pct": 30
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 91,
+      "count": 92,
       "pct": 4.9
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "ASSAULT-4",
       "count": 46,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DWLS/DWLR III",
@@ -218,8 +218,8 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 27,
-      "pct": 1.4
+      "count": 28,
+      "pct": 1.5
     },
     {
       "name": "HARASSMENT",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 536,
+      "count": 537,
       "pct": 45.7,
       "label": "WA DOC"
     },
@@ -307,8 +307,8 @@
     },
     {
       "name": "YELM PD",
-      "count": 24,
-      "pct": 2,
+      "count": 25,
+      "pct": 2.1,
       "label": "YELM PD"
     },
     {
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 582,
+      "count": 583,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 559,
+      "count": 560,
       "pct": 34.7,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 450,
+      "count": 451,
       "pct": 27.9,
       "label": "Misdemeanor"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 754,
+      "count": 755,
       "pct": 65.5
     },
     {
       "name": "Black",
       "count": 223,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "Unknown",
@@ -427,8 +427,8 @@
     },
     {
       "name": "N",
-      "count": 40,
-      "pct": 3.5
+      "count": 41,
+      "pct": 3.6
     },
     {
       "name": "I",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 929,
-      "pct": 79.2
+      "count": 930,
+      "pct": 79.1
     },
     {
       "name": "Female",
-      "count": 244,
-      "pct": 20.8
+      "count": 245,
+      "pct": 20.9
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 200
+        "count": 202
       },
       {
         "label": "55+",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 7.9,
-    "currentLongestDaysHeld": 250.4
+    "currentLongestDaysHeld": 250.5
   },
   "bond": {
     "withBond": 79,
-    "noBond": 186,
+    "noBond": 188,
     "medianBond": 1750,
     "maxBond": 60000,
-    "totalBond": 372301
+    "totalBond": 374301
   },
   "chargesPerBooking": 1.6
 }
