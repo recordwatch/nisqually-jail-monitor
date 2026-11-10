@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T11:07:15",
+  "generatedAt": "2026-11-10T11:19:25",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1187,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 563,
+      "count": 564,
       "pct": 30
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 537,
-      "pct": 45.7,
+      "count": 538,
+      "pct": 45.8,
       "label": "WA DOC"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 64,
-      "pct": 5.5,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 560,
+      "count": 561,
       "pct": 34.7,
       "label": "Felony"
     },
