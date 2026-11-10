@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T01:27:19",
+  "generatedAt": "2026-11-10T01:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1178,
-    "bookingsObserved": 914,
+    "bookingsTracked": 1179,
+    "bookingsObserved": 915,
     "releasesObserved": 912,
-    "inCustody": 266,
-    "uniquePeople": 1090
+    "inCustody": 267,
+    "uniquePeople": 1091
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 557,
-      "pct": 29.8
+      "count": 558,
+      "pct": 29.9
     },
     {
       "name": "THEFT III",
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 188,
-      "pct": 16.2,
+      "count": 189,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 554,
+      "count": 555,
       "pct": 34.6,
       "label": "Felony"
     },
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 221,
-      "pct": 19.3
+      "count": 222,
+      "pct": 19.4
     },
     {
       "name": "Unknown",
@@ -423,7 +423,7 @@
     {
       "name": "Asian",
       "count": 43,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 924,
+      "count": 925,
       "pct": 79.2
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 198
+        "count": 199
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 250.1
   },
   "bond": {
-    "withBond": 76,
+    "withBond": 77,
     "noBond": 190,
-    "medianBond": 1875,
+    "medianBond": 1750,
     "maxBond": 60000,
-    "totalBond": 369051
+    "totalBond": 369301
   },
   "chargesPerBooking": 1.6
 }
