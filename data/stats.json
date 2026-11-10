@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T18:07:14",
+  "generatedAt": "2026-11-09T18:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1166,
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 162,
-      "pct": 8.8
+      "count": 163,
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -192,14 +192,14 @@
       "pct": 2.9
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
-      "count": 45,
+      "name": "ASSAULT-4",
+      "count": 46,
       "pct": 2.5
     },
     {
-      "name": "ASSAULT-4",
+      "name": "CRIMINAL TRESPASS-2",
       "count": 45,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DWLS/DWLR III",
@@ -209,7 +209,7 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 34,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "THEFT",
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 129,
-      "pct": 11.2,
+      "count": 130,
+      "pct": 11.3,
       "label": "LACEY PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 567,
+      "count": 568,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 249.8
   },
   "bond": {
-    "withBond": 92,
-    "noBond": 191,
-    "medianBond": 1500,
+    "withBond": 94,
+    "noBond": 189,
+    "medianBond": 1625,
     "maxBond": 60000,
-    "totalBond": 404751
+    "totalBond": 408751
   },
   "chargesPerBooking": 1.6
 }
