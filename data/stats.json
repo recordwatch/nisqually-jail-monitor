@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:47:15",
+  "generatedAt": "2026-11-10T05:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1181,
@@ -151,12 +151,12 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 27,
+      "booked": 28,
       "released": 59
     },
     {
       "date": "2026-11-10",
-      "booked": 6,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 534,
-      "pct": 45.8,
+      "pct": 45.7,
       "label": "WA DOC"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 96,
-      "pct": 8.2,
+      "count": 97,
+      "pct": 8.3,
       "label": "LAKEWOOD PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 557,
+      "count": 558,
       "pct": 34.7,
       "label": "Felony"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 250.2
   },
   "bond": {
-    "withBond": 78,
-    "noBond": 191,
-    "medianBond": 1625,
+    "withBond": 79,
+    "noBond": 190,
+    "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 370301
+    "totalBond": 371301
   },
   "chargesPerBooking": 1.6
 }
