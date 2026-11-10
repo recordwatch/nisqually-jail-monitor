@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T01:07:14",
+  "generatedAt": "2026-11-10T01:27:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1177,
-    "bookingsObserved": 913,
+    "bookingsTracked": 1178,
+    "bookingsObserved": 914,
     "releasesObserved": 912,
-    "inCustody": 265,
-    "uniquePeople": 1089
+    "inCustody": 266,
+    "uniquePeople": 1090
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 557,
-      "pct": 29.9
+      "pct": 29.8
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 90,
-      "pct": 4.8
+      "count": 91,
+      "pct": 4.9
     },
     {
       "name": "DUI",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 529,
+      "count": 530,
       "pct": 45.7,
       "label": "WA DOC"
     },
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 64,
-      "pct": 5.5,
+      "count": 65,
+      "pct": 5.6,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 578,
+      "count": 579,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 448,
+      "count": 449,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 752,
-      "pct": 65.7
+      "pct": 65.6
     },
     {
       "name": "Black",
@@ -422,8 +422,8 @@
     },
     {
       "name": "Asian",
-      "count": 42,
-      "pct": 3.7
+      "count": 43,
+      "pct": 3.8
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 923,
+      "count": 924,
       "pct": 79.2
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 135
+        "count": 136
       }
     ]
   },
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 7.6,
-    "currentLongestDaysHeld": 250
+    "currentLongestDaysHeld": 250.1
   },
   "bond": {
     "withBond": 76,
-    "noBond": 189,
+    "noBond": 190,
     "medianBond": 1875,
     "maxBond": 60000,
     "totalBond": 369051
