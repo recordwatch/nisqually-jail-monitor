@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:07:15",
+  "generatedAt": "2026-11-10T02:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1180,
@@ -193,7 +193,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 49,
+      "count": 48,
       "pct": 2.6
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 530,
-      "pct": 45.6,
+      "count": 531,
+      "pct": 45.7,
       "label": "WA DOC"
     },
     {
@@ -278,12 +278,12 @@
     {
       "name": "LACEY PD",
       "count": 132,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 97,
+      "count": 96,
       "pct": 8.3,
       "label": "LAKEWOOD PD"
     },
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 62,
-      "pct": 5.3,
+      "count": 63,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 449,
+      "count": 448,
       "pct": 28,
       "label": "Misdemeanor"
     },
