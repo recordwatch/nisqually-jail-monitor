@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T14:27:14",
+  "generatedAt": "2026-11-10T14:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1200,
-    "bookingsObserved": 936,
+    "bookingsTracked": 1201,
+    "bookingsObserved": 937,
     "releasesObserved": 920,
-    "inCustody": 280,
-    "uniquePeople": 1109
+    "inCustody": 281,
+    "uniquePeople": 1110
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 25,
+      "booked": 27,
       "released": 8
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 575,
+      "count": 577,
       "pct": 30.4
     },
     {
@@ -184,12 +184,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 71,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "CRIMINAL TRESPASS",
       "count": 54,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -198,8 +198,8 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 46,
-      "pct": 2.4
+      "count": 47,
+      "pct": 2.5
     },
     {
       "name": "DWLS/DWLR III",
@@ -223,7 +223,7 @@
     },
     {
       "name": "HARASSMENT",
-      "count": 26,
+      "count": 27,
       "pct": 1.4
     },
     {
@@ -254,19 +254,19 @@
     {
       "name": "MALICIOUS MISCHIEF",
       "count": 18,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "DISORDERLY CONDUCT",
       "count": 18,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 549,
-      "pct": 46.3,
+      "count": 551,
+      "pct": 46.4,
       "label": "WA DOC"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 583,
+      "count": 585,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 571,
-      "pct": 35.1,
+      "count": 573,
+      "pct": 35.2,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 452,
-      "pct": 27.8,
+      "pct": 27.7,
       "label": "Misdemeanor"
     },
     {
@@ -427,8 +427,8 @@
     },
     {
       "name": "N",
-      "count": 41,
-      "pct": 3.5
+      "count": 42,
+      "pct": 3.6
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 942,
+      "count": 943,
       "pct": 79.3
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 345
+        "count": 346
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 7.6,
+    "currentMedianDaysHeld": 7.4,
     "currentLongestDaysHeld": 250.6
   },
   "bond": {
     "withBond": 79,
-    "noBond": 201,
+    "noBond": 202,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 383301
