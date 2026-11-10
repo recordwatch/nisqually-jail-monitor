@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T11:27:14",
+  "generatedAt": "2026-11-10T11:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1187,
-    "bookingsObserved": 923,
+    "bookingsTracked": 1188,
+    "bookingsObserved": 924,
     "releasesObserved": 920,
-    "inCustody": 267,
-    "uniquePeople": 1097
+    "inCustody": 268,
+    "uniquePeople": 1098
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 13,
+      "booked": 14,
       "released": 8
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 564,
+      "count": 565,
       "pct": 30
     },
     {
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 538,
+      "count": 539,
       "pct": 45.8,
       "label": "WA DOC"
     },
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 97,
-      "pct": 8.3,
+      "pct": 8.2,
       "label": "LAKEWOOD PD"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 561,
-      "pct": 34.7,
+      "count": 562,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 755,
+      "count": 756,
       "pct": 65.5
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 930,
-      "pct": 79.1
+      "count": 931,
+      "pct": 79.2
     },
     {
       "name": "Female",
       "count": 245,
-      "pct": 20.9
+      "pct": 20.8
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 417
+        "count": 418
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 79,
-    "noBond": 188,
+    "noBond": 189,
     "medianBond": 1750,
     "maxBond": 60000,
     "totalBond": 374301
