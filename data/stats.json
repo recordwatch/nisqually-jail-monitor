@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T00:47:15",
+  "generatedAt": "2026-11-10T01:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1177,
@@ -243,7 +243,7 @@
     },
     {
       "name": "SIMPLE ASSAULT-DV",
-      "count": 20,
+      "count": 21,
       "pct": 1.1
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 576,
-      "pct": 36,
+      "count": 578,
+      "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 554,
-      "pct": 34.7,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
