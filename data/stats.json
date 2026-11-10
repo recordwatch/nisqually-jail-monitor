@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:27:14",
+  "generatedAt": "2026-11-09T17:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1166,
@@ -164,11 +164,11 @@
     {
       "name": "DOC VIOLATION",
       "count": 555,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
-      "count": 161,
+      "count": 162,
       "pct": 8.8
     },
     {
@@ -184,7 +184,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 67,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -228,8 +228,8 @@
     },
     {
       "name": "HARASSMENT",
-      "count": 24,
-      "pct": 1.3
+      "count": 25,
+      "pct": 1.4
     },
     {
       "name": "VIOLATION NO CONTACT ORDER",
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 565,
-      "pct": 35.9,
+      "count": 567,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 439,
-      "pct": 27.9,
+      "pct": 27.8,
       "label": "Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 193,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 403751
+    "totalBond": 404751
   },
   "chargesPerBooking": 1.6
 }
