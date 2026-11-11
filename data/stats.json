@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T22:27:13",
+  "generatedAt": "2026-11-10T22:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1210,
-    "bookingsObserved": 946,
+    "bookingsTracked": 1211,
+    "bookingsObserved": 947,
     "releasesObserved": 934,
-    "inCustody": 276,
-    "uniquePeople": 1116
+    "inCustody": 277,
+    "uniquePeople": 1117
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 34,
+      "booked": 35,
       "released": 22
     }
   ],
@@ -248,7 +248,7 @@
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 19,
+      "count": 20,
       "pct": 1
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 191,
-      "pct": 16,
+      "pct": 15.9,
       "label": "OLYMPIA PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 64,
-      "pct": 5.3,
+      "count": 65,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 456,
+      "count": 457,
       "pct": 27.8,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 770,
+      "count": 771,
       "pct": 65.6
     },
     {
@@ -418,7 +418,7 @@
     {
       "name": "Unknown",
       "count": 64,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 950,
+      "count": 951,
       "pct": 79.3
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 421
+        "count": 422
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 250.9
   },
   "bond": {
-    "withBond": 74,
+    "withBond": 75,
     "noBond": 202,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 380051
+    "totalBond": 380551
   },
   "chargesPerBooking": 1.6
 }
