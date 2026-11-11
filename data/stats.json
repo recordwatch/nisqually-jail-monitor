@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T19:07:13",
+  "generatedAt": "2026-11-10T19:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1208,
     "bookingsObserved": 944,
-    "releasesObserved": 927,
-    "inCustody": 281,
+    "releasesObserved": 928,
+    "inCustody": 280,
     "uniquePeople": 1114
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-10",
       "booked": 32,
-      "released": 15
+      "released": 16
     }
   ],
   "topCharges": [
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 79,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 552,
-      "pct": 46.3,
+      "pct": 46.2,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 68,
-      "pct": 5.7,
+      "count": 69,
+      "pct": 5.8,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 589,
+      "count": 590,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -376,7 +376,7 @@
     {
       "name": "FC",
       "count": 9,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "FC"
     },
     {
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 817,
+    "observed": 818,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 821,
+    "releasedCount": 822,
     "medianDays": 3.2,
     "meanDays": 10.6,
     "buckets": [
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 75
+        "count": 76
       },
       {
         "label": "1–4 weeks",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 250.8
   },
   "bond": {
-    "withBond": 79,
+    "withBond": 78,
     "noBond": 202,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 382801
+    "totalBond": 379801
   },
   "chargesPerBooking": 1.6
 }
