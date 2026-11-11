@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T18:47:13",
+  "generatedAt": "2026-11-10T19:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1207,
-    "bookingsObserved": 943,
+    "bookingsTracked": 1208,
+    "bookingsObserved": 944,
     "releasesObserved": 927,
-    "inCustody": 280,
-    "uniquePeople": 1113
+    "inCustody": 281,
+    "uniquePeople": 1114
   },
   "bookingsByDay": [
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 78,
-      "pct": 4.1
+      "count": 79,
+      "pct": 4.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 67,
-      "pct": 5.6,
+      "count": 68,
+      "pct": 5.7,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 588,
+      "count": 589,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 948,
+      "count": 949,
       "pct": 79.3
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 138
+        "count": 139
       }
     ]
   },
@@ -513,12 +513,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 7.6,
+    "currentMedianDaysHeld": 7.4,
     "currentLongestDaysHeld": 250.8
   },
   "bond": {
     "withBond": 79,
-    "noBond": 201,
+    "noBond": 202,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 382801
