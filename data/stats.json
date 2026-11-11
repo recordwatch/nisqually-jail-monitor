@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T22:47:15",
+  "generatedAt": "2026-11-10T22:55:07",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1211,
-    "bookingsObserved": 947,
+    "bookingsTracked": 1213,
+    "bookingsObserved": 949,
     "releasesObserved": 934,
-    "inCustody": 277,
-    "uniquePeople": 1117
+    "inCustody": 279,
+    "uniquePeople": 1119
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 35,
+      "booked": 36,
       "released": 22
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 579,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
@@ -239,7 +239,7 @@
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 22,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 553,
-      "pct": 46.2,
+      "pct": 46.1,
       "label": "WA DOC"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 65,
-      "pct": 5.4,
+      "count": 67,
+      "pct": 5.6,
       "label": "TACOMA PD"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 771,
-      "pct": 65.6
+      "count": 773,
+      "pct": 65.7
     },
     {
       "name": "Black",
       "count": 224,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 951,
-      "pct": 79.3
+      "count": 953,
+      "pct": 79.4
     },
     {
       "name": "Female",
       "count": 248,
-      "pct": 20.7
+      "pct": 20.6
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 206
+        "count": 208
       },
       {
         "label": "55+",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 7.5,
-    "currentLongestDaysHeld": 250.9
+    "currentLongestDaysHeld": 251
   },
   "bond": {
-    "withBond": 75,
+    "withBond": 77,
     "noBond": 202,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 380551
+    "totalBond": 381301
   },
   "chargesPerBooking": 1.6
 }
