@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:47:14",
+  "generatedAt": "2026-11-11T02:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1219,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 581,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
-      "count": 170,
-      "pct": 8.8
+      "count": 171,
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -237,13 +237,13 @@
       "pct": 1.2
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "ASSAULT 4TH DV",
       "count": 22,
       "pct": 1.1
     },
     {
-      "name": "ASSAULT 4TH DV",
-      "count": 21,
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 22,
       "pct": 1.1
     },
     {
@@ -252,12 +252,12 @@
       "pct": 1.1
     },
     {
-      "name": "ASSAULT 4",
-      "count": 18,
-      "pct": 0.9
+      "name": "MALICIOUS MISCHIEF",
+      "count": 19,
+      "pct": 1
     },
     {
-      "name": "MALICIOUS MISCHIEF",
+      "name": "ASSAULT 4",
       "count": 18,
       "pct": 0.9
     }
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 591,
+      "count": 592,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 463,
-      "pct": 28,
+      "count": 465,
+      "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 251.1
   },
   "bond": {
-    "withBond": 81,
-    "noBond": 204,
-    "medianBond": 2000,
+    "withBond": 82,
+    "noBond": 203,
+    "medianBond": 1875,
     "maxBond": 250000,
-    "totalBond": 634301
+    "totalBond": 635301
   },
   "chargesPerBooking": 1.6
 }
