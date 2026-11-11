@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:07:12",
+  "generatedAt": "2026-11-10T21:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1210,
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 169,
-      "pct": 8.8
+      "count": 170,
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 97,
-      "pct": 8.1,
+      "count": 98,
+      "pct": 8.2,
       "label": "LAKEWOOD PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 64,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "TACOMA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 590,
+      "count": 591,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 7.4,
+    "currentMedianDaysHeld": 7.5,
     "currentLongestDaysHeld": 250.9
   },
   "bond": {
-    "withBond": 73,
-    "noBond": 203,
+    "withBond": 74,
+    "noBond": 202,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 379051
+    "totalBond": 380051
   },
   "chargesPerBooking": 1.6
 }
