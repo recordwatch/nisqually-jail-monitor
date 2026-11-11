@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T23:27:14",
+  "generatedAt": "2026-11-10T23:47:28",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1216,
-    "bookingsObserved": 952,
+    "bookingsTracked": 1217,
+    "bookingsObserved": 953,
     "releasesObserved": 934,
-    "inCustody": 282,
-    "uniquePeople": 1122
+    "inCustody": 283,
+    "uniquePeople": 1123
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 39,
+      "booked": 40,
       "released": 22
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 579,
+      "count": 580,
       "pct": 30.2
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "ASSAULT-4",
       "count": 47,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DWLS/DWLR III",
@@ -284,20 +284,20 @@
     {
       "name": "LAKEWOOD PD",
       "count": 98,
-      "pct": 8.2,
+      "pct": 8.1,
       "label": "LAKEWOOD PD"
+    },
+    {
+      "name": "FEDERAL WAY",
+      "count": 70,
+      "pct": 5.8,
+      "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 69,
       "pct": 5.7,
       "label": "TACOMA PD"
-    },
-    {
-      "name": "FEDERAL WAY",
-      "count": 69,
-      "pct": 5.7,
-      "label": "FEDERAL WAY"
     },
     {
       "name": "TUMWATER PD",
@@ -363,13 +363,13 @@
     },
     {
       "name": "F",
-      "count": 575,
+      "count": 576,
       "pct": 35,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 458,
+      "count": 459,
       "pct": 27.9,
       "label": "Misdemeanor"
     },
@@ -408,11 +408,11 @@
     {
       "name": "White",
       "count": 775,
-      "pct": 65.7
+      "pct": 65.6
     },
     {
       "name": "Black",
-      "count": 225,
+      "count": 226,
       "pct": 19.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 956,
+      "count": 957,
       "pct": 79.4
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 140
+        "count": 141
       }
     ]
   },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 251
   },
   "bond": {
-    "withBond": 79,
+    "withBond": 80,
     "noBond": 203,
     "medianBond": 2000,
-    "maxBond": 60000,
-    "totalBond": 381801
+    "maxBond": 250000,
+    "totalBond": 631801
   },
   "chargesPerBooking": 1.6
 }
