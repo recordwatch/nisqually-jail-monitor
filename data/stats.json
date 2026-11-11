@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:07:15",
+  "generatedAt": "2026-11-11T00:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1218,
@@ -183,8 +183,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 72,
-      "pct": 3.7
+      "count": 73,
+      "pct": 3.8
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 461,
+      "count": 462,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -521,7 +521,7 @@
     "noBond": 204,
     "medianBond": 2000,
     "maxBond": 250000,
-    "totalBond": 632551
+    "totalBond": 633301
   },
   "chargesPerBooking": 1.6
 }
