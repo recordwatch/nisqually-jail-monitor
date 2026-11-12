@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T15:47:14",
+  "generatedAt": "2026-11-11T16:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1222,
-    "bookingsObserved": 958,
+    "bookingsTracked": 1225,
+    "bookingsObserved": 961,
     "releasesObserved": 936,
-    "inCustody": 286,
-    "uniquePeople": 1127
+    "inCustody": 289,
+    "uniquePeople": 1130
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 5,
+      "booked": 8,
       "released": 2
     }
   ],
@@ -164,16 +164,16 @@
     {
       "name": "DOC VIOLATION",
       "count": 583,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
-      "count": 171,
-      "pct": 8.8
+      "count": 172,
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 92,
+      "count": 93,
       "pct": 4.8
     },
     {
@@ -192,14 +192,14 @@
       "pct": 2.9
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
+      "name": "ASSAULT-4",
       "count": 48,
       "pct": 2.5
     },
     {
-      "name": "ASSAULT-4",
-      "count": 47,
-      "pct": 2.4
+      "name": "CRIMINAL TRESPASS-2",
+      "count": 48,
+      "pct": 2.5
     },
     {
       "name": "DWLS/DWLR III",
@@ -219,7 +219,7 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 30,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "HARASSMENT",
@@ -266,18 +266,18 @@
     {
       "name": "WA DOC",
       "count": 556,
-      "pct": 46,
+      "pct": 45.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 192,
-      "pct": 15.9,
+      "count": 194,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 134,
+      "count": 135,
       "pct": 11.1,
       "label": "LACEY PD"
     },
@@ -330,6 +330,12 @@
       "label": "SQUAXIN ISLAND PD"
     },
     {
+      "name": "DUPONT PD",
+      "count": 3,
+      "pct": 0.2,
+      "label": "DUPONT PD"
+    },
+    {
       "name": "STEILACOOM PD",
       "count": 3,
       "pct": 0.2,
@@ -342,12 +348,6 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
-      "name": "DUPONT PD",
-      "count": 2,
-      "pct": 0.2,
-      "label": "DUPONT PD"
-    },
-    {
       "name": "PUYALLUP TRIBE PD",
       "count": 2,
       "pct": 0.2,
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 592,
-      "pct": 35.7,
+      "count": 595,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 579,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 465,
-      "pct": 28.1,
+      "pct": 28,
       "label": "Misdemeanor"
     },
     {
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 780,
-      "pct": 65.8
+      "count": 781,
+      "pct": 65.7
     },
     {
       "name": "Black",
       "count": 226,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "Unknown",
-      "count": 64,
-      "pct": 5.4
+      "count": 65,
+      "pct": 5.5
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 961,
-      "pct": 79.4
+      "count": 962,
+      "pct": 79.3
     },
     {
       "name": "Female",
-      "count": 249,
-      "pct": 20.6
+      "count": 251,
+      "pct": 20.7
     }
   ],
   "ages": {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 351
+        "count": 352
       },
       {
         "label": "35–44",
-        "count": 427
+        "count": 428
       },
       {
         "label": "45–54",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 141
+        "count": 142
       }
     ]
   },
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 8.1,
+    "currentMedianDaysHeld": 8.2,
     "currentLongestDaysHeld": 251.7
   },
   "bond": {
-    "withBond": 82,
-    "noBond": 204,
-    "medianBond": 2000,
+    "withBond": 84,
+    "noBond": 205,
+    "medianBond": 1875,
     "maxBond": 250000,
-    "totalBond": 644501
+    "totalBond": 646501
   },
   "chargesPerBooking": 1.6
 }
