@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T01:47:13",
+  "generatedAt": "2026-11-12T02:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1235,
@@ -173,13 +173,13 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 94,
-      "pct": 4.8
+      "count": 95,
+      "pct": 4.9
     },
     {
       "name": "DUI",
       "count": 79,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 102,
-      "pct": 8.3,
+      "count": 103,
+      "pct": 8.4,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 599,
+      "count": 600,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 579,
-      "pct": 34.7,
+      "pct": 34.6,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 472,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
