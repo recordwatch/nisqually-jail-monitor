@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-11T17:07:13",
+  "generatedAt": "2026-11-11T17:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1225,
-    "bookingsObserved": 961,
+    "bookingsTracked": 1226,
+    "bookingsObserved": 962,
     "releasesObserved": 937,
-    "inCustody": 288,
+    "inCustody": 289,
     "uniquePeople": 1130
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 8,
+      "booked": 9,
       "released": 3
     }
   ],
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 135,
-      "pct": 11.1,
+      "count": 136,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 71,
-      "pct": 5.9,
+      "pct": 5.8,
       "label": "FEDERAL WAY"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 781,
-      "pct": 65.7
+      "count": 782,
+      "pct": 65.8
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 962,
+      "count": 963,
       "pct": 79.3
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 428
+        "count": 429
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 251.7
   },
   "bond": {
-    "withBond": 84,
+    "withBond": 85,
     "noBond": 204,
-    "medianBond": 1875,
+    "medianBond": 1750,
     "maxBond": 250000,
-    "totalBond": 646501
+    "totalBond": 647001
   },
   "chargesPerBooking": 1.6
 }
