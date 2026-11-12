@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T09:47:15",
+  "generatedAt": "2026-11-12T10:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1239,
@@ -232,12 +232,12 @@
       "pct": 1.3
     },
     {
-      "name": "VIOLATION NO CONTACT ORDER",
-      "count": 24,
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 23,
       "pct": 1.2
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "VIOLATION NO CONTACT ORDER",
       "count": 23,
       "pct": 1.2
     },
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 603,
-      "pct": 36,
+      "count": 602,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
