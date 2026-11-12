@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T03:47:15",
+  "generatedAt": "2026-11-12T04:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1237,
-    "bookingsObserved": 973,
+    "bookingsTracked": 1238,
+    "bookingsObserved": 974,
     "releasesObserved": 938,
-    "inCustody": 299,
-    "uniquePeople": 1139
+    "inCustody": 300,
+    "uniquePeople": 1140
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 4,
+      "booked": 5,
       "released": 1
     }
   ],
@@ -169,11 +169,11 @@
     {
       "name": "THEFT III",
       "count": 173,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 95,
+      "count": 96,
       "pct": 4.9
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 75,
-      "pct": 6.1,
+      "count": 76,
+      "pct": 6.2,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 602,
+      "count": 603,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 473,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 788,
+      "count": 789,
       "pct": 65.7
     },
     {
@@ -433,7 +433,7 @@
     {
       "name": "I",
       "count": 15,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "P",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 972,
-      "pct": 79.3
+      "count": 973,
+      "pct": 79.4
     },
     {
       "name": "Female",
       "count": 253,
-      "pct": 20.7
+      "pct": 20.6
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 431
+        "count": 432
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 90,
-    "noBond": 209,
+    "noBond": 210,
     "medianBond": 1500,
     "maxBond": 250000,
     "totalBond": 656001
