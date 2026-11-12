@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T02:27:15",
+  "generatedAt": "2026-11-12T02:39:20",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1235,
-    "bookingsObserved": 971,
+    "bookingsTracked": 1236,
+    "bookingsObserved": 972,
     "releasesObserved": 938,
-    "inCustody": 297,
-    "uniquePeople": 1137
+    "inCustody": 298,
+    "uniquePeople": 1138
   },
   "bookingsByDay": [
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 79,
-      "pct": 4
+      "count": 80,
+      "pct": 4.1
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 556,
-      "pct": 45.5,
+      "pct": 45.4,
       "label": "WA DOC"
     },
     {
@@ -289,7 +289,7 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 73,
+      "count": 74,
       "pct": 6,
       "label": "FEDERAL WAY"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 600,
+      "count": 601,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 787,
-      "pct": 65.7
+      "pct": 65.6
     },
     {
       "name": "Black",
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 67,
-      "pct": 5.6
+      "count": 68,
+      "pct": 5.7
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 970,
+      "count": 971,
       "pct": 79.3
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 210
+        "count": 211
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 89,
-    "noBond": 208,
+    "noBond": 209,
     "medianBond": 1500,
     "maxBond": 250000,
     "totalBond": 654501
