@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:47:14",
+  "generatedAt": "2026-11-12T01:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1235,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 196,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 101,
+      "count": 102,
       "pct": 8.3,
       "label": "LAKEWOOD PD"
     },
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 69,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "TACOMA PD"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 252
   },
   "bond": {
-    "withBond": 89,
-    "noBond": 209,
+    "withBond": 90,
+    "noBond": 208,
     "medianBond": 1500,
     "maxBond": 250000,
-    "totalBond": 654501
+    "totalBond": 655501
   },
   "chargesPerBooking": 1.6
 }
