@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-11T18:47:14",
+  "generatedAt": "2026-11-11T19:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1228,
-    "bookingsObserved": 964,
+    "bookingsTracked": 1229,
+    "bookingsObserved": 965,
     "releasesObserved": 937,
-    "inCustody": 291,
+    "inCustody": 292,
     "uniquePeople": 1131
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 11,
+      "booked": 12,
       "released": 3
     }
   ],
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 195,
-      "pct": 16,
+      "count": 196,
+      "pct": 16.1,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 595,
+      "count": 596,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 468,
-      "pct": 28.2,
+      "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 783,
-      "pct": 65.7
+      "count": 784,
+      "pct": 65.8
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 964,
+      "count": 965,
       "pct": 79.3
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 429
+        "count": 430
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 87,
-    "noBond": 204,
+    "noBond": 205,
     "medianBond": 1500,
     "maxBond": 250000,
     "totalBond": 649001
