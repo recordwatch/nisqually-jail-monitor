@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T12:07:15",
+  "generatedAt": "2026-11-13T12:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1272,
-    "bookingsObserved": 1008,
-    "releasesObserved": 983,
-    "inCustody": 289,
-    "uniquePeople": 1164
+    "bookingsTracked": 1274,
+    "bookingsObserved": 1010,
+    "releasesObserved": 986,
+    "inCustody": 288,
+    "uniquePeople": 1166
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 11,
-      "released": 15
+      "booked": 12,
+      "released": 18
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 603,
+      "count": 604,
       "pct": 30.2
     },
     {
@@ -199,12 +199,12 @@
     {
       "name": "ASSAULT-4",
       "count": 49,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DWLS/DWLR III",
       "count": 41,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -214,12 +214,12 @@
     {
       "name": "THEFT",
       "count": 35,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 33,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "HARASSMENT",
@@ -229,7 +229,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 25,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "VIOLATION NO CONTACT ORDER",
@@ -239,7 +239,7 @@
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 23,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -249,23 +249,23 @@
     {
       "name": "SIMPLE ASSAULT-DV",
       "count": 21,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "MALICIOUS MISCHIEF",
       "count": 19,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "DISORDERLY CONDUCT",
       "count": 19,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 576,
+      "count": 577,
       "pct": 45.8,
       "label": "WA DOC"
     },
@@ -290,7 +290,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 80,
-      "pct": 6.4,
+      "pct": 6.3,
       "label": "FEDERAL WAY"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 599,
+      "count": 600,
       "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 481,
-      "pct": 28,
+      "count": 482,
+      "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 813,
-      "pct": 65.8
+      "count": 815,
+      "pct": 65.9
     },
     {
       "name": "Black",
       "count": 233,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1000,
+      "count": 1002,
       "pct": 79.4
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 441
+        "count": 443
       },
       {
         "label": "45–54",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 873,
+    "observed": 876,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 877,
+    "releasedCount": 880,
     "medianDays": 3.2,
     "meanDays": 10.4,
     "buckets": [
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 280
+        "count": 281
       },
       {
         "label": "3–7 days",
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 311
+        "count": 313
       },
       {
         "label": "1–3 months",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 253.5
   },
   "bond": {
-    "withBond": 81,
-    "noBond": 208,
+    "withBond": 82,
+    "noBond": 206,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 480601
+    "totalBond": 481601
   },
   "chargesPerBooking": 1.6
 }
