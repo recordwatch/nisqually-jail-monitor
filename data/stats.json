@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:47:15",
+  "generatedAt": "2026-11-13T09:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1266,
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 75,
+      "count": 76,
       "pct": 3.8
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 206,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 468101
+    "totalBond": 469101
   },
   "chargesPerBooking": 1.6
 }
