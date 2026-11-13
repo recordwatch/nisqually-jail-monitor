@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T23:27:19",
+  "generatedAt": "2026-11-12T23:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1260,
-    "bookingsObserved": 996,
+    "bookingsTracked": 1261,
+    "bookingsObserved": 997,
     "releasesObserved": 968,
-    "inCustody": 292,
-    "uniquePeople": 1154
+    "inCustody": 293,
+    "uniquePeople": 1155
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 27,
+      "booked": 28,
       "released": 31
     }
   ],
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 103,
+      "count": 104,
       "pct": 8.3,
       "label": "LAKEWOOD PD"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 477,
-      "pct": 28,
+      "count": 478,
+      "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
@@ -432,8 +432,8 @@
     },
     {
       "name": "I",
-      "count": 15,
-      "pct": 1.2
+      "count": 16,
+      "pct": 1.3
     },
     {
       "name": "P",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 992,
+      "count": 993,
       "pct": 79.5
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 95
+        "count": 96
       },
       {
         "label": "25–34",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 253
   },
   "bond": {
-    "withBond": 80,
+    "withBond": 81,
     "noBond": 212,
-    "medianBond": 1625,
+    "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 479601
+    "totalBond": 480601
   },
   "chargesPerBooking": 1.6
 }
