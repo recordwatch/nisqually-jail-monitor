@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T22:07:13",
+  "generatedAt": "2026-11-12T22:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1259,
-    "bookingsObserved": 995,
+    "bookingsTracked": 1260,
+    "bookingsObserved": 996,
     "releasesObserved": 968,
-    "inCustody": 291,
-    "uniquePeople": 1153
+    "inCustody": 292,
+    "uniquePeople": 1154
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 26,
+      "booked": 27,
       "released": 31
     }
   ],
@@ -207,14 +207,14 @@
       "pct": 2.1
     },
     {
-      "name": "CRIMINAL TRESPASS-1",
+      "name": "THEFT",
       "count": 35,
       "pct": 1.8
     },
     {
-      "name": "THEFT",
-      "count": 34,
-      "pct": 1.7
+      "name": "CRIMINAL TRESPASS-1",
+      "count": 35,
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 139,
-      "pct": 11.1,
+      "count": 140,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 476,
+      "count": 477,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 804,
+      "count": 805,
       "pct": 65.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 991,
+      "count": 992,
       "pct": 79.5
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 217
+        "count": 218
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 252.9
   },
   "bond": {
-    "withBond": 79,
+    "withBond": 80,
     "noBond": 212,
-    "medianBond": 1750,
+    "medianBond": 1625,
     "maxBond": 60000,
-    "totalBond": 478601
+    "totalBond": 479601
   },
   "chargesPerBooking": 1.6
 }
