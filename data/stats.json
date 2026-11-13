@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T18:07:14",
+  "generatedAt": "2026-11-12T18:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1253,
@@ -218,7 +218,7 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 31,
+      "count": 32,
       "pct": 1.6
     },
     {
@@ -257,9 +257,9 @@
       "pct": 1
     },
     {
-      "name": "ASSAULT 4",
-      "count": 18,
-      "pct": 0.9
+      "name": "DISORDERLY CONDUCT",
+      "count": 19,
+      "pct": 1
     }
   ],
   "topAgencies": [
@@ -364,12 +364,12 @@
     {
       "name": "F",
       "count": 592,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 473,
+      "count": 475,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 252.8
   },
   "bond": {
-    "withBond": 91,
-    "noBond": 209,
-    "medianBond": 1750,
+    "withBond": 92,
+    "noBond": 208,
+    "medianBond": 1875,
     "maxBond": 60000,
-    "totalBond": 440501
+    "totalBond": 514501
   },
   "chargesPerBooking": 1.6
 }
