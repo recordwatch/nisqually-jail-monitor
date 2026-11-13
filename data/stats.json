@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T12:27:14",
+  "generatedAt": "2026-11-13T12:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1274,
-    "bookingsObserved": 1010,
+    "bookingsTracked": 1276,
+    "bookingsObserved": 1012,
     "releasesObserved": 986,
-    "inCustody": 288,
-    "uniquePeople": 1166
+    "inCustody": 290,
+    "uniquePeople": 1167
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 12,
+      "booked": 13,
       "released": 18
     }
   ],
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 76,
+      "count": 77,
       "pct": 3.8
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "SHELTON PD",
-      "count": 6,
-      "pct": 0.5,
+      "count": 7,
+      "pct": 0.6,
       "label": "SHELTON PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 614,
+      "count": 615,
       "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 815,
+      "count": 817,
       "pct": 65.9
     },
     {
@@ -418,7 +418,7 @@
     {
       "name": "Unknown",
       "count": 70,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "Asian",
@@ -438,18 +438,18 @@
     {
       "name": "P",
       "count": 13,
-      "pct": 1.1
+      "pct": 1
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 1002,
+      "count": 1003,
       "pct": 79.4
     },
     {
       "name": "Female",
-      "count": 260,
+      "count": 261,
       "pct": 20.6
     }
   ],
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 365
+        "count": 367
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 253.5
   },
   "bond": {
-    "withBond": 82,
-    "noBond": 206,
+    "withBond": 83,
+    "noBond": 207,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 481601
+    "totalBond": 482101
   },
   "chargesPerBooking": 1.6
 }
