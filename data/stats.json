@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T20:27:13",
+  "generatedAt": "2026-11-12T20:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1256,
-    "bookingsObserved": 992,
+    "bookingsTracked": 1258,
+    "bookingsObserved": 994,
     "releasesObserved": 960,
-    "inCustody": 296,
-    "uniquePeople": 1152
+    "inCustody": 298,
+    "uniquePeople": 1153
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 23,
+      "booked": 25,
       "released": 23
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 599,
+      "count": 600,
       "pct": 30.3
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 96,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "DUI",
@@ -213,7 +213,7 @@
     },
     {
       "name": "THEFT",
-      "count": 33,
+      "count": 34,
       "pct": 1.7
     },
     {
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 572,
+      "count": 573,
       "pct": 46,
       "label": "WA DOC"
     },
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 138,
-      "pct": 11.1,
+      "count": 139,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 28,
-      "pct": 2.3,
+      "pct": 2.2,
       "label": "TUMWATER PD"
     },
     {
@@ -363,13 +363,13 @@
     },
     {
       "name": "F",
-      "count": 595,
+      "count": 596,
       "pct": 35.1,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 475,
+      "count": 476,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 802,
+      "count": 804,
       "pct": 65.8
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 988,
-      "pct": 79.4
+      "count": 990,
+      "pct": 79.5
     },
     {
       "name": "Female",
       "count": 256,
-      "pct": 20.6
+      "pct": 20.5
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 435
+        "count": 436
       },
       {
         "label": "45–54",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 147
+        "count": 148
       }
     ]
   },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 252.9
   },
   "bond": {
-    "withBond": 84,
-    "noBond": 212,
-    "medianBond": 1625,
+    "withBond": 85,
+    "noBond": 213,
+    "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 495501
+    "totalBond": 496501
   },
   "chargesPerBooking": 1.6
 }
