@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T10:27:13",
+  "generatedAt": "2026-11-13T10:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1267,
-    "bookingsObserved": 1003,
+    "bookingsTracked": 1268,
+    "bookingsObserved": 1004,
     "releasesObserved": 983,
-    "inCustody": 284,
-    "uniquePeople": 1160
+    "inCustody": 285,
+    "uniquePeople": 1161
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 5,
+      "booked": 6,
       "released": 15
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 99,
+      "count": 100,
       "pct": 5
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 575,
-      "pct": 45.9,
+      "pct": 45.8,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 78,
-      "pct": 6.2,
+      "count": 79,
+      "pct": 6.3,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 610,
+      "count": 611,
       "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 809,
+      "count": 810,
       "pct": 65.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 996,
+      "count": 997,
       "pct": 79.4
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 363
+        "count": 364
       },
       {
         "label": "35–44",
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 9.6,
+    "currentMedianDaysHeld": 9.3,
     "currentLongestDaysHeld": 253.4
   },
   "bond": {
-    "withBond": 77,
+    "withBond": 78,
     "noBond": 207,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 468101
+    "totalBond": 470101
   },
   "chargesPerBooking": 1.6
 }
