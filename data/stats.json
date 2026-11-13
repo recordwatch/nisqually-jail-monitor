@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:47:14",
+  "generatedAt": "2026-11-13T04:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1265,
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 97,
+      "count": 98,
       "pct": 4.9
     },
     {
@@ -289,7 +289,7 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 77,
+      "count": 78,
       "pct": 6.2,
       "label": "FEDERAL WAY"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 608,
+      "count": 609,
       "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
