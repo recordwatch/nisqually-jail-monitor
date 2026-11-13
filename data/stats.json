@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T13:47:13",
+  "generatedAt": "2026-11-13T14:07:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1280,
-    "bookingsObserved": 1016,
+    "bookingsTracked": 1282,
+    "bookingsObserved": 1018,
     "releasesObserved": 986,
-    "inCustody": 294,
-    "uniquePeople": 1171
+    "inCustody": 296,
+    "uniquePeople": 1172
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 18,
+      "booked": 21,
       "released": 18
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 608,
-      "pct": 30.3
+      "count": 612,
+      "pct": 30.4
     },
     {
       "name": "THEFT III",
       "count": 176,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "ASSAULT IV -DV",
@@ -208,7 +208,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 36,
+      "count": 37,
       "pct": 1.8
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 581,
-      "pct": 45.9,
+      "count": 585,
+      "pct": 46.1,
       "label": "WA DOC"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 69,
-      "pct": 5.5,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 615,
+      "count": 617,
       "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 604,
-      "pct": 35.1,
+      "count": 608,
+      "pct": 35.2,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 482,
-      "pct": 28,
+      "pct": 27.9,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 819,
+      "count": 821,
       "pct": 65.9
     },
     {
@@ -444,12 +444,12 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1007,
+      "count": 1008,
       "pct": 79.4
     },
     {
       "name": "Female",
-      "count": 261,
+      "count": 262,
       "pct": 20.6
     }
   ],
@@ -466,11 +466,11 @@
       },
       {
         "label": "35–44",
-        "count": 444
+        "count": 445
       },
       {
         "label": "45–54",
-        "count": 222
+        "count": 223
       },
       {
         "label": "55+",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 83,
-    "noBond": 211,
+    "noBond": 213,
     "medianBond": 1500,
     "maxBond": 60000,
     "totalBond": 481601
