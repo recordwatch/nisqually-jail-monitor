@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T20:07:13",
+  "generatedAt": "2026-11-12T20:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1253,
-    "bookingsObserved": 989,
+    "bookingsTracked": 1256,
+    "bookingsObserved": 992,
     "releasesObserved": 960,
-    "inCustody": 293,
-    "uniquePeople": 1149
+    "inCustody": 296,
+    "uniquePeople": 1152
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 20,
+      "booked": 23,
       "released": 23
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 596,
-      "pct": 30.2
+      "count": 599,
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
       "count": 175,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 80,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 569,
-      "pct": 45.9,
+      "count": 572,
+      "pct": 46,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 197,
-      "pct": 15.9,
+      "pct": 15.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 69,
-      "pct": 5.6,
+      "pct": 5.5,
       "label": "TACOMA PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 606,
-      "pct": 35.8,
+      "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 592,
-      "pct": 34.9,
+      "count": 595,
+      "pct": 35.1,
       "label": "Felony"
     },
     {
@@ -407,18 +407,18 @@
   "race": [
     {
       "name": "White",
-      "count": 800,
+      "count": 802,
       "pct": 65.8
     },
     {
       "name": "Black",
       "count": 231,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "Unknown",
-      "count": 68,
-      "pct": 5.6
+      "count": 69,
+      "pct": 5.7
     },
     {
       "name": "Asian",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 987,
-      "pct": 79.5
+      "count": 988,
+      "pct": 79.4
     },
     {
       "name": "Female",
-      "count": 254,
-      "pct": 20.5
+      "count": 256,
+      "pct": 20.6
     }
   ],
   "ages": {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 361
+        "count": 363
       },
       {
         "label": "35–44",
-        "count": 434
+        "count": 435
       },
       {
         "label": "45–54",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 9.1,
-    "currentLongestDaysHeld": 252.8
+    "currentLongestDaysHeld": 252.9
   },
   "bond": {
     "withBond": 84,
-    "noBond": 209,
+    "noBond": 212,
     "medianBond": 1625,
     "maxBond": 60000,
     "totalBond": 495501
