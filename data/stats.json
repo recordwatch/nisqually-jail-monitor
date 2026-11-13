@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T13:27:13",
+  "generatedAt": "2026-11-13T13:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1279,
-    "bookingsObserved": 1015,
+    "bookingsTracked": 1280,
+    "bookingsObserved": 1016,
     "releasesObserved": 986,
-    "inCustody": 293,
-    "uniquePeople": 1170
+    "inCustody": 294,
+    "uniquePeople": 1171
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 17,
+      "booked": 18,
       "released": 18
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 606,
-      "pct": 30.2
+      "count": 608,
+      "pct": 30.3
     },
     {
       "name": "THEFT III",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 579,
-      "pct": 45.8,
+      "count": 581,
+      "pct": 45.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 199,
-      "pct": 15.8,
+      "pct": 15.7,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 141,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 615,
-      "pct": 35.8,
+      "pct": 35.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 602,
-      "pct": 35,
+      "count": 604,
+      "pct": 35.1,
       "label": "Felony"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 818,
+      "count": 819,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1006,
+      "count": 1007,
       "pct": 79.4
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 148
+        "count": 149
       }
     ]
   },
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 83,
-    "noBond": 210,
+    "noBond": 211,
     "medianBond": 1500,
     "maxBond": 60000,
     "totalBond": 481601
