@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:47:15",
+  "generatedAt": "2026-11-13T13:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1276,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 13,
+      "booked": 15,
       "released": 18
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 604,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
@@ -521,7 +521,7 @@
     "noBond": 207,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 482101
+    "totalBond": 481601
   },
   "chargesPerBooking": 1.6
 }
