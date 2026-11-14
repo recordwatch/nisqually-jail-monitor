@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T00:47:13",
+  "generatedAt": "2026-11-14T01:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1293,
-    "bookingsObserved": 1029,
+    "bookingsTracked": 1294,
+    "bookingsObserved": 1030,
     "releasesObserved": 1009,
-    "inCustody": 284,
-    "uniquePeople": 1183
+    "inCustody": 285,
+    "uniquePeople": 1184
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 614,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "THEFT III",
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 101,
+      "count": 102,
       "pct": 5
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 56,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 107,
+      "count": 108,
       "pct": 8.4,
       "label": "LAKEWOOD PD"
     },
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 625,
-      "pct": 35.8,
+      "count": 626,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 610,
-      "pct": 35,
+      "pct": 34.9,
       "label": "Felony"
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1017,
+      "count": 1018,
       "pct": 79.4
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 99
+        "count": 100
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 76,
-    "noBond": 208,
+    "noBond": 209,
     "medianBond": 1625,
     "maxBond": 60000,
     "totalBond": 478551
