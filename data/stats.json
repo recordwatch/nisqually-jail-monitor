@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T11:47:14",
+  "generatedAt": "2026-11-14T12:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1304,
-    "bookingsObserved": 1040,
+    "bookingsTracked": 1305,
+    "bookingsObserved": 1041,
     "releasesObserved": 1012,
-    "inCustody": 292,
-    "uniquePeople": 1192
+    "inCustody": 293,
+    "uniquePeople": 1193
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 13,
+      "booked": 14,
       "released": 3
     }
   ],
@@ -204,7 +204,7 @@
     {
       "name": "DWLS/DWLR III",
       "count": 42,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -227,17 +227,17 @@
       "pct": 1.4
     },
     {
+      "name": "VIOLATION NO CONTACT ORDER",
+      "count": 25,
+      "pct": 1.2
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 25,
       "pct": 1.2
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 24,
-      "pct": 1.2
-    },
-    {
-      "name": "VIOLATION NO CONTACT ORDER",
       "count": 24,
       "pct": 1.2
     },
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 110,
-      "pct": 8.5,
+      "count": 111,
+      "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 632,
+      "count": 633,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 835,
+      "count": 836,
       "pct": 66.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1025,
+      "count": 1026,
       "pct": 79.4
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 226
+        "count": 227
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 254.5
   },
   "bond": {
-    "withBond": 80,
+    "withBond": 81,
     "noBond": 212,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 482551
+    "totalBond": 487551
   },
   "chargesPerBooking": 1.6
 }
