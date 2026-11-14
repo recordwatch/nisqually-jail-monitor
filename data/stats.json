@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T07:27:12",
+  "generatedAt": "2026-11-14T07:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1301,
     "bookingsObserved": 1037,
-    "releasesObserved": 1010,
-    "inCustody": 291,
+    "releasesObserved": 1011,
+    "inCustody": 290,
     "uniquePeople": 1190
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-14",
       "booked": 10,
-      "released": 1
+      "released": 2
     }
   ],
   "topCharges": [
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 83,
+      "count": 84,
       "pct": 4.1
     },
     {
@@ -266,12 +266,12 @@
     {
       "name": "WA DOC",
       "count": 587,
-      "pct": 45.6,
+      "pct": 45.5,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 202,
+      "count": 203,
       "pct": 15.7,
       "label": "OLYMPIA PD"
     },
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 629,
+      "count": 630,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 611,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
@@ -479,18 +479,18 @@
     ]
   },
   "releaseSources": {
-    "observed": 900,
+    "observed": 901,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 904,
+    "releasedCount": 905,
     "medianDays": 3.3,
     "meanDays": 10.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 153
+        "count": 154
       },
       {
         "label": "1–3 days",
@@ -513,12 +513,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 9.5,
+    "currentMedianDaysHeld": 9.6,
     "currentLongestDaysHeld": 254.3
   },
   "bond": {
     "withBond": 79,
-    "noBond": 212,
+    "noBond": 211,
     "medianBond": 1500,
     "maxBond": 60000,
     "totalBond": 481551
