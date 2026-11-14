@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T16:27:20",
+  "generatedAt": "2026-11-13T16:47:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1284,
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 80,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -193,7 +193,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 50,
+      "count": 51,
       "pct": 2.5
     },
     {
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 41,
-      "pct": 2
+      "count": 42,
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -247,13 +247,13 @@
       "pct": 1.1
     },
     {
-      "name": "SIMPLE ASSAULT-DV",
+      "name": "DISORDERLY CONDUCT",
       "count": 21,
       "pct": 1
     },
     {
-      "name": "DISORDERLY CONDUCT",
-      "count": 20,
+      "name": "SIMPLE ASSAULT-DV",
+      "count": 21,
       "pct": 1
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 199,
-      "pct": 15.7,
+      "pct": 15.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 29,
-      "pct": 2.3,
+      "count": 30,
+      "pct": 2.4,
       "label": "TUMWATER PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 623,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 609,
-      "pct": 35.1,
+      "pct": 35,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 483,
-      "pct": 27.8,
+      "count": 486,
+      "pct": 27.9,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 253.7
   },
   "bond": {
-    "withBond": 76,
-    "noBond": 213,
-    "medianBond": 1875,
+    "withBond": 77,
+    "noBond": 212,
+    "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 472051
+    "totalBond": 474051
   },
   "chargesPerBooking": 1.6
 }
