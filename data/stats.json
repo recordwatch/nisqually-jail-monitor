@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T03:07:12",
+  "generatedAt": "2026-11-14T03:27:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1296,
-    "bookingsObserved": 1032,
+    "bookingsTracked": 1297,
+    "bookingsObserved": 1033,
     "releasesObserved": 1009,
-    "inCustody": 287,
-    "uniquePeople": 1185
+    "inCustody": 288,
+    "uniquePeople": 1186
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 5,
+      "booked": 6,
       "released": 0
     }
   ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 81,
+      "count": 82,
       "pct": 4
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 108,
-      "pct": 8.4,
+      "count": 109,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 626,
+      "count": 627,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 830,
-      "pct": 66
+      "pct": 65.9
     },
     {
       "name": "Black",
-      "count": 238,
-      "pct": 18.9
+      "count": 239,
+      "pct": 19
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1018,
+      "count": 1019,
       "pct": 79.3
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 451
+        "count": 452
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 254.1
   },
   "bond": {
-    "withBond": 76,
+    "withBond": 77,
     "noBond": 211,
-    "medianBond": 1625,
+    "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 478551
+    "totalBond": 479551
   },
   "chargesPerBooking": 1.6
 }
