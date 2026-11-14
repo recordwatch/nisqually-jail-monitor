@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-13T23:50:04",
+  "generatedAt": "2026-11-14T00:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1291,
-    "bookingsObserved": 1027,
+    "bookingsTracked": 1292,
+    "bookingsObserved": 1028,
     "releasesObserved": 1009,
-    "inCustody": 282,
-    "uniquePeople": 1181
+    "inCustody": 283,
+    "uniquePeople": 1182
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-15",
-      "booked": 30,
-      "released": 30
-    },
     {
       "date": "2026-10-16",
       "booked": 17,
@@ -158,6 +153,11 @@
       "date": "2026-11-13",
       "booked": 30,
       "released": 41
+    },
+    {
+      "date": "2026-11-14",
+      "booked": 1,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 180,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 199,
-      "pct": 15.6,
+      "pct": 15.5,
       "label": "OLYMPIA PD"
     },
     {
@@ -289,14 +289,14 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 80,
+      "count": 81,
       "pct": 6.3,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 71,
-      "pct": 5.6,
+      "pct": 5.5,
       "label": "TACOMA PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 488,
+      "count": 489,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 237,
-      "pct": 18.9
+      "count": 238,
+      "pct": 19
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1015,
+      "count": 1016,
       "pct": 79.4
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 448
+        "count": 449
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 254
   },
   "bond": {
-    "withBond": 74,
+    "withBond": 75,
     "noBond": 208,
-    "medianBond": 1875,
+    "medianBond": 1750,
     "maxBond": 60000,
-    "totalBond": 476551
+    "totalBond": 477551
   },
   "chargesPerBooking": 1.6
 }
