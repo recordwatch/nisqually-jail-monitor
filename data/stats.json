@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:27:19",
+  "generatedAt": "2026-11-14T03:47:11",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1297,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 614,
+      "count": 615,
       "pct": 30.1
     },
     {
@@ -194,7 +194,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 52,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "ASSAULT-4",
@@ -213,8 +213,8 @@
     },
     {
       "name": "THEFT",
-      "count": 35,
-      "pct": 1.7
+      "count": 36,
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -237,13 +237,13 @@
       "pct": 1.2
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "ASSAULT 4TH DV",
       "count": 23,
       "pct": 1.1
     },
     {
-      "name": "ASSAULT 4TH DV",
-      "count": 22,
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 23,
       "pct": 1.1
     },
     {
@@ -266,18 +266,18 @@
     {
       "name": "WA DOC",
       "count": 587,
-      "pct": 45.8,
+      "pct": 45.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 200,
+      "count": 201,
       "pct": 15.6,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 142,
+      "count": 143,
       "pct": 11.1,
       "label": "LACEY PD"
     },
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 627,
-      "pct": 35.9,
+      "pct": 35.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 610,
+      "count": 611,
       "pct": 34.9,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 489,
-      "pct": 28,
+      "count": 491,
+      "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 9.5,
-    "currentLongestDaysHeld": 254.1
+    "currentLongestDaysHeld": 254.2
   },
   "bond": {
-    "withBond": 77,
-    "noBond": 211,
+    "withBond": 78,
+    "noBond": 210,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 479551
+    "totalBond": 480551
   },
   "chargesPerBooking": 1.6
 }
