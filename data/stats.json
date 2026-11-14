@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:47:12",
+  "generatedAt": "2026-11-13T23:50:04",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1291,
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 77,
+      "count": 78,
       "pct": 3.8
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 70,
-      "pct": 5.5,
+      "count": 71,
+      "pct": 5.6,
       "label": "TACOMA PD"
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 369
+        "count": 368
       },
       {
         "label": "35–44",
-        "count": 447
+        "count": 448
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 254
   },
   "bond": {
-    "withBond": 73,
-    "noBond": 209,
-    "medianBond": 2000,
+    "withBond": 74,
+    "noBond": 208,
+    "medianBond": 1875,
     "maxBond": 60000,
-    "totalBond": 476301
+    "totalBond": 476551
   },
   "chargesPerBooking": 1.6
 }
