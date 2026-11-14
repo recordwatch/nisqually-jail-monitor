@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T20:47:13",
+  "generatedAt": "2026-11-13T21:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1287,
-    "bookingsObserved": 1023,
+    "bookingsTracked": 1288,
+    "bookingsObserved": 1024,
     "releasesObserved": 1009,
-    "inCustody": 278,
-    "uniquePeople": 1177
+    "inCustody": 279,
+    "uniquePeople": 1178
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 26,
+      "booked": 27,
       "released": 41
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 614,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "THEFT III",
@@ -193,8 +193,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 51,
-      "pct": 2.5
+      "count": 52,
+      "pct": 2.6
     },
     {
       "name": "ASSAULT-4",
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 105,
-      "pct": 8.2,
+      "count": 106,
+      "pct": 8.3,
       "label": "LAKEWOOD PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 486,
-      "pct": 27.9,
+      "count": 487,
+      "pct": 28,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 826,
-      "pct": 66.1
+      "pct": 66
     },
     {
       "name": "Black",
-      "count": 235,
-      "pct": 18.8
+      "count": 236,
+      "pct": 18.9
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1011,
+      "count": 1012,
       "pct": 79.3
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 445
+        "count": 446
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 72,
-    "noBond": 206,
+    "noBond": 207,
     "medianBond": 1875,
     "maxBond": 60000,
     "totalBond": 456301
