@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T00:47:18",
+  "generatedAt": "2026-11-15T01:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1311,
-    "bookingsObserved": 1047,
+    "bookingsTracked": 1312,
+    "bookingsObserved": 1048,
     "releasesObserved": 1013,
-    "inCustody": 298,
-    "uniquePeople": 1199
+    "inCustody": 299,
+    "uniquePeople": 1200
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 617,
+      "count": 618,
       "pct": 30
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "THEFT",
       "count": 36,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 589,
-      "pct": 45.3,
+      "count": 590,
+      "pct": 45.4,
       "label": "WA DOC"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 613,
-      "pct": 34.7,
+      "count": 614,
+      "pct": 34.8,
       "label": "Felony"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 841,
+      "count": 842,
       "pct": 66.2
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 267,
+      "count": 268,
       "pct": 20.6
     }
   ],
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 228
+        "count": 229
       },
       {
         "label": "55+",
@@ -513,12 +513,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 9.8,
+    "currentMedianDaysHeld": 9.9,
     "currentLongestDaysHeld": 255
   },
   "bond": {
     "withBond": 84,
-    "noBond": 214,
+    "noBond": 215,
     "medianBond": 1500,
     "maxBond": 60000,
     "totalBond": 494551
