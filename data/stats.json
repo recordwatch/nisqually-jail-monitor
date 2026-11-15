@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T04:07:18",
+  "generatedAt": "2026-11-15T04:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1316,
-    "bookingsObserved": 1052,
-    "releasesObserved": 1016,
+    "bookingsTracked": 1317,
+    "bookingsObserved": 1053,
+    "releasesObserved": 1017,
     "inCustody": 300,
-    "uniquePeople": 1204
+    "uniquePeople": 1205
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 5,
-      "released": 3
+      "booked": 6,
+      "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 618,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "THEFT III",
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 107,
+      "count": 108,
       "pct": 5.2
     },
     {
@@ -289,7 +289,7 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 83,
+      "count": 84,
       "pct": 6.4,
       "label": "FEDERAL WAY"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 639,
+      "count": 640,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 497,
-      "pct": 28.1,
+      "pct": 28,
       "label": "Misdemeanor"
     },
     {
@@ -422,8 +422,8 @@
     },
     {
       "name": "Asian",
-      "count": 47,
-      "pct": 3.7
+      "count": 48,
+      "pct": 3.8
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1034,
+      "count": 1035,
       "pct": 79.4
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 374
+        "count": 375
       },
       {
         "label": "35–44",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 906,
+    "observed": 907,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 910,
+    "releasedCount": 911,
     "medianDays": 3.3,
     "meanDays": 10.3,
     "buckets": [
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 327
+        "count": 328
       },
       {
         "label": "1–3 months",
