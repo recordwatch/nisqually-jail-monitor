@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:47:18",
+  "generatedAt": "2026-11-15T13:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1321,
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 181,
-      "pct": 8.7
+      "count": 182,
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 32,
-      "pct": 2.4,
+      "count": 33,
+      "pct": 2.5,
       "label": "TUMWATER PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 643,
-      "pct": 36.1,
+      "count": 644,
+      "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
     {
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 10,
+    "currentMedianDaysHeld": 10.1,
     "currentLongestDaysHeld": 255.5
   },
   "bond": {
-    "withBond": 87,
-    "noBond": 213,
+    "withBond": 88,
+    "noBond": 212,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 539251
+    "totalBond": 541251
   },
   "chargesPerBooking": 1.6
 }
