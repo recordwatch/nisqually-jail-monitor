@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T10:27:14",
+  "generatedAt": "2026-11-15T10:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1318,
-    "bookingsObserved": 1054,
-    "releasesObserved": 1018,
+    "bookingsTracked": 1319,
+    "bookingsObserved": 1055,
+    "releasesObserved": 1019,
     "inCustody": 300,
-    "uniquePeople": 1206
+    "uniquePeople": 1207
   },
   "bookingsByDay": [
     {
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-15",
       "booked": 7,
-      "released": 5
+      "released": 6
     }
   ],
   "topCharges": [
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 181,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "ASSAULT IV -DV",
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 42,
-      "pct": 2
+      "count": 43,
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 590,
-      "pct": 45.2,
+      "pct": 45.1,
       "label": "WA DOC"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 32,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "TUMWATER PD"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "SHELTON PD",
-      "count": 7,
-      "pct": 0.5,
+      "count": 8,
+      "pct": 0.6,
       "label": "SHELTON PD"
     },
     {
@@ -357,25 +357,25 @@
   "levels": [
     {
       "name": "GM",
-      "count": 640,
+      "count": 641,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 614,
-      "pct": 34.6,
+      "pct": 34.5,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 498,
+      "count": 500,
       "pct": 28.1,
       "label": "Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 10,
+      "count": 11,
       "pct": 0.6,
       "label": "FC"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 845,
+      "count": 846,
       "pct": 66.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1035,
+      "count": 1036,
       "pct": 79.3
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 375
+        "count": 376
       },
       {
         "label": "35–44",
@@ -479,13 +479,13 @@
     ]
   },
   "releaseSources": {
-    "observed": 908,
+    "observed": 909,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 912,
-    "medianDays": 3.2,
+    "releasedCount": 913,
+    "medianDays": 3.3,
     "meanDays": 10.3,
     "buckets": [
       {
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 82
+        "count": 83
       },
       {
         "label": "1–4 weeks",
@@ -513,15 +513,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 9.9,
+    "currentMedianDaysHeld": 10,
     "currentLongestDaysHeld": 255.4
   },
   "bond": {
-    "withBond": 86,
-    "noBond": 214,
+    "withBond": 87,
+    "noBond": 213,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 497051
+    "totalBond": 539251
   },
   "chargesPerBooking": 1.6
 }
