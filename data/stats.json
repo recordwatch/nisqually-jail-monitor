@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:27:17",
+  "generatedAt": "2026-11-15T19:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1328,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 618,
+      "count": 619,
       "pct": 29.6
     },
     {
       "name": "THEFT III",
-      "count": 186,
-      "pct": 8.9
+      "count": 188,
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 592,
-      "pct": 45,
+      "count": 591,
+      "pct": 44.9,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 145,
-      "pct": 11,
+      "count": 146,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 653,
+      "count": 655,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 614,
+      "count": 615,
       "pct": 34.2,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 504,
+      "count": 505,
       "pct": 28.1,
       "label": "Misdemeanor"
     },
@@ -513,7 +513,7 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 10.1,
+    "currentMedianDaysHeld": 10.2,
     "currentLongestDaysHeld": 255.8
   },
   "bond": {
@@ -521,7 +521,7 @@
     "noBond": 207,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 549251
+    "totalBond": 554751
   },
   "chargesPerBooking": 1.6
 }
