@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T12:47:13",
+  "generatedAt": "2026-11-16T13:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1346,
-    "bookingsObserved": 1082,
-    "releasesObserved": 1046,
+    "bookingsTracked": 1347,
+    "bookingsObserved": 1083,
+    "releasesObserved": 1047,
     "inCustody": 300,
     "uniquePeople": 1229
   },
@@ -157,13 +157,13 @@
     {
       "date": "2026-11-16",
       "booked": 15,
-      "released": 22
+      "released": 23
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 622,
+      "count": 623,
       "pct": 29.3
     },
     {
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 595,
+      "count": 596,
       "pct": 44.7,
       "label": "WA DOC"
     },
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 618,
+      "count": 619,
       "pct": 33.9,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 510,
-      "pct": 28,
+      "pct": 27.9,
       "label": "Misdemeanor"
     },
     {
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 243,
-      "pct": 18.6
+      "count": 244,
+      "pct": 18.7
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1053,
+      "count": 1054,
       "pct": 79
     },
     {
@@ -474,17 +474,17 @@
       },
       {
         "label": "55+",
-        "count": 152
+        "count": 153
       }
     ]
   },
   "releaseSources": {
-    "observed": 936,
+    "observed": 937,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 940,
+    "releasedCount": 941,
     "medianDays": 3.4,
     "meanDays": 10.7,
     "buckets": [
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 83
+        "count": 84
       },
       {
         "label": "1–4 weeks",
@@ -513,7 +513,7 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 10.2,
+    "currentMedianDaysHeld": 10.5,
     "currentLongestDaysHeld": 228.5
   },
   "bond": {
