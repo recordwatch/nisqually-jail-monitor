@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:27:12",
+  "generatedAt": "2026-11-15T23:51:28",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1331,
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 188,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -213,8 +213,8 @@
     },
     {
       "name": "THEFT",
-      "count": 36,
-      "pct": 1.7
+      "count": 37,
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -277,7 +277,7 @@
     },
     {
       "name": "LACEY PD",
-      "count": 146,
+      "count": 147,
       "pct": 11.1,
       "label": "LACEY PD"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 505,
+      "count": 506,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 256
   },
   "bond": {
-    "withBond": 93,
-    "noBond": 207,
+    "withBond": 94,
+    "noBond": 206,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 558251
+    "totalBond": 559251
   },
   "chargesPerBooking": 1.6
 }
