@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T00:07:14",
+  "generatedAt": "2026-11-16T00:27:21",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1331,
-    "bookingsObserved": 1067,
-    "releasesObserved": 1031,
+    "bookingsTracked": 1332,
+    "bookingsObserved": 1068,
+    "releasesObserved": 1032,
     "inCustody": 300,
-    "uniquePeople": 1215
+    "uniquePeople": 1216
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 0,
-      "released": 0
+      "booked": 1,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "THEFT III",
-      "count": 188,
-      "pct": 8.9
+      "count": 189,
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 147,
-      "pct": 11.1,
+      "count": 148,
+      "pct": 11.2,
       "label": "LACEY PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 661,
+      "count": 662,
       "pct": 36.6,
       "label": "Gross Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 855,
-      "pct": 66.2
+      "count": 856,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1042,
+      "count": 1043,
       "pct": 79.1
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 462
+        "count": 463
       },
       {
         "label": "45–54",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 921,
+    "observed": 922,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 925,
+    "releasedCount": 926,
     "medianDays": 3.3,
     "meanDays": 10.4,
     "buckets": [
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 335
+        "count": 336
       },
       {
         "label": "1–3 months",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 256
   },
   "bond": {
-    "withBond": 94,
-    "noBond": 206,
+    "withBond": 95,
+    "noBond": 205,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 559251
+    "totalBond": 560251
   },
   "chargesPerBooking": 1.6
 }
