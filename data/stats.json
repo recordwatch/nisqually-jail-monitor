@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T17:07:15",
+  "generatedAt": "2026-11-15T17:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1325,
-    "bookingsObserved": 1061,
-    "releasesObserved": 1025,
+    "bookingsTracked": 1326,
+    "bookingsObserved": 1062,
+    "releasesObserved": 1026,
     "inCustody": 300,
-    "uniquePeople": 1210
+    "uniquePeople": 1211
   },
   "bookingsByDay": [
     {
@@ -157,14 +157,14 @@
     {
       "date": "2026-11-15",
       "booked": 13,
-      "released": 12
+      "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 618,
-      "pct": 29.7
+      "pct": 29.6
     },
     {
       "name": "THEFT III",
@@ -183,12 +183,12 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 78,
-      "pct": 3.7
+      "count": 79,
+      "pct": 3.8
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 56,
+      "count": 57,
       "pct": 2.7
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 648,
+      "count": 649,
       "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 503,
+      "count": 504,
       "pct": 28.1,
       "label": "Misdemeanor"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 849,
+      "count": 850,
       "pct": 66.1
     },
     {
       "name": "Black",
       "count": 241,
-      "pct": 18.8
+      "pct": 18.7
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1039,
+      "count": 1040,
       "pct": 79.2
     },
     {
@@ -474,17 +474,17 @@
       },
       {
         "label": "55+",
-        "count": 151
+        "count": 152
       }
     ]
   },
   "releaseSources": {
-    "observed": 915,
+    "observed": 916,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 919,
+    "releasedCount": 920,
     "medianDays": 3.3,
     "meanDays": 10.4,
     "buckets": [
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 290
+        "count": 291
       },
       {
         "label": "3–7 days",
@@ -521,7 +521,7 @@
     "noBond": 209,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 545451
+    "totalBond": 545951
   },
   "chargesPerBooking": 1.6
 }
