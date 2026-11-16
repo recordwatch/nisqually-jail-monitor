@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:07:13",
+  "generatedAt": "2026-11-16T03:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1335,
@@ -184,7 +184,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 79,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 507,
+      "count": 508,
       "pct": 28,
       "label": "Misdemeanor"
     },
