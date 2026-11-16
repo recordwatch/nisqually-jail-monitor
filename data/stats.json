@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T11:27:14",
+  "generatedAt": "2026-11-16T11:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1339,
-    "bookingsObserved": 1075,
-    "releasesObserved": 1039,
+    "bookingsTracked": 1340,
+    "bookingsObserved": 1076,
+    "releasesObserved": 1040,
     "inCustody": 300,
-    "uniquePeople": 1223
+    "uniquePeople": 1224
   },
   "bookingsByDay": [
     {
@@ -152,12 +152,12 @@
     {
       "date": "2026-11-15",
       "booked": 19,
-      "released": 16
+      "released": 11
     },
     {
       "date": "2026-11-16",
-      "booked": 8,
-      "released": 10
+      "booked": 9,
+      "released": 16
     }
   ],
   "topCharges": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 87,
-      "pct": 4.1
+      "count": 88,
+      "pct": 4.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 43,
-      "pct": 2
+      "count": 44,
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 592,
-      "pct": 44.7,
+      "pct": 44.6,
       "label": "WA DOC"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 33,
-      "pct": 2.5,
+      "count": 34,
+      "pct": 2.6,
       "label": "TUMWATER PD"
     },
     {
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 668,
+      "count": 669,
       "pct": 36.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 617,
-      "pct": 34,
+      "pct": 33.9,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 508,
+      "count": 509,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 861,
-      "pct": 66.3
+      "pct": 66.2
     },
     {
       "name": "Black",
-      "count": 242,
-      "pct": 18.6
+      "count": 243,
+      "pct": 18.7
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1048,
-      "pct": 79
+      "count": 1049,
+      "pct": 79.1
     },
     {
       "name": "Female",
       "count": 278,
-      "pct": 21
+      "pct": 20.9
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 465
+        "count": 466
       },
       {
         "label": "45–54",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 929,
+    "observed": 930,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 933,
+    "releasedCount": 934,
     "medianDays": 3.3,
     "meanDays": 10.4,
     "buckets": [
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 292
+        "count": 291
       },
       {
         "label": "3–7 days",
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 342
+        "count": 344
       },
       {
         "label": "1–3 months",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 256.5
   },
   "bond": {
-    "withBond": 97,
-    "noBond": 203,
+    "withBond": 98,
+    "noBond": 202,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 565251
+    "totalBond": 575251
   },
   "chargesPerBooking": 1.6
 }
