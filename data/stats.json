@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:07:16",
+  "generatedAt": "2026-11-16T14:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1348,
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 88,
-      "pct": 4.1
+      "count": 89,
+      "pct": 4.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -203,7 +203,7 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 44,
+      "count": 45,
       "pct": 2.1
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 670,
+      "count": 671,
       "pct": 36.7,
       "label": "Gross Misdemeanor"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 510,
-      "pct": 27.9,
+      "count": 511,
+      "pct": 28,
       "label": "Misdemeanor"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "AD",
-      "count": 5,
-      "pct": 0.3,
+      "count": 4,
+      "pct": 0.2,
       "label": "AD"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 228.6
   },
   "bond": {
-    "withBond": 98,
-    "noBond": 202,
+    "withBond": 99,
+    "noBond": 201,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 573251
+    "totalBond": 581251
   },
   "chargesPerBooking": 1.6
 }
