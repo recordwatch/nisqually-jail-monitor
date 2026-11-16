@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T16:07:14",
+  "generatedAt": "2026-11-15T16:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1324,
-    "bookingsObserved": 1060,
-    "releasesObserved": 1024,
+    "bookingsTracked": 1325,
+    "bookingsObserved": 1061,
+    "releasesObserved": 1025,
     "inCustody": 300,
-    "uniquePeople": 1209
+    "uniquePeople": 1210
   },
   "bookingsByDay": [
     {
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-15",
       "booked": 13,
-      "released": 11
+      "released": 12
     }
   ],
   "topCharges": [
@@ -178,13 +178,13 @@
     },
     {
       "name": "DUI",
-      "count": 84,
-      "pct": 4
+      "count": 85,
+      "pct": 4.1
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 78,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -278,13 +278,13 @@
     {
       "name": "LACEY PD",
       "count": 145,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 112,
-      "pct": 8.5,
+      "count": 113,
+      "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 647,
+      "count": 648,
       "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 240,
-      "pct": 18.7
+      "count": 241,
+      "pct": 18.8
     },
     {
       "name": "Unknown",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 1039,
-      "pct": 79.3
+      "pct": 79.2
     },
     {
       "name": "Female",
-      "count": 272,
-      "pct": 20.7
+      "count": 273,
+      "pct": 20.8
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 378
+        "count": 379
       },
       {
         "label": "35–44",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 914,
+    "observed": 915,
     "officialDate": 110,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 918,
+    "releasedCount": 919,
     "medianDays": 3.3,
-    "meanDays": 10.3,
+    "meanDays": 10.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -506,7 +506,7 @@
       },
       {
         "label": "1–3 months",
-        "count": 51
+        "count": 52
       },
       {
         "label": "3+ months",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 255.7
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 210,
+    "withBond": 91,
+    "noBond": 209,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 543451
+    "totalBond": 545451
   },
   "chargesPerBooking": 1.6
 }
