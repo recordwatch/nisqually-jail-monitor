@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:27:17",
+  "generatedAt": "2026-11-16T02:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1335,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 620,
-      "pct": 29.5
+      "pct": 29.4
     },
     {
       "name": "THEFT III",
@@ -208,8 +208,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 38,
-      "pct": 1.8
+      "count": 39,
+      "pct": 1.9
     },
     {
       "name": "THEFT",
@@ -218,7 +218,7 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 35,
+      "count": 36,
       "pct": 1.7
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 115,
-      "pct": 8.7,
+      "count": 116,
+      "pct": 8.8,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 664,
+      "count": 665,
       "pct": 36.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 616,
-      "pct": 34.1,
+      "pct": 34,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 506,
+      "count": 507,
       "pct": 28,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 256.1
   },
   "bond": {
-    "withBond": 96,
-    "noBond": 204,
+    "withBond": 97,
+    "noBond": 203,
     "medianBond": 1500,
     "maxBond": 60000,
-    "totalBond": 561751
+    "totalBond": 566751
   },
   "chargesPerBooking": 1.6
 }
