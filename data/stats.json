@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T00:47:13",
+  "generatedAt": "2026-11-17T01:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1361,
-    "bookingsObserved": 1097,
+    "bookingsTracked": 1362,
+    "bookingsObserved": 1098,
     "releasesObserved": 1066,
-    "inCustody": 295,
-    "uniquePeople": 1239
+    "inCustody": 296,
+    "uniquePeople": 1240
   },
   "bookingsByDay": [
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 90,
+      "count": 91,
       "pct": 4.2
     },
     {
@@ -364,12 +364,12 @@
     {
       "name": "F",
       "count": 627,
-      "pct": 33.8,
+      "pct": 33.7,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 533,
+      "count": 534,
       "pct": 28.7,
       "label": "Misdemeanor"
     },
@@ -392,23 +392,23 @@
       "label": "IN"
     },
     {
+      "name": "B",
+      "count": 2,
+      "pct": 0.1,
+      "label": "B"
+    },
+    {
       "name": "FA",
       "count": 2,
       "pct": 0.1,
       "label": "FA"
-    },
-    {
-      "name": "FB",
-      "count": 2,
-      "pct": 0.1,
-      "label": "FB"
     }
   ],
   "race": [
     {
       "name": "White",
       "count": 873,
-      "pct": 66.1
+      "pct": 66
     },
     {
       "name": "Black",
@@ -417,7 +417,7 @@
     },
     {
       "name": "Unknown",
-      "count": 76,
+      "count": 77,
       "pct": 5.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1067,
+      "count": 1068,
       "pct": 79.2
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 392
+        "count": 393
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 90,
-    "noBond": 205,
+    "noBond": 206,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 541051
