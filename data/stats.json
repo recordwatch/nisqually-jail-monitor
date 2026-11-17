@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:07:15",
+  "generatedAt": "2026-11-17T06:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1368,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 7,
+      "booked": 8,
       "released": 6
     }
   ],
@@ -183,13 +183,13 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 83,
-      "pct": 3.8
+      "count": 85,
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
       "count": 60,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -219,7 +219,7 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 36,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "HARASSMENT",
@@ -257,7 +257,7 @@
       "pct": 1
     },
     {
-      "name": "ASSAULT 4",
+      "name": "CRIMINAL TRESPASS 2ND",
       "count": 19,
       "pct": 0.9
     }
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 217,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 117,
-      "pct": 8.7,
+      "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 73,
-      "pct": 5.4,
+      "count": 74,
+      "pct": 5.5,
       "label": "TACOMA PD"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229.3
   },
   "bond": {
-    "withBond": 92,
-    "noBond": 208,
+    "withBond": 93,
+    "noBond": 207,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 548801
+    "totalBond": 549801
   },
   "chargesPerBooking": 1.6
 }
