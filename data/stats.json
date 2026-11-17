@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T10:47:18",
+  "generatedAt": "2026-11-17T11:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1370,
-    "bookingsObserved": 1106,
+    "bookingsTracked": 1373,
+    "bookingsObserved": 1109,
     "releasesObserved": 1074,
-    "inCustody": 296,
-    "uniquePeople": 1247
+    "inCustody": 299,
+    "uniquePeople": 1248
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 11,
+      "booked": 13,
       "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 636,
-      "pct": 29.1
+      "count": 639,
+      "pct": 29.2
     },
     {
       "name": "THEFT III",
       "count": 196,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -249,7 +249,7 @@
     {
       "name": "SIMPLE ASSAULT-DV",
       "count": 23,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 607,
-      "pct": 44.8,
+      "count": 610,
+      "pct": 44.9,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 218,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 150,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 74,
-      "pct": 5.5,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 632,
-      "pct": 33.8,
+      "count": 635,
+      "pct": 33.9,
       "label": "Felony"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 877,
-      "pct": 65.9
+      "count": 880,
+      "pct": 66
     },
     {
       "name": "Black",
       "count": 247,
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1072,
+      "count": 1075,
       "pct": 79
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 111
+        "count": 112
       },
       {
         "label": "25–34",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 472
+        "count": 473
       },
       {
         "label": "45–54",
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 154
+        "count": 155
       }
     ]
   },
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 10.9,
-    "currentLongestDaysHeld": 229.4
+    "currentLongestDaysHeld": 229.5
   },
   "bond": {
     "withBond": 94,
-    "noBond": 202,
+    "noBond": 205,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 547301
