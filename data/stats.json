@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T04:27:21",
+  "generatedAt": "2026-11-17T04:47:21",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1366,
-    "bookingsObserved": 1102,
-    "releasesObserved": 1066,
+    "bookingsTracked": 1368,
+    "bookingsObserved": 1104,
+    "releasesObserved": 1068,
     "inCustody": 300,
-    "uniquePeople": 1244
+    "uniquePeople": 1246
   },
   "bookingsByDay": [
     {
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-17",
       "booked": 5,
-      "released": 4
+      "released": 6
     }
   ],
   "topCharges": [
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 875,
-      "pct": 66
+      "pct": 65.9
     },
     {
       "name": "Black",
@@ -417,13 +417,13 @@
     },
     {
       "name": "Unknown",
-      "count": 77,
-      "pct": 5.8
+      "count": 78,
+      "pct": 5.9
     },
     {
       "name": "N",
-      "count": 48,
-      "pct": 3.6
+      "count": 49,
+      "pct": 3.7
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1069,
+      "count": 1071,
       "pct": 79
     },
     {
@@ -466,11 +466,11 @@
       },
       {
         "label": "35–44",
-        "count": 471
+        "count": 472
       },
       {
         "label": "45–54",
-        "count": 237
+        "count": 238
       },
       {
         "label": "55+",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 953,
+    "observed": 955,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 960,
+    "releasedCount": 962,
     "medianDays": 3.1,
     "meanDays": 10.5,
     "buckets": [
@@ -494,11 +494,11 @@
       },
       {
         "label": "1–3 days",
-        "count": 311
+        "count": 312
       },
       {
         "label": "3–7 days",
-        "count": 84
+        "count": 85
       },
       {
         "label": "1–4 weeks",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229.2
   },
   "bond": {
-    "withBond": 91,
-    "noBond": 209,
+    "withBond": 90,
+    "noBond": 210,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 548051
+    "totalBond": 546051
   },
   "chargesPerBooking": 1.6
 }
