@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:27:15",
+  "generatedAt": "2026-11-16T21:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1358,
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 602,
-      "pct": 44.9,
+      "pct": 44.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 214,
-      "pct": 15.9,
+      "count": 215,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 524,
+      "count": 525,
       "pct": 28.4,
       "label": "Misdemeanor"
     },
