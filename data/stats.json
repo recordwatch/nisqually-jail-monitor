@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T13:47:14",
+  "generatedAt": "2026-11-17T14:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1381,
-    "bookingsObserved": 1117,
-    "releasesObserved": 1081,
+    "bookingsTracked": 1382,
+    "bookingsObserved": 1118,
+    "releasesObserved": 1082,
     "inCustody": 300,
     "uniquePeople": 1254
   },
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 21,
-      "released": 19
+      "booked": 23,
+      "released": 20
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 646,
+      "count": 648,
       "pct": 29.4
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 616,
-      "pct": 45.1,
+      "count": 618,
+      "pct": 45.2,
       "label": "WA DOC"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 679,
-      "pct": 36.1,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 642,
-      "pct": 34.1,
+      "count": 644,
+      "pct": 34.2,
       "label": "Felony"
     },
     {
@@ -386,16 +386,16 @@
       "label": "AD"
     },
     {
-      "name": "IN",
-      "count": 2,
-      "pct": 0.1,
-      "label": "IN"
-    },
-    {
       "name": "B",
       "count": 2,
       "pct": 0.1,
       "label": "B"
+    },
+    {
+      "name": "IN",
+      "count": 2,
+      "pct": 0.1,
+      "label": "IN"
     },
     {
       "name": "FA",
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 886,
+      "count": 887,
       "pct": 66.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1082,
+      "count": 1083,
       "pct": 79.1
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 397
+        "count": 398
       },
       {
         "label": "35–44",
@@ -479,18 +479,18 @@
     ]
   },
   "releaseSources": {
-    "observed": 968,
+    "observed": 969,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 975,
+    "releasedCount": 976,
     "medianDays": 3.3,
     "meanDays": 10.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 161
+        "count": 162
       },
       {
         "label": "1–3 days",
