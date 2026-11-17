@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T05:47:14",
+  "generatedAt": "2026-11-17T06:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1368,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 6,
+      "booked": 7,
       "released": 6
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 195,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 82,
+      "count": 83,
       "pct": 3.8
     },
     {
@@ -265,13 +265,13 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 604,
+      "count": 605,
       "pct": 44.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 218,
+      "count": 217,
       "pct": 16.1,
       "label": "OLYMPIA PD"
     },
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 72,
-      "pct": 5.3,
+      "count": 73,
+      "pct": 5.4,
       "label": "TACOMA PD"
     },
     {
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 11.2,
-    "currentLongestDaysHeld": 229.2
+    "currentLongestDaysHeld": 229.3
   },
   "bond": {
-    "withBond": 91,
-    "noBond": 209,
+    "withBond": 92,
+    "noBond": 208,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 548551
+    "totalBond": 548801
   },
   "chargesPerBooking": 1.6
 }
