@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:27:14",
+  "generatedAt": "2026-11-17T03:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1366,
@@ -232,6 +232,11 @@
       "pct": 1.2
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 26,
+      "pct": 1.2
+    },
+    {
       "name": "ASSAULT 4TH DV",
       "count": 26,
       "pct": 1.2
@@ -242,17 +247,12 @@
       "pct": 1.1
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 25,
+      "name": "SIMPLE ASSAULT-DV",
+      "count": 23,
       "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
-      "count": 22,
-      "pct": 1
-    },
-    {
-      "name": "SIMPLE ASSAULT-DV",
       "count": 22,
       "pct": 1
     },
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 149,
-      "pct": 11,
+      "count": 150,
+      "pct": 11.1,
       "label": "LACEY PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 676,
+      "count": 677,
       "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 536,
+      "count": 537,
       "pct": 28.8,
       "label": "Misdemeanor"
     },
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 11.1,
-    "currentLongestDaysHeld": 229.1
+    "currentLongestDaysHeld": 229.2
   },
   "bond": {
     "withBond": 91,
