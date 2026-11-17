@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T14:07:14",
+  "generatedAt": "2026-11-17T14:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1382,
-    "bookingsObserved": 1118,
-    "releasesObserved": 1082,
+    "bookingsTracked": 1384,
+    "bookingsObserved": 1120,
+    "releasesObserved": 1084,
     "inCustody": 300,
-    "uniquePeople": 1254
+    "uniquePeople": 1256
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 23,
-      "released": 20
+      "booked": 25,
+      "released": 22
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 648,
-      "pct": 29.4
+      "count": 649,
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
       "count": 197,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -198,7 +198,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 50,
+      "count": 51,
       "pct": 2.3
     },
     {
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 618,
+      "count": 619,
       "pct": 45.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 219,
-      "pct": 16,
+      "count": 220,
+      "pct": 16.1,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 150,
-      "pct": 11,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 117,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,13 +357,13 @@
   "levels": [
     {
       "name": "GM",
-      "count": 679,
+      "count": 680,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 644,
+      "count": 645,
       "pct": 34.2,
       "label": "Felony"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 887,
+      "count": 889,
       "pct": 66.1
     },
     {
@@ -423,7 +423,7 @@
     {
       "name": "N",
       "count": 49,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Asian",
@@ -444,12 +444,12 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1083,
+      "count": 1084,
       "pct": 79.1
     },
     {
       "name": "Female",
-      "count": 286,
+      "count": 287,
       "pct": 20.9
     }
   ],
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 112
+        "count": 113
       },
       {
         "label": "25–34",
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 477
+        "count": 478
       },
       {
         "label": "45–54",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 969,
+    "observed": 971,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 976,
+    "releasedCount": 978,
     "medianDays": 3.3,
     "meanDays": 10.6,
     "buckets": [
@@ -502,26 +502,26 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 355
+        "count": 356
       },
       {
         "label": "1–3 months",
-        "count": 53
+        "count": 54
       },
       {
         "label": "3+ months",
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 9.9,
+    "currentMedianDaysHeld": 9.8,
     "currentLongestDaysHeld": 229.6
   },
   "bond": {
-    "withBond": 94,
-    "noBond": 206,
+    "withBond": 95,
+    "noBond": 205,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 548301
+    "totalBond": 549301
   },
   "chargesPerBooking": 1.6
 }
