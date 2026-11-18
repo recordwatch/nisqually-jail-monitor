@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T04:03:25",
+  "generatedAt": "2026-11-18T04:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1403,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 657,
-      "pct": 29.5
+      "pct": 29.4
     },
     {
       "name": "THEFT III",
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 119,
+      "count": 120,
       "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
@@ -342,23 +342,23 @@
       "label": "STEILACOOM PD"
     },
     {
-      "name": "PUYALLUP TRIBE PD",
-      "count": 3,
-      "pct": 0.2,
-      "label": "PUYALLUP TRIBE PD"
-    },
-    {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
       "pct": 0.2,
       "label": "NEZ PERCE TRIBE"
+    },
+    {
+      "name": "PUYALLUP TRIBE PD",
+      "count": 2,
+      "pct": 0.1,
+      "label": "PUYALLUP TRIBE PD"
     }
   ],
   "levels": [
     {
       "name": "GM",
       "count": 685,
-      "pct": 36,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 544,
+      "count": 545,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -521,7 +521,7 @@
     "noBond": 205,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 545051
+    "totalBond": 544551
   },
   "chargesPerBooking": 1.6
 }
