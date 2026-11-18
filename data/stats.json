@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T18:47:15",
+  "generatedAt": "2026-11-17T19:02:49",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1391,
-    "bookingsObserved": 1127,
-    "releasesObserved": 1091,
+    "bookingsTracked": 1392,
+    "bookingsObserved": 1128,
+    "releasesObserved": 1092,
     "inCustody": 300,
-    "uniquePeople": 1261
+    "uniquePeople": 1262
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 31,
-      "released": 29
+      "booked": 33,
+      "released": 30
     }
   ],
   "topCharges": [
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 623,
-      "pct": 45.3,
+      "pct": 45.2,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 221,
-      "pct": 16.1,
+      "pct": 16,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 150,
-      "pct": 10.9,
+      "count": 151,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 86,
-      "pct": 6.3,
+      "pct": 6.2,
       "label": "FEDERAL WAY"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 894,
+      "count": 895,
       "pct": 66.2
     },
     {
@@ -418,7 +418,7 @@
     {
       "name": "Unknown",
       "count": 79,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "N",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1089,
+      "count": 1090,
       "pct": 79
     },
     {
@@ -474,17 +474,17 @@
       },
       {
         "label": "55+",
-        "count": 156
+        "count": 157
       }
     ]
   },
   "releaseSources": {
-    "observed": 978,
+    "observed": 979,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 985,
+    "releasedCount": 986,
     "medianDays": 3.3,
     "meanDays": 10.6,
     "buckets": [
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 89
+        "count": 90
       },
       {
         "label": "1–4 weeks",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 229.8
   },
   "bond": {
-    "withBond": 89,
-    "noBond": 211,
-    "medianBond": 2000,
+    "withBond": 90,
+    "noBond": 210,
+    "medianBond": 1875,
     "maxBond": 60000,
-    "totalBond": 502551
+    "totalBond": 503551
   },
   "chargesPerBooking": 1.6
 }
