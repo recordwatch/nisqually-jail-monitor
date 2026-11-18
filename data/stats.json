@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:27:16",
+  "generatedAt": "2026-11-18T05:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1405,
@@ -183,8 +183,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 88,
-      "pct": 3.9
+      "count": 89,
+      "pct": 4
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 226,
+      "count": 227,
       "pct": 16.3,
       "label": "OLYMPIA PD"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 545,
+      "count": 546,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -458,11 +458,11 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 116
+        "count": 115
       },
       {
         "label": "25–34",
-        "count": 406
+        "count": 407
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 230.2
   },
   "bond": {
-    "withBond": 95,
-    "noBond": 205,
+    "withBond": 96,
+    "noBond": 204,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 544301
+    "totalBond": 546301
   },
   "chargesPerBooking": 1.6
 }
