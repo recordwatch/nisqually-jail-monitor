@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T11:27:15",
+  "generatedAt": "2026-11-18T11:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1410,
-    "bookingsObserved": 1146,
-    "releasesObserved": 1110,
+    "bookingsTracked": 1411,
+    "bookingsObserved": 1147,
+    "releasesObserved": 1111,
     "inCustody": 300,
-    "uniquePeople": 1279
+    "uniquePeople": 1280
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 5,
-      "released": 12
+      "booked": 6,
+      "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 659,
+      "count": 660,
       "pct": 29.4
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 114,
+      "count": 115,
       "pct": 5.1
     },
     {
@@ -194,7 +194,7 @@
     {
       "name": "CRIMINAL TRESPASS-2",
       "count": 55,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "ASSAULT-4",
@@ -219,7 +219,7 @@
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
       "count": 37,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "HARASSMENT",
@@ -265,13 +265,13 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 629,
+      "count": 630,
       "pct": 45.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 228,
+      "count": 229,
       "pct": 16.4,
       "label": "OLYMPIA PD"
     },
@@ -357,19 +357,19 @@
   "levels": [
     {
       "name": "GM",
-      "count": 688,
+      "count": 689,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 655,
+      "count": 656,
       "pct": 34.2,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 548,
+      "count": 549,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 910,
+      "count": 911,
       "pct": 66.5
     },
     {
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 1103,
-      "pct": 79
+      "pct": 78.9
     },
     {
       "name": "Female",
-      "count": 294,
-      "pct": 21
+      "count": 295,
+      "pct": 21.1
     }
   ],
   "ages": {
@@ -458,15 +458,15 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 116
+        "count": 117
       },
       {
         "label": "25–34",
-        "count": 409
+        "count": 408
       },
       {
         "label": "35–44",
-        "count": 485
+        "count": 486
       },
       {
         "label": "45–54",
@@ -479,18 +479,18 @@
     ]
   },
   "releaseSources": {
-    "observed": 997,
+    "observed": 998,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1004,
+    "releasedCount": 1005,
     "medianDays": 3.4,
     "meanDays": 10.7,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 165
+        "count": 166
       },
       {
         "label": "1–3 days",
@@ -521,7 +521,7 @@
     "noBond": 203,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 541501
+    "totalBond": 540001
   },
   "chargesPerBooking": 1.6
 }
