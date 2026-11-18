@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:47:22",
+  "generatedAt": "2026-11-18T09:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1405,
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 199,
+      "count": 200,
       "pct": 8.9
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 686,
+      "count": 687,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -513,7 +513,7 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 8.8,
+    "currentMedianDaysHeld": 8.9,
     "currentLongestDaysHeld": 230.4
   },
   "bond": {
