@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T12:27:15",
+  "generatedAt": "2026-11-18T12:47:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1416,
-    "bookingsObserved": 1152,
-    "releasesObserved": 1116,
+    "bookingsTracked": 1418,
+    "bookingsObserved": 1154,
+    "releasesObserved": 1118,
     "inCustody": 300,
-    "uniquePeople": 1283
+    "uniquePeople": 1284
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 11,
-      "released": 18
+      "booked": 13,
+      "released": 20
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 662,
-      "pct": 29.4
+      "count": 664,
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 632,
-      "pct": 45.1,
+      "count": 634,
+      "pct": 45.2,
       "label": "WA DOC"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 75,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "TACOMA PD"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "GM",
       "count": 691,
-      "pct": 36,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 658,
-      "pct": 34.2,
+      "count": 660,
+      "pct": 34.3,
       "label": "Felony"
     },
     {
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 250,
-      "pct": 18.2
+      "count": 252,
+      "pct": 18.3
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1107,
+      "count": 1109,
       "pct": 78.9
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 410
+        "count": 411
       },
       {
         "label": "35–44",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 244
+        "count": 245
       },
       {
         "label": "55+",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 1003,
+    "observed": 1005,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1010,
+    "releasedCount": 1012,
     "medianDays": 3.4,
     "meanDays": 10.7,
     "buckets": [
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 315
+        "count": 316
       },
       {
         "label": "3–7 days",
@@ -502,7 +502,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 370
+        "count": 371
       },
       {
         "label": "1–3 months",
