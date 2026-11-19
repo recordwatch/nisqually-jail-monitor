@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T05:47:12",
+  "generatedAt": "2026-11-19T06:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1439,
-    "bookingsObserved": 1175,
-    "releasesObserved": 1139,
+    "bookingsTracked": 1440,
+    "bookingsObserved": 1176,
+    "releasesObserved": 1140,
     "inCustody": 300,
-    "uniquePeople": 1300
+    "uniquePeople": 1301
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 2,
-      "released": 5
+      "booked": 3,
+      "released": 6
     }
   ],
   "topCharges": [
@@ -188,7 +188,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 64,
+      "count": 65,
       "pct": 2.8
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 232,
+      "count": 233,
       "pct": 16.3,
       "label": "OLYMPIA PD"
     },
@@ -408,7 +408,7 @@
     {
       "name": "White",
       "count": 926,
-      "pct": 66.3
+      "pct": 66.2
     },
     {
       "name": "Black",
@@ -422,8 +422,8 @@
     },
     {
       "name": "N",
-      "count": 52,
-      "pct": 3.7
+      "count": 53,
+      "pct": 3.8
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1127,
+      "count": 1128,
       "pct": 79
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 248
+        "count": 249
       },
       {
         "label": "55+",
@@ -479,18 +479,18 @@
     ]
   },
   "releaseSources": {
-    "observed": 1026,
+    "observed": 1027,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1033,
+    "releasedCount": 1034,
     "medianDays": 3.3,
     "meanDays": 10.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 174
+        "count": 175
       },
       {
         "label": "1–3 days",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 9.3,
-    "currentLongestDaysHeld": 231.2
+    "currentLongestDaysHeld": 231.3
   },
   "bond": {
     "withBond": 89,
     "noBond": 211,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 497501
+    "totalBond": 497001
   },
   "chargesPerBooking": 1.6
 }
