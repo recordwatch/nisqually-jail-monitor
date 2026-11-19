@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:47:13",
+  "generatedAt": "2026-11-19T00:07:11",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1437,
@@ -9,11 +9,6 @@
     "uniquePeople": 1298
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-20",
-      "booked": 35,
-      "released": 20
-    },
     {
       "date": "2026-10-21",
       "booked": 33,
@@ -158,6 +153,11 @@
       "date": "2026-11-18",
       "booked": 34,
       "released": 39
+    },
+    {
+      "date": "2026-11-19",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -248,7 +248,7 @@
     },
     {
       "name": "SIMPLE ASSAULT-DV",
-      "count": 23,
+      "count": 24,
       "pct": 1
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "name": "LACEY PD",
-      "count": 153,
+      "count": 154,
       "pct": 10.8,
       "label": "LACEY PD"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 706,
+      "count": 707,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
@@ -458,11 +458,11 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 119
+        "count": 118
       },
       {
         "label": "25–34",
-        "count": 416
+        "count": 417
       },
       {
         "label": "35–44",
