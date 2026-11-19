@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T20:07:15",
+  "generatedAt": "2026-11-18T20:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1431,
-    "bookingsObserved": 1167,
-    "releasesObserved": 1131,
+    "bookingsTracked": 1432,
+    "bookingsObserved": 1168,
+    "releasesObserved": 1132,
     "inCustody": 300,
-    "uniquePeople": 1294
+    "uniquePeople": 1295
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 27,
-      "released": 33
+      "booked": 29,
+      "released": 34
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 674,
-      "pct": 29.6
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 115,
-      "pct": 5
+      "count": 116,
+      "pct": 5.1
     },
     {
       "name": "DUI",
@@ -301,7 +301,7 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 35,
+      "count": 36,
       "pct": 2.5,
       "label": "TUMWATER PD"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 703,
+      "count": 704,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 921,
+      "count": 922,
       "pct": 66.3
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1121,
+      "count": 1122,
       "pct": 79.1
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 414
+        "count": 415
       },
       {
         "label": "35–44",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 1018,
+    "observed": 1019,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1025,
+    "releasedCount": 1026,
     "medianDays": 3.3,
     "meanDays": 10.6,
     "buckets": [
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 94
+        "count": 95
       },
       {
         "label": "1–4 weeks",
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 8.9,
-    "currentLongestDaysHeld": 230.8
+    "currentLongestDaysHeld": 230.9
   },
   "bond": {
     "withBond": 91,
