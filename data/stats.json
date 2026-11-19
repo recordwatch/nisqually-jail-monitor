@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:07:13",
+  "generatedAt": "2026-11-18T21:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1433,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 674,
-      "pct": 29.5
+      "count": 675,
+      "pct": 29.6
     },
     {
       "name": "THEFT III",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 642,
+      "count": 643,
       "pct": 45.3,
       "label": "WA DOC"
     },
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 151,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "LACEY PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 670,
+      "count": 671,
       "pct": 34.4,
       "label": "Felony"
     },
