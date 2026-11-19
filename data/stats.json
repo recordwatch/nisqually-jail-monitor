@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:27:22",
+  "generatedAt": "2026-11-18T16:47:19",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1425,
@@ -163,12 +163,12 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 667,
+      "count": 669,
       "pct": 29.4
     },
     {
       "name": "THEFT III",
-      "count": 201,
+      "count": 203,
       "pct": 8.9
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 92,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -209,7 +209,7 @@
     {
       "name": "THEFT",
       "count": 42,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 635,
+      "count": 637,
       "pct": 45.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 232,
-      "pct": 16.5,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 700,
+      "count": 702,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 663,
+      "count": 665,
       "pct": 34.2,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 552,
-      "pct": 28.5,
+      "pct": 28.4,
       "label": "Misdemeanor"
     },
     {
