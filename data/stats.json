@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:07:16",
+  "generatedAt": "2026-11-19T15:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1454,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 685,
-      "pct": 29.6
+      "pct": 29.5
     },
     {
       "name": "THEFT III",
@@ -208,8 +208,8 @@
     },
     {
       "name": "THEFT",
-      "count": 45,
-      "pct": 1.9
+      "count": 46,
+      "pct": 2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -233,7 +233,7 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 27,
+      "count": 28,
       "pct": 1.2
     },
     {
@@ -364,13 +364,13 @@
     {
       "name": "F",
       "count": 681,
-      "pct": 34.4,
+      "pct": 34.3,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 559,
-      "pct": 28.2,
+      "count": 561,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -513,7 +513,7 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 9,
+    "currentMedianDaysHeld": 9.1,
     "currentLongestDaysHeld": 231.6
   },
   "bond": {
@@ -521,7 +521,7 @@
     "noBond": 206,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 501251
+    "totalBond": 501751
   },
   "chargesPerBooking": 1.6
 }
