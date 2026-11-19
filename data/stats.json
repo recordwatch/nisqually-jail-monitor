@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T13:07:14",
+  "generatedAt": "2026-11-19T13:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1452,
-    "bookingsObserved": 1188,
+    "bookingsTracked": 1454,
+    "bookingsObserved": 1190,
     "releasesObserved": 1156,
-    "inCustody": 296,
-    "uniquePeople": 1308
+    "inCustody": 298,
+    "uniquePeople": 1310
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 13,
+      "booked": 14,
       "released": 29
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 683,
+      "count": 685,
       "pct": 29.6
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 651,
-      "pct": 45.3,
+      "count": 653,
+      "pct": 45.4,
       "label": "WA DOC"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 714,
-      "pct": 36.2,
+      "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 679,
+      "count": 681,
       "pct": 34.4,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 558,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 934,
+      "count": 935,
       "pct": 66.2
     },
     {
@@ -427,8 +427,8 @@
     },
     {
       "name": "Asian",
-      "count": 50,
-      "pct": 3.5
+      "count": 51,
+      "pct": 3.6
     },
     {
       "name": "I",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1138,
+      "count": 1140,
       "pct": 79.1
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 250
+        "count": 252
       },
       {
         "label": "55+",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 9,
-    "currentLongestDaysHeld": 231.5
+    "currentLongestDaysHeld": 231.6
   },
   "bond": {
     "withBond": 88,
-    "noBond": 208,
+    "noBond": 210,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 493251
