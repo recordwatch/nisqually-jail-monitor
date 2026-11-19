@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:07:11",
+  "generatedAt": "2026-11-19T00:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1437,
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 205,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 707,
-      "pct": 36.1,
+      "count": 709,
+      "pct": 36.2,
       "label": "Gross Misdemeanor"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 555,
-      "pct": 28.4,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
