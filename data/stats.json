@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T19:47:13",
+  "generatedAt": "2026-11-19T20:07:11",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1464,
-    "bookingsObserved": 1200,
+    "bookingsTracked": 1465,
+    "bookingsObserved": 1201,
     "releasesObserved": 1170,
-    "inCustody": 294,
-    "uniquePeople": 1319
+    "inCustody": 295,
+    "uniquePeople": 1320
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 26,
+      "booked": 27,
       "released": 43
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 690,
+      "count": 691,
       "pct": 29.6
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 118,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "DUI",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 658,
+      "count": 659,
       "pct": 45.4,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 235,
-      "pct": 16.2,
+      "count": 236,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 124,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "LAKEWOOD PD"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "TUMWATER PD",
       "count": 37,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "TUMWATER PD"
     },
     {
@@ -363,13 +363,13 @@
     },
     {
       "name": "F",
-      "count": 686,
+      "count": 687,
       "pct": 34.4,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 565,
+      "count": 566,
       "pct": 28.3,
       "label": "Misdemeanor"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 944,
+      "count": 945,
       "pct": 66.4
     },
     {
       "name": "Black",
       "count": 261,
-      "pct": 18.4
+      "pct": 18.3
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1149,
+      "count": 1150,
       "pct": 79.2
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 504
+        "count": 505
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 231.8
   },
   "bond": {
-    "withBond": 84,
+    "withBond": 85,
     "noBond": 210,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 491751
+    "totalBond": 493251
   },
   "chargesPerBooking": 1.6
 }
