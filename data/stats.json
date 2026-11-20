@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:27:15",
+  "generatedAt": "2026-11-20T15:40:57",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1493,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 701,
-      "pct": 29.4
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 72,
-      "pct": 3
+      "count": 73,
+      "pct": 3.1
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 8.1,
-    "currentLongestDaysHeld": 232.6
+    "currentLongestDaysHeld": 232.7
   },
   "bond": {
     "withBond": 95,
     "noBond": 187,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 501201
+    "totalBond": 501701
   },
   "chargesPerBooking": 1.6
 }
