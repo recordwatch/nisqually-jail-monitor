@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T07:47:14",
+  "generatedAt": "2026-11-20T08:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1486,
     "bookingsObserved": 1222,
-    "releasesObserved": 1186,
-    "inCustody": 300,
+    "releasesObserved": 1194,
+    "inCustody": 292,
     "uniquePeople": 1338
   },
   "bookingsByDay": [
@@ -157,13 +157,13 @@
     {
       "date": "2026-11-20",
       "booked": 12,
-      "released": 13
+      "released": 21
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 695,
+      "count": 696,
       "pct": 29.3
     },
     {
@@ -358,12 +358,12 @@
     {
       "name": "GM",
       "count": 731,
-      "pct": 36.1,
+      "pct": 36,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 691,
+      "count": 692,
       "pct": 34.1,
       "label": "Felony"
     },
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 1073,
+    "observed": 1081,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1080,
+    "releasedCount": 1088,
     "medianDays": 3.4,
     "meanDays": 10.7,
     "buckets": [
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 335
+        "count": 338
       },
       {
         "label": "3–7 days",
@@ -502,26 +502,26 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 397
+        "count": 401
       },
       {
         "label": "1–3 months",
-        "count": 64
+        "count": 65
       },
       {
         "label": "3+ months",
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 8,
+    "currentMedianDaysHeld": 7.9,
     "currentLongestDaysHeld": 232.3
   },
   "bond": {
-    "withBond": 100,
-    "noBond": 200,
+    "withBond": 99,
+    "noBond": 193,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 528851
+    "totalBond": 526851
   },
   "chargesPerBooking": 1.6
 }
