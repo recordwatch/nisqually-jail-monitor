@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T17:27:15",
+  "generatedAt": "2026-11-19T17:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1458,
-    "bookingsObserved": 1194,
+    "bookingsTracked": 1459,
+    "bookingsObserved": 1195,
     "releasesObserved": 1162,
-    "inCustody": 296,
+    "inCustody": 297,
     "uniquePeople": 1314
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 20,
+      "booked": 22,
       "released": 35
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 206,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -208,7 +208,7 @@
     },
     {
       "name": "THEFT",
-      "count": 46,
+      "count": 47,
       "pct": 2
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 156,
-      "pct": 10.8,
+      "count": 157,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 564,
+      "count": 565,
       "pct": 28.4,
       "label": "Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 938,
-      "pct": 66.2
+      "count": 939,
+      "pct": 66.3
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1143,
+      "count": 1144,
       "pct": 79.1
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 503
+        "count": 504
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 89,
-    "noBond": 207,
+    "noBond": 208,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 501251
