@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T10:27:14",
+  "generatedAt": "2026-11-20T10:47:21",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1487,
-    "bookingsObserved": 1223,
+    "bookingsTracked": 1490,
+    "bookingsObserved": 1226,
     "releasesObserved": 1196,
-    "inCustody": 291,
-    "uniquePeople": 1339
+    "inCustody": 294,
+    "uniquePeople": 1341
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 13,
+      "booked": 14,
       "released": 23
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 696,
+      "count": 697,
       "pct": 29.3
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 44,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 660,
+      "count": 661,
       "pct": 44.8,
       "label": "WA DOC"
     },
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 126,
+      "count": 127,
       "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
@@ -348,10 +348,10 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
-      "name": "WASHINGTON STATE PATROL",
+      "name": "THURSTON COUNTY SHERIFF",
       "count": 2,
       "pct": 0.1,
-      "label": "WASHINGTON STATE PATROL"
+      "label": "THURSTON COUNTY SHERIFF"
     }
   ],
   "levels": [
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 692,
+      "count": 693,
       "pct": 34.1,
       "label": "Felony"
     },
@@ -407,12 +407,12 @@
   "race": [
     {
       "name": "White",
-      "count": 959,
+      "count": 961,
       "pct": 66.4
     },
     {
       "name": "Black",
-      "count": 266,
+      "count": 267,
       "pct": 18.4
     },
     {
@@ -444,12 +444,12 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1163,
+      "count": 1165,
       "pct": 78.9
     },
     {
       "name": "Female",
-      "count": 311,
+      "count": 312,
       "pct": 21.1
     }
   ],
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 429
+        "count": 432
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 7.9,
+    "currentMedianDaysHeld": 8,
     "currentLongestDaysHeld": 232.4
   },
   "bond": {
     "withBond": 100,
-    "noBond": 191,
+    "noBond": 194,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 528351
