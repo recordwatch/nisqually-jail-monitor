@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T03:47:14",
+  "generatedAt": "2026-11-20T04:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1484,
-    "bookingsObserved": 1220,
-    "releasesObserved": 1184,
+    "bookingsTracked": 1485,
+    "bookingsObserved": 1221,
+    "releasesObserved": 1185,
     "inCustody": 300,
-    "uniquePeople": 1336
+    "uniquePeople": 1337
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 8,
-      "released": 10
+      "booked": 11,
+      "released": 11
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 694,
-      "pct": 29.3
+      "pct": 29.2
     },
     {
       "name": "THEFT III",
@@ -179,16 +179,16 @@
     {
       "name": "DUI",
       "count": 96,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 91,
-      "pct": 3.8
+      "count": 92,
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 68,
+      "count": 70,
       "pct": 2.9
     },
     {
@@ -204,7 +204,7 @@
     {
       "name": "THEFT",
       "count": 51,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "DWLS/DWLR III",
@@ -213,8 +213,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 43,
-      "pct": 1.8
+      "count": 44,
+      "pct": 1.9
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -271,14 +271,14 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 241,
-      "pct": 16.4,
+      "count": 242,
+      "pct": 16.5,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 161,
-      "pct": 11,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 731,
+      "count": 732,
       "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 956,
+      "count": 957,
       "pct": 66.3
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1161,
+      "count": 1162,
       "pct": 78.9
     },
     {
@@ -474,23 +474,23 @@
       },
       {
         "label": "55+",
-        "count": 166
+        "count": 167
       }
     ]
   },
   "releaseSources": {
-    "observed": 1071,
+    "observed": 1072,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1078,
+    "releasedCount": 1079,
     "medianDays": 3.3,
     "meanDays": 10.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 183
+        "count": 184
       },
       {
         "label": "1–3 days",
@@ -513,15 +513,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 8.1,
+    "currentMedianDaysHeld": 8.2,
     "currentLongestDaysHeld": 232.2
   },
   "bond": {
-    "withBond": 98,
-    "noBond": 202,
+    "withBond": 99,
+    "noBond": 201,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 519751
+    "totalBond": 523251
   },
   "chargesPerBooking": 1.6
 }
