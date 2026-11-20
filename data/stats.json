@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T22:07:15",
+  "generatedAt": "2026-11-19T22:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1466,
-    "bookingsObserved": 1202,
+    "bookingsTracked": 1467,
+    "bookingsObserved": 1203,
     "releasesObserved": 1172,
-    "inCustody": 294,
-    "uniquePeople": 1321
+    "inCustody": 295,
+    "uniquePeople": 1322
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 29,
+      "booked": 30,
       "released": 45
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 208,
+      "count": 209,
       "pct": 8.9
     },
     {
@@ -257,7 +257,7 @@
       "pct": 0.9
     },
     {
-      "name": "MALICIOUS MISCHIEF 3",
+      "name": "ASSAULT 4",
       "count": 20,
       "pct": 0.9
     }
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 236,
+      "count": 237,
       "pct": 16.3,
       "label": "OLYMPIA PD"
     },
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 720,
-      "pct": 36,
+      "count": 721,
+      "pct": 36.1,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 566,
-      "pct": 28.3,
+      "count": 567,
+      "pct": 28.4,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 945,
+      "count": 946,
       "pct": 66.4
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 302,
+      "count": 303,
       "pct": 20.8
     }
   ],
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 505
+        "count": 506
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 231.9
   },
   "bond": {
-    "withBond": 85,
+    "withBond": 86,
     "noBond": 209,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 493251
+    "totalBond": 495251
   },
   "chargesPerBooking": 1.6
 }
