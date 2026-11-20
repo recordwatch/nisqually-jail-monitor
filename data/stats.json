@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T19:27:13",
+  "generatedAt": "2026-11-19T19:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1463,
-    "bookingsObserved": 1199,
+    "bookingsTracked": 1464,
+    "bookingsObserved": 1200,
     "releasesObserved": 1170,
-    "inCustody": 293,
-    "uniquePeople": 1318
+    "inCustody": 294,
+    "uniquePeople": 1319
   },
   "bookingsByDay": [
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 93,
+      "count": 94,
       "pct": 4
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 36,
-      "pct": 2.5,
+      "count": 37,
+      "pct": 2.6,
       "label": "TUMWATER PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 718,
+      "count": 719,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 943,
+      "count": 944,
       "pct": 66.4
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1148,
+      "count": 1149,
       "pct": 79.2
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 421
+        "count": 422
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 231.8
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 84,
     "noBond": 210,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 490751
+    "totalBond": 491751
   },
   "chargesPerBooking": 1.6
 }
