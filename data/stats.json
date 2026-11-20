@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T22:47:15",
+  "generatedAt": "2026-11-19T23:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1468,
-    "bookingsObserved": 1204,
+    "bookingsTracked": 1469,
+    "bookingsObserved": 1205,
     "releasesObserved": 1172,
-    "inCustody": 296,
+    "inCustody": 297,
     "uniquePeople": 1323
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 31,
+      "booked": 32,
       "released": 45
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 691,
+      "count": 692,
       "pct": 29.5
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "name": "THEFT",
-      "count": 47,
+      "count": 48,
       "pct": 2
     },
     {
@@ -227,13 +227,13 @@
       "pct": 1.3
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "RESISTING ARREST",
       "count": 29,
       "pct": 1.2
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 28,
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 29,
       "pct": 1.2
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 659,
-      "pct": 45.3,
+      "count": 660,
+      "pct": 45.4,
       "label": "WA DOC"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "FEDERAL WAY",
       "count": 88,
-      "pct": 6.1,
+      "pct": 6,
       "label": "FEDERAL WAY"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "SHELTON PD",
       "count": 8,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "SHELTON PD"
     },
     {
@@ -363,13 +363,13 @@
     },
     {
       "name": "F",
-      "count": 687,
+      "count": 688,
       "pct": 34.3,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 568,
+      "count": 570,
       "pct": 28.4,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 947,
+      "count": 948,
       "pct": 66.4
     },
     {
@@ -418,7 +418,7 @@
     {
       "name": "Unknown",
       "count": 82,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "N",
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 304,
+      "count": 305,
       "pct": 20.9
     }
   ],
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 506
+        "count": 507
       },
       {
         "label": "45–54",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 9.2,
-    "currentLongestDaysHeld": 231.9
+    "currentLongestDaysHeld": 232
   },
   "bond": {
     "withBond": 86,
-    "noBond": 210,
+    "noBond": 211,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 495251
