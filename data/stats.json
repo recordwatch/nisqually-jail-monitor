@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T23:07:13",
+  "generatedAt": "2026-11-19T23:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1469,
-    "bookingsObserved": 1205,
-    "releasesObserved": 1172,
-    "inCustody": 297,
-    "uniquePeople": 1323
+    "bookingsTracked": 1472,
+    "bookingsObserved": 1208,
+    "releasesObserved": 1173,
+    "inCustody": 299,
+    "uniquePeople": 1325
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 32,
-      "released": 45
+      "booked": 35,
+      "released": 46
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 692,
+      "count": 693,
       "pct": 29.5
     },
     {
@@ -189,11 +189,11 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 67,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 56,
+      "count": 57,
       "pct": 2.4
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 40,
+      "count": 41,
       "pct": 1.7
     },
     {
@@ -228,8 +228,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 29,
-      "pct": 1.2
+      "count": 30,
+      "pct": 1.3
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
@@ -238,7 +238,7 @@
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 27,
+      "count": 28,
       "pct": 1.2
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "WA DOC",
       "count": 660,
-      "pct": 45.4,
+      "pct": 45.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 238,
-      "pct": 16.4,
+      "pct": 16.3,
       "label": "OLYMPIA PD"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "TACOMA PD",
-      "count": 76,
-      "pct": 5.2,
+      "count": 78,
+      "pct": 5.3,
       "label": "TACOMA PD"
     },
     {
@@ -348,29 +348,29 @@
       "label": "NEZ PERCE TRIBE"
     },
     {
-      "name": "PUYALLUP TRIBE PD",
+      "name": "THURSTON COUNTY SHERIFF",
       "count": 2,
       "pct": 0.1,
-      "label": "PUYALLUP TRIBE PD"
+      "label": "THURSTON COUNTY SHERIFF"
     }
   ],
   "levels": [
     {
       "name": "GM",
-      "count": 721,
-      "pct": 36,
+      "count": 722,
+      "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 688,
+      "count": 689,
       "pct": 34.3,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 570,
-      "pct": 28.4,
+      "count": 573,
+      "pct": 28.5,
       "label": "Misdemeanor"
     },
     {
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 948,
-      "pct": 66.4
+      "pct": 66.3
     },
     {
       "name": "Black",
-      "count": 261,
-      "pct": 18.3
+      "count": 264,
+      "pct": 18.5
     },
     {
       "name": "Unknown",
@@ -438,19 +438,19 @@
     {
       "name": "P",
       "count": 15,
-      "pct": 1.1
+      "pct": 1
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 1151,
-      "pct": 79.1
+      "count": 1153,
+      "pct": 79
     },
     {
       "name": "Female",
-      "count": 305,
-      "pct": 20.9
+      "count": 306,
+      "pct": 21
     }
   ],
   "ages": {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 422
+        "count": 423
       },
       {
         "label": "35–44",
-        "count": 507
+        "count": 508
       },
       {
         "label": "45–54",
@@ -474,23 +474,23 @@
       },
       {
         "label": "55+",
-        "count": 164
+        "count": 165
       }
     ]
   },
   "releaseSources": {
-    "observed": 1059,
+    "observed": 1060,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1066,
+    "releasedCount": 1067,
     "medianDays": 3.3,
     "meanDays": 10.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 180
+        "count": 181
       },
       {
         "label": "1–3 days",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 232
   },
   "bond": {
-    "withBond": 86,
-    "noBond": 211,
+    "withBond": 87,
+    "noBond": 212,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 495251
+    "totalBond": 494751
   },
   "chargesPerBooking": 1.6
 }
