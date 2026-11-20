@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T17:47:13",
+  "generatedAt": "2026-11-19T18:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1459,
-    "bookingsObserved": 1195,
+    "bookingsTracked": 1461,
+    "bookingsObserved": 1197,
     "releasesObserved": 1162,
-    "inCustody": 297,
-    "uniquePeople": 1314
+    "inCustody": 299,
+    "uniquePeople": 1316
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 22,
+      "booked": 24,
       "released": 35
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 687,
-      "pct": 29.5
+      "count": 689,
+      "pct": 29.6
     },
     {
       "name": "THEFT III",
-      "count": 206,
-      "pct": 8.8
+      "count": 207,
+      "pct": 8.9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 655,
+      "count": 657,
       "pct": 45.4,
       "label": "WA DOC"
     },
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 683,
-      "pct": 34.3,
+      "count": 685,
+      "pct": 34.4,
       "label": "Felony"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 939,
+      "count": 941,
       "pct": 66.3
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1144,
+      "count": 1146,
       "pct": 79.1
     },
     {
@@ -470,11 +470,11 @@
       },
       {
         "label": "45–54",
-        "count": 255
+        "count": 256
       },
       {
         "label": "55+",
-        "count": 162
+        "count": 163
       }
     ]
   },
@@ -513,12 +513,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 9.1,
-    "currentLongestDaysHeld": 231.7
+    "currentMedianDaysHeld": 9,
+    "currentLongestDaysHeld": 231.8
   },
   "bond": {
     "withBond": 89,
-    "noBond": 208,
+    "noBond": 210,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 501251
