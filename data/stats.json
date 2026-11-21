@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T05:47:14",
+  "generatedAt": "2026-11-21T06:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1508,
-    "bookingsObserved": 1244,
+    "bookingsTracked": 1509,
+    "bookingsObserved": 1245,
     "releasesObserved": 1225,
-    "inCustody": 283,
-    "uniquePeople": 1355
+    "inCustody": 284,
+    "uniquePeople": 1356
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 706,
-      "pct": 29.2
+      "count": 707,
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 98,
+      "count": 99,
       "pct": 4.1
     },
     {
@@ -265,13 +265,13 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 667,
+      "count": 668,
       "pct": 44.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 249,
+      "count": 250,
       "pct": 16.7,
       "label": "OLYMPIA PD"
     },
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 738,
+      "count": 739,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 702,
-      "pct": 34.1,
+      "count": 703,
+      "pct": 34.2,
       "label": "Felony"
     },
     {
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 972,
-      "pct": 66.3
+      "count": 973,
+      "pct": 66.4
     },
     {
       "name": "Black",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 1179,
-      "pct": 78.9
+      "pct": 78.8
     },
     {
       "name": "Female",
-      "count": 316,
-      "pct": 21.1
+      "count": 317,
+      "pct": 21.2
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 434
+        "count": 435
       },
       {
         "label": "35–44",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 8.4,
-    "currentLongestDaysHeld": 233.2
+    "currentLongestDaysHeld": 233.3
   },
   "bond": {
-    "withBond": 90,
+    "withBond": 91,
     "noBond": 193,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 500701
+    "totalBond": 501701
   },
   "chargesPerBooking": 1.6
 }
