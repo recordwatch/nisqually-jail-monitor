@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T01:47:15",
+  "generatedAt": "2026-11-21T02:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1505,
-    "bookingsObserved": 1241,
+    "bookingsTracked": 1506,
+    "bookingsObserved": 1242,
     "releasesObserved": 1225,
-    "inCustody": 280,
-    "uniquePeople": 1352
+    "inCustody": 281,
+    "uniquePeople": 1353
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 2,
+      "booked": 3,
       "released": 2
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 96,
-      "pct": 4
+      "count": 98,
+      "pct": 4.1
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -266,18 +266,18 @@
     {
       "name": "WA DOC",
       "count": 668,
-      "pct": 44.9,
+      "pct": 44.8,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 248,
-      "pct": 16.7,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 162,
+      "count": 163,
       "pct": 10.9,
       "label": "LACEY PD"
     },
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 91,
-      "pct": 6.1,
+      "count": 92,
+      "pct": 6.2,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 736,
+      "count": 738,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 588,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 84,
-      "pct": 5.7
+      "count": 85,
+      "pct": 5.8
     },
     {
       "name": "N",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 1177,
-      "pct": 78.9
+      "pct": 78.8
     },
     {
       "name": "Female",
-      "count": 315,
-      "pct": 21.1
+      "count": 316,
+      "pct": 21.2
     }
   ],
   "ages": {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 168
+        "count": 169
       }
     ]
   },
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 89,
-    "noBond": 191,
+    "noBond": 192,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 498451
