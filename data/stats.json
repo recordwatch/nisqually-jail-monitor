@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:47:14",
+  "generatedAt": "2026-11-21T00:07:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1503,
@@ -9,11 +9,6 @@
     "uniquePeople": 1350
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-22",
-      "booked": 33,
-      "released": 33
-    },
     {
       "date": "2026-10-23",
       "booked": 22,
@@ -158,13 +153,18 @@
       "date": "2026-11-20",
       "booked": 29,
       "released": 50
+    },
+    {
+      "date": "2026-11-21",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 706,
-      "pct": 29.4
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
@@ -184,7 +184,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
       "count": 95,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 668,
-      "pct": 45,
+      "pct": 44.9,
       "label": "WA DOC"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 161,
-      "pct": 10.8,
+      "count": 162,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
