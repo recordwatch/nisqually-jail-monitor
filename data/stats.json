@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:27:13",
+  "generatedAt": "2026-11-21T05:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1508,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 4,
+      "booked": 5,
       "released": 2
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 706,
-      "pct": 29.3
+      "pct": 29.2
     },
     {
       "name": "THEFT III",
@@ -253,8 +253,8 @@
     },
     {
       "name": "DISORDERLY CONDUCT",
-      "count": 22,
-      "pct": 0.9
+      "count": 23,
+      "pct": 1
     },
     {
       "name": "ASSAULT 4",
@@ -342,16 +342,16 @@
       "label": "STEILACOOM PD"
     },
     {
+      "name": "NISQUALLY PD",
+      "count": 3,
+      "pct": 0.2,
+      "label": "NISQUALLY PD"
+    },
+    {
       "name": "NEZ PERCE TRIBE",
       "count": 3,
       "pct": 0.2,
       "label": "NEZ PERCE TRIBE"
-    },
-    {
-      "name": "THURSTON COUNTY SHERIFF",
-      "count": 2,
-      "pct": 0.1,
-      "label": "THURSTON COUNTY SHERIFF"
     }
   ],
   "levels": [
@@ -364,13 +364,13 @@
     {
       "name": "F",
       "count": 702,
-      "pct": 34.2,
+      "pct": 34.1,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 588,
-      "pct": 28.6,
+      "count": 591,
+      "pct": 28.7,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 233.2
   },
   "bond": {
-    "withBond": 89,
-    "noBond": 194,
+    "withBond": 90,
+    "noBond": 193,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 498451
+    "totalBond": 500701
   },
   "chargesPerBooking": 1.6
 }
