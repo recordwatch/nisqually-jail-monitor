@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:07:17",
+  "generatedAt": "2026-11-20T17:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1495,
@@ -243,8 +243,8 @@
     },
     {
       "name": "VIOLATION NO CONTACT ORDER",
-      "count": 26,
-      "pct": 1.1
+      "count": 25,
+      "pct": 1
     },
     {
       "name": "SIMPLE ASSAULT-DV",
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 732,
+      "count": 731,
       "pct": 35.9,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 582,
+      "count": 583,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -521,7 +521,7 @@
     "noBond": 188,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 501701
+    "totalBond": 503701
   },
   "chargesPerBooking": 1.6
 }
