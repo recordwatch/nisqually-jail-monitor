@@ -1,0 +1,527 @@
+{
+  "generatedAt": "2026-11-21T10:07:15",
+  "monitoringSince": "2026-10-10T23:29:05",
+  "totals": {
+    "bookingsTracked": 1511,
+    "bookingsObserved": 1247,
+    "releasesObserved": 1233,
+    "inCustody": 278,
+    "uniquePeople": 1358
+  },
+  "bookingsByDay": [
+    {
+      "date": "2026-10-23",
+      "booked": 22,
+      "released": 35
+    },
+    {
+      "date": "2026-10-24",
+      "booked": 15,
+      "released": 8
+    },
+    {
+      "date": "2026-10-25",
+      "booked": 11,
+      "released": 7
+    },
+    {
+      "date": "2026-10-26",
+      "booked": 22,
+      "released": 47
+    },
+    {
+      "date": "2026-10-27",
+      "booked": 38,
+      "released": 28
+    },
+    {
+      "date": "2026-10-28",
+      "booked": 48,
+      "released": 30
+    },
+    {
+      "date": "2026-10-29",
+      "booked": 33,
+      "released": 38
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 29,
+      "released": 38
+    },
+    {
+      "date": "2026-10-31",
+      "booked": 25,
+      "released": 12
+    },
+    {
+      "date": "2026-11-01",
+      "booked": 16,
+      "released": 10
+    },
+    {
+      "date": "2026-11-02",
+      "booked": 26,
+      "released": 56
+    },
+    {
+      "date": "2026-11-03",
+      "booked": 38,
+      "released": 31
+    },
+    {
+      "date": "2026-11-04",
+      "booked": 43,
+      "released": 17
+    },
+    {
+      "date": "2026-11-05",
+      "booked": 41,
+      "released": 36
+    },
+    {
+      "date": "2026-11-06",
+      "booked": 23,
+      "released": 43
+    },
+    {
+      "date": "2026-11-07",
+      "booked": 19,
+      "released": 5
+    },
+    {
+      "date": "2026-11-08",
+      "booked": 20,
+      "released": 11
+    },
+    {
+      "date": "2026-11-09",
+      "booked": 28,
+      "released": 59
+    },
+    {
+      "date": "2026-11-10",
+      "booked": 44,
+      "released": 22
+    },
+    {
+      "date": "2026-11-11",
+      "booked": 15,
+      "released": 3
+    },
+    {
+      "date": "2026-11-12",
+      "booked": 28,
+      "released": 31
+    },
+    {
+      "date": "2026-11-13",
+      "booked": 30,
+      "released": 41
+    },
+    {
+      "date": "2026-11-14",
+      "booked": 20,
+      "released": 4
+    },
+    {
+      "date": "2026-11-15",
+      "booked": 20,
+      "released": 5
+    },
+    {
+      "date": "2026-11-16",
+      "booked": 26,
+      "released": 44
+    },
+    {
+      "date": "2026-11-17",
+      "booked": 45,
+      "released": 29
+    },
+    {
+      "date": "2026-11-18",
+      "booked": 34,
+      "released": 36
+    },
+    {
+      "date": "2026-11-19",
+      "booked": 37,
+      "released": 46
+    },
+    {
+      "date": "2026-11-20",
+      "booked": 29,
+      "released": 50
+    },
+    {
+      "date": "2026-11-21",
+      "booked": 8,
+      "released": 10
+    }
+  ],
+  "topCharges": [
+    {
+      "name": "DOC VIOLATION",
+      "count": 707,
+      "pct": 29.2
+    },
+    {
+      "name": "THEFT III",
+      "count": 214,
+      "pct": 8.8
+    },
+    {
+      "name": "ASSAULT IV -DV",
+      "count": 118,
+      "pct": 4.9
+    },
+    {
+      "name": "DUI",
+      "count": 100,
+      "pct": 4.1
+    },
+    {
+      "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
+      "count": 96,
+      "pct": 4
+    },
+    {
+      "name": "CRIMINAL TRESPASS",
+      "count": 74,
+      "pct": 3.1
+    },
+    {
+      "name": "CRIMINAL TRESPASS-2",
+      "count": 58,
+      "pct": 2.4
+    },
+    {
+      "name": "ASSAULT-4",
+      "count": 53,
+      "pct": 2.2
+    },
+    {
+      "name": "DWLS/DWLR III",
+      "count": 52,
+      "pct": 2.1
+    },
+    {
+      "name": "THEFT",
+      "count": 52,
+      "pct": 2.1
+    },
+    {
+      "name": "CRIMINAL TRESPASS-1",
+      "count": 45,
+      "pct": 1.9
+    },
+    {
+      "name": "VIOLATION OF A PROTECTION ORDER (DV)",
+      "count": 39,
+      "pct": 1.6
+    },
+    {
+      "name": "HARASSMENT",
+      "count": 32,
+      "pct": 1.3
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 31,
+      "pct": 1.3
+    },
+    {
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 29,
+      "pct": 1.2
+    },
+    {
+      "name": "ASSAULT 4TH DV",
+      "count": 28,
+      "pct": 1.2
+    },
+    {
+      "name": "VIOLATION NO CONTACT ORDER",
+      "count": 26,
+      "pct": 1.1
+    },
+    {
+      "name": "SIMPLE ASSAULT-DV",
+      "count": 24,
+      "pct": 1
+    },
+    {
+      "name": "DISORDERLY CONDUCT",
+      "count": 23,
+      "pct": 0.9
+    },
+    {
+      "name": "ASSAULT 4",
+      "count": 21,
+      "pct": 0.9
+    }
+  ],
+  "topAgencies": [
+    {
+      "name": "WA DOC",
+      "count": 668,
+      "pct": 44.6,
+      "label": "WA DOC"
+    },
+    {
+      "name": "OLYMPIA PD",
+      "count": 251,
+      "pct": 16.8,
+      "label": "OLYMPIA PD"
+    },
+    {
+      "name": "LACEY PD",
+      "count": 163,
+      "pct": 10.9,
+      "label": "LACEY PD"
+    },
+    {
+      "name": "LAKEWOOD PD",
+      "count": 128,
+      "pct": 8.6,
+      "label": "LAKEWOOD PD"
+    },
+    {
+      "name": "FEDERAL WAY",
+      "count": 93,
+      "pct": 6.2,
+      "label": "FEDERAL WAY"
+    },
+    {
+      "name": "TACOMA PD",
+      "count": 80,
+      "pct": 5.3,
+      "label": "TACOMA PD"
+    },
+    {
+      "name": "TUMWATER PD",
+      "count": 37,
+      "pct": 2.5,
+      "label": "TUMWATER PD"
+    },
+    {
+      "name": "YELM PD",
+      "count": 31,
+      "pct": 2.1,
+      "label": "YELM PD"
+    },
+    {
+      "name": "SHELTON PD",
+      "count": 8,
+      "pct": 0.5,
+      "label": "SHELTON PD"
+    },
+    {
+      "name": "DOC",
+      "count": 7,
+      "pct": 0.5,
+      "label": "DOC"
+    },
+    {
+      "name": "SQUAXIN ISLAND PD",
+      "count": 5,
+      "pct": 0.3,
+      "label": "SQUAXIN ISLAND PD"
+    },
+    {
+      "name": "DUPONT PD",
+      "count": 4,
+      "pct": 0.3,
+      "label": "DUPONT PD"
+    },
+    {
+      "name": "STEILACOOM PD",
+      "count": 4,
+      "pct": 0.3,
+      "label": "STEILACOOM PD"
+    },
+    {
+      "name": "NISQUALLY PD",
+      "count": 3,
+      "pct": 0.2,
+      "label": "NISQUALLY PD"
+    },
+    {
+      "name": "NEZ PERCE TRIBE",
+      "count": 3,
+      "pct": 0.2,
+      "label": "NEZ PERCE TRIBE"
+    }
+  ],
+  "levels": [
+    {
+      "name": "GM",
+      "count": 740,
+      "pct": 35.9,
+      "label": "Gross Misdemeanor"
+    },
+    {
+      "name": "F",
+      "count": 703,
+      "pct": 34.1,
+      "label": "Felony"
+    },
+    {
+      "name": "M",
+      "count": 596,
+      "pct": 28.9,
+      "label": "Misdemeanor"
+    },
+    {
+      "name": "FC",
+      "count": 12,
+      "pct": 0.6,
+      "label": "FC"
+    },
+    {
+      "name": "AD",
+      "count": 3,
+      "pct": 0.1,
+      "label": "AD"
+    },
+    {
+      "name": "B",
+      "count": 2,
+      "pct": 0.1,
+      "label": "B"
+    },
+    {
+      "name": "IN",
+      "count": 2,
+      "pct": 0.1,
+      "label": "IN"
+    },
+    {
+      "name": "FA",
+      "count": 2,
+      "pct": 0.1,
+      "label": "FA"
+    }
+  ],
+  "race": [
+    {
+      "name": "White",
+      "count": 973,
+      "pct": 66.3
+    },
+    {
+      "name": "Black",
+      "count": 270,
+      "pct": 18.4
+    },
+    {
+      "name": "Unknown",
+      "count": 86,
+      "pct": 5.9
+    },
+    {
+      "name": "N",
+      "count": 55,
+      "pct": 3.7
+    },
+    {
+      "name": "Asian",
+      "count": 51,
+      "pct": 3.5
+    },
+    {
+      "name": "I",
+      "count": 18,
+      "pct": 1.2
+    },
+    {
+      "name": "P",
+      "count": 15,
+      "pct": 1
+    }
+  ],
+  "sex": [
+    {
+      "name": "Male",
+      "count": 1181,
+      "pct": 78.8
+    },
+    {
+      "name": "Female",
+      "count": 317,
+      "pct": 21.2
+    }
+  ],
+  "ages": {
+    "median": 38,
+    "groups": [
+      {
+        "label": "18–24",
+        "count": 122
+      },
+      {
+        "label": "25–34",
+        "count": 436
+      },
+      {
+        "label": "35–44",
+        "count": 521
+      },
+      {
+        "label": "45–54",
+        "count": 263
+      },
+      {
+        "label": "55+",
+        "count": 169
+      }
+    ]
+  },
+  "releaseSources": {
+    "observed": 1120,
+    "officialDate": 113,
+    "releaseListOnly": 104
+  },
+  "stay": {
+    "releasedCount": 1127,
+    "medianDays": 3.4,
+    "meanDays": 10.9,
+    "buckets": [
+      {
+        "label": "< 1 day",
+        "count": 194
+      },
+      {
+        "label": "1–3 days",
+        "count": 346
+      },
+      {
+        "label": "3–7 days",
+        "count": 97
+      },
+      {
+        "label": "1–4 weeks",
+        "count": 412
+      },
+      {
+        "label": "1–3 months",
+        "count": 69
+      },
+      {
+        "label": "3+ months",
+        "count": 9
+      }
+    ],
+    "currentMedianDaysHeld": 8.6,
+    "currentLongestDaysHeld": 233.4
+  },
+  "bond": {
+    "withBond": 90,
+    "noBond": 188,
+    "medianBond": 2000,
+    "maxBond": 60000,
+    "totalBond": 492701
+  },
+  "chargesPerBooking": 1.6
+}
