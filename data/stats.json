@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T05:07:13",
+  "generatedAt": "2026-11-21T05:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1507,
-    "bookingsObserved": 1243,
+    "bookingsTracked": 1508,
+    "bookingsObserved": 1244,
     "releasesObserved": 1225,
-    "inCustody": 282,
-    "uniquePeople": 1354
+    "inCustody": 283,
+    "uniquePeople": 1355
   },
   "bookingsByDay": [
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 668,
-      "pct": 44.8,
+      "count": 667,
+      "pct": 44.7,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 248,
-      "pct": 16.6,
+      "count": 249,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 971,
+      "count": 972,
       "pct": 66.3
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1178,
-      "pct": 78.8
+      "count": 1179,
+      "pct": 78.9
     },
     {
       "name": "Female",
       "count": 316,
-      "pct": 21.2
+      "pct": 21.1
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 121
+        "count": 122
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 89,
-    "noBond": 193,
+    "noBond": 194,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 498451
