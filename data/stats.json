@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:27:14",
+  "generatedAt": "2026-11-22T11:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1526,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 6,
+      "booked": 7,
       "released": 8
     }
   ],
@@ -252,12 +252,12 @@
       "pct": 1.1
     },
     {
-      "name": "DISORDERLY CONDUCT",
+      "name": "ASSAULT 4",
       "count": 23,
       "pct": 0.9
     },
     {
-      "name": "ASSAULT 4",
+      "name": "DISORDERLY CONDUCT",
       "count": 23,
       "pct": 0.9
     }
