@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T15:07:12",
+  "generatedAt": "2026-11-22T15:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1527,
-    "bookingsObserved": 1263,
+    "bookingsTracked": 1528,
+    "bookingsObserved": 1264,
     "releasesObserved": 1244,
-    "inCustody": 283,
-    "uniquePeople": 1373
+    "inCustody": 284,
+    "uniquePeople": 1374
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 8,
+      "booked": 9,
       "released": 8
     }
   ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 102,
+      "count": 103,
       "pct": 4.2
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 253,
-      "pct": 16.7,
+      "count": 254,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 757,
+      "count": 758,
       "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 982,
+      "count": 983,
       "pct": 66.2
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 319,
+      "count": 320,
       "pct": 21.1
     }
   ],
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 172
+        "count": 173
       }
     ]
   },
@@ -513,12 +513,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 9.1,
+    "currentMedianDaysHeld": 9.2,
     "currentLongestDaysHeld": 234.6
   },
   "bond": {
     "withBond": 95,
-    "noBond": 188,
+    "noBond": 189,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 536451
