@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:47:12",
+  "generatedAt": "2026-11-22T12:07:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1526,
@@ -375,8 +375,8 @@
     },
     {
       "name": "FC",
-      "count": 12,
-      "pct": 0.6,
+      "count": 11,
+      "pct": 0.5,
       "label": "FC"
     },
     {
