@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:27:13",
+  "generatedAt": "2026-11-22T12:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1527,
@@ -164,12 +164,12 @@
     {
       "name": "DOC VIOLATION",
       "count": 708,
-      "pct": 29
+      "pct": 28.9
     },
     {
       "name": "THEFT III",
-      "count": 217,
-      "pct": 8.9
+      "count": 221,
+      "pct": 9
     },
     {
       "name": "ASSAULT IV -DV",
@@ -213,8 +213,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 45,
-      "pct": 1.8
+      "count": 46,
+      "pct": 1.9
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -223,7 +223,7 @@
     },
     {
       "name": "HARASSMENT",
-      "count": 32,
+      "count": 33,
       "pct": 1.3
     },
     {
@@ -252,13 +252,13 @@
       "pct": 1.1
     },
     {
-      "name": "ASSAULT 4",
+      "name": "DISORDERLY CONDUCT",
       "count": 23,
       "pct": 0.9
     },
     {
-      "name": "DISORDERLY CONDUCT",
-      "count": 23,
+      "name": "ASSAULT 4",
+      "count": 22,
       "pct": 0.9
     }
   ],
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 750,
-      "pct": 36,
+      "count": 757,
+      "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 704,
-      "pct": 33.8,
+      "pct": 33.7,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 603,
-      "pct": 29,
+      "count": 602,
+      "pct": 28.8,
       "label": "Misdemeanor"
     },
     {
@@ -513,7 +513,7 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 9.1,
+    "currentMedianDaysHeld": 9,
     "currentLongestDaysHeld": 234.5
   },
   "bond": {
@@ -521,7 +521,7 @@
     "noBond": 188,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 534451
+    "totalBond": 536451
   },
   "chargesPerBooking": 1.6
 }
