@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T12:07:12",
+  "generatedAt": "2026-11-22T12:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1526,
-    "bookingsObserved": 1262,
+    "bookingsTracked": 1527,
+    "bookingsObserved": 1263,
     "releasesObserved": 1244,
-    "inCustody": 282,
-    "uniquePeople": 1372
+    "inCustody": 283,
+    "uniquePeople": 1373
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 7,
+      "booked": 8,
       "released": 8
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 101,
-      "pct": 4.1
+      "count": 102,
+      "pct": 4.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -308,7 +308,7 @@
     {
       "name": "YELM PD",
       "count": 31,
-      "pct": 2.1,
+      "pct": 2,
       "label": "YELM PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 749,
+      "count": 750,
       "pct": 36,
       "label": "Gross Misdemeanor"
     },
@@ -412,7 +412,7 @@
     },
     {
       "name": "Black",
-      "count": 274,
+      "count": 275,
       "pct": 18.5
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1194,
+      "count": 1195,
       "pct": 78.9
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 264
+        "count": 265
       },
       {
         "label": "55+",
@@ -513,12 +513,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 9,
+    "currentMedianDaysHeld": 9.1,
     "currentLongestDaysHeld": 234.5
   },
   "bond": {
     "withBond": 95,
-    "noBond": 187,
+    "noBond": 188,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 534451
