@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:27:15",
+  "generatedAt": "2026-11-21T20:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1518,
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 215,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -218,8 +218,8 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 40,
-      "pct": 1.6
+      "count": 41,
+      "pct": 1.7
     },
     {
       "name": "HARASSMENT",
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 128,
-      "pct": 8.5,
+      "count": 129,
+      "pct": 8.6,
       "label": "LAKEWOOD PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 597,
+      "count": 598,
       "pct": 28.9,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 233.9
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 192,
+    "withBond": 91,
+    "noBond": 191,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 491451
+    "totalBond": 493951
   },
   "chargesPerBooking": 1.6
 }
