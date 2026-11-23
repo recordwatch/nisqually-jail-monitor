@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T22:47:13",
+  "generatedAt": "2026-11-22T23:07:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1532,
-    "bookingsObserved": 1268,
+    "bookingsTracked": 1533,
+    "bookingsObserved": 1269,
     "releasesObserved": 1247,
-    "inCustody": 285,
-    "uniquePeople": 1377
+    "inCustody": 286,
+    "uniquePeople": 1378
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 13,
+      "booked": 14,
       "released": 11
     }
   ],
@@ -233,7 +233,7 @@
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
-      "count": 29,
+      "count": 30,
       "pct": 1.2
     },
     {
@@ -266,12 +266,12 @@
     {
       "name": "WA DOC",
       "count": 669,
-      "pct": 44.1,
+      "pct": 44,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 256,
+      "count": 257,
       "pct": 16.9,
       "label": "OLYMPIA PD"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 605,
-      "pct": 28.9,
+      "count": 607,
+      "pct": 29,
       "label": "Misdemeanor"
     },
     {
@@ -408,11 +408,11 @@
     {
       "name": "White",
       "count": 984,
-      "pct": 66.1
+      "pct": 66
     },
     {
       "name": "Black",
-      "count": 278,
+      "count": 279,
       "pct": 18.7
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1199,
+      "count": 1200,
       "pct": 78.9
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 527
+        "count": 528
       },
       {
         "label": "45–54",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 9.4,
-    "currentLongestDaysHeld": 234.9
+    "currentLongestDaysHeld": 235
   },
   "bond": {
-    "withBond": 96,
+    "withBond": 97,
     "noBond": 189,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 549451
+    "totalBond": 551451
   },
   "chargesPerBooking": 1.6
 }
