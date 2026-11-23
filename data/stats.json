@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T13:27:13",
+  "generatedAt": "2026-11-23T13:47:20",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1544,
-    "bookingsObserved": 1280,
+    "bookingsTracked": 1545,
+    "bookingsObserved": 1281,
     "releasesObserved": 1260,
-    "inCustody": 284,
+    "inCustody": 285,
     "uniquePeople": 1386
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 9,
+      "booked": 10,
       "released": 13
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 712,
-      "pct": 28.8
+      "pct": 28.7
     },
     {
       "name": "THEFT III",
@@ -249,7 +249,7 @@
     {
       "name": "SIMPLE ASSAULT-DV",
       "count": 26,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "ASSAULT 4",
@@ -301,8 +301,8 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 40,
-      "pct": 2.6,
+      "count": 41,
+      "pct": 2.7,
       "label": "TUMWATER PD"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 990,
+      "count": 991,
       "pct": 66
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 321,
+      "count": 322,
       "pct": 21
     }
   ],
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 449
+        "count": 450
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 235.6
   },
   "bond": {
-    "withBond": 98,
+    "withBond": 99,
     "noBond": 186,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 551951
+    "totalBond": 552951
   },
   "chargesPerBooking": 1.6
 }
