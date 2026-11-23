@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T17:27:12",
+  "generatedAt": "2026-11-22T17:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1528,
-    "bookingsObserved": 1264,
+    "bookingsTracked": 1529,
+    "bookingsObserved": 1265,
     "releasesObserved": 1244,
-    "inCustody": 284,
-    "uniquePeople": 1374
+    "inCustody": 285,
+    "uniquePeople": 1375
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 9,
+      "booked": 10,
       "released": 8
     }
   ],
@@ -218,7 +218,7 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 41,
+      "count": 42,
       "pct": 1.7
     },
     {
@@ -325,8 +325,8 @@
     },
     {
       "name": "DUPONT PD",
-      "count": 5,
-      "pct": 0.3,
+      "count": 6,
+      "pct": 0.4,
       "label": "DUPONT PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 603,
+      "count": 604,
       "pct": 28.9,
       "label": "Misdemeanor"
     },
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 275,
-      "pct": 18.5
+      "count": 276,
+      "pct": 18.6
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1195,
+      "count": 1196,
       "pct": 78.9
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 442
+        "count": 443
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 95,
-    "noBond": 189,
+    "noBond": 190,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 547451
