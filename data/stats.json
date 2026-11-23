@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T01:07:21",
+  "generatedAt": "2026-11-23T01:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1534,
-    "bookingsObserved": 1270,
+    "bookingsTracked": 1535,
+    "bookingsObserved": 1271,
     "releasesObserved": 1247,
-    "inCustody": 287,
-    "uniquePeople": 1379
+    "inCustody": 288,
+    "uniquePeople": 1380
   },
   "bookingsByDay": [
     {
@@ -284,12 +284,12 @@
     {
       "name": "LAKEWOOD PD",
       "count": 133,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "FEDERAL WAY",
-      "count": 95,
+      "count": 96,
       "pct": 6.3,
       "label": "FEDERAL WAY"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 608,
+      "count": 609,
       "pct": 29,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 985,
+      "count": 986,
       "pct": 66.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1201,
+      "count": 1202,
       "pct": 79
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 174
+        "count": 175
       }
     ]
   },
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 9.5,
-    "currentLongestDaysHeld": 235
+    "currentLongestDaysHeld": 235.1
   },
   "bond": {
     "withBond": 97,
-    "noBond": 190,
+    "noBond": 191,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 551451
