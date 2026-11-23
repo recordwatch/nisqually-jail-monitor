@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:07:14",
+  "generatedAt": "2026-11-23T15:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1548,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 715,
-      "pct": 28.8
+      "pct": 28.7
     },
     {
       "name": "THEFT III",
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 104,
-      "pct": 4.2
+      "count": 107,
+      "pct": 4.3
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -203,8 +203,8 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 53,
-      "pct": 2.1
+      "count": 54,
+      "pct": 2.2
     },
     {
       "name": "THEFT",
@@ -214,7 +214,7 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 46,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -233,7 +233,7 @@
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
-      "count": 30,
+      "count": 31,
       "pct": 1.2
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 167,
-      "pct": 10.9,
+      "count": 168,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -357,20 +357,20 @@
   "levels": [
     {
       "name": "GM",
-      "count": 770,
-      "pct": 36.4,
+      "count": 773,
+      "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 711,
-      "pct": 33.6,
+      "pct": 33.5,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 610,
-      "pct": 28.8,
+      "count": 612,
+      "pct": 28.9,
       "label": "Misdemeanor"
     },
     {
@@ -521,7 +521,7 @@
     "noBond": 188,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 556451
+    "totalBond": 560451
   },
   "chargesPerBooking": 1.6
 }
