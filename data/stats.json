@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:47:20",
+  "generatedAt": "2026-11-23T14:49:03",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1548,
@@ -198,7 +198,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 56,
+      "count": 57,
       "pct": 2.3
     },
     {
@@ -223,8 +223,8 @@
     },
     {
       "name": "HARASSMENT",
-      "count": 33,
-      "pct": 1.3
+      "count": 34,
+      "pct": 1.4
     },
     {
       "name": "RESISTING ARREST",
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 767,
-      "pct": 36.3,
+      "count": 769,
+      "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 711,
-      "pct": 33.7,
+      "pct": 33.6,
       "label": "Felony"
     },
     {
