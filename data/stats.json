@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:27:13",
+  "generatedAt": "2026-11-24T04:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1558,
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 222,
+      "count": 223,
       "pct": 8.9
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 98,
+      "count": 99,
       "pct": 3.9
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 261,
-      "pct": 16.9,
+      "count": 262,
+      "pct": 17,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 779,
+      "count": 780,
       "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 614,
+      "count": 615,
       "pct": 28.8,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 236.2
   },
   "bond": {
-    "withBond": 88,
-    "noBond": 182,
+    "withBond": 89,
+    "noBond": 181,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 532351
+    "totalBond": 532851
   },
   "chargesPerBooking": 1.6
 }
