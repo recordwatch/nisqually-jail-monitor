@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:07:14",
+  "generatedAt": "2026-11-24T10:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1560,
@@ -266,19 +266,19 @@
     {
       "name": "WA DOC",
       "count": 681,
-      "pct": 44.1,
+      "pct": 44,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 262,
-      "pct": 17,
+      "pct": 16.9,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 169,
-      "pct": 10.9,
+      "count": 170,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
