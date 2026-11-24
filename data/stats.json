@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:27:17",
+  "generatedAt": "2026-11-24T13:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1570,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 728,
-      "pct": 28.8
+      "count": 729,
+      "pct": 28.9
     },
     {
       "name": "THEFT III",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 689,
+      "count": 690,
       "pct": 44.3,
       "label": "WA DOC"
     },
@@ -320,7 +320,7 @@
     {
       "name": "DOC",
       "count": 7,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "DOC"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 724,
+      "count": 725,
       "pct": 33.7,
       "label": "Felony"
     },
@@ -513,7 +513,7 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 9.7,
+    "currentMedianDaysHeld": 9.5,
     "currentLongestDaysHeld": 236.6
   },
   "bond": {
