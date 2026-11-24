@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:07:14",
+  "generatedAt": "2026-11-23T18:27:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1549,
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 13,
+      "booked": 14,
       "released": 21
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 715,
+      "count": 716,
       "pct": 28.7
     },
     {
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 676,
+      "count": 677,
       "pct": 44.1,
       "label": "WA DOC"
     },
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 168,
-      "pct": 11,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 711,
-      "pct": 33.5,
+      "count": 712,
+      "pct": 33.6,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 612,
-      "pct": 28.9,
+      "pct": 28.8,
       "label": "Misdemeanor"
     },
     {
