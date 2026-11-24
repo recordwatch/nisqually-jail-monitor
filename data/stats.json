@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T13:07:18",
+  "generatedAt": "2026-11-24T13:27:17",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1568,
-    "bookingsObserved": 1304,
+    "bookingsTracked": 1570,
+    "bookingsObserved": 1306,
     "releasesObserved": 1297,
-    "inCustody": 271,
+    "inCustody": 273,
     "uniquePeople": 1405
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 11,
+      "booked": 13,
       "released": 10
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 727,
+      "count": 728,
       "pct": 28.8
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 77,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "ASSAULT-4",
@@ -213,8 +213,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 46,
-      "pct": 1.8
+      "count": 48,
+      "pct": 1.9
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 688,
+      "count": 689,
       "pct": 44.3,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
       "count": 262,
-      "pct": 16.9,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
-      "count": 170,
-      "pct": 10.9,
+      "count": 171,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
       "name": "LAKEWOOD PD",
       "count": 136,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "TACOMA PD",
       "count": 80,
-      "pct": 5.2,
+      "pct": 5.1,
       "label": "TACOMA PD"
     },
     {
@@ -357,13 +357,13 @@
   "levels": [
     {
       "name": "GM",
-      "count": 783,
+      "count": 785,
       "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 723,
+      "count": 724,
       "pct": 33.7,
       "label": "Felony"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1004,
+      "count": 1005,
       "pct": 65.9
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Unknown",
-      "count": 89,
-      "pct": 5.8
+      "count": 90,
+      "pct": 5.9
     },
     {
       "name": "N",
@@ -438,13 +438,13 @@
     {
       "name": "P",
       "count": 16,
-      "pct": 1.1
+      "pct": 1
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 1227,
+      "count": 1229,
       "pct": 79
     },
     {
@@ -462,11 +462,11 @@
       },
       {
         "label": "25–34",
-        "count": 453
+        "count": 452
       },
       {
         "label": "35–44",
-        "count": 541
+        "count": 544
       },
       {
         "label": "45–54",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 9.7,
-    "currentLongestDaysHeld": 236.5
+    "currentLongestDaysHeld": 236.6
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 181,
+    "withBond": 91,
+    "noBond": 182,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 531851
+    "totalBond": 533851
   },
   "chargesPerBooking": 1.6
 }
