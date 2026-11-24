@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T18:27:18",
+  "generatedAt": "2026-11-23T18:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1549,
-    "bookingsObserved": 1285,
+    "bookingsTracked": 1550,
+    "bookingsObserved": 1286,
     "releasesObserved": 1268,
-    "inCustody": 281,
-    "uniquePeople": 1389
+    "inCustody": 282,
+    "uniquePeople": 1390
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 14,
+      "booked": 15,
       "released": 21
     }
   ],
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 677,
+      "count": 678,
       "pct": 44.1,
       "label": "WA DOC"
     },
@@ -364,7 +364,7 @@
     {
       "name": "F",
       "count": 712,
-      "pct": 33.6,
+      "pct": 33.5,
       "label": "Felony"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "AD",
-      "count": 3,
-      "pct": 0.1,
+      "count": 4,
+      "pct": 0.2,
       "label": "AD"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 995,
+      "count": 996,
       "pct": 66.1
     },
     {
       "name": "Black",
       "count": 281,
-      "pct": 18.7
+      "pct": 18.6
     },
     {
       "name": "Unknown",
@@ -423,7 +423,7 @@
     {
       "name": "N",
       "count": 55,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1212,
+      "count": 1213,
       "pct": 78.9
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 534
+        "count": 535
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 99,
-    "noBond": 182,
+    "noBond": 183,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 553351
