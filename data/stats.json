@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T03:47:15",
+  "generatedAt": "2026-11-24T04:07:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1557,
-    "bookingsObserved": 1293,
+    "bookingsTracked": 1558,
+    "bookingsObserved": 1294,
     "releasesObserved": 1288,
-    "inCustody": 269,
+    "inCustody": 270,
     "uniquePeople": 1397
   },
   "bookingsByDay": [
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 718,
+      "count": 719,
       "pct": 28.7
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 119,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "DUI",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 679,
-      "pct": 44,
+      "count": 680,
+      "pct": 44.1,
       "label": "WA DOC"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "LAKEWOOD PD",
       "count": 135,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 714,
+      "count": 715,
       "pct": 33.5,
       "label": "Felony"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 997,
+      "count": 998,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1218,
+      "count": 1219,
       "pct": 78.9
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 450
+        "count": 451
       },
       {
         "label": "35–44",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 88,
-    "noBond": 181,
+    "noBond": 182,
     "medianBond": 2500,
     "maxBond": 60000,
     "totalBond": 532351
