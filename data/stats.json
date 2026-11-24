@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:27:14",
+  "generatedAt": "2026-11-24T03:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1557,
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 678,
+      "count": 679,
       "pct": 44,
       "label": "WA DOC"
     },
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 10.6,
-    "currentLongestDaysHeld": 236.1
+    "currentLongestDaysHeld": 236.2
   },
   "bond": {
     "withBond": 88,
