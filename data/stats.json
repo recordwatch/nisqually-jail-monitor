@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T20:47:16",
+  "generatedAt": "2026-11-23T21:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1551,
-    "bookingsObserved": 1287,
-    "releasesObserved": 1282,
-    "inCustody": 269,
-    "uniquePeople": 1391
+    "bookingsTracked": 1552,
+    "bookingsObserved": 1288,
+    "releasesObserved": 1286,
+    "inCustody": 266,
+    "uniquePeople": 1392
   },
   "bookingsByDay": [
     {
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 16,
-      "released": 35
+      "released": 39
     }
   ],
   "topCharges": [
@@ -192,13 +192,13 @@
       "pct": 3
     },
     {
-      "name": "CRIMINAL TRESPASS-2",
+      "name": "ASSAULT-4",
       "count": 58,
       "pct": 2.3
     },
     {
-      "name": "ASSAULT-4",
-      "count": 57,
+      "name": "CRIMINAL TRESPASS-2",
+      "count": 58,
       "pct": 2.3
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 259,
+      "count": 260,
       "pct": 16.9,
       "label": "OLYMPIA PD"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 775,
+      "count": 776,
       "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
@@ -412,8 +412,8 @@
     },
     {
       "name": "Black",
-      "count": 282,
-      "pct": 18.7
+      "count": 283,
+      "pct": 18.8
     },
     {
       "name": "Unknown",
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 324,
+      "count": 325,
       "pct": 21.1
     }
   ],
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 267
+        "count": 268
       },
       {
         "label": "55+",
@@ -479,14 +479,14 @@
     ]
   },
   "releaseSources": {
-    "observed": 1169,
+    "observed": 1173,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1176,
+    "releasedCount": 1180,
     "medianDays": 3.4,
-    "meanDays": 10.9,
+    "meanDays": 10.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -494,7 +494,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 362
+        "count": 366
       },
       {
         "label": "3–7 days",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 235.9
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 179,
+    "withBond": 88,
+    "noBond": 178,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 534851
+    "totalBond": 532351
   },
   "chargesPerBooking": 1.6
 }
