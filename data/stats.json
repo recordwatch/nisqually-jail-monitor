@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:07:22",
+  "generatedAt": "2026-11-23T16:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1548,
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 76,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 773,
+      "count": 774,
       "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
@@ -521,7 +521,7 @@
     "noBond": 184,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 560451
+    "totalBond": 556451
   },
   "chargesPerBooking": 1.6
 }
