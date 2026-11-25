@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:07:19",
+  "generatedAt": "2026-11-25T13:27:18",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1602,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 752,
+      "count": 753,
       "pct": 29.3
     },
     {
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 712,
+      "count": 713,
       "pct": 44.9,
       "label": "WA DOC"
     },
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 748,
+      "count": 749,
       "pct": 34.2,
       "label": "Felony"
     },
     {
       "name": "M",
       "count": 620,
-      "pct": 28.4,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -514,7 +514,7 @@
       }
     ],
     "currentMedianDaysHeld": 8.6,
-    "currentLongestDaysHeld": 237.5
+    "currentLongestDaysHeld": 237.6
   },
   "bond": {
     "withBond": 90,
