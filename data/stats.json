@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T04:47:18",
+  "generatedAt": "2026-11-25T05:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1592,
-    "bookingsObserved": 1328,
+    "bookingsTracked": 1593,
+    "bookingsObserved": 1329,
     "releasesObserved": 1313,
-    "inCustody": 279,
-    "uniquePeople": 1423
+    "inCustody": 280,
+    "uniquePeople": 1424
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -229,7 +229,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 32,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 706,
-      "pct": 44.8,
+      "pct": 44.7,
       "label": "WA DOC"
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 138,
+      "count": 139,
       "pct": 8.8,
       "label": "LAKEWOOD PD"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 792,
+      "count": 793,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 1021,
-      "pct": 66.1
+      "pct": 66
     },
     {
       "name": "Black",
-      "count": 291,
-      "pct": 18.8
+      "count": 292,
+      "pct": 18.9
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1249,
+      "count": 1250,
       "pct": 79.2
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 459
+        "count": 460
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.2
   },
   "bond": {
-    "withBond": 87,
+    "withBond": 88,
     "noBond": 192,
-    "medianBond": 2500,
+    "medianBond": 2250,
     "maxBond": 60000,
-    "totalBond": 526851
+    "totalBond": 527851
   },
   "chargesPerBooking": 1.6
 }
