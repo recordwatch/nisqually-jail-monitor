@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T17:27:13",
+  "generatedAt": "2026-11-24T17:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1583,
-    "bookingsObserved": 1319,
-    "releasesObserved": 1302,
-    "inCustody": 281,
-    "uniquePeople": 1415
+    "bookingsTracked": 1584,
+    "bookingsObserved": 1320,
+    "releasesObserved": 1307,
+    "inCustody": 277,
+    "uniquePeople": 1416
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 23,
-      "released": 15
+      "booked": 24,
+      "released": 20
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 740,
+      "count": 741,
       "pct": 29.1
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 77,
-      "pct": 3
+      "count": 78,
+      "pct": 3.1
     },
     {
       "name": "ASSAULT-4",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 700,
+      "count": 701,
       "pct": 44.7,
       "label": "WA DOC"
     },
@@ -363,8 +363,8 @@
     },
     {
       "name": "F",
-      "count": 736,
-      "pct": 34,
+      "count": 737,
+      "pct": 34.1,
       "label": "Felony"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1013,
+      "count": 1014,
       "pct": 66
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1241,
-      "pct": 79.1
+      "count": 1242,
+      "pct": 79.2
     },
     {
       "name": "Female",
       "count": 327,
-      "pct": 20.9
+      "pct": 20.8
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 547
+        "count": 548
       },
       {
         "label": "45–54",
@@ -479,30 +479,30 @@
     ]
   },
   "releaseSources": {
-    "observed": 1189,
+    "observed": 1194,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1196,
-    "medianDays": 3.5,
+    "releasedCount": 1201,
+    "medianDays": 3.6,
     "meanDays": 10.9,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 201
+        "count": 202
       },
       {
         "label": "1–3 days",
-        "count": 366
+        "count": 367
       },
       {
         "label": "3–7 days",
-        "count": 106
+        "count": 108
       },
       {
         "label": "1–4 weeks",
-        "count": 440
+        "count": 441
       },
       {
         "label": "1–3 months",
@@ -513,15 +513,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 8.3,
+    "currentMedianDaysHeld": 8.9,
     "currentLongestDaysHeld": 236.7
   },
   "bond": {
-    "withBond": 93,
+    "withBond": 89,
     "noBond": 188,
-    "medianBond": 2000,
+    "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 540851
+    "totalBond": 532851
   },
   "chargesPerBooking": 1.6
 }
