@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T15:07:15",
+  "generatedAt": "2026-11-25T15:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1608,
-    "bookingsObserved": 1344,
+    "bookingsTracked": 1610,
+    "bookingsObserved": 1346,
     "releasesObserved": 1334,
-    "inCustody": 274,
-    "uniquePeople": 1435
+    "inCustody": 276,
+    "uniquePeople": 1437
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 16,
+      "booked": 18,
       "released": 21
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 757,
+      "count": 758,
       "pct": 29.4
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 79,
+      "count": 80,
       "pct": 3.1
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 717,
-      "pct": 45,
+      "count": 718,
+      "pct": 45.1,
       "label": "WA DOC"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 753,
+      "count": 754,
       "pct": 34.4,
       "label": "Felony"
     },
@@ -408,12 +408,12 @@
     {
       "name": "White",
       "count": 1033,
-      "pct": 66.2
+      "pct": 66.1
     },
     {
       "name": "Black",
-      "count": 294,
-      "pct": 18.8
+      "count": 296,
+      "pct": 18.9
     },
     {
       "name": "Unknown",
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1261,
-      "pct": 79.2
+      "count": 1262,
+      "pct": 79.1
     },
     {
       "name": "Female",
-      "count": 332,
-      "pct": 20.8
+      "count": 333,
+      "pct": 20.9
     }
   ],
   "ages": {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 133
+        "count": 135
       },
       {
         "label": "25–34",
@@ -513,15 +513,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 8.7,
+    "currentMedianDaysHeld": 8.6,
     "currentLongestDaysHeld": 237.6
   },
   "bond": {
     "withBond": 88,
-    "noBond": 186,
+    "noBond": 188,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 498201
+    "totalBond": 499201
   },
   "chargesPerBooking": 1.6
 }
