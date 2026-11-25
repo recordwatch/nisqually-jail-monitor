@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T22:27:13",
+  "generatedAt": "2026-11-24T22:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1588,
-    "bookingsObserved": 1324,
+    "bookingsTracked": 1589,
+    "bookingsObserved": 1325,
     "releasesObserved": 1313,
-    "inCustody": 275,
+    "inCustody": 276,
     "uniquePeople": 1420
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 30,
+      "booked": 31,
       "released": 26
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "THEFT III",
       "count": 226,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "ASSAULT IV -DV",
@@ -243,7 +243,7 @@
     },
     {
       "name": "VIOLATION NO CONTACT ORDER",
-      "count": 27,
+      "count": 28,
       "pct": 1.1
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 262,
-      "pct": 16.7,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 136,
-      "pct": 8.6,
+      "count": 137,
+      "pct": 8.7,
       "label": "LAKEWOOD PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 787,
+      "count": 788,
       "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 618,
+      "count": 619,
       "pct": 28.5,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1017,
+      "count": 1018,
       "pct": 66
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 327,
+      "count": 328,
       "pct": 20.8
     }
   ],
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 127
+        "count": 128
       },
       {
         "label": "25–34",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 85,
-    "noBond": 190,
+    "noBond": 191,
     "medianBond": 2500,
     "maxBond": 60000,
     "totalBond": 523351
