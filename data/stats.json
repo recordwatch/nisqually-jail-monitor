@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T15:47:15",
+  "generatedAt": "2026-11-24T16:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1576,
-    "bookingsObserved": 1312,
+    "bookingsTracked": 1577,
+    "bookingsObserved": 1313,
     "releasesObserved": 1302,
-    "inCustody": 274,
-    "uniquePeople": 1409
+    "inCustody": 275,
+    "uniquePeople": 1410
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 18,
+      "booked": 19,
       "released": 15
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 734,
-      "pct": 28.9
+      "count": 735,
+      "pct": 29
     },
     {
       "name": "THEFT III",
@@ -209,7 +209,7 @@
     {
       "name": "THEFT",
       "count": 52,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 695,
-      "pct": 44.5,
+      "count": 696,
+      "pct": 44.6,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 171,
-      "pct": 11,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "F",
-      "count": 730,
+      "count": 731,
       "pct": 33.9,
       "label": "Felony"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 1009,
-      "pct": 65.9
+      "count": 1010,
+      "pct": 66
     },
     {
       "name": "Black",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1234,
+      "count": 1235,
       "pct": 79.1
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 455
+        "count": 456
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 8.9,
+    "currentMedianDaysHeld": 9,
     "currentLongestDaysHeld": 236.7
   },
   "bond": {
     "withBond": 92,
-    "noBond": 182,
+    "noBond": 183,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 540851
