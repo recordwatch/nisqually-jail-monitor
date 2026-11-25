@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T14:47:15",
+  "generatedAt": "2026-11-25T15:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1604,
-    "bookingsObserved": 1340,
+    "bookingsTracked": 1608,
+    "bookingsObserved": 1344,
     "releasesObserved": 1334,
-    "inCustody": 270,
-    "uniquePeople": 1432
+    "inCustody": 274,
+    "uniquePeople": 1435
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 13,
+      "booked": 16,
       "released": 21
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 754,
-      "pct": 29.3
+      "count": 757,
+      "pct": 29.4
     },
     {
       "name": "THEFT III",
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 100,
+      "count": 101,
       "pct": 3.9
     },
     {
@@ -202,12 +202,12 @@
       "pct": 2.3
     },
     {
-      "name": "DWLS/DWLR III",
-      "count": 54,
+      "name": "THEFT",
+      "count": 53,
       "pct": 2.1
     },
     {
-      "name": "THEFT",
+      "name": "DWLS/DWLR III",
       "count": 53,
       "pct": 2.1
     },
@@ -232,12 +232,12 @@
       "pct": 1.2
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
-      "count": 31,
+      "name": "ASSAULT 4TH DV",
+      "count": 30,
       "pct": 1.2
     },
     {
-      "name": "ASSAULT 4TH DV",
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
       "count": 30,
       "pct": 1.2
     },
@@ -253,8 +253,8 @@
     },
     {
       "name": "DISORDERLY CONDUCT",
-      "count": 24,
-      "pct": 0.9
+      "count": 25,
+      "pct": 1
     },
     {
       "name": "ASSAULT 4",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 714,
-      "pct": 44.9,
+      "count": 717,
+      "pct": 45,
       "label": "WA DOC"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 171,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "LACEY PD"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "YELM PD",
       "count": 31,
-      "pct": 2,
+      "pct": 1.9,
       "label": "YELM PD"
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "F",
-      "count": 750,
-      "pct": 34.2,
+      "count": 753,
+      "pct": 34.4,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 621,
-      "pct": 28.4,
+      "count": 620,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -407,17 +407,17 @@
   "race": [
     {
       "name": "White",
-      "count": 1030,
+      "count": 1033,
       "pct": 66.2
     },
     {
       "name": "Black",
       "count": 294,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "name": "Unknown",
-      "count": 90,
+      "count": 91,
       "pct": 5.8
     },
     {
@@ -444,12 +444,12 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1258,
+      "count": 1261,
       "pct": 79.2
     },
     {
       "name": "Female",
-      "count": 331,
+      "count": 332,
       "pct": 20.8
     }
   ],
@@ -458,15 +458,15 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 132
+        "count": 133
       },
       {
         "label": "25–34",
-        "count": 463
+        "count": 464
       },
       {
         "label": "35–44",
-        "count": 551
+        "count": 553
       },
       {
         "label": "45–54",
@@ -518,10 +518,10 @@
   },
   "bond": {
     "withBond": 88,
-    "noBond": 182,
+    "noBond": 186,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 499201
+    "totalBond": 498201
   },
   "chargesPerBooking": 1.6
 }
