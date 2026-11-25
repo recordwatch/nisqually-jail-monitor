@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T17:07:19",
+  "generatedAt": "2026-11-24T17:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1581,
-    "bookingsObserved": 1317,
+    "bookingsTracked": 1583,
+    "bookingsObserved": 1319,
     "releasesObserved": 1302,
-    "inCustody": 279,
-    "uniquePeople": 1414
+    "inCustody": 281,
+    "uniquePeople": 1415
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 22,
+      "booked": 23,
       "released": 15
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 739,
+      "count": 740,
       "pct": 29.1
     },
     {
@@ -358,12 +358,12 @@
     {
       "name": "GM",
       "count": 786,
-      "pct": 36.4,
+      "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 735,
+      "count": 736,
       "pct": 34,
       "label": "Felony"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 1012,
+      "count": 1013,
       "pct": 66
     },
     {
       "name": "Black",
-      "count": 289,
-      "pct": 18.8
+      "count": 290,
+      "pct": 18.9
     },
     {
       "name": "Unknown",
@@ -423,7 +423,7 @@
     {
       "name": "N",
       "count": 56,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1239,
+      "count": 1241,
       "pct": 79.1
     },
     {
@@ -458,7 +458,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 126
+        "count": 127
       },
       {
         "label": "25–34",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 272
+        "count": 273
       },
       {
         "label": "55+",
@@ -513,12 +513,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 8.8,
+    "currentMedianDaysHeld": 8.3,
     "currentLongestDaysHeld": 236.7
   },
   "bond": {
     "withBond": 93,
-    "noBond": 186,
+    "noBond": 188,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 540851
