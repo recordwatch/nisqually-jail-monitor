@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T04:27:18",
+  "generatedAt": "2026-11-26T04:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1625,
-    "bookingsObserved": 1361,
+    "bookingsTracked": 1626,
+    "bookingsObserved": 1362,
     "releasesObserved": 1343,
-    "inCustody": 282,
-    "uniquePeople": 1450
+    "inCustody": 283,
+    "uniquePeople": 1451
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -174,11 +174,11 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 124,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "DUI",
-      "count": 109,
+      "count": 110,
       "pct": 4.2
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "name": "YELM PD",
-      "count": 32,
+      "count": 33,
       "pct": 2,
       "label": "YELM PD"
     },
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 808,
-      "pct": 36.4,
+      "count": 809,
+      "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 1041,
+      "count": 1042,
       "pct": 66
     },
     {
       "name": "Black",
       "count": 296,
-      "pct": 18.8
+      "pct": 18.7
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1275,
+      "count": 1276,
       "pct": 79.2
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 284
+        "count": 285
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 238.2
   },
   "bond": {
-    "withBond": 90,
+    "withBond": 91,
     "noBond": 192,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 507901
+    "totalBond": 508901
   },
   "chargesPerBooking": 1.6
 }
