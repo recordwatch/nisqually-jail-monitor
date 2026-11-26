@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T21:27:15",
+  "generatedAt": "2026-11-25T21:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1619,
-    "bookingsObserved": 1355,
+    "bookingsTracked": 1620,
+    "bookingsObserved": 1356,
     "releasesObserved": 1342,
-    "inCustody": 277,
-    "uniquePeople": 1444
+    "inCustody": 278,
+    "uniquePeople": 1445
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 28,
+      "booked": 29,
       "released": 29
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 763,
-      "pct": 29.4
+      "pct": 29.3
     },
     {
       "name": "THEFT III",
@@ -193,7 +193,7 @@
     },
     {
       "name": "CRIMINAL TRESPASS-2",
-      "count": 60,
+      "count": 61,
       "pct": 2.3
     },
     {
@@ -228,8 +228,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 32,
-      "pct": 1.2
+      "count": 33,
+      "pct": 1.3
     },
     {
       "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
@@ -247,13 +247,13 @@
       "pct": 1.1
     },
     {
-      "name": "SIMPLE ASSAULT-DV",
+      "name": "DISORDERLY CONDUCT",
       "count": 26,
       "pct": 1
     },
     {
-      "name": "DISORDERLY CONDUCT",
-      "count": 25,
+      "name": "SIMPLE ASSAULT-DV",
+      "count": 26,
       "pct": 1
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 264,
-      "pct": 16.5,
+      "pct": 16.4,
       "label": "OLYMPIA PD"
     },
     {
@@ -324,16 +324,16 @@
       "label": "DOC"
     },
     {
+      "name": "SQUAXIN ISLAND PD",
+      "count": 6,
+      "pct": 0.4,
+      "label": "SQUAXIN ISLAND PD"
+    },
+    {
       "name": "DUPONT PD",
       "count": 6,
       "pct": 0.4,
       "label": "DUPONT PD"
-    },
-    {
-      "name": "SQUAXIN ISLAND PD",
-      "count": 5,
-      "pct": 0.3,
-      "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "STEILACOOM PD",
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 804,
-      "pct": 36.4,
+      "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 623,
-      "pct": 28.2,
+      "count": 626,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -418,11 +418,11 @@
     {
       "name": "Unknown",
       "count": 92,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "N",
-      "count": 56,
+      "count": 57,
       "pct": 3.6
     },
     {
@@ -444,13 +444,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1271,
-      "pct": 79.2
+      "count": 1272,
+      "pct": 79.3
     },
     {
       "name": "Female",
       "count": 333,
-      "pct": 20.8
+      "pct": 20.7
     }
   ],
   "ages": {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 282
+        "count": 283
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.9
   },
   "bond": {
-    "withBond": 89,
+    "withBond": 90,
     "noBond": 188,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 505201
+    "totalBond": 507151
   },
   "chargesPerBooking": 1.6
 }
