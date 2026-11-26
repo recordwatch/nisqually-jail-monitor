@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T21:07:15",
+  "generatedAt": "2026-11-25T21:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1618,
-    "bookingsObserved": 1354,
+    "bookingsTracked": 1619,
+    "bookingsObserved": 1355,
     "releasesObserved": 1342,
-    "inCustody": 276,
+    "inCustody": 277,
     "uniquePeople": 1444
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 27,
+      "booked": 28,
       "released": 29
     }
   ],
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 172,
-      "pct": 10.7,
+      "count": 173,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "FEDERAL WAY",
       "count": 97,
-      "pct": 6.1,
+      "pct": 6,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 81,
-      "pct": 5.1,
+      "pct": 5,
       "label": "TACOMA PD"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1037,
+      "count": 1038,
       "pct": 66
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1270,
+      "count": 1271,
       "pct": 79.2
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 555
+        "count": 556
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.9
   },
   "bond": {
-    "withBond": 88,
+    "withBond": 89,
     "noBond": 188,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 504201
+    "totalBond": 505201
   },
   "chargesPerBooking": 1.6
 }
