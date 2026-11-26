@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:27:16",
+  "generatedAt": "2026-11-26T10:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1627,
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 110,
+      "count": 111,
       "pct": 4.2
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 266,
-      "pct": 16.5,
+      "count": 267,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 809,
+      "count": 810,
       "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
@@ -370,7 +370,7 @@
     {
       "name": "M",
       "count": 627,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 238.4
   },
   "bond": {
-    "withBond": 88,
-    "noBond": 191,
+    "withBond": 89,
+    "noBond": 190,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 478651
+    "totalBond": 479651
   },
   "chargesPerBooking": 1.6
 }
