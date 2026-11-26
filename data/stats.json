@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T03:27:14",
+  "generatedAt": "2026-11-26T03:47:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1624,
-    "bookingsObserved": 1360,
+    "bookingsTracked": 1625,
+    "bookingsObserved": 1361,
     "releasesObserved": 1343,
-    "inCustody": 281,
-    "uniquePeople": 1449
+    "inCustody": 282,
+    "uniquePeople": 1450
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI",
-      "count": 108,
-      "pct": 4.1
+      "count": 109,
+      "pct": 4.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 98,
-      "pct": 6.1,
+      "count": 99,
+      "pct": 6.2,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 807,
+      "count": 808,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
@@ -407,8 +407,8 @@
   "race": [
     {
       "name": "White",
-      "count": 1040,
-      "pct": 65.9
+      "count": 1041,
+      "pct": 66
     },
     {
       "name": "Black",
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 334,
+      "count": 335,
       "pct": 20.8
     }
   ],
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 557
+        "count": 558
       },
       {
         "label": "45–54",
@@ -514,11 +514,11 @@
       }
     ],
     "currentMedianDaysHeld": 8.6,
-    "currentLongestDaysHeld": 238.1
+    "currentLongestDaysHeld": 238.2
   },
   "bond": {
     "withBond": 89,
-    "noBond": 192,
+    "noBond": 193,
     "medianBond": 2500,
     "maxBond": 60000,
     "totalBond": 505901
