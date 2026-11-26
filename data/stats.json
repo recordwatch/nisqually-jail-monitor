@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:47:14",
+  "generatedAt": "2026-11-25T17:07:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1612,
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 232,
+      "count": 233,
       "pct": 9
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "SHELTON PD",
-      "count": 8,
-      "pct": 0.5,
+      "count": 9,
+      "pct": 0.6,
       "label": "SHELTON PD"
     },
     {
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 800,
-      "pct": 36.3,
+      "count": 801,
+      "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.7
   },
   "bond": {
-    "withBond": 89,
-    "noBond": 189,
+    "withBond": 90,
+    "noBond": 188,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 504201
+    "totalBond": 505201
   },
   "chargesPerBooking": 1.6
 }
