@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T17:27:18",
+  "generatedAt": "2026-11-25T17:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1613,
-    "bookingsObserved": 1349,
+    "bookingsTracked": 1614,
+    "bookingsObserved": 1350,
     "releasesObserved": 1334,
-    "inCustody": 279,
-    "uniquePeople": 1440
+    "inCustody": 280,
+    "uniquePeople": 1441
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 22,
+      "booked": 23,
       "released": 21
     }
   ],
@@ -202,14 +202,14 @@
       "pct": 2.3
     },
     {
-      "name": "THEFT",
-      "count": 53,
-      "pct": 2
+      "name": "DWLS/DWLR III",
+      "count": 54,
+      "pct": 2.1
     },
     {
-      "name": "DWLS/DWLR III",
-      "count": 53,
-      "pct": 2
+      "name": "THEFT",
+      "count": 54,
+      "pct": 2.1
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -232,12 +232,12 @@
       "pct": 1.2
     },
     {
-      "name": "ASSAULT 4TH DV",
-      "count": 30,
+      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "count": 31,
       "pct": 1.2
     },
     {
-      "name": "OPERATE VEHICLE W/OUT IGNITION INTERLOCK",
+      "name": "ASSAULT 4TH DV",
       "count": 30,
       "pct": 1.2
     },
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 171,
-      "pct": 10.7,
+      "count": 172,
+      "pct": 10.8,
       "label": "LACEY PD"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "GM",
       "count": 801,
-      "pct": 36.4,
+      "pct": 36.3,
       "label": "Gross Misdemeanor"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 620,
-      "pct": 28.1,
+      "count": 623,
+      "pct": 28.2,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1035,
+      "count": 1036,
       "pct": 66.1
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1265,
+      "count": 1266,
       "pct": 79.2
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 279
+        "count": 280
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 237.7
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 189,
+    "withBond": 92,
+    "noBond": 188,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 505201
+    "totalBond": 509201
   },
   "chargesPerBooking": 1.6
 }
