@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:07:14",
+  "generatedAt": "2026-11-26T01:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1623,
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 123,
-      "pct": 4.7
+      "count": 124,
+      "pct": 4.8
     },
     {
       "name": "DUI",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 97,
-      "pct": 6,
+      "count": 98,
+      "pct": 6.1,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,14 +357,14 @@
   "levels": [
     {
       "name": "GM",
-      "count": 806,
+      "count": 807,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 759,
-      "pct": 34.3,
+      "pct": 34.2,
       "label": "Felony"
     },
     {
@@ -513,8 +513,8 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 8.5,
-    "currentLongestDaysHeld": 238
+    "currentMedianDaysHeld": 8.6,
+    "currentLongestDaysHeld": 238.1
   },
   "bond": {
     "withBond": 89,
