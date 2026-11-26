@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T12:07:16",
+  "generatedAt": "2026-11-26T12:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1628,
@@ -218,7 +218,7 @@
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
-      "count": 42,
+      "count": 43,
       "pct": 1.6
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 143,
+      "count": 144,
       "pct": 8.9,
       "label": "LAKEWOOD PD"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 627,
-      "pct": 28.2,
+      "count": 628,
+      "pct": 28.3,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 238.5
   },
   "bond": {
-    "withBond": 89,
-    "noBond": 191,
+    "withBond": 90,
+    "noBond": 190,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 479651
+    "totalBond": 482151
   },
   "chargesPerBooking": 1.6
 }
