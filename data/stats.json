@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T03:27:14",
+  "generatedAt": "2026-11-27T03:47:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1638,
-    "bookingsObserved": 1374,
+    "bookingsTracked": 1639,
+    "bookingsObserved": 1375,
     "releasesObserved": 1350,
-    "inCustody": 288,
-    "uniquePeople": 1462
+    "inCustody": 289,
+    "uniquePeople": 1463
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 5,
+      "booked": 6,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
-      "count": 764,
-      "pct": 29
+      "count": 765,
+      "pct": 29.1
     },
     {
       "name": "THEFT III",
@@ -174,7 +174,7 @@
     {
       "name": "ASSAULT IV -DV",
       "count": 125,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "DUI",
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "WA DOC",
-      "count": 722,
+      "count": 723,
       "pct": 44.5,
       "label": "WA DOC"
     },
@@ -277,7 +277,7 @@
     },
     {
       "name": "LACEY PD",
-      "count": 178,
+      "count": 179,
       "pct": 11,
       "label": "LACEY PD"
     },
@@ -357,13 +357,13 @@
   "levels": [
     {
       "name": "GM",
-      "count": 814,
+      "count": 815,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
-      "count": 760,
+      "count": 761,
       "pct": 34,
       "label": "Felony"
     },
@@ -412,7 +412,7 @@
     },
     {
       "name": "Black",
-      "count": 299,
+      "count": 300,
       "pct": 18.8
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1282,
+      "count": 1283,
       "pct": 79
     },
     {
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 287
+        "count": 288
       },
       {
         "label": "55+",
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 9.5,
-    "currentLongestDaysHeld": 239.1
+    "currentLongestDaysHeld": 239.2
   },
   "bond": {
-    "withBond": 94,
+    "withBond": 95,
     "noBond": 194,
-    "medianBond": 2100,
+    "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 486901
+    "totalBond": 487901
   },
   "chargesPerBooking": 1.6
 }
