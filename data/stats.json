@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T01:07:15",
+  "generatedAt": "2026-11-27T01:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1636,
-    "bookingsObserved": 1372,
+    "bookingsTracked": 1637,
+    "bookingsObserved": 1373,
     "releasesObserved": 1350,
-    "inCustody": 286,
-    "uniquePeople": 1460
+    "inCustody": 287,
+    "uniquePeople": 1461
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 2,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -233,7 +233,7 @@
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 31,
+      "count": 32,
       "pct": 1.2
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 722,
-      "pct": 44.6,
+      "pct": 44.5,
       "label": "WA DOC"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "YELM PD",
-      "count": 33,
-      "pct": 2,
+      "count": 34,
+      "pct": 2.1,
       "label": "YELM PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 636,
+      "count": 637,
       "pct": 28.5,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1048,
+      "count": 1049,
       "pct": 66
     },
     {
@@ -423,7 +423,7 @@
     {
       "name": "N",
       "count": 58,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Asian",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 1282,
-      "pct": 79.1
+      "pct": 79
     },
     {
       "name": "Female",
-      "count": 339,
-      "pct": 20.9
+      "count": 340,
+      "pct": 21
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 468
+        "count": 469
       },
       {
         "label": "35–44",
@@ -513,12 +513,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 9.4,
-    "currentLongestDaysHeld": 239
+    "currentMedianDaysHeld": 9.5,
+    "currentLongestDaysHeld": 239.1
   },
   "bond": {
     "withBond": 94,
-    "noBond": 192,
+    "noBond": 193,
     "medianBond": 2100,
     "maxBond": 60000,
     "totalBond": 486901
