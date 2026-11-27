@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T04:07:14",
+  "generatedAt": "2026-11-27T04:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1639,
-    "bookingsObserved": 1375,
+    "bookingsTracked": 1641,
+    "bookingsObserved": 1377,
     "releasesObserved": 1350,
-    "inCustody": 289,
-    "uniquePeople": 1463
+    "inCustody": 291,
+    "uniquePeople": 1465
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 6,
+      "booked": 8,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 765,
-      "pct": 29.1
+      "pct": 29
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 125,
-      "pct": 4.7
+      "count": 126,
+      "pct": 4.8
     },
     {
       "name": "DUI",
@@ -209,7 +209,7 @@
     {
       "name": "THEFT",
       "count": 54,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIMINAL TRESPASS-1",
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 269,
-      "pct": 16.6,
+      "pct": 16.5,
       "label": "OLYMPIA PD"
     },
     {
@@ -283,13 +283,13 @@
     },
     {
       "name": "LAKEWOOD PD",
-      "count": 144,
+      "count": 145,
       "pct": 8.9,
       "label": "LAKEWOOD PD"
     },
     {
       "name": "FEDERAL WAY",
-      "count": 100,
+      "count": 101,
       "pct": 6.2,
       "label": "FEDERAL WAY"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 815,
+      "count": 816,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 637,
+      "count": 638,
       "pct": 28.5,
       "label": "Misdemeanor"
     },
@@ -407,13 +407,13 @@
   "race": [
     {
       "name": "White",
-      "count": 1050,
-      "pct": 66
+      "count": 1051,
+      "pct": 65.9
     },
     {
       "name": "Black",
-      "count": 300,
-      "pct": 18.8
+      "count": 301,
+      "pct": 18.9
     },
     {
       "name": "Unknown",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1283,
+      "count": 1285,
       "pct": 79
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 469
+        "count": 471
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 239.2
   },
   "bond": {
-    "withBond": 95,
-    "noBond": 194,
+    "withBond": 96,
+    "noBond": 195,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 487901
+    "totalBond": 488901
   },
   "chargesPerBooking": 1.6
 }
