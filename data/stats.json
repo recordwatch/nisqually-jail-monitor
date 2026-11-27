@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T16:07:14",
+  "generatedAt": "2026-11-26T16:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1629,
-    "bookingsObserved": 1365,
+    "bookingsTracked": 1630,
+    "bookingsObserved": 1366,
     "releasesObserved": 1348,
-    "inCustody": 281,
+    "inCustody": 282,
     "uniquePeople": 1454
   },
   "bookingsByDay": [
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 763,
-      "pct": 29.2
+      "pct": 29.1
     },
     {
       "name": "THEFT III",
@@ -277,8 +277,8 @@
     },
     {
       "name": "LACEY PD",
-      "count": 175,
-      "pct": 10.8,
+      "count": 176,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 631,
+      "count": 632,
       "pct": 28.4,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1044,
+      "count": 1045,
       "pct": 66
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1277,
+      "count": 1278,
       "pct": 79.1
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 560
+        "count": 561
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 238.7
   },
   "bond": {
-    "withBond": 90,
+    "withBond": 91,
     "noBond": 191,
     "medianBond": 2500,
     "maxBond": 60000,
-    "totalBond": 484151
+    "totalBond": 484651
   },
   "chargesPerBooking": 1.6
 }
