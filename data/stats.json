@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T23:27:14",
+  "generatedAt": "2026-11-26T23:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1632,
-    "bookingsObserved": 1368,
+    "bookingsTracked": 1633,
+    "bookingsObserved": 1369,
     "releasesObserved": 1350,
-    "inCustody": 282,
-    "uniquePeople": 1456
+    "inCustody": 283,
+    "uniquePeople": 1457
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 11,
+      "booked": 12,
       "released": 7
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 722,
-      "pct": 44.7,
+      "pct": 44.6,
       "label": "WA DOC"
     },
     {
@@ -318,16 +318,16 @@
       "label": "SHELTON PD"
     },
     {
+      "name": "SQUAXIN ISLAND PD",
+      "count": 7,
+      "pct": 0.4,
+      "label": "SQUAXIN ISLAND PD"
+    },
+    {
       "name": "DOC",
       "count": 7,
       "pct": 0.4,
       "label": "DOC"
-    },
-    {
-      "name": "SQUAXIN ISLAND PD",
-      "count": 6,
-      "pct": 0.4,
-      "label": "SQUAXIN ISLAND PD"
     },
     {
       "name": "DUPONT PD",
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 634,
-      "pct": 28.4,
+      "count": 635,
+      "pct": 28.5,
       "label": "Misdemeanor"
     },
     {
@@ -422,8 +422,8 @@
     },
     {
       "name": "N",
-      "count": 57,
-      "pct": 3.6
+      "count": 58,
+      "pct": 3.7
     },
     {
       "name": "Asian",
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1279,
+      "count": 1280,
       "pct": 79.1
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 466
+        "count": 467
       },
       {
         "label": "35–44",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 239
   },
   "bond": {
-    "withBond": 91,
+    "withBond": 92,
     "noBond": 191,
-    "medianBond": 2500,
+    "medianBond": 2350,
     "maxBond": 60000,
-    "totalBond": 484151
+    "totalBond": 484401
   },
   "chargesPerBooking": 1.6
 }
