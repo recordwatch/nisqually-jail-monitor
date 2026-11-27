@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T02:07:14",
+  "generatedAt": "2026-11-27T02:27:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1637,
-    "bookingsObserved": 1373,
+    "bookingsTracked": 1638,
+    "bookingsObserved": 1374,
     "releasesObserved": 1350,
-    "inCustody": 287,
-    "uniquePeople": 1461
+    "inCustody": 288,
+    "uniquePeople": 1462
   },
   "bookingsByDay": [
     {
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 764,
-      "pct": 29.1
+      "pct": 29
     },
     {
       "name": "THEFT III",
@@ -173,8 +173,8 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 124,
-      "pct": 4.7
+      "count": 125,
+      "pct": 4.8
     },
     {
       "name": "DUI",
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 99,
-      "pct": 6.1,
+      "count": 100,
+      "pct": 6.2,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 813,
+      "count": 814,
       "pct": 36.4,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1049,
+      "count": 1050,
       "pct": 66
     },
     {
@@ -449,7 +449,7 @@
     },
     {
       "name": "Female",
-      "count": 340,
+      "count": 341,
       "pct": 21
     }
   ],
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 564
+        "count": 565
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 94,
-    "noBond": 193,
+    "noBond": 194,
     "medianBond": 2100,
     "maxBond": 60000,
     "totalBond": 486901
