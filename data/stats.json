@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T19:47:18",
+  "generatedAt": "2026-11-26T20:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1631,
-    "bookingsObserved": 1367,
+    "bookingsTracked": 1632,
+    "bookingsObserved": 1368,
     "releasesObserved": 1349,
-    "inCustody": 282,
-    "uniquePeople": 1455
+    "inCustody": 283,
+    "uniquePeople": 1456
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 10,
+      "booked": 11,
       "released": 6
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 764,
-      "pct": 29.2
+      "pct": 29.1
     },
     {
       "name": "THEFT III",
@@ -183,13 +183,13 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 101,
+      "count": 102,
       "pct": 3.9
     },
     {
       "name": "CRIMINAL TRESPASS",
       "count": 80,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -199,7 +199,7 @@
     {
       "name": "ASSAULT-4",
       "count": 59,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "DWLS/DWLR III",
@@ -271,14 +271,14 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 267,
-      "pct": 16.5,
+      "count": 268,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
       "name": "LACEY PD",
       "count": 177,
-      "pct": 11,
+      "pct": 10.9,
       "label": "LACEY PD"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 632,
+      "count": 634,
       "pct": 28.4,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1045,
+      "count": 1046,
       "pct": 66
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1278,
+      "count": 1279,
       "pct": 79.1
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 561
+        "count": 562
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 238.8
   },
   "bond": {
-    "withBond": 91,
+    "withBond": 92,
     "noBond": 191,
-    "medianBond": 2200,
+    "medianBond": 2350,
     "maxBond": 60000,
-    "totalBond": 482651
+    "totalBond": 485151
   },
   "chargesPerBooking": 1.6
 }
