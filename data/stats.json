@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:07:15",
+  "generatedAt": "2026-11-28T11:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1664,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-28",
-      "booked": 9,
+      "booked": 10,
       "released": 3
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 129,
+      "count": 130,
       "pct": 4.9
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 81,
-      "pct": 3
+      "count": 82,
+      "pct": 3.1
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 276,
+      "count": 277,
       "pct": 16.8,
       "label": "OLYMPIA PD"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 827,
+      "count": 829,
       "pct": 36.6,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 645,
+      "count": 647,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.5
   },
   "bond": {
-    "withBond": 100,
-    "noBond": 200,
+    "withBond": 101,
+    "noBond": 199,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 490151
+    "totalBond": 495151
   },
   "chargesPerBooking": 1.6
 }
