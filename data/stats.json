@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:47:15",
+  "generatedAt": "2026-11-28T03:07:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1658,
@@ -188,8 +188,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS",
-      "count": 80,
-      "pct": 3
+      "count": 81,
+      "pct": 3.1
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -223,7 +223,7 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 34,
+      "count": 35,
       "pct": 1.3
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 274,
+      "count": 275,
       "pct": 16.7,
       "label": "OLYMPIA PD"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 643,
-      "pct": 28.5,
+      "count": 644,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.1
   },
   "bond": {
-    "withBond": 99,
-    "noBond": 198,
+    "withBond": 100,
+    "noBond": 197,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 488801
+    "totalBond": 489801
   },
   "chargesPerBooking": 1.6
 }
