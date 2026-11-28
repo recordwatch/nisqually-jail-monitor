@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:07:14",
+  "generatedAt": "2026-11-28T12:27:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1664,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 766,
-      "pct": 28.8
+      "pct": 28.7
     },
     {
       "name": "THEFT III",
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 277,
-      "pct": 16.8,
+      "count": 278,
+      "pct": 16.9,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 830,
+      "count": 831,
       "pct": 36.7,
       "label": "Gross Misdemeanor"
     },
