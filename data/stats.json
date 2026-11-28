@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T00:47:15",
+  "generatedAt": "2026-11-28T01:07:14",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1655,
-    "bookingsObserved": 1391,
+    "bookingsTracked": 1656,
+    "bookingsObserved": 1392,
     "releasesObserved": 1361,
-    "inCustody": 294,
-    "uniquePeople": 1478
+    "inCustody": 295,
+    "uniquePeople": 1479
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-28",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "ASSAULT IV -DV",
-      "count": 127,
+      "count": 128,
       "pct": 4.8
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "CRIMINAL TRESPASS-1",
       "count": 49,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -266,12 +266,12 @@
     {
       "name": "WA DOC",
       "count": 724,
-      "pct": 44.2,
+      "pct": 44.1,
       "label": "WA DOC"
     },
     {
       "name": "OLYMPIA PD",
-      "count": 272,
+      "count": 273,
       "pct": 16.6,
       "label": "OLYMPIA PD"
     },
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 822,
-      "pct": 36.5,
+      "count": 823,
+      "pct": 36.6,
       "label": "Gross Misdemeanor"
     },
     {
@@ -412,7 +412,7 @@
     },
     {
       "name": "Black",
-      "count": 303,
+      "count": 304,
       "pct": 18.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1295,
+      "count": 1296,
       "pct": 79
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 569
+        "count": 570
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 197,
+    "noBond": 198,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 487151
