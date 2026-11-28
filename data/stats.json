@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T22:47:14",
+  "generatedAt": "2026-11-27T23:07:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1651,
-    "bookingsObserved": 1387,
-    "releasesObserved": 1360,
+    "bookingsTracked": 1652,
+    "bookingsObserved": 1388,
+    "releasesObserved": 1361,
     "inCustody": 291,
-    "uniquePeople": 1474
+    "uniquePeople": 1475
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 18,
-      "released": 10
+      "booked": 19,
+      "released": 11
     }
   ],
   "topCharges": [
     {
       "name": "DOC VIOLATION",
       "count": 766,
-      "pct": 29
+      "pct": 28.9
     },
     {
       "name": "THEFT III",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 724,
-      "pct": 44.3,
+      "pct": 44.2,
       "label": "WA DOC"
     },
     {
@@ -289,14 +289,14 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 101,
+      "count": 102,
       "pct": 6.2,
       "label": "FEDERAL WAY"
     },
     {
       "name": "TACOMA PD",
       "count": 81,
-      "pct": 5,
+      "pct": 4.9,
       "label": "TACOMA PD"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "SHELTON PD",
       "count": 9,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "SHELTON PD"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "M",
-      "count": 641,
-      "pct": 28.5,
+      "count": 642,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1057,
+      "count": 1058,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1293,
+      "count": 1294,
       "pct": 79
     },
     {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 476
+        "count": 477
       },
       {
         "label": "35–44",
@@ -479,12 +479,12 @@
     ]
   },
   "releaseSources": {
-    "observed": 1247,
+    "observed": 1248,
     "officialDate": 113,
     "releaseListOnly": 104
   },
   "stay": {
-    "releasedCount": 1254,
+    "releasedCount": 1255,
     "medianDays": 3.6,
     "meanDays": 10.8,
     "buckets": [
@@ -498,7 +498,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 113
+        "count": 114
       },
       {
         "label": "1–4 weeks",
@@ -513,8 +513,8 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 9.5,
-    "currentLongestDaysHeld": 239.9
+    "currentMedianDaysHeld": 9.8,
+    "currentLongestDaysHeld": 240
   },
   "bond": {
     "withBond": 96,
