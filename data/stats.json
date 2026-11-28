@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:27:12",
+  "generatedAt": "2026-11-28T11:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1664,
@@ -213,8 +213,8 @@
     },
     {
       "name": "CRIMINAL TRESPASS-1",
-      "count": 49,
-      "pct": 1.8
+      "count": 50,
+      "pct": 1.9
     },
     {
       "name": "VIOLATION OF A PROTECTION ORDER (DV)",
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 724,
-      "pct": 44,
+      "pct": 43.9,
       "label": "WA DOC"
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "name": "LACEY PD",
-      "count": 181,
+      "count": 182,
       "pct": 11,
       "label": "LACEY PD"
     },
@@ -357,8 +357,8 @@
   "levels": [
     {
       "name": "GM",
-      "count": 829,
-      "pct": 36.6,
+      "count": 830,
+      "pct": 36.7,
       "label": "Gross Misdemeanor"
     },
     {
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.5
   },
   "bond": {
-    "withBond": 101,
-    "noBond": 199,
+    "withBond": 102,
+    "noBond": 198,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 495151
+    "totalBond": 496151
   },
   "chargesPerBooking": 1.6
 }
