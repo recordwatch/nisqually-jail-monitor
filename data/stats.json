@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T00:07:14",
+  "generatedAt": "2026-11-28T00:27:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1654,
-    "bookingsObserved": 1390,
+    "bookingsTracked": 1655,
+    "bookingsObserved": 1391,
     "releasesObserved": 1361,
-    "inCustody": 293,
-    "uniquePeople": 1477
+    "inCustody": 294,
+    "uniquePeople": 1478
   },
   "bookingsByDay": [
     {
@@ -151,12 +151,12 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 20,
+      "booked": 21,
       "released": 11
     },
     {
       "date": "2026-11-28",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "THEFT III",
-      "count": 238,
+      "count": 239,
       "pct": 9
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "LACEY PD",
       "count": 181,
-      "pct": 11.1,
+      "pct": 11,
       "label": "LACEY PD"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "name": "TUMWATER PD",
-      "count": 42,
+      "count": 43,
       "pct": 2.6,
       "label": "TUMWATER PD"
     },
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 821,
+      "count": 822,
       "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1058,
+      "count": 1059,
       "pct": 65.9
     },
     {
@@ -418,7 +418,7 @@
     {
       "name": "Unknown",
       "count": 94,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "N",
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 1295,
-      "pct": 79.1
+      "pct": 79
     },
     {
       "name": "Female",
-      "count": 343,
-      "pct": 20.9
+      "count": 344,
+      "pct": 21
     }
   ],
   "ages": {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 568
+        "count": 569
       },
       {
         "label": "45–54",
@@ -518,7 +518,7 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 196,
+    "noBond": 197,
     "medianBond": 2000,
     "maxBond": 60000,
     "totalBond": 487151
