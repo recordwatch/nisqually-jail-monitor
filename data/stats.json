@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T18:27:14",
+  "generatedAt": "2026-11-27T18:47:13",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1648,
-    "bookingsObserved": 1384,
+    "bookingsTracked": 1649,
+    "bookingsObserved": 1385,
     "releasesObserved": 1358,
-    "inCustody": 290,
-    "uniquePeople": 1471
+    "inCustody": 291,
+    "uniquePeople": 1472
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 15,
+      "booked": 16,
       "released": 8
     }
   ],
@@ -203,7 +203,7 @@
     },
     {
       "name": "DWLS/DWLR III",
-      "count": 55,
+      "count": 56,
       "pct": 2.1
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "OLYMPIA PD",
       "count": 272,
-      "pct": 16.7,
+      "pct": 16.6,
       "label": "OLYMPIA PD"
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "name": "YELM PD",
-      "count": 34,
+      "count": 35,
       "pct": 2.1,
       "label": "YELM PD"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 639,
+      "count": 640,
       "pct": 28.5,
       "label": "Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1055,
+      "count": 1056,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1290,
+      "count": 1291,
       "pct": 79
     },
     {
@@ -466,7 +466,7 @@
       },
       {
         "label": "35–44",
-        "count": 566
+        "count": 567
       },
       {
         "label": "45–54",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 239.8
   },
   "bond": {
-    "withBond": 95,
+    "withBond": 96,
     "noBond": 195,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 485651
+    "totalBond": 486651
   },
   "chargesPerBooking": 1.6
 }
