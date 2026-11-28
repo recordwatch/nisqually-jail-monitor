@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:07:14",
+  "generatedAt": "2026-11-28T01:27:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1656,
@@ -222,17 +222,17 @@
       "pct": 1.6
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 34,
+      "pct": 1.3
+    },
+    {
       "name": "HARASSMENT",
       "count": 34,
       "pct": 1.3
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 33,
-      "pct": 1.2
-    },
-    {
-      "name": "RESISTING ARREST",
       "count": 33,
       "pct": 1.2
     },
@@ -247,13 +247,13 @@
       "pct": 1.1
     },
     {
-      "name": "SIMPLE ASSAULT-DV",
+      "name": "DISORDERLY CONDUCT",
       "count": 27,
       "pct": 1
     },
     {
-      "name": "DISORDERLY CONDUCT",
-      "count": 26,
+      "name": "SIMPLE ASSAULT-DV",
+      "count": 27,
       "pct": 1
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 273,
-      "pct": 16.6,
+      "count": 274,
+      "pct": 16.7,
       "label": "OLYMPIA PD"
     },
     {
@@ -358,19 +358,19 @@
     {
       "name": "GM",
       "count": 823,
-      "pct": 36.6,
+      "pct": 36.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "F",
       "count": 762,
-      "pct": 33.9,
+      "pct": 33.8,
       "label": "Felony"
     },
     {
       "name": "M",
-      "count": 642,
-      "pct": 28.5,
+      "count": 643,
+      "pct": 28.6,
       "label": "Misdemeanor"
     },
     {
@@ -514,14 +514,14 @@
       }
     ],
     "currentMedianDaysHeld": 9.6,
-    "currentLongestDaysHeld": 240
+    "currentLongestDaysHeld": 240.1
   },
   "bond": {
-    "withBond": 97,
-    "noBond": 198,
+    "withBond": 98,
+    "noBond": 197,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 487151
+    "totalBond": 487801
   },
   "chargesPerBooking": 1.6
 }
