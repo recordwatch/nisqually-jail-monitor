@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:27:13",
+  "generatedAt": "2026-11-28T05:47:15",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
     "bookingsTracked": 1660,
@@ -164,7 +164,7 @@
     {
       "name": "DOC VIOLATION",
       "count": 766,
-      "pct": 28.9
+      "pct": 28.8
     },
     {
       "name": "THEFT III",
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 114,
+      "count": 115,
       "pct": 4.3
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CRIMINAL TRESPASS",
       "count": 81,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "CRIMINAL TRESPASS-2",
@@ -271,8 +271,8 @@
     },
     {
       "name": "OLYMPIA PD",
-      "count": 275,
-      "pct": 16.7,
+      "count": 276,
+      "pct": 16.8,
       "label": "OLYMPIA PD"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 825,
+      "count": 826,
       "pct": 36.6,
       "label": "Gross Misdemeanor"
     },
@@ -369,7 +369,7 @@
     },
     {
       "name": "M",
-      "count": 644,
+      "count": 645,
       "pct": 28.6,
       "label": "Misdemeanor"
     },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.2
   },
   "bond": {
-    "withBond": 100,
-    "noBond": 198,
-    "medianBond": 1875,
+    "withBond": 101,
+    "noBond": 197,
+    "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 488801
+    "totalBond": 490801
   },
   "chargesPerBooking": 1.6
 }
