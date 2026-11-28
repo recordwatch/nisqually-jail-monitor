@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T20:27:13",
+  "generatedAt": "2026-11-27T20:47:12",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1650,
-    "bookingsObserved": 1386,
+    "bookingsTracked": 1651,
+    "bookingsObserved": 1387,
     "releasesObserved": 1359,
-    "inCustody": 291,
-    "uniquePeople": 1473
+    "inCustody": 292,
+    "uniquePeople": 1474
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 17,
+      "booked": 18,
       "released": 9
     }
   ],
@@ -183,7 +183,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSESS",
-      "count": 103,
+      "count": 104,
       "pct": 3.9
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "YELM PD",
-      "count": 35,
-      "pct": 2.1,
+      "count": 36,
+      "pct": 2.2,
       "label": "YELM PD"
     },
     {
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1056,
+      "count": 1057,
       "pct": 65.9
     },
     {
@@ -444,7 +444,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 1292,
+      "count": 1293,
       "pct": 79
     },
     {
@@ -474,7 +474,7 @@
       },
       {
         "label": "55+",
-        "count": 180
+        "count": 181
       }
     ]
   },
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 239.9
   },
   "bond": {
-    "withBond": 95,
+    "withBond": 96,
     "noBond": 196,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 485651
+    "totalBond": 486151
   },
   "chargesPerBooking": 1.6
 }
