@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T04:07:16",
+  "generatedAt": "2026-11-28T04:27:16",
   "monitoringSince": "2026-10-10T23:29:05",
   "totals": {
-    "bookingsTracked": 1658,
-    "bookingsObserved": 1394,
+    "bookingsTracked": 1660,
+    "bookingsObserved": 1396,
     "releasesObserved": 1361,
-    "inCustody": 297,
-    "uniquePeople": 1480
+    "inCustody": 299,
+    "uniquePeople": 1482
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-28",
-      "booked": 4,
+      "booked": 6,
       "released": 0
     }
   ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI",
-      "count": 113,
+      "count": 114,
       "pct": 4.3
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "WA DOC",
       "count": 724,
-      "pct": 44.1,
+      "pct": 44,
       "label": "WA DOC"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "FEDERAL WAY",
-      "count": 104,
-      "pct": 6.3,
+      "count": 105,
+      "pct": 6.4,
       "label": "FEDERAL WAY"
     },
     {
@@ -357,7 +357,7 @@
   "levels": [
     {
       "name": "GM",
-      "count": 824,
+      "count": 825,
       "pct": 36.6,
       "label": "Gross Misdemeanor"
     },
@@ -407,7 +407,7 @@
   "race": [
     {
       "name": "White",
-      "count": 1061,
+      "count": 1063,
       "pct": 65.9
     },
     {
@@ -445,12 +445,12 @@
     {
       "name": "Male",
       "count": 1297,
-      "pct": 79
+      "pct": 78.9
     },
     {
       "name": "Female",
-      "count": 345,
-      "pct": 21
+      "count": 347,
+      "pct": 21.1
     }
   ],
   "ages": {
@@ -462,7 +462,7 @@
       },
       {
         "label": "25–34",
-        "count": 479
+        "count": 480
       },
       {
         "label": "35–44",
@@ -470,7 +470,7 @@
       },
       {
         "label": "45–54",
-        "count": 289
+        "count": 290
       },
       {
         "label": "55+",
@@ -517,11 +517,11 @@
     "currentLongestDaysHeld": 240.2
   },
   "bond": {
-    "withBond": 100,
-    "noBond": 197,
+    "withBond": 101,
+    "noBond": 198,
     "medianBond": 2000,
     "maxBond": 60000,
-    "totalBond": 489801
+    "totalBond": 490801
   },
   "chargesPerBooking": 1.6
 }
